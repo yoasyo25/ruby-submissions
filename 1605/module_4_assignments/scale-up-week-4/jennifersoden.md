@@ -56,7 +56,7 @@ A mess documenting the things I've looked into.
 
 ### Week 4
 
-/150 points
+25 + 30 + 25 + 30 = 110 
 
 ### Blog Post Draft (25 Points)  
 
