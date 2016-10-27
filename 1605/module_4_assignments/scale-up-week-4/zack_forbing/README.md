@@ -44,7 +44,7 @@ I completed the [creact tutorial](https://github.com/zackforbing/creact-starter)
 
 ### Week 4
 
-/150 points
+25 + 50 + 25 + 30 = 130 
 
 ### Blog Post Draft (25 Points)  
 
