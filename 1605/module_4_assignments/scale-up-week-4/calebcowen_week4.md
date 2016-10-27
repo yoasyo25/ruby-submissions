@@ -40,11 +40,11 @@ Basic research on React and conversations with client.
 
 ### Week 4
 
-135/150 points
+125/150 points
 
 ### Blog Post Draft (25 Points)  
 
-* *25: Developer has **draft/outlines** for 2 small blog posts (~250 words) or one in depth blog post (500+ words) about what they have worked on for their independent study. Outline is reasonably in depth and shows research/thoughtfulness.*
+* **25: Developer has *draft/outlines* for 2 small blog posts (~250 words) or one in depth blog post (500+ words) about what they have worked on for their independent study. Outline is reasonably in depth and shows research/thoughtfulness.**
 * 15: Developer has **a draft/outline** for a blog post.
 * 0: Developer created no blog draft.
 
