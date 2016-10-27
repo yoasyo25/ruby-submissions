@@ -7,7 +7,7 @@
 ### Blog draft
 
 - [link-to-draft](https://medium.com/p/47b8229f5516/edit)
-  * Deb gave me verbal feedback. 
+  * Deb added notes on the blog post.
 
 ### Hours
 
