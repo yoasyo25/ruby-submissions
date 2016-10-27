@@ -24,6 +24,7 @@ Document your general hours below (or planned hours)
 - I have participated in every stand-up
 - I submitted a blog outline and solicited feedback
 - I have given feedback on the blog outlines others have   posted: [example](https://gist.github.com/twhitinger/e4aeeff5bc6a23d378319a33b3168c83)
+- I opened a PR on the project
 
 ### Work Completed
 
