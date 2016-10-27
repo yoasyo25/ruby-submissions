@@ -45,7 +45,7 @@ Link to and describe the code/research you have completed so far.
 
 ### Week 4
 
-/150 points
+25 + 40 + 25 + 30 = 120
 
 ### Blog Post Draft (25 Points)  
 
