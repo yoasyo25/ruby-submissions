@@ -34,7 +34,7 @@ Document your general hours below (or planned hours)
 
 ### Week 4
 
-/150 points
+25 + 45 + 25 + 30 = 125
 
 ### Blog Post Draft (25 Points)  
 
