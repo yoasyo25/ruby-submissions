@@ -59,7 +59,9 @@ prework for alogorithm prep
 
 ### Week 4
 
-/150 points
+25 + 35 + 20 + 40 = 120
+
+
 
 ### Blog Post Draft (25 Points)  
 
