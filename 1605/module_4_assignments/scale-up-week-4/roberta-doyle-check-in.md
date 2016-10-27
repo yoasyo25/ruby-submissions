@@ -33,7 +33,9 @@ Speak to your participation in PRs (links would be nice), blog reviews and in yo
 
 ### Week 4
 
-/150 points
+Blog post to come tomorrow??
+
+0 + 50 + 25 + 50 = 125
 
 ### Blog Post Draft (25 Points)  
 
