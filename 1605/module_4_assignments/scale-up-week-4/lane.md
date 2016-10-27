@@ -12,12 +12,11 @@
 
 Document your general hours below (or planned hours)
 
-- Pre-Work (1 to 3 hours):
-- Monday (8 hours):
-- Tuesday (8 hours):
+- Monday (2 hours):
+- Tuesday (4.5 hours):
 - Wednesday (8 hours):
 - Thursday (8 hours):
-- Weekend (0 hours):
+- Weekend (9.5 -10 hours):
 
 ### Participation
 
