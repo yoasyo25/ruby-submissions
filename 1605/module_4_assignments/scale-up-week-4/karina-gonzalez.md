@@ -25,6 +25,7 @@ Document your general hours below (or planned hours)
 Speak to your participation in PRs (links would be nice), blog reviews and in your project groups.
 
   * Gave Deb verbal feedback on her blogpost (her literature jokes).
+  * Feedback to Jason Hanna on blogpost: I like how you put an emphasis on TDD! I don’t know if your bullet points represent the sequential order but if they do— maybe end on a more positive note? i.e. if they didn’t like the language, what did you learn from the experience of _trying_ ?
 
 ### Work Completed
 
