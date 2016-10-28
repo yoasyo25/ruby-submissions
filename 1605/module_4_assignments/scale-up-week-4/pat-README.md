@@ -53,7 +53,7 @@ user can switch through the tabs in the modal.
 
 ### Week 4
 
-/150 points
+0 + 40 + 25 + 50 = 125
 
 ### Blog Post Draft (25 Points)  
 
