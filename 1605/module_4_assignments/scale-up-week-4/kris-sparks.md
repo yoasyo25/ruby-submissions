@@ -45,7 +45,7 @@ Most of the work I have completed to date is in the form of classes and tutorial
 
 ### Week 4
 
-/150 points
+25 + 50 + 25 + 50 = 150 
 
 ### Blog Post Draft (25 Points)  
 
