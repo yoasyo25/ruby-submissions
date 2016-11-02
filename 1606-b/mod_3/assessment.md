@@ -13,7 +13,7 @@ repo: https://github.com/bcgoss/module_3_assessment
 repo:
 
 ### Dan Broadbent
-repo:
+repo: https://github.com/danbroadbent/module_3_assessment
 
 ### David Davydov
 repo:
