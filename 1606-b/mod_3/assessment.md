@@ -31,7 +31,7 @@ repo: https://github.com/MDes41/module_3_assessment
 repo: https://github.com/NateAnderson1780/module_3_assessment
 
 ### Jean Joeris
-repo:
+repo: https://github.com/JeanJoeris/module_3_assessment
 
 ### Raphael Barbo
 repo: https://github.com/rsbarbo/module_3_assessment?files=1
