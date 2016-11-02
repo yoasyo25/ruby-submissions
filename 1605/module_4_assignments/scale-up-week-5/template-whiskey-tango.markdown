@@ -11,8 +11,8 @@
 
 ### Hours logged this week?
 
-- Monday (8 hours):
-- Tuesday (0 hours):
+- Monday (0 hours):
+- Tuesday (8 hours):
 - Wednesday (8 hours):
 - Thursday (8 hours):
 - Friday (0 hours):
