@@ -1,43 +1,59 @@
 # Scale Up Submission Form (Check In) Instructions
 
-**Each student needs to submit this form. Make a copy of this file, name it with your own name, and put it in the same folder. Fill out the Student Feedback sections below. Delete this line in your copy.**
-
 - [Project Spec: Whiskey Tango](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/independent_study_project.markdown)
-
-- [Project Spec: LookingFor](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/looking_for_project.markdown)
-
-- [Project Spec: mentorSHIP](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/mentorSHIP_project.markdown)
 
 # Student Feedback
 
 ### Blog draft
 
-- Provide a link to your blog draft or outline
 
 ### Hours
 
 Document your general hours below (or planned hours)
 
 - Pre-Work (1 to 3 hours):
+  Around 4 hours spend going through IdeaBox in React, and then adding
+  Redux to see the difference with and without a universal application store.
+
 - Monday (8 hours):
+  Class: 1 hour
+  Meetings: 3 hours
+  More meetings + standup: 1.5 hours
+  Programming: 5 hours
+  Total: 10 hours
+
 - Tuesday (8 hours):
+  Programming: 2.5 hours
+  Meetings (standup): 30 minutes
+  Programming: 5 hours
+  Total: 8 hours
+
 - Wednesday (8 hours):
+  Programming: 2:20 hours
+  Class & more programming: 8 hours
+  Total: ~10 hours
+
 - Thursday (8 hours):
 - Weekend (0 hours):
 
 ### Participation
 
-Speak to your participation in PRs (links would be nice), blog reviews and in your project groups.
+https://github.com/roscalabrin/climbing-sensei/pull/10#discussion_r85387034
+https://github.com/roscalabrin/climbing-sensei/pull/13
 
 ### Work Completed
 
-Link to and describe the code/research you have completed so far.
+https://github.com/roscalabrin/climbing-sensei/blob/master/src/components/UI/Routine.js.jsx
+
+This is a modal pop-up that launches when a user clicks an individual workout. I enjoy using React because
+it's fun to use logic to solve UI problems. Here I am setting a local state for this component so that the
+user can switch through the tabs in the modal.
 
 # Instructor feedback
 
 ### Week 4
 
-/150 points
+0 + 40 + 25 + 50 = 125
 
 ### Blog Post Draft (25 Points)  
 
@@ -49,8 +65,8 @@ Link to and describe the code/research you have completed so far.
 
 Points in this section are cumulative
 
-* 15: Developer participated in 2 daily stand ups
-* 5: Developer participated in a 3rd daily stand up and was able to speak to their work in a way that was clear and informative.
+* 15: Developer participated in 4 daily stand ups
+* 5: Developer participated in a 5th daily stand up and was able to speak to their work in a way that was clear and informative.
 * 10: Developer submitted a detailed pull request for review
 * 5: Developer provided useful feedback on a PR review request.
 * 5: Developer provided useful feedback on a second PR review request.

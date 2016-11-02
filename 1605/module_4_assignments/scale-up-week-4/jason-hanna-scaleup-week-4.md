@@ -1,43 +1,40 @@
 # Scale Up Submission Form (Check In) Instructions
 
-**Each student needs to submit this form. Make a copy of this file, name it with your own name, and put it in the same folder. Fill out the Student Feedback sections below. Delete this line in your copy.**
-
-- [Project Spec: Whiskey Tango](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/independent_study_project.markdown)
-
 - [Project Spec: LookingFor](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/looking_for_project.markdown)
-
-- [Project Spec: mentorSHIP](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/mentorSHIP_project.markdown)
 
 # Student Feedback
 
 ### Blog draft
 
-- Provide a link to your blog draft or outline
+- [How to learn any programming language](https://medium.com/@TheJasonHanna/how-to-learn-any-programming-language-outline-b20872ba5aa1)
 
 ### Hours
 
 Document your general hours below (or planned hours)
 
-- Pre-Work (1 to 3 hours):
-- Monday (8 hours):
-- Tuesday (8 hours):
-- Wednesday (8 hours):
-- Thursday (8 hours):
+- Pre-Work (1 to 3 hours): 2
+- Monday (8 hours): 9
+- Tuesday (8 hours): 6
+- Wednesday (8 hours): 7.5
+- Thursday (8 hours): 8
 - Weekend (0 hours):
 
 ### Participation
 
-Speak to your participation in PRs (links would be nice), blog reviews and in your project groups.
+- I have participated in every stand-up
+- I submitted a blog outline and solicited feedback
+- I have given feedback on the blog outlines others have   posted: [example](https://gist.github.com/twhitinger/e4aeeff5bc6a23d378319a33b3168c83)
+- I opened a PR on the project
 
 ### Work Completed
 
-Link to and describe the code/research you have completed so far.
+[Applying React Tutorials](https://github.com/Automatic365/react-youtube)
 
 # Instructor feedback
 
 ### Week 4
 
-/150 points
+25 + 45 + 25 + 30 = 125
 
 ### Blog Post Draft (25 Points)  
 
@@ -49,8 +46,8 @@ Link to and describe the code/research you have completed so far.
 
 Points in this section are cumulative
 
-* 15: Developer participated in 2 daily stand ups
-* 5: Developer participated in a 3rd daily stand up and was able to speak to their work in a way that was clear and informative.
+* 15: Developer participated in 4 daily stand ups
+* 5: Developer participated in a 5th daily stand up and was able to speak to their work in a way that was clear and informative.
 * 10: Developer submitted a detailed pull request for review
 * 5: Developer provided useful feedback on a PR review request.
 * 5: Developer provided useful feedback on a second PR review request.
