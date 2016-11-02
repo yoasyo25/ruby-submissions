@@ -10,7 +10,7 @@ repo: https://github.com/bheim6/module_3_assessment
 repo: https://github.com/bcgoss/module_3_assessment
 
 ### Calaway
-repo:
+repo: https://github.com/calaway/module_3_assessment
 
 ### Dan Broadbent
 repo: https://github.com/danbroadbent/module_3_assessment
