@@ -16,7 +16,7 @@ repo: https://github.com/calaway/module_3_assessment
 repo: https://github.com/danbroadbent/module_3_assessment
 
 ### David Davydov
-repo:
+repo: https://github.com/kctrlv/module_3_assessment
 
 ### Jasmin Hudacsek
 repo: https://github.com/j-sm-n/module_3_assessment
