@@ -7,7 +7,7 @@ repo:
 repo:
 
 ### Bryan Goss
-repo:
+repo: https://github.com/bcgoss/module_3_assessment
 
 ### Calaway
 repo:
