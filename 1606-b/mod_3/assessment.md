@@ -22,7 +22,7 @@ repo:
 repo:
 
 ### Jesse Spevack
-repo:
+repo: https://github.com/PlanetEfficacy/module_3_assessment
 
 ### Matt DesMarteau
 repo: https://github.com/MDes41/module_3_assessment
