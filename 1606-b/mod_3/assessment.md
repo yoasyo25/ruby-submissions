@@ -40,7 +40,7 @@ repo: https://github.com/rsbarbo/module_3_assessment?files=1
 repo:
 
 ### Chase Dunagan
-repo:
+repo: https://github.com/Cdunagan05/mod_3_assessment
 
 ### Sonia Gupta
 repo:
