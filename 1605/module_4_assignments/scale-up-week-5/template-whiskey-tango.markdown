@@ -23,7 +23,9 @@
 
 ### Link to blog post(s)
 
-### Discuss: your experience doing PR reviews and getting PR feedback
+### Discuss: your experience doing PR reviews and getting PR feedback (links are nice)
+
+### Discuss: your experience doing blog reviews and getting feedback (links are nice)
 
 ### Discuss: your experience doing daily stand ups
 
