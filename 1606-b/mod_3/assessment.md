@@ -19,7 +19,7 @@ repo: https://github.com/danbroadbent/module_3_assessment
 repo:
 
 ### Jasmin Hudacsek
-repo:
+repo: https://github.com/j-sm-n/module_3_assessment
 
 ### Jesse Spevack
 repo: https://github.com/PlanetEfficacy/module_3_assessment
