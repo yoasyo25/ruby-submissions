@@ -37,7 +37,7 @@ repo: https://github.com/JeanJoeris/module_3_assessment
 repo: https://github.com/rsbarbo/module_3_assessment?files=1
 
 ### Ryan David Workman
-repo:
+repo:https://github.com/rdavid1099/module_3_assessment
 
 ### Chase Dunagan
 repo: https://github.com/Cdunagan05/mod_3_assessment
