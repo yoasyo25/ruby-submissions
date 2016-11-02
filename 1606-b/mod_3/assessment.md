@@ -43,7 +43,7 @@ repo:
 repo: https://github.com/Cdunagan05/mod_3_assessment
 
 ### Sonia Gupta
-repo:
+repo:https://github.com/tgisg/module_3_assessment
 
 ### Susi Irwin
 repo:
