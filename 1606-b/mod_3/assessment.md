@@ -4,7 +4,7 @@
 repo:
 
 ### Brian Heim
-repo: https://github.com/bheim6/module_3_diagnostic
+repo:
 
 ### Bryan Goss
 repo:
