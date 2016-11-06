@@ -6,26 +6,43 @@
 
 ### Link(s) to Your Work
 
- - Github Issues/Repo
- - Production (if relevant)
+ - https://github.com/Caleb9193/brotha_nature_api
 
 ### Hours logged this week?
 
-- Monday (8 hours):
-- Tuesday (0 hours):
-- Wednesday (8 hours):
-- Thursday (8 hours):
-- Friday (0 hours):
-- Weekend (0 hours):
+- Monday (0 hours):
+- Tuesday (1:25 hours):
+- Wednesday (0 hours):
+- Thursday (6:30 hours):
+- Friday (1:30 hours):
+- Weekend (9:30 hours):
 
 
 ### Talk about something that you didn't know about before this week.
 
 ### Link to blog post(s)
 
-### Discuss: your experience doing PR reviews and getting PR feedback
+[Blog post](https://medium.com/@calebcowen/the-bright-and-scary-world-of-frontend-3640b1bcbbe#.by6e5jks5)
+
+### Discuss: your experience doing PR reviews and getting PR feedback (links are nice)
+
+It was very useful receiving feedback on my code. In turn, reviewing other's code often showed me better ways to implement my own
+
+[PR Review 1](https://github.com/Caleb9193/brotha_nature_api/pull/3/files#diff-359fe9ea5e36536bd2ce431158efe6e1R11)
+
+[PR Review 2](https://github.com/LookingForMe/lookingForFrontEnd/pull/93)
+
+### Discuss: your experience doing blog reviews and getting feedback (links are nice)
+
+It helped to structure my own blog post by reading others. It also helped when I was struggling to find something to write about.
+
+[Blog post review 1](https://medium.com/@calebcowen/nice-article-b6a7d6305cf1#.rdu74s5eo)
+
+[Blog post review 2](https://medium.com/@calebcowen/loved-the-article-and-how-well-you-outlined-the-challenges-and-linked-to-tutorials-and-articles-59ac73f7f167#.7cto8jl1o)
 
 ### Discuss: your experience doing daily stand ups
+
+Participating in daily stand ups helped keep me on track, and encouraged me by seeing that others were going through the same struggles
 
 ### Please feel free to ask any other questions or make any other statements below!
 
