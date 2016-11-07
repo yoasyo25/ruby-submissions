@@ -61,15 +61,25 @@ I would like to see the email feature implemented.
 
 Instructor Evaluation:
 
-150 total points
+Notes:
+
+* overall I'd say you had a successful scale up. 
+* I would have liked to see a little more in some areas like your PRs. They were a little sparce in your descriptions of what was the functionality for the PR. I would suggest you work on your documentation and PR submission technique. I am taking a few points for "detailed" Prs.
+* I also took 2 out of 10 points away for your PR reviews. As you noted they were not 100% constructive - more observations
+* Good blog and helpfull feedback
+* 20 for risk taking and creativity because I think you took some risk, but mailer feature was not delivered and I do not see any documentation for next steps.
+
+__120/150 total points__
 
 ### Blog Post (40 Points)  
 
-* 40: Developer has 500+ words across, one or two blog posts, about their independent study.
+* __40: Developer has 500+ words across, one or two blog posts, about their independent study.__
 * 25: Developer has posted blog(s), but fell short of 500 words.
 * 0: Developer created no blog posts.
 
 ### Team Participation (50 points)
+
+15 + 5 + 7 + 5 + 3 + 5 + 5 = 40
 
 Points in this section are cumulative
 
@@ -83,7 +93,7 @@ Points in this section are cumulative
 
 ### Hourly Work (20 points)
 
-* 20: Developer logged 21+ hours, or has a reasonable plan to do so over the weekend
+* __20: Developer logged 21+ hours, or has a reasonable plan to do so over the weekend__
 * 15: Developer logged 18 to 21 hours per working day, or has a reasonable plan to do so over the weekend
 * 10: Developer logged < 18 hours
 * 0: Developer did not track hours
@@ -99,5 +109,5 @@ Modifiers cannot take you below 0 points for the section
 Instructor/Developer will select one feature in the project to review for this section of the rubric.
 
 * 40: Developers pushed themselves and their team by taking risks which is demonstrated by a delivered feature or well documented spike. Developers explored concepts and technologies outside the scope of the curriculum.
-* 20: Developers pushed themselves and their team by taking risks which is demonstrated by an almost delivered feature whose next steps are not well documented.
+* __20: Developers pushed themselves and their team by taking risks which is demonstrated by an almost delivered feature whose next steps are not well documented.__
 * 10: Developers attempted to implement extensions using technologies not covered in class but it did not result in code or documentation.
