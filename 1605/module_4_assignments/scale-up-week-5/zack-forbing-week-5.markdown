@@ -78,13 +78,15 @@ Instructor Evaluation:
 
 ### Blog Post (40 Points)  
 
-* 40: Developer has 500+ words across, one or two blog posts, about their independent study.
+* __40: Developer has 500+ words across, one or two blog posts, about their independent study.__
 * 25: Developer has posted blog(s), but fell short of 500 words.
 * 0: Developer created no blog posts.
 
 ### Team Participation (50 points)
 
 Points in this section are cumulative
+
+15+5+10+5+5+5+5 = 50
 
 * 15: Developer participated in 2 daily stand ups
 * 5: Developer participated in a 3rd daily stand up and was able to speak to their work in a way that was clear and informative.
@@ -97,7 +99,7 @@ Points in this section are cumulative
 ### Hourly Work (20 points)
 
 * 20: Developer logged 21+ hours, or has a reasonable plan to do so over the weekend
-* 15: Developer logged 18 to 21 hours per working day, or has a reasonable plan to do so over the weekend
+* __15: Developer logged 18 to 21 hours per working day, or has a reasonable plan to do so over the weekend__
 * 10: Developer logged < 18 hours
 * 0: Developer did not track hours
 
