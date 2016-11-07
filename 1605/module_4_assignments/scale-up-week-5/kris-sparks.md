@@ -121,15 +121,17 @@ so that students can get in and learn as much as quickly as possible.
 
 Instructor Evaluation:
 
-150 total points
+__150 total points__
 
 ### Blog Post (40 Points)  
 
-* 40: Developer has 500+ words across, one or two blog posts, about their independent study.
+* __40: Developer has 500+ words across, one or two blog posts, about their independent study.__
 * 25: Developer has posted blog(s), but fell short of 500 words.
 * 0: Developer created no blog posts.
 
 ### Team Participation (50 points)
+
+15 + 5 + 10 + 5 + 5 + 5 + 5 = 50
 
 Points in this section are cumulative
 
@@ -143,7 +145,7 @@ Points in this section are cumulative
 
 ### Hourly Work (20 points)
 
-* 20: Developer logged 21+ hours, or has a reasonable plan to do so over the weekend
+* __20: Developer logged 21+ hours, or has a reasonable plan to do so over the weekend__
 * 15: Developer logged 18 to 21 hours per working day, or has a reasonable plan to do so over the weekend
 * 10: Developer logged < 18 hours
 * 0: Developer did not track hours
@@ -158,6 +160,10 @@ Modifiers cannot take you below 0 points for the section
 
 Instructor/Developer will select one feature in the project to review for this section of the rubric.
 
-* 40: Developers pushed themselves and their team by taking risks which is demonstrated by a delivered feature or well documented spike. Developers explored concepts and technologies outside the scope of the curriculum.
+* __40: Developers pushed themselves and their team by taking risks which is demonstrated by a delivered feature or well documented spike. Developers explored concepts and technologies outside the scope of the curriculum.__
 * 20: Developers pushed themselves and their team by taking risks which is demonstrated by an almost delivered feature whose next steps are not well documented.
 * 10: Developers attempted to implement extensions using technologies not covered in class but it did not result in code or documentation.
+
+
+
+__150__
