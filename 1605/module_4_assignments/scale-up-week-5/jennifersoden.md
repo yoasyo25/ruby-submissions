@@ -42,15 +42,26 @@ I'd like to see the mailer implemented. I looked into it with Jason, but neither
 
 Instructor Evaluation:
 
-150 total points
+Notes:
+
+* Nice push at the end of the module. I know it's hard
+* I would have liked to see you complete more work and get more accomplished. 
+* I'm going to give you some credit for a PR since you worked with Zack
+* Great blogpost feedback
+* If you feel reviewing PRs and understanding code through that medium is hard, I suggest some prectice. Go out to open source projects and just start reading. You don't have to contribute to those PRs, but practice reading will help. 
+* 20 points for risk taking and creativity. I think you tried with what steam you have at this point, but I know you didn't push to your fullest potential. Overll great work and contribution to this project, but the full 40 is reserved for going above and beyong. 
+
+118/150 total points
 
 ### Blog Post (40 Points)  
 
-* 40: Developer has 500+ words across, one or two blog posts, about their independent study.
+* __40: Developer has 500+ words across, one or two blog posts, about their independent study.__
 * 25: Developer has posted blog(s), but fell short of 500 words.
 * 0: Developer created no blog posts.
 
 ### Team Participation (50 points)
+
+15+5+8+0+0+5+5 = 38
 
 Points in this section are cumulative
 
@@ -64,7 +75,7 @@ Points in this section are cumulative
 
 ### Hourly Work (20 points)
 
-* 20: Developer logged 21+ hours, or has a reasonable plan to do so over the weekend
+* __20: Developer logged 21+ hours, or has a reasonable plan to do so over the weekend__
 * 15: Developer logged 18 to 21 hours per working day, or has a reasonable plan to do so over the weekend
 * 10: Developer logged < 18 hours
 * 0: Developer did not track hours
@@ -80,5 +91,5 @@ Modifiers cannot take you below 0 points for the section
 Instructor/Developer will select one feature in the project to review for this section of the rubric.
 
 * 40: Developers pushed themselves and their team by taking risks which is demonstrated by a delivered feature or well documented spike. Developers explored concepts and technologies outside the scope of the curriculum.
-* 20: Developers pushed themselves and their team by taking risks which is demonstrated by an almost delivered feature whose next steps are not well documented.
+* __20: Developers pushed themselves and their team by taking risks which is demonstrated by an almost delivered feature whose next steps are not well documented.__
 * 10: Developers attempted to implement extensions using technologies not covered in class but it did not result in code or documentation.
