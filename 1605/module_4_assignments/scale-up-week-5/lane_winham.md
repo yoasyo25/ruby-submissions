@@ -60,7 +60,7 @@ Notes:
 * overall I think you were a great voice on the lookingFor team and contributed to the project
 * I'd like to see more critical and suggestive PR reviews. That is why both scores are only a 3. I would have considered full points for more reviews or more detailed reviews. If you look at the language of the score template - I think you could have been more "useful". You have great thoughts and ideas - bring that to PRs. 
 * Blog post review score pending the review information
-* 
+* Great work this module. 
 
 __121/150 total points__
 
