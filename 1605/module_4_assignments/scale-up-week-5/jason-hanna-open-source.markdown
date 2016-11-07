@@ -37,6 +37,15 @@ People were really helpful in providing PR reviews. I was appreciative that a lo
 
 Doing the blog was a little difficult. It was hard for me to corral my thoughts in a coherent way while I was still learning. As I become a more experienced programmer, I look forward to being able to articulate my thoughts on programming clearer as well.
 
+[Feedback Given 1](https://gist.github.com/kbs5280/805929249c6ebc4952875dcd8bf2ed88)
+[Feedback Given 2](http://tinypic.com/m/jgt6hh/3)
+
+
+[Feedback Gotten 1](https://postimg.org/image/yohibu1lf/)
+[Feedback Gotten 2](https://postimg.org/image/okayljlar/)
+
+
+
 ### Discuss: your experience doing daily stand ups:
 I really enjoyed stand ups once we got organized and started being clear about
 what we wanted to work on. Everyone was clear with their intentions and it was
