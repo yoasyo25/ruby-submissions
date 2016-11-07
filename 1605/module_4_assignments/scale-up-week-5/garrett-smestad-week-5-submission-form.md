@@ -58,15 +58,27 @@ The ability to sign up for e-mail/text alerts when jobs are posted that match ce
 
 Instructor Evaluation:
 
-150 total points
+Notes:
+
+
+* I do not consider bullet points a blog post - If you have something else and accidentally did not submit that please let me know. 
+* Did not participate in any standups this week. Did say in the slack channel that you had an interview and you would post your standup but you never did. I think this is the reason you did not see value in standups either. We often don't see the benefit in something if we don't give it a shot. It's my understanding that most of the people in the lookingFor group found standups to be helpful and a good use of time once the project got rolling in weekr2. 
+* I do not see any blog post reviews.
+* I have some questions about your submitted hours: I see a total of 4.25 hours this week on blog writing and I do not feel that reflects 12 bullet points of work. As I noted above - if you do have a blog post and linked to the wrong thing please submit that. I noticed you sumbitted hours for a standup you did not attend. Could you please audit your hours for last week for accuracy? No score until you let us know you've reviewed the hours. 
+* 10 points for risk taking and creativity because I believe you did look into react and ember, but I did not see any code contributed, or any documentation. 
+* So this scored strictly via this submission and the rubric. Please reach out to discuss. 
+
+__10/150 total points__
 
 ### Blog Post (40 Points)  
 
 * 40: Developer has 500+ words across, one or two blog posts, about their independent study.
 * 25: Developer has posted blog(s), but fell short of 500 words.
-* 0: Developer created no blog posts.
+* __0: Developer created no blog posts.__
 
 ### Team Participation (50 points)
+
+0 + 0 + 0 + 5 + 5 + 0 + 0 = 10
 
 Points in this section are cumulative
 
