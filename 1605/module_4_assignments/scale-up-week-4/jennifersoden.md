@@ -1,43 +1,62 @@
 # Scale Up Submission Form (Check In) Instructions
 
-**Each student needs to submit this form. Make a copy of this file, name it with your own name, and put it in the same folder. Fill out the Student Feedback sections below. Delete this line in your copy.**
-
-- [Project Spec: Whiskey Tango](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/independent_study_project.markdown)
-
 - [Project Spec: LookingFor](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/looking_for_project.markdown)
-
-- [Project Spec: mentorSHIP](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/mentorSHIP_project.markdown)
 
 # Student Feedback
 
 ### Blog draft
 
 - Provide a link to your blog draft or outline
+https://docs.google.com/document/d/1olBIlaUkTTERnpWqe_gy0Lu2_BLgBhWaosUuxhfmGLs/edit?usp=sharing
 
 ### Hours
 
 Document your general hours below (or planned hours)
 
 - Pre-Work (1 to 3 hours):
-- Monday (8 hours):
-- Tuesday (8 hours):
-- Wednesday (8 hours):
-- Thursday (8 hours):
-- Weekend (0 hours):
+  I didn't realize I was going to be on this project -- prework irrelevant.
+
+- Monday (~4 hours):
+  * React class
+  * Launch of project
+  * Standup/DTR
+
+- Tuesday (~4 hours):
+  * React class II
+  * Standup/discussion about project
+  * Research on the project/setup
+
+- Wednesday (~6 hours):
+  * Read docs on basecamp
+  * Research into linters
+  * Codedive into front end
+  * Creact Tutorial
+
+- Thursday (~8 hours):
+  * Morning class
+  * Continue Creact
+    * Take notes while doing it, blog post on learning through resources.
+  * This is written before Thursday is done, I plan on selecting an issue to work though
+  * Since Kris is back, I'd also like to be able to have a project discussion as a group.
+
+- Weekend (~6-10 hours):
+  * This is written before Thursday is done, I plan on working on the selected issue, and finishing up my blog post as well as reviewing others.
 
 ### Participation
 
-Speak to your participation in PRs (links would be nice), blog reviews and in your project groups.
+We haven't really done many PRs, I did make a comment on [Kris' PR](https://github.com/LookingForMe/lookingForFrontEnd/pull/82#issuecomment-256675543) when he fixed the tests. I wanted to know why the information has changed, because we shouldn't make changes to the tests if we don't understand why that is the output, and I'd like there to be a conversation so everyone is on the same page.
 
 ### Work Completed
 
 Link to and describe the code/research you have completed so far.
+https://docs.google.com/document/d/1yM1OWldjHCwIkpFVX8olXPSlHxvHagEjl9tK7nOa8Kw/edit?usp=sharing
+A mess documenting the things I've looked into.
 
 # Instructor feedback
 
 ### Week 4
 
-/150 points
+25 + 30 + 25 + 30 = 110 
 
 ### Blog Post Draft (25 Points)  
 
@@ -49,8 +68,8 @@ Link to and describe the code/research you have completed so far.
 
 Points in this section are cumulative
 
-* 15: Developer participated in 2 daily stand ups
-* 5: Developer participated in a 3rd daily stand up and was able to speak to their work in a way that was clear and informative.
+* 15: Developer participated in 4 daily stand ups
+* 5: Developer participated in a 5th daily stand up and was able to speak to their work in a way that was clear and informative.
 * 10: Developer submitted a detailed pull request for review
 * 5: Developer provided useful feedback on a PR review request.
 * 5: Developer provided useful feedback on a second PR review request.

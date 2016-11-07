@@ -1,43 +1,43 @@
-# Scale Up Submission Form (Check In) Instructions
-
-**Each student needs to submit this form. Make a copy of this file, name it with your own name, and put it in the same folder. Fill out the Student Feedback sections below. Delete this line in your copy.**
-
-- [Project Spec: Whiskey Tango](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/independent_study_project.markdown)
+# Scale Up Submission Form (Check In)
 
 - [Project Spec: LookingFor](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/looking_for_project.markdown)
-
-- [Project Spec: mentorSHIP](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/mentorSHIP_project.markdown)
 
 # Student Feedback
 
 ### Blog draft
 
-- Provide a link to your blog draft or outline
+- [Blog Outline Gist](https://gist.github.com/GSmes/c29791fcd763e7a092e94eaef6a83214)
 
 ### Hours
 
 Document your general hours below (or planned hours)
 
-- Pre-Work (1 to 3 hours):
-- Monday (8 hours):
-- Tuesday (8 hours):
-- Wednesday (8 hours):
-- Thursday (8 hours):
-- Weekend (0 hours):
+- Pre-Work (1 to 3 hours): **1.5 hours**
+- Monday (8 hours): **4 hours**
+- Tuesday (8 hours): **4.5 hours**
+- Wednesday (8 hours): **3 hours**
+- Thursday (8 hours): *6 hours projected*
+- Weekend (0 hours): *12 - 18 hours projected*
 
 ### Participation
 
 Speak to your participation in PRs (links would be nice), blog reviews and in your project groups.
 
+**1.** Participated in all stand-ups
+
+**2.** [Pull request for linter cleanup](https://github.com/LookingForMe/lookingForFrontEnd/pull/81) - Reviewed PR and left comments that need to be addressed.
+
+**3.** [Pull request for updating tests](https://github.com/LookingForMe/lookingForFrontEnd/pull/82) - Reviewed PR and left comment.
+
 ### Work Completed
 
-Link to and describe the code/research you have completed so far.
+**1.** [API Research Gist](https://gist.github.com/GSmes/f21f6c4835c10c069c765dcaf39e9fc0) - Research potential job board APIs to use in addition to those currently being used.
 
 # Instructor feedback
 
 ### Week 4
 
-/150 points
+25 + 30 + 25 + 30 = 110 
 
 ### Blog Post Draft (25 Points)  
 

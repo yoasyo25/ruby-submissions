@@ -11,8 +11,8 @@
 
 ### Hours logged this week?
 
-- Monday (8 hours):
-- Tuesday (0 hours):
+- Monday (0 hours):
+- Tuesday (8 hours):
 - Wednesday (8 hours):
 - Thursday (8 hours):
 - Friday (0 hours):
@@ -23,7 +23,9 @@
 
 ### Link to blog post(s)
 
-### Discuss: your experience doing PR reviews and getting PR feedback
+### Discuss: your experience doing PR reviews and getting PR feedback (links are nice)
+
+### Discuss: your experience doing blog reviews and getting feedback (links are nice)
 
 ### Discuss: your experience doing daily stand ups
 
@@ -45,8 +47,8 @@ Points: (max 150)
 
 Points in this section are cumulative
 
-* 15: Developer participated in 4 daily stand ups
-* 5: Developer participated in a 5th daily stand up and was able to speak to their work in a way that was clear and informative.
+* 15: Developer participated in 2 daily stand ups
+* 5: Developer participated in a 3rd daily stand up and was able to speak to their work in a way that was clear and informative.
 * 10: Developer submitted a detailed pull request for review
 * 5: Developer provided useful feedback on a PR review request.
 * 5: Developer provided useful feedback on a second PR review request.

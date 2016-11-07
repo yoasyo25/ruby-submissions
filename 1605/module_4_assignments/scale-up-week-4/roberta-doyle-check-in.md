@@ -1,12 +1,7 @@
 # Scale Up Submission Form (Check In) Instructions
 
-**Each student needs to submit this form. Make a copy of this file, name it with your own name, and put it in the same folder. Fill out the Student Feedback sections below. Delete this line in your copy.**
-
 - [Project Spec: Whiskey Tango](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/independent_study_project.markdown)
 
-- [Project Spec: LookingFor](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/looking_for_project.markdown)
-
-- [Project Spec: mentorSHIP](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/mentorSHIP_project.markdown)
 
 # Student Feedback
 
@@ -18,12 +13,12 @@
 
 Document your general hours below (or planned hours)
 
-- Pre-Work (1 to 3 hours):
-- Monday (8 hours):
-- Tuesday (8 hours):
-- Wednesday (8 hours):
-- Thursday (8 hours):
-- Weekend (0 hours):
+- Pre-Work (1 to 3 hours): 4 hours
+- Monday (8 hours): 8:15 hours
+- Tuesday (8 hours): 9:00 hours
+- Wednesday (8 hours): 7:00 hours
+- Thursday (8 hours): 4 hours (planned)
+- Weekend (0 hours): 6 hours (planned)
 
 ### Participation
 
@@ -31,13 +26,16 @@ Speak to your participation in PRs (links would be nice), blog reviews and in yo
 
 ### Work Completed
 
-Link to and describe the code/research you have completed so far.
+-[Code: Back-end](https://github.com/roscalabrin/climbing-sensei)
+-[Code: Front-end](https://github.com/roscalabrin/climbing-sensei-API)
 
 # Instructor feedback
 
 ### Week 4
 
-/150 points
+Blog post to come tomorrow??
+
+0 + 50 + 25 + 50 = 125
 
 ### Blog Post Draft (25 Points)  
 
@@ -47,10 +45,13 @@ Link to and describe the code/research you have completed so far.
 
 ### Team Participation (50 points total)
 
+Gave blog feedback to: Ryan Flach and David Titianon
+
+
 Points in this section are cumulative
 
-* 15: Developer participated in 2 daily stand ups
-* 5: Developer participated in a 3rd daily stand up and was able to speak to their work in a way that was clear and informative.
+* 15: Developer participated in 4 daily stand ups
+* 5: Developer participated in a 5th daily stand up and was able to speak to their work in a way that was clear and informative.
 * 10: Developer submitted a detailed pull request for review
 * 5: Developer provided useful feedback on a PR review request.
 * 5: Developer provided useful feedback on a second PR review request.
@@ -77,4 +78,4 @@ Instructor/Developer will select one feature in the project to review for this s
 
 * 50: Developers pushed themselves and their team by taking risks which is demonstrated by a delivered feature or well documented spike. Developers explored concepts and technologies outside the scope of the curriculum.
 * 30: Developers pushed themselves and their team by taking risks which is demonstrated by an almost delivered feature whose next steps are not well documented.
-* 10: Developers attempted to implement extensions using technologies not covered in class but it did not result in code or documentation.
+* 10: Developers attempted to implement extensions using technologies not covered in class but it did not 
