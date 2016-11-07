@@ -6,28 +6,40 @@
 
 ### Link(s) to Your Work
 
- - Github Issues/Repo
- - Production (if relevant)
+ - [Github Issues/Repo](https://github.com/matthewecampbell/accepted/pull/31)
 
 ### Hours logged this week?
 
 - Monday (0 hours):
-- Tuesday (8 hours):
-- Wednesday (8 hours):
-- Thursday (8 hours):
-- Friday (0 hours):
-- Weekend (0 hours):
+- Tuesday (4.5 hours):
+- Wednesday (6 hours):
+- Thursday (3.5 hours):
+- Friday (2 hours):
+- Weekend (6 hours):
+
+22 Total hours.
 
 
 ### Talk about something that you didn't know about before this week.
 
 ### Link to blog post(s)
 
+[Blog post](https://medium.com/@ematthewcampbell/implementing-service-workers-ec6bf4aa0e24#.g7pfkpr7l)
+
 ### Discuss: your experience doing PR reviews and getting PR feedback (links are nice)
+
+[Caleb and Trent's PR](https://github.com/Caleb9193/brotha_nature_api/pull/3)
+[Chris' PR](https://github.com/concach/ScoreKeeper/pull/1)
+
+It was fun getting to look at other students' code and get to see what they were up to.  At some points it was tough to find things that I could comment on, but at other points I did learn a few things by reviewing their code.
 
 ### Discuss: your experience doing blog reviews and getting feedback (links are nice)
 
+All of my blog comments are in the PR-Review channel.  It was cool to see what other people were up to.  Most of my comments were relatively minor suggestions.  Overall most people had very good blog posts.
+
 ### Discuss: your experience doing daily stand ups
+
+The stand ups were fine.  I felt that they should be a bit more brief than they ended up being.  It is nice to know what everyone is working on so I can see why they are the norm in the industry.
 
 ### Please feel free to ask any other questions or make any other statements below!
 
