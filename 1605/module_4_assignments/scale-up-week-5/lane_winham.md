@@ -55,20 +55,29 @@ I think it would be great to pull all of the styling out and let others create s
 
 Instructor Evaluation:
 
-150 total points
+Notes: 
+
+* overall I think you were a great voice on the lookingFor team and contributed to the project
+* I'd like to see more critical and suggestive PR reviews. That is why both scores are only a 3. I would have considered full points for more reviews or more detailed reviews. If you look at the language of the score template - I think you could have been more "useful". You have great thoughts and ideas - bring that to PRs. 
+* Blog post review score pending the review information
+* Great work this module. 
+
+__121/150 total points__
 
 ### Blog Post (40 Points)  
 
-* 40: Developer has 500+ words across, one or two blog posts, about their independent study.
+* __40: Developer has 500+ words across, one or two blog posts, about their independent study.__
 * 25: Developer has posted blog(s), but fell short of 500 words.
 * 0: Developer created no blog posts.
 
 ### Team Participation (50 points)
 
+15 + 5 + 3 + 3 + 5 + _pending_ = 31
+
 Points in this section are cumulative
 
-* 15: Developer participated in 4 daily stand ups
-* 5: Developer participated in a 5th daily stand up and was able to speak to their work in a way that was clear and informative.
+* 15: Developer participated in 2 daily stand ups
+* 5: Developer participated in a 3rd daily stand up and was able to speak to their work in a way that was clear and informative.
 * 10: Developer submitted a detailed pull request for review
 * 5: Developer provided useful feedback on a PR review request.
 * 5: Developer provided useful feedback on a second PR review request.
@@ -77,7 +86,7 @@ Points in this section are cumulative
 
 ### Hourly Work (20 points)
 
-* 20: Developer logged 21+ hours, or has a reasonable plan to do so over the weekend
+* __20: Developer logged 21+ hours, or has a reasonable plan to do so over the weekend__
 * 15: Developer logged 18 to 21 hours per working day, or has a reasonable plan to do so over the weekend
 * 10: Developer logged < 18 hours
 * 0: Developer did not track hours
@@ -93,5 +102,8 @@ Modifiers cannot take you below 0 points for the section
 Instructor/Developer will select one feature in the project to review for this section of the rubric.
 
 * 40: Developers pushed themselves and their team by taking risks which is demonstrated by a delivered feature or well documented spike. Developers explored concepts and technologies outside the scope of the curriculum.
+
+* __30: I think you took some risks, particularly looking into D3, however that was a short endevor and I didn't see any materials related to this. I think the work you contributed was good work, but I would have liked to see a little more risk taking__
+
 * 20: Developers pushed themselves and their team by taking risks which is demonstrated by an almost delivered feature whose next steps are not well documented.
 * 10: Developers attempted to implement extensions using technologies not covered in class but it did not result in code or documentation.

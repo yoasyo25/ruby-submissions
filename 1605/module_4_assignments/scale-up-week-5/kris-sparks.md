@@ -121,6 +121,13 @@ so that students can get in and learn as much as quickly as possible.
 
 Instructor Evaluation:
 
+Notes: 
+
+* Really a great finish to your time a Turing. You took a lot of initiative here in the last 2 weeks and it shows
+* The work you did on lookingFor was a great contribution. 
+* Really impressed with your communication/pr review and blog posts
+* Great feedback about the scaleUp project too. Thank you
+
 __150 total points__
 
 ### Blog Post (40 Points)  
