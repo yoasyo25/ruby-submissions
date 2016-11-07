@@ -6,28 +6,36 @@
 
 ### Link(s) to Your Work
 
- - Github Issues/Repo
- - Production (if relevant)
+ - [Github Repo](https://github.com/kjs222/police_data)
+ - [Production](https://sandiego-police-data.herokuapp.com)
 
 ### Hours logged this week?
 
-- Monday (0 hours):
-- Tuesday (8 hours):
-- Wednesday (8 hours):
-- Thursday (8 hours):
-- Friday (0 hours):
-- Weekend (0 hours):
+- Monday (8 hours):     3
+- Tuesday (0 hours):    9
+- Wednesday (8 hours):  7.5
+- Thursday (8 hours):   1.5
+- Friday (0 hours):     2.5
+- Weekend (0 hours):    8
 
 
 ### Talk about something that you didn't know about before this week.
 
+I didn't know that Sequelize would produce different API results in production than development.  It's a good lesson that you can write a bunch of tests that pass in development and still not be building something that will work in real life.
+
+I also learned a good lesson about not putting things in classes and ending up with things interfering with each other because of global variables.  I put code for two different charts in the same file because I didn't bring in any packages to let me require files for the client side code. I was getting really strange behavior when trying to update the legend on one chart because they shared a variable name.
+
 ### Link to blog post(s)
+[Post](https://medium.com/@KerrySheldon/deploying-a-node-app-and-importing-a-postgres-database-to-heroku-8ad7bc9a2639#.3he48u4yz)
 
-### Discuss: your experience doing PR reviews and getting PR feedback (links are nice)
+### Discuss: your experience doing PR reviews and getting PR feedback
+I received feedback from an alumni on a PR that I posted this week.  It was super helpful.
 
-### Discuss: your experience doing blog reviews and getting feedback (links are nice)
+I didn't really have an opportunity to review PRs this week. I just didn't see many/any that I knew anything about on the days that I was available to work on this project.
 
 ### Discuss: your experience doing daily stand ups
+
+I participated in all of the scheduled daily stand ups this week.
 
 ### Please feel free to ask any other questions or make any other statements below!
 

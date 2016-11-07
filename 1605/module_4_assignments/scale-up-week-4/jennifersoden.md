@@ -6,46 +6,57 @@
 
 ### Blog draft
 
-- [Blog Outline](https://medium.com/@mlwinham12/exploring-react-7679638fbb2d)
+- Provide a link to your blog draft or outline
+https://docs.google.com/document/d/1olBIlaUkTTERnpWqe_gy0Lu2_BLgBhWaosUuxhfmGLs/edit?usp=sharing
 
 ### Hours
 
 Document your general hours below (or planned hours)
 
-- Monday (2 hours):
-- Tuesday (4.5 hours):
-- Wednesday (8 hours):
-- Thursday (8 hours):
-- Weekend (9.5 -10 hours):
+- Pre-Work (1 to 3 hours):
+  I didn't realize I was going to be on this project -- prework irrelevant.
+
+- Monday (~4 hours):
+  * React class
+  * Launch of project
+  * Standup/DTR
+
+- Tuesday (~4 hours):
+  * React class II
+  * Standup/discussion about project
+  * Research on the project/setup
+
+- Wednesday (~6 hours):
+  * Read docs on basecamp
+  * Research into linters
+  * Codedive into front end
+  * Creact Tutorial
+
+- Thursday (~8 hours):
+  * Morning class
+  * Continue Creact
+    * Take notes while doing it, blog post on learning through resources.
+  * This is written before Thursday is done, I plan on selecting an issue to work though
+  * Since Kris is back, I'd also like to be able to have a project discussion as a group.
+
+- Weekend (~6-10 hours):
+  * This is written before Thursday is done, I plan on working on the selected issue, and finishing up my blog post as well as reviewing others.
 
 ### Participation
 
-- [PR response 1](https://github.com/LookingForMe/lookingForFrontEnd/pull/81)
-- [PR response 2](https://github.com/LookingForMe/lookingForFrontEnd/pull/83)
-
-* Blog review 1 for Matt P.
-    * I have a few thoughts. First, I liked the outline and thought it was laid out well. I really liked how you included a part on things that you want to cover in the future assuming that scale up will not satisfy what you set out to accomplish. I also agree with you stating that you will include code snippets that your excited about. I think that is always helpful when reading something a bit more technical.
-Are you planning on using medium?
-Did you just create this outline or model it from somewhere?
-
-
-* Blog review 2 for Jason
-
-    * Thats a great outline and I like how its more oh a how to vs this is what I experienced. One thing I would think about adding in light of the Turing community is having your code reviewed or ask questions to people with more practice but thats just a thought.
+We haven't really done many PRs, I did make a comment on [Kris' PR](https://github.com/LookingForMe/lookingForFrontEnd/pull/82#issuecomment-256675543) when he fixed the tests. I wanted to know why the information has changed, because we shouldn't make changes to the tests if we don't understand why that is the output, and I'd like there to be a conversation so everyone is on the same page.
 
 ### Work Completed
 
 Link to and describe the code/research you have completed so far.
-
-- [PR material](https://gist.github.com/Laner12/5057b5b9a18fd40daad191034b6f58a8)
-
-* I would also like to clean up and add functionality for the trending languages data map. I currently do not have a [WIP] PR for this because I am having odd issues with merge conflicts.
+https://docs.google.com/document/d/1yM1OWldjHCwIkpFVX8olXPSlHxvHagEjl9tK7nOa8Kw/edit?usp=sharing
+A mess documenting the things I've looked into.
 
 # Instructor feedback
 
 ### Week 4
 
-25 + 40 + 25 + 30 = 120
+25 + 30 + 25 + 30 = 110 
 
 ### Blog Post Draft (25 Points)  
 

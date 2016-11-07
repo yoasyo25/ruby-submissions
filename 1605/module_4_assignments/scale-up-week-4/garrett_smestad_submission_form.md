@@ -1,4 +1,4 @@
-# Scale Up Submission Form (Check In) Instructions
+# Scale Up Submission Form (Check In)
 
 - [Project Spec: LookingFor](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/looking_for_project.markdown)
 
@@ -6,46 +6,38 @@
 
 ### Blog draft
 
-- [Blog Outline](https://medium.com/@mlwinham12/exploring-react-7679638fbb2d)
+- [Blog Outline Gist](https://gist.github.com/GSmes/c29791fcd763e7a092e94eaef6a83214)
 
 ### Hours
 
 Document your general hours below (or planned hours)
 
-- Monday (2 hours):
-- Tuesday (4.5 hours):
-- Wednesday (8 hours):
-- Thursday (8 hours):
-- Weekend (9.5 -10 hours):
+- Pre-Work (1 to 3 hours): **1.5 hours**
+- Monday (8 hours): **4 hours**
+- Tuesday (8 hours): **4.5 hours**
+- Wednesday (8 hours): **3 hours**
+- Thursday (8 hours): *6 hours projected*
+- Weekend (0 hours): *12 - 18 hours projected*
 
 ### Participation
 
-- [PR response 1](https://github.com/LookingForMe/lookingForFrontEnd/pull/81)
-- [PR response 2](https://github.com/LookingForMe/lookingForFrontEnd/pull/83)
+Speak to your participation in PRs (links would be nice), blog reviews and in your project groups.
 
-* Blog review 1 for Matt P.
-    * I have a few thoughts. First, I liked the outline and thought it was laid out well. I really liked how you included a part on things that you want to cover in the future assuming that scale up will not satisfy what you set out to accomplish. I also agree with you stating that you will include code snippets that your excited about. I think that is always helpful when reading something a bit more technical.
-Are you planning on using medium?
-Did you just create this outline or model it from somewhere?
+**1.** Participated in all stand-ups
 
+**2.** [Pull request for linter cleanup](https://github.com/LookingForMe/lookingForFrontEnd/pull/81) - Reviewed PR and left comments that need to be addressed.
 
-* Blog review 2 for Jason
-
-    * Thats a great outline and I like how its more oh a how to vs this is what I experienced. One thing I would think about adding in light of the Turing community is having your code reviewed or ask questions to people with more practice but thats just a thought.
+**3.** [Pull request for updating tests](https://github.com/LookingForMe/lookingForFrontEnd/pull/82) - Reviewed PR and left comment.
 
 ### Work Completed
 
-Link to and describe the code/research you have completed so far.
-
-- [PR material](https://gist.github.com/Laner12/5057b5b9a18fd40daad191034b6f58a8)
-
-* I would also like to clean up and add functionality for the trending languages data map. I currently do not have a [WIP] PR for this because I am having odd issues with merge conflicts.
+**1.** [API Research Gist](https://gist.github.com/GSmes/f21f6c4835c10c069c765dcaf39e9fc0) - Research potential job board APIs to use in addition to those currently being used.
 
 # Instructor feedback
 
 ### Week 4
 
-25 + 40 + 25 + 30 = 120
+25 + 30 + 25 + 30 = 110 
 
 ### Blog Post Draft (25 Points)  
 
@@ -57,8 +49,8 @@ Link to and describe the code/research you have completed so far.
 
 Points in this section are cumulative
 
-* 15: Developer participated in 4 daily stand ups
-* 5: Developer participated in a 5th daily stand up and was able to speak to their work in a way that was clear and informative.
+* 15: Developer participated in 2 daily stand ups
+* 5: Developer participated in a 3rd daily stand up and was able to speak to their work in a way that was clear and informative.
 * 10: Developer submitted a detailed pull request for review
 * 5: Developer provided useful feedback on a PR review request.
 * 5: Developer provided useful feedback on a second PR review request.

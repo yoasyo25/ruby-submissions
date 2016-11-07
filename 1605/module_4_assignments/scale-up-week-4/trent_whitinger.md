@@ -1,51 +1,67 @@
 # Scale Up Submission Form (Check In) Instructions
 
+**Each student needs to submit this form. Make a copy of this file, name it with your own name, and put it in the same folder. Fill out the Student Feedback sections below. Delete this line in your copy.**
+
+- [Project Spec: Whiskey Tango](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/independent_study_project.markdown)
+
 - [Project Spec: LookingFor](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/looking_for_project.markdown)
+
+- [Project Spec: mentorSHIP](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/mentorSHIP_project.markdown)
 
 # Student Feedback
 
 ### Blog draft
 
-- [Blog Outline](https://medium.com/@mlwinham12/exploring-react-7679638fbb2d)
+https://gist.github.com/twhitinger/e4aeeff5bc6a23d378319a33b3168c83
 
 ### Hours
 
 Document your general hours below (or planned hours)
 
-- Monday (2 hours):
-- Tuesday (4.5 hours):
-- Wednesday (8 hours):
-- Thursday (8 hours):
-- Weekend (9.5 -10 hours):
+- Pre-Work (3 hours):
+- Monday (4.5 hours):
+- Tuesday (3 hours):
+- Wednesday (3 hours):
+- Thursday (6 hours):
+- Friday (4 hours)
+- Weekend (12 hours):
 
 ### Participation
 
-- [PR response 1](https://github.com/LookingForMe/lookingForFrontEnd/pull/81)
-- [PR response 2](https://github.com/LookingForMe/lookingForFrontEnd/pull/83)
+Submitted a pull request to update the readme to start exploring additional functionality on the client project. Including tagging
+and filter videos based on those tags. Looking at additional external apis we could use including youtube to find similar videos.
 
-* Blog review 1 for Matt P.
-    * I have a few thoughts. First, I liked the outline and thought it was laid out well. I really liked how you included a part on things that you want to cover in the future assuming that scale up will not satisfy what you set out to accomplish. I also agree with you stating that you will include code snippets that your excited about. I think that is always helpful when reading something a bit more technical.
-Are you planning on using medium?
-Did you just create this outline or model it from somewhere?
+https://github.com/Caleb9193/brotha_nature_api/pull/2
+
+Gave blog feedback to Jason and Caleb on the structure of their outlines. check slack.
+
+Speak to your participation in PRs (links would be nice), blog reviews and in your project groups.
 
 
-* Blog review 2 for Jason
-
-    * Thats a great outline and I like how its more oh a how to vs this is what I experienced. One thing I would think about adding in light of the Turing community is having your code reviewed or ask questions to people with more practice but thats just a thought.
 
 ### Work Completed
 
 Link to and describe the code/research you have completed so far.
 
-- [PR material](https://gist.github.com/Laner12/5057b5b9a18fd40daad191034b6f58a8)
+Read through the Creact Tutorial for a quick introduction to React
+Rails Model Testing Template
+Factory Girl Tips
+Heroku Scheduler
+Services
+[review new code base comment on beggining project specs](https://github.com/Caleb9193/brotha_nature_api/commits/master)
 
-* I would also like to clean up and add functionality for the trending languages data map. I currently do not have a [WIP] PR for this because I am having odd issues with merge conflicts.
+prework for alogorithm prep
+- [Interview outline: Whiskey Tango](http://www.geeksforgeeks.org/a-complete-step-by-step-guide-for-placement-preparation-by-geeksforgeeks/)
+- [Alogorithm design: Whiskey Tango](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.471.4772&rep=rep1&type=pdf)
+
 
 # Instructor feedback
 
 ### Week 4
 
-25 + 40 + 25 + 30 = 120
+25 + 35 + 20 + 40 = 120
+
+
 
 ### Blog Post Draft (25 Points)  
 

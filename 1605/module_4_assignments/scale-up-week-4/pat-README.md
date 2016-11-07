@@ -1,51 +1,59 @@
 # Scale Up Submission Form (Check In) Instructions
 
-- [Project Spec: LookingFor](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/looking_for_project.markdown)
+- [Project Spec: Whiskey Tango](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/independent_study_project.markdown)
 
 # Student Feedback
 
 ### Blog draft
 
-- [Blog Outline](https://medium.com/@mlwinham12/exploring-react-7679638fbb2d)
 
 ### Hours
 
 Document your general hours below (or planned hours)
 
-- Monday (2 hours):
-- Tuesday (4.5 hours):
+- Pre-Work (1 to 3 hours):
+  Around 4 hours spend going through IdeaBox in React, and then adding
+  Redux to see the difference with and without a universal application store.
+
+- Monday (8 hours):
+  Class: 1 hour
+  Meetings: 3 hours
+  More meetings + standup: 1.5 hours
+  Programming: 5 hours
+  Total: 10 hours
+
+- Tuesday (8 hours):
+  Programming: 2.5 hours
+  Meetings (standup): 30 minutes
+  Programming: 5 hours
+  Total: 8 hours
+
 - Wednesday (8 hours):
+  Programming: 2:20 hours
+  Class & more programming: 8 hours
+  Total: ~10 hours
+
 - Thursday (8 hours):
-- Weekend (9.5 -10 hours):
+- Weekend (0 hours):
 
 ### Participation
 
-- [PR response 1](https://github.com/LookingForMe/lookingForFrontEnd/pull/81)
-- [PR response 2](https://github.com/LookingForMe/lookingForFrontEnd/pull/83)
-
-* Blog review 1 for Matt P.
-    * I have a few thoughts. First, I liked the outline and thought it was laid out well. I really liked how you included a part on things that you want to cover in the future assuming that scale up will not satisfy what you set out to accomplish. I also agree with you stating that you will include code snippets that your excited about. I think that is always helpful when reading something a bit more technical.
-Are you planning on using medium?
-Did you just create this outline or model it from somewhere?
-
-
-* Blog review 2 for Jason
-
-    * Thats a great outline and I like how its more oh a how to vs this is what I experienced. One thing I would think about adding in light of the Turing community is having your code reviewed or ask questions to people with more practice but thats just a thought.
+https://github.com/roscalabrin/climbing-sensei/pull/10#discussion_r85387034
+https://github.com/roscalabrin/climbing-sensei/pull/13
 
 ### Work Completed
 
-Link to and describe the code/research you have completed so far.
+https://github.com/roscalabrin/climbing-sensei/blob/master/src/components/UI/Routine.js.jsx
 
-- [PR material](https://gist.github.com/Laner12/5057b5b9a18fd40daad191034b6f58a8)
-
-* I would also like to clean up and add functionality for the trending languages data map. I currently do not have a [WIP] PR for this because I am having odd issues with merge conflicts.
+This is a modal pop-up that launches when a user clicks an individual workout. I enjoy using React because
+it's fun to use logic to solve UI problems. Here I am setting a local state for this component so that the
+user can switch through the tabs in the modal.
 
 # Instructor feedback
 
 ### Week 4
 
-25 + 40 + 25 + 30 = 120
+0 + 40 + 25 + 50 = 125
 
 ### Blog Post Draft (25 Points)  
 

@@ -1,51 +1,41 @@
 # Scale Up Submission Form (Check In) Instructions
 
-- [Project Spec: LookingFor](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/looking_for_project.markdown)
+- [Project Spec: Whiskey Tango](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/independent_study_project.markdown)
+
 
 # Student Feedback
 
 ### Blog draft
 
-- [Blog Outline](https://medium.com/@mlwinham12/exploring-react-7679638fbb2d)
+- Provide a link to your blog draft or outline
 
 ### Hours
 
 Document your general hours below (or planned hours)
 
-- Monday (2 hours):
-- Tuesday (4.5 hours):
-- Wednesday (8 hours):
-- Thursday (8 hours):
-- Weekend (9.5 -10 hours):
+- Pre-Work (1 to 3 hours): 4 hours
+- Monday (8 hours): 8:15 hours
+- Tuesday (8 hours): 9:00 hours
+- Wednesday (8 hours): 7:00 hours
+- Thursday (8 hours): 4 hours (planned)
+- Weekend (0 hours): 6 hours (planned)
 
 ### Participation
 
-- [PR response 1](https://github.com/LookingForMe/lookingForFrontEnd/pull/81)
-- [PR response 2](https://github.com/LookingForMe/lookingForFrontEnd/pull/83)
-
-* Blog review 1 for Matt P.
-    * I have a few thoughts. First, I liked the outline and thought it was laid out well. I really liked how you included a part on things that you want to cover in the future assuming that scale up will not satisfy what you set out to accomplish. I also agree with you stating that you will include code snippets that your excited about. I think that is always helpful when reading something a bit more technical.
-Are you planning on using medium?
-Did you just create this outline or model it from somewhere?
-
-
-* Blog review 2 for Jason
-
-    * Thats a great outline and I like how its more oh a how to vs this is what I experienced. One thing I would think about adding in light of the Turing community is having your code reviewed or ask questions to people with more practice but thats just a thought.
+Speak to your participation in PRs (links would be nice), blog reviews and in your project groups.
 
 ### Work Completed
 
-Link to and describe the code/research you have completed so far.
-
-- [PR material](https://gist.github.com/Laner12/5057b5b9a18fd40daad191034b6f58a8)
-
-* I would also like to clean up and add functionality for the trending languages data map. I currently do not have a [WIP] PR for this because I am having odd issues with merge conflicts.
+-[Code: Back-end](https://github.com/roscalabrin/climbing-sensei)
+-[Code: Front-end](https://github.com/roscalabrin/climbing-sensei-API)
 
 # Instructor feedback
 
 ### Week 4
 
-25 + 40 + 25 + 30 = 120
+Blog post to come tomorrow??
+
+0 + 50 + 25 + 50 = 125
 
 ### Blog Post Draft (25 Points)  
 
@@ -54,6 +44,9 @@ Link to and describe the code/research you have completed so far.
 * 0: Developer created no blog draft.
 
 ### Team Participation (50 points total)
+
+Gave blog feedback to: Ryan Flach and David Titianon
+
 
 Points in this section are cumulative
 
@@ -85,4 +78,4 @@ Instructor/Developer will select one feature in the project to review for this s
 
 * 50: Developers pushed themselves and their team by taking risks which is demonstrated by a delivered feature or well documented spike. Developers explored concepts and technologies outside the scope of the curriculum.
 * 30: Developers pushed themselves and their team by taking risks which is demonstrated by an almost delivered feature whose next steps are not well documented.
-* 10: Developers attempted to implement extensions using technologies not covered in class but it did not result in code or documentation.
+* 10: Developers attempted to implement extensions using technologies not covered in class but it did not 

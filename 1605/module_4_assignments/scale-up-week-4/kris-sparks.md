@@ -6,46 +6,46 @@
 
 ### Blog draft
 
-- [Blog Outline](https://medium.com/@mlwinham12/exploring-react-7679638fbb2d)
+- [React vs Angular](https://gist.github.com/kbs5280/805929249c6ebc4952875dcd8bf2ed88)
+- [React + Redux](https://gist.github.com/kbs5280/1c1927222fd045510e723df72ae6fee4)
 
 ### Hours
 
-Document your general hours below (or planned hours)
-
-- Monday (2 hours):
-- Tuesday (4.5 hours):
-- Wednesday (8 hours):
-- Thursday (8 hours):
-- Weekend (9.5 -10 hours):
+- Pre-Work (1):
+- Monday (4.5 hours):
+- Tuesday (5 hours):
+- Wednesday (6.5 hours):
+- Thursday (6 hours):
+- Weekend (13 hours):
 
 ### Participation
 
-- [PR response 1](https://github.com/LookingForMe/lookingForFrontEnd/pull/81)
-- [PR response 2](https://github.com/LookingForMe/lookingForFrontEnd/pull/83)
+PR Participation:
 
-* Blog review 1 for Matt P.
-    * I have a few thoughts. First, I liked the outline and thought it was laid out well. I really liked how you included a part on things that you want to cover in the future assuming that scale up will not satisfy what you set out to accomplish. I also agree with you stating that you will include code snippets that your excited about. I think that is always helpful when reading something a bit more technical.
-Are you planning on using medium?
-Did you just create this outline or model it from somewhere?
+ - We inherited a PR from the previous cohort. I reviewed the PR and found there were merge conflicts. I added a comment and tagged the previous developers. They responded and I set up a meeting to go over the PR, find out what they were working on and hopefully resolve the conflicts and merge the request. [#77](https://github.com/LookingForMe/lookingForFrontEnd/pull/77)
 
+ - We inherited 2 failing tests. I analyzed the code base and fixed the errors in the test. I issued a detailed PR for the updates. I added details to the PR based on questions from developers who reviewed the code. [#82](https://github.com/LookingForMe/lookingForFrontEnd/pull/82)
 
-* Blog review 2 for Jason
+ - I have participated in all 4 stand-ups this week. I was absent for 1 but sent my updates and got updates on the stand-up from developers who where present.
 
-    * Thats a great outline and I like how its more oh a how to vs this is what I experienced. One thing I would think about adding in light of the Turing community is having your code reviewed or ask questions to people with more practice but thats just a thought.
+ - I have actively communicated with my team via Slack, Basecamp, and GitHub. I have issued PR's, made suggestions, responded to comments and been proactive regarding our project.
 
-### Work Completed
+### Work Completed  
 
-Link to and describe the code/research you have completed so far.
+Most of the work I have completed to date is in the form of classes and tutorials. I should have more to show in terms of code and PR's over the next couple of days.
 
-- [PR material](https://gist.github.com/Laner12/5057b5b9a18fd40daad191034b6f58a8)
-
-* I would also like to clean up and add functionality for the trending languages data map. I currently do not have a [WIP] PR for this because I am having odd issues with merge conflicts.
+- [React Part 1](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/intro_to_react.markdown)  
+- [React Part 2](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/intro_to_react_part_2.markdown)  
+- [Todo List in React](https://www.youtube.com/watch?v=IR6smI_YJDE)  
+- [Currying](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/03-currying-and-partial-application.md)  
+- [Recursion](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/04-recursion.md)  
+- [Generators](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/05-generators.md)  
 
 # Instructor feedback
 
 ### Week 4
 
-25 + 40 + 25 + 30 = 120
+25 + 50 + 25 + 50 = 150 
 
 ### Blog Post Draft (25 Points)  
 
