@@ -50,11 +50,16 @@ Participating in daily stand ups helped keep me on track, and encouraged me by s
 
 # Instructor Evaluation:
 
+### Notes
+
+- Comments made on medium article
+- It's unclear what you've delivered. Be sure to make this clearer for your portfolio. I'd recommend adding to the readme on your project.
+
 Points: (max 150)
 
 ### Blog Post (40 Points)  
 
-* 40: Developer has 500+ words across, one or two blog posts, about their independent study.
+* **40: Developer has 500+ words across, one or two blog posts, about their independent study.**
 * 25: Developer has posted blog(s), but fell short of 500 words.
 * 0: Developer created no blog posts.
 
@@ -62,18 +67,20 @@ Points: (max 150)
 
 Points in this section are cumulative
 
-* 15: Developer participated in 2 daily stand ups
-* 5: Developer participated in a 3rd daily stand up and was able to speak to their work in a way that was clear and informative.
-* 10: Developer submitted a detailed pull request for review
-* 5: Developer provided useful feedback on a PR review request.
+* **15: Developer participated in 2 daily stand ups**
+* **5: Developer participated in a 3rd daily stand up and was able to speak to their work in a way that was clear and informative.**
+* **10: Developer submitted a detailed pull request for review**
+* **5: Developer provided useful feedback on a PR review request.**
 * 5: Developer provided useful feedback on a second PR review request.
-* 5: Developer provided useful feedback on a blog post draft.
-* 5: Developer provided useful feedback on a second blog post draft.
+* **5: Developer provided useful feedback on a blog post draft.**
+* **5: Developer provided useful feedback on a second blog post draft.**
 
 ### Hourly Work (20 points)
 
+5/20 points
+
 * 20: Developer logged 21+ hours, or has a reasonable plan to do so over the weekend
-* 15: Developer logged 18 to 21 hours per working day, or has a reasonable plan to do so over the weekend
+* **15: Developer logged 18 to 21 hours per working day, or has a reasonable plan to do so over the weekend**
 * 10: Developer logged < 18 hours
 * 0: Developer did not track hours
 
@@ -81,12 +88,12 @@ Points in this section are cumulative
 
 Modifiers cannot take you below 0 points for the section
 
-* -10 points: Developer is unable to speak to work completed
+* **-10 points: Developer is unable to speak to work completed**
 
 ### Risk Taking and Creativity (40 points)
 
 Instructor/Developer will select one feature in the project to review for this section of the rubric.
 
 * 40: Developers pushed themselves and their team by taking risks which is demonstrated by a delivered feature or well documented spike. Developers explored concepts and technologies outside the scope of the curriculum.
-* 20: Developers pushed themselves and their team by taking risks which is demonstrated by an almost delivered feature whose next steps are not well documented.
+* **30: Developers pushed themselves and their team by taking risks which is demonstrated by an almost delivered feature whose next steps are not well documented.**
 * 10: Developers attempted to implement extensions using technologies not covered in class but it did not result in code or documentation.
