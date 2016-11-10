@@ -1,6 +1,6 @@
-Assessed By:
+Assessed By: Beth Sebian
 
-Repo:
+Repo: https://github.com/drod1000/black_thursday
 
 Notes:
 
