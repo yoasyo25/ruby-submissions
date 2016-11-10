@@ -1,6 +1,6 @@
 # Week 5 of Scale Up Submission Form Instructions
 
-**Use the appropriate project's markdown file as a template to create a file in this folder with each student's name as the title.**
+**Use the appropriate project's markdown file as a template to create a file in this folder with your name as the title.**
 
 - [Project Spec: Whiskey Tango](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/independent_study_project.markdown)
 
