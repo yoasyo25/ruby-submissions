@@ -11,8 +11,8 @@
 
 ### Hours logged this week?
 
-- Monday (8 hours):
-- Tuesday (0 hours):
+- Monday (0 hours):
+- Tuesday (8 hours):
 - Wednesday (8 hours):
 - Thursday (8 hours):
 - Friday (0 hours):
@@ -23,7 +23,9 @@
 
 ### Link to blog post(s)
 
-### Discuss: your experience doing PR reviews and getting PR feedback
+### Discuss: your experience doing PR reviews and getting PR feedback (links are nice)
+
+### Discuss: your experience doing blog reviews and getting feedback (links are nice)
 
 ### Discuss: your experience doing daily stand ups
 
