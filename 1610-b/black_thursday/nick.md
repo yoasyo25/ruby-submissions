@@ -1,19 +1,19 @@
 Assessed By: Ilana 
 
-Repo: https://github.com/tmikeschu/black_thursday
+Repo: https://github.com/ski-climb/Black-Thursday
 
-Notes:
-- 363 tests!! all passing 
-- spec harness passing
-- got charts as well for the extension
-- jason focuses on testing and breaking logic down
-- schutte loved the relationships 
+Notes: 
+- 102 tests all passing
+- spec passing
+- established a process
+- felt more comfortable with enumerables
+- liked using mocks
 
 Scores:
 
 ### 1. Functional Expectations
 
-* 4: Application implements iterations 0, 1, 2, 3, (4 or 5), and features of your own design
+* 3: Application implements iterations 0, 1, 2, 3, and either 4 or 5
 
 ### 2. Test-Driven Development
 
