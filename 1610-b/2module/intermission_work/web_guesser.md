@@ -26,7 +26,7 @@
 
 ## Drew Palazzari
 
-* GitHub Repo Link:
+* GitHub Repo Link: https://github.com/Dpalazzari/web_guesser
 
 ## Eric Wahlgren-Sauro
 
