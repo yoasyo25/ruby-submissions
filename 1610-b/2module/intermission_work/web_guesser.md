@@ -70,7 +70,7 @@
 
 ## Michael Schutte
 
-* GitHub Repo Link:
+* GitHub Repo Link: https://github.com/tmikeschu/web_guesser
 
 ## Nick Erhardt
 
