@@ -10,7 +10,7 @@
 
 ## Brett Rivers
 
-* GitHub Repo Link:
+* GitHub Repo Link: https://github.com/riverswb/web_guesser
 
 ## Caroline Powell
 
@@ -26,7 +26,7 @@
 
 ## Drew Palazzari
 
-* GitHub Repo Link: https://github.com/Dpalazzari/web_guesser
+* GitHub Repo Link:
 
 ## Eric Wahlgren-Sauro
 
