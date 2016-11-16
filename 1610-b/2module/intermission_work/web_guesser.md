@@ -46,7 +46,7 @@
 
 ## Kyle Heppenstall
 
-* GitHub Repo Link:
+* GitHub Repo Link: https://github.com/kheppenstall/web_guesser
 
 ## Josh Cohen
 
