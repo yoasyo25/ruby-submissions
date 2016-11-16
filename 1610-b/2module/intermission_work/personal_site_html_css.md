@@ -87,8 +87,8 @@
 
 ## Michael Schutte
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/tmikeschu/tmikeschu.github.io
+* Personal Site URL: https://tmikeschu.github.io/
 
 ## Nick Erhardt
 
