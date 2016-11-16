@@ -42,7 +42,7 @@
 
 ## Jesse Shipley
 
-* GitHub Repo Link:
+* GitHub Repo Link: https://github.com/Sh1pley/web_guesser
 
 ## Kyle Heppenstall
 
