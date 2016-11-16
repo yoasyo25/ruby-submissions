@@ -30,7 +30,7 @@
 
 ## Eric Wahlgren-Sauro
 
-* GitHub Repo Link:
+* GitHub Repo Link: https://github.com/cews7/web_guesser
 
 ## Ethan Bennett
 
