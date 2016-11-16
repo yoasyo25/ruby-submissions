@@ -37,8 +37,8 @@
 
 ## Eric Wahlgren-Sauro
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/cews7/cews7.github.io
+* Personal Site URL: https://cews7.github.io/
 
 ## Ethan Bennett
 
