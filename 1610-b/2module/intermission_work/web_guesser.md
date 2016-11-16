@@ -2,7 +2,7 @@
 
 ## Name: Amy Kintner
 
-* GitHub Repo Link:
+* GitHub Repo Link: https://github.com/akintner/web_guesser
 
 ## Ann Wolff
 
