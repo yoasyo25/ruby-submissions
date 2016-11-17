@@ -58,7 +58,7 @@
 
 ## Lucy Conklin
 
-* GitHub Repo Link:
+* GitHub Repo Link: https://github.com/lucyconklin/webguesser
 
 ## Marisa Burton
 
