@@ -82,8 +82,8 @@
 
 ## Molly Brown
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/mollybrown/mollybrown.github.io
+* Personal Site URL: https://mollybrown.github.io/
 
 ## Michael Schutte
 
