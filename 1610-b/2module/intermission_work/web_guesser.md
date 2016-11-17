@@ -34,7 +34,7 @@
 
 ## Ethan Bennett
 
-* GitHub Repo Link:
+* GitHub Repo Link: https://github.com/ethanbennett/web_guesser
 
 ## Jason Conrad
 
