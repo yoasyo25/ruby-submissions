@@ -62,7 +62,7 @@
 
 ## Marisa Burton
 
-* GitHub Repo Link:
+* GitHub Repo Link: https://github.com/MarisaMBurton/web-guesser
 
 ## Molly Brown
 
