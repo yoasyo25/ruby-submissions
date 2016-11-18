@@ -12,8 +12,8 @@
 
 ## Brett Rivers
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/riverswb/riverswb.github.io
+* Personal Site URL: https://riverswb.github.io/index.html
 
 ## Caroline Powell
 
