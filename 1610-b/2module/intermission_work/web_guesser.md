@@ -66,7 +66,7 @@
 
 ## Molly Brown
 
-* GitHub Repo Link:
+* GitHub Repo Link: https://github.com/mollybrown/web_guesser
 
 ## Michael Schutte
 
