@@ -52,8 +52,8 @@
 
 ## Jesse Shipley
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/Sh1pley/Sh1pley.github.io
+* Personal Site URL: https://Sh1pley.github.io
 
 ## Kyle Heppenstall
 
