@@ -32,8 +32,8 @@
 
 ## Drew Palazzari
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link:https://github.com/Dpalazzari/Dpalazzari.github.io
+* Personal Site URL:https://Dpalazzari.github.io
 
 ## Eric Wahlgren-Sauro
 
