@@ -7,8 +7,8 @@
 
 ## Ann Wolff
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/wlffann/wlffann.github.io
+* Personal Site URL: https://wlffann.github.io/
 
 ## Brett Rivers
 
