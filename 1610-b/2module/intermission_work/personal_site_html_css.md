@@ -57,8 +57,8 @@
 
 ## Kyle Heppenstall
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/kheppenstall/kheppenstall.github.io
+* Personal Site URL: https://kheppenstall.github.io
 
 ## Josh Cohen
 
