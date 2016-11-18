@@ -72,8 +72,8 @@
 
 ## Lucy Conklin
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/lucyconklin/lucyconklin.github.io
+* Personal Site URL:http://lucyconklin.github.io/
 
 ## Marisa Burton
 
