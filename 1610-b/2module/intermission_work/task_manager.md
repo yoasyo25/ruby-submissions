@@ -10,7 +10,7 @@
 
 ## Brett Rivers
 
-* GitHub Repo Link:
+* GitHub Repo Link: https://github.com/riverswb/task_manager
 
 ## Caroline Powell
 
