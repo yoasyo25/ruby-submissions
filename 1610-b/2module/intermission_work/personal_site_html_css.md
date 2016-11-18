@@ -102,5 +102,5 @@
 
 ## Robbie Smith
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/Robbie-Smith/robbie-smith.github.io.git
+* Personal Site URL:https://robbie-smith.github.io
