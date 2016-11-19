@@ -66,7 +66,7 @@
 
 ## Molly Brown
 
-* GitHub Repo Link:
+* GitHub Repo Link: https://github.com/mollybrown/task_manager
 
 ## Michael Schutte
 
