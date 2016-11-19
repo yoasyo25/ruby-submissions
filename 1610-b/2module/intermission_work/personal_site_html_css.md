@@ -67,8 +67,8 @@
 
 ## Laszlo Balogh
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/Laszlo-JFLMTCO/laszlo-jflmtco.github.io
+* Personal Site URL: https://laszlo-jflmtco.github.io
 
 ## Lucy Conklin
 
