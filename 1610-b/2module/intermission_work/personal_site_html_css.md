@@ -2,8 +2,8 @@
 
 ## Name: Amy Kintner
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link:https://github.com/akintner/akintner.github.io
+* Personal Site URL:https://akintner.github.io
 
 ## Ann Wolff
 
