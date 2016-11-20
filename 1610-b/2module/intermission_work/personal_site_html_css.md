@@ -47,8 +47,8 @@
 
 ## Jason Conrad
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/jdconrad89/jdconrad89.github.io
+* Personal Site URL: https://jdconrad89.github.io
 
 ## Jesse Shipley
 
