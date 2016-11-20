@@ -42,8 +42,8 @@
 
 ## Ethan Bennett
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/ethanbennett/ethanbennett.github.io
+* Personal Site URL: https://ethanbennett.github.io
 
 ## Jason Conrad
 
