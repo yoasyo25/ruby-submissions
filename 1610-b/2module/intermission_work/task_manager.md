@@ -58,7 +58,7 @@
 
 ## Lucy Conklin
 
-* GitHub Repo Link:
+* GitHub Repo Link: https://github.com/lucyconklin/taskmanager/tree/master
 
 ## Marisa Burton
 
