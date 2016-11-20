@@ -22,8 +22,8 @@
 
 ## Daniel Rodriguez
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/drod1000/drod1000.github.io
+* Personal Site URL: https://drod1000.github.io
 
 ## David Knott
 
