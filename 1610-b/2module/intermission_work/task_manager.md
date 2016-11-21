@@ -54,7 +54,7 @@
 
 ## Laszlo Balogh
 
-* GitHub Repo Link:
+* GitHub Repo Link: https://github.com/Laszlo-JFLMTCO/mod2pre-task-manager
 
 ## Lucy Conklin
 
