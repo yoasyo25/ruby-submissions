@@ -50,7 +50,7 @@
 
 ## Josh Cohen
 
-* GitHub Repo Link:
+* GitHub Repo Link: https://github.com/Daleon/Web-Guesser
 
 ## Laszlo Balogh
 
