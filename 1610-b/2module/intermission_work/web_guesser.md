@@ -14,7 +14,7 @@
 
 ## Caroline Powell
 
-* GitHub Repo Link:
+* GitHub Repo Link: https://github.com/CPowell23/web_guesser
 
 ## Daniel Rodriguez
 
