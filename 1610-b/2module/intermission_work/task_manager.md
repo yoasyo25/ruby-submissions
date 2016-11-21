@@ -78,7 +78,7 @@
 
 ## Nick Gheorghita
 
-* GitHub Repo Link:
+* GitHub Repo Link: https://github.com/njgheorghita/task_manager
 
 ## Robbie Smith
 
