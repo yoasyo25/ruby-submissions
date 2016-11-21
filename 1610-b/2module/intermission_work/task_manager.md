@@ -26,7 +26,7 @@
 
 ## Drew Palazzari
 
-* GitHub Repo Link:
+* GitHub Repo Link: https://github.com/Dpalazzari/task_manager
 
 ## Eric Wahlgren-Sauro
 
