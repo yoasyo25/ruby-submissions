@@ -18,7 +18,7 @@
 
 ## Daniel Rodriguez
 
-* GitHub Repo Link:
+* GitHub Repo Link: https://github.com/drod1000/task_manager
 
 ## David Knott
 
