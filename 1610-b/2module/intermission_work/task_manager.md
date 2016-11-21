@@ -2,7 +2,7 @@
 
 ## Name: Amy Kintner
 
-* GitHub Repo Link:
+* GitHub Repo Link:https://github.com/akintner/task_manager_AK
 
 ## Ann Wolff
 
