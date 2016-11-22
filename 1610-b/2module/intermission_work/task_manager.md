@@ -74,7 +74,7 @@
 
 ## Nick Erhardt
 
-* GitHub Repo Link:
+* GitHub Repo Link: https://github.com/ski-climb/task-manager
 
 ## Nick Gheorghita
 
