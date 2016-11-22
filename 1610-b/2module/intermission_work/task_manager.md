@@ -38,7 +38,7 @@
 
 ## Jason Conrad
 
-* GitHub Repo Link:
+* GitHub Repo Link: https://github.com/jdconrad89/task_manager
 
 ## Jesse Shipley
 
