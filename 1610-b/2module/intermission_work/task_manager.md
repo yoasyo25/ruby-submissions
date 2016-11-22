@@ -30,7 +30,7 @@
 
 ## Eric Wahlgren-Sauro
 
-* GitHub Repo Link:
+* GitHub Repo Link: https://github.com/cews7/task_manager
 
 ## Ethan Bennett
 
