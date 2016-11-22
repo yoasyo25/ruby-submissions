@@ -97,8 +97,8 @@
 
 ## Nick Gheorghita
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/njgheorghita/website
+* Personal Site URL: www.nickgheorghita.com
 
 ## Robbie Smith
 
