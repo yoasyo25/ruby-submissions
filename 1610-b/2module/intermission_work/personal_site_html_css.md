@@ -92,8 +92,8 @@
 
 ## Nick Erhardt
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/ski-climb/ski-climb.github.io
+* Personal Site URL: https://ski-climb.github.io/
 
 ## Nick Gheorghita
 
