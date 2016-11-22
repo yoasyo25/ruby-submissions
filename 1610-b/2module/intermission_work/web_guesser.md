@@ -22,7 +22,7 @@
 
 ## David Knott
 
-* GitHub Repo Link:
+* GitHub Repo Link:https://github.com/DavidKnott/web_guesser
 
 ## Drew Palazzari
 
