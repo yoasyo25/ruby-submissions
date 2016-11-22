@@ -62,8 +62,8 @@
 
 ## Josh Cohen
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/Daleon/Daleon.github.io
+* Personal Site URL:  https://daleon.github.io/
 
 ## Laszlo Balogh
 
