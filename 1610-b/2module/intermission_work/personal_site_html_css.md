@@ -77,8 +77,8 @@
 
 ## Marisa Burton
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/MarisaMBurton/marisamburton.github.io
+* Personal Site URL: https://marisamburton.github.io/
 
 ## Molly Brown
 
