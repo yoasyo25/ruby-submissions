@@ -22,7 +22,7 @@
 
 ## David Knott
 
-* GitHub Repo Link:
+* GitHub Repo Link:https://github.com/DavidKnott/task_manager
 
 ## Drew Palazzari
 
