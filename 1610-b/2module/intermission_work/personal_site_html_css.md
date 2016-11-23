@@ -17,8 +17,8 @@
 
 ## Caroline Powell
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/CPowell23/CPowell23.github.io
+* Personal Site URL: https://cpowell23.github.io/
 
 ## Daniel Rodriguez
 
