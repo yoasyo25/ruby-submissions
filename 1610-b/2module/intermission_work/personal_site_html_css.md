@@ -27,8 +27,8 @@
 
 ## David Knott
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/DavidKnott/davidknott.github.io
+* Personal Site URL: https://davidknott.github.io
 
 ## Drew Palazzari
 
