@@ -1,6 +1,6 @@
 ## Assessed By: Beth Sebian
 
-# Repo: https://github.com/themenintights/jg_beats
+## Repo: https://github.com/themenintights/jg_beats
 
 ## Notes:
 * Completed iteration 2, 3 has bugs
