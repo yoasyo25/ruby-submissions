@@ -1,6 +1,8 @@
-## Assessed By:
+## Assessed By: Nate
 
 ## Notes:
+
+- Project not complete enough to grade
 
 ## Scores:
 
@@ -13,7 +15,7 @@ The project will be assessed with the following rubric:
 * 4: Application fulfills all base expectations and two extensions
 * 3: Application fulfills all base expectations
 * 2: Application is missing one base expectation
-* 1: Application is missing more than one base expectation
+* **1: Application is missing more than one base expectation**
 
 ### 2. Test-Driven Development
 
