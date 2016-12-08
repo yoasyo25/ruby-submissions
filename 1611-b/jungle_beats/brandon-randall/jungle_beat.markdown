@@ -1,6 +1,8 @@
-## Assessed By: Beth Sebian
+## Assessed By
+Beth Sebian
 
-## Repo: https://github.com/brandonrandall/jungle_beat.git
+## Repo
+https://github.com/brandonrandall/jungle_beat.git
 
 ## Notes:
 * Finished through i6
