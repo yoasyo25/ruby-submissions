@@ -62,7 +62,7 @@ Outline:
 
 
 
-Courtney Meyerhofer:
+Courtney Meyerhofer: how interferometers work
 
 Outline:
 
