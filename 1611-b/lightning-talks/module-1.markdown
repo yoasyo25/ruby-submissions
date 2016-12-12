@@ -92,7 +92,7 @@ Outline:
 
 
 
-Katy Farmer:
+Katy Farmer: How to Play the Trumpet Indoors
 
 Outline:
 
