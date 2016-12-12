@@ -38,7 +38,7 @@ Outline:
 
 
 
-Casey Macauley:
+Casey Macaulay: Design Thinking/Human Centered Design
 
 Outline:
 
