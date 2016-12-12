@@ -49,7 +49,7 @@ Outline:
 
 
 
-Christopher Dale:
+Christopher Dale:   "Courage and the use of one liners"
 
 Outline:
 
