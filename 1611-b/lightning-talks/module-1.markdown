@@ -28,14 +28,13 @@ Outline:
 
 Beth Knight:
 
+Outline: 
+
+
+
+Brandon Randall: Coaching and training youth athletics
+
 Outline:
-
-
-
-Brandon Randall:
-
-Outline:
-
 
 
 Casey Macauley:
