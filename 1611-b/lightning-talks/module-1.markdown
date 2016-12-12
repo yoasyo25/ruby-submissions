@@ -26,9 +26,10 @@ Outline:
 
 
 
-Beth Knight:
+Beth Knight: Use viewcontroller to create a simple iphone app in under 5 minutes!
 
 Outline: 
+
 
 
 
