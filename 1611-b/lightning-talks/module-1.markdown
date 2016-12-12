@@ -99,9 +99,9 @@ Outline:
 
 
 
-Ken Lee:
+Ken Lee: Grants for school while unempolyed
 
-Outline: Grants for school while unempolyed
+Outline: 
 
 
 
