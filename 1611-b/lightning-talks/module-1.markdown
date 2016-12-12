@@ -127,7 +127,7 @@ Outline:
 
 
 
-Ryan Spink:
+Ryan Spink: Cooking with an Immersion Circulator
 
 Outline:
 
