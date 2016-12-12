@@ -64,7 +64,7 @@ Outline:
 
 Courtney Meyerhofer: how interferometers work
 
-Outline:
+Outline: https://gist.github.com/meyerhoferc/6e2913a35157322f46dd06cb9080316a
 
 
 
