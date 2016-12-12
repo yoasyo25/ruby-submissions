@@ -110,9 +110,9 @@ Outline:
 
 
 
-Mark Van Akkeren:
+Mark Van Akkeren: (topic) The slow way to greater holistic well being (<-- likely to change but the gist of it) 
 
-Outline:
+Outline: 
 
 
 
