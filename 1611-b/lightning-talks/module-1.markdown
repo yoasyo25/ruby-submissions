@@ -20,7 +20,7 @@ Outline:
 
 
 
-Bailey Ward:
+Bailey Ward: Honey Badgers
 
 Outline:
 
@@ -28,11 +28,11 @@ Outline:
 
 Beth Knight:
 
-Outline:
+Outline: 
 
 
 
-Brandon Randall:
+Brandon Randall: Coaching and training youth athletics
 
 Outline:
 
@@ -50,7 +50,7 @@ Outline:
 
 
 
-Christopher Dale:
+Christopher Dale:   "Courage and the use of one liners"
 
 Outline:
 
@@ -62,7 +62,7 @@ Outline:
 
 
 
-Courtney Meyerhofer:
+Courtney Meyerhofer: how interferometers work
 
 Outline:
 
@@ -74,7 +74,7 @@ Daniel Olson:
 Outline:
 
 
-Edilene Cruz:
+Edilene Cruz: Habitica(and maybe others productivity apps)
 
 Outline:
 
@@ -100,7 +100,7 @@ Outline:
 
 Ken Lee:
 
-Outline:
+Outline: Grants for school while unempolyed
 
 
 
@@ -110,9 +110,9 @@ Outline:
 
 
 
-Mark Van Akkeren:
+Mark Van Akkeren: (topic) The slow way to greater holistic well being (<-- likely to change but the gist of it) 
 
-Outline:
+Outline: 
 
 
 
@@ -128,7 +128,7 @@ Outline:
 
 
 
-Ryan Spink:
+Ryan Spink: Cooking with an Immersion Circulator
 
 Outline:
 
