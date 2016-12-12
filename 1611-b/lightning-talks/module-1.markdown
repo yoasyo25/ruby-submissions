@@ -117,10 +117,9 @@ Outline:
 
 
 
-Max Glassie:
+Max Glassie: The Best Way to Learn Chinese Characters
 
 Outline:
-
 
 
 Phyllis Hugnien:
