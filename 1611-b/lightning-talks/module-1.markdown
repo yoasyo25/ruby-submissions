@@ -3,7 +3,7 @@ Alex Fosco:
 Outline:
 
 
-Amara Lovato:
+Amara Lovato: Do you really wanna go to a resort for your vacation?
 
 Outline:
 
