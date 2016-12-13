@@ -151,7 +151,7 @@ Outline:
 
 
 
-Spencer Carter:
+Spencer Carter:History of Garden Gnomes
 
 Outline:
 
