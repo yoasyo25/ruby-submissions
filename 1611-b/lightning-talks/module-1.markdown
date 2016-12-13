@@ -157,7 +157,7 @@ Outline:
 
 
 
-Valerie Trudell:
+Valerie Trudell: Security features for macbook laptops
 
 Outline:
 
