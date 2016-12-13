@@ -57,7 +57,7 @@ Outline:
 
 
 
-Cody Borders:
+Cody Borders: Deep work -- the skill of minimizing distraction when working on cognitively demanding tasks
 
 Outline:
 
