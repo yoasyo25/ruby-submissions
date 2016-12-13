@@ -141,7 +141,7 @@ Outline:
 
 
 
-Seth Moser:
+Seth Moser: Rubik's Cube
 
 Outline:
 
