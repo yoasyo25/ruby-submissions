@@ -3,12 +3,12 @@ Alex Fosco:
 Outline:
 
 
-Amara Lovato:
+Amara Lovato: Do you really wanna go to a resort for your vacation?
 
 Outline:
 
 
-Andrew Wooten:
+Andrew Wooten:Health Benefits of Eastern Spices
 
 Outline:
 
@@ -20,25 +20,26 @@ Outline:
 
 
 
-Bailey Ward:
+Bailey Ward: Honey Badgers
 
 Outline:
 
 
 
-Beth Knight:
+Beth Knight: Use viewcontroller to create a simple iphone app in under 5 minutes!
+
+Outline: 
+
+
+
+
+Brandon Randall: Coaching and training youth athletics
 
 Outline:
 
 
 
-Brandon Randall:
-
-Outline:
-
-
-
-Casey Macauley:
+Casey Macaulay: Design Thinking/Human Centered Design
 
 Outline:
 
@@ -50,39 +51,44 @@ Outline:
 
 
 
-Christopher Dale:
+Christopher Dale:   "Courage and the use of one liners"
 
 Outline:
 
 
 
-Cody Borders:
+Cody Borders: Deep work -- the skill of minimizing distraction when working on cognitively demanding tasks
 
 Outline:
 
 
 
-Courtney Meyerhofer:
+Courtney Meyerhofer: how interferometers work
+
+Outline: https://gist.github.com/meyerhoferc/6e2913a35157322f46dd06cb9080316a
+
+
+
+
+Daniel Olson: Sushi
+
+Outline:
+
+
+Edilene Cruz: Habitica(and maybe others productivity apps)
 
 Outline:
 
 
 
-
-Daniel Olson:
-
-Outline:
-
-
-Edilene Cruz:
+Gregory Taylor: Lightning
 
 Outline:
 
 
+James Anderson: Travel guide to Arabia
 
-Gregory Taylor:
-
-Outline:
+Outline
 
 
 
@@ -92,34 +98,33 @@ Outline:
 
 
 
-Katy Farmer:
+Katy Farmer: How to Play the Trumpet Indoors
 
 Outline:
 
 
 
-Ken Lee:
+Ken Lee: Grants for school while unempolyed
+
+Outline: 
+
+
+
+Maria Stenquist: Sugar on the Brain (why this is bad). 
 
 Outline:
 
 
 
-Maria Stenquist:
+Mark Van Akkeren: (topic) The slow way to greater holistic well being (<-- likely to change but the gist of it) 
+
+Outline: 
+
+
+
+Max Glassie: The Best Way to Learn Chinese Characters
 
 Outline:
-
-
-
-Mark Van Akkeren:
-
-Outline:
-
-
-
-Max Glassie:
-
-Outline:
-
 
 
 Phyllis Hugnien:
@@ -128,7 +133,7 @@ Outline:
 
 
 
-Ryan Spink:
+Ryan Spink: Cooking with an Immersion Circulator
 
 Outline:
 
@@ -140,19 +145,19 @@ Outline:
 
 
 
-Seth Moser:
+Seth Moser: Rubik's Cube
 
 Outline:
 
 
 
-Spencer Carter:
+Spencer Carter:History of Garden Gnomes
 
 Outline:
 
 
 
-Valerie Trudell:
+Valerie Trudell: Security features for macbook laptops
 
 Outline:
 
