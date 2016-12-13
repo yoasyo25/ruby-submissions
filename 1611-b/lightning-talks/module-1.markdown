@@ -110,7 +110,7 @@ Outline:
 
 
 
-Maria Stenquist:
+Maria Stenquist: Sugar on the Brain (why this is bad). 
 
 Outline:
 
