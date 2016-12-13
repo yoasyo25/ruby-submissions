@@ -81,7 +81,7 @@ Outline:
 
 
 
-Gregory Taylor:
+Gregory Taylor: Lightning
 
 Outline:
 
