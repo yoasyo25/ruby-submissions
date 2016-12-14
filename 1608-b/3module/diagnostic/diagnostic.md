@@ -22,7 +22,7 @@ repo: https://github.com/Cdunagan05/mid_mod
 repo:
 
 ### David Junta
-repo:  https://github.com/dijital2016/module_3_diagnostic
+repo:
 
 ### Erin Pintozzi
 repo:
@@ -31,7 +31,7 @@ repo:
 repo: https://github.com/JStans12/module_3_diagnostic
 
 ### Jon Kimble
-repo:
+repo: https://github.com/jbkimble/module_3_diagnostic
 
 ### Matt DeMarteau
 repo: git@github.com:MDes41/mod_3_diagnostic.git
@@ -40,7 +40,7 @@ repo: git@github.com:MDes41/mod_3_diagnostic.git
 repo: https://github.com/meganft/module_3_diagnostic
 
 ### Michael Sherer
-repo:
+repo: https://github.com/mscherer11/module_3_diagnostic
 
 ### Nicholas Martinez
 repo:
