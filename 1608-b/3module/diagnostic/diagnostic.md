@@ -16,7 +16,7 @@ repo: https://github.com/antciccone/module_3_diagnostic
 repo:
 
 ### Chase Dunagan
-repo:
+repo: https://github.com/Cdunagan05/mid_mod
 
 ### Daniel Shin
 repo:
@@ -25,7 +25,7 @@ repo:
 repo:  https://github.com/dijital2016/module_3_diagnostic
 
 ### Erin Pintozzi
-repo: https://github.com/epintozzi/module_3_diagnostic
+repo:
 
 ### Joey Stansfield
 repo: https://github.com/JStans12/module_3_diagnostic
