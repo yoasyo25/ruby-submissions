@@ -10,7 +10,7 @@ repo:
 repo:
 
 ### Anthony Ciccone
-repo:
+repo: https://github.com/antciccone/module_3_diagnostic
 
 ### Ben Pepper
 repo: https://github.com/bfpepper/module_3_diagnostic
