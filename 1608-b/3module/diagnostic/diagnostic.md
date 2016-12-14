@@ -13,7 +13,7 @@ repo:
 repo:
 
 ### Ben Pepper
-repo: https://github.com/bfpepper/module_3_diagnostic
+repo:
 
 ### Chase Dunagan
 repo:
@@ -40,7 +40,7 @@ repo:
 repo:
 
 ### Michael Sherer
-repo: https://github.com/mscherer11/module_3_diagnostic
+repo:
 
 ### Nicholas Martinez
 repo:
@@ -50,6 +50,9 @@ repo:
 
 ### Ryan Travitz
 repo:
+
+### Lee Saville
+repo: https://github.com/lsaville/module_3_diagnostic
 
 ### Vido Seaver
 repo:
