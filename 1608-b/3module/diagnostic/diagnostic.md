@@ -28,7 +28,7 @@ repo:  https://github.com/dijital2016/module_3_diagnostic
 repo:
 
 ### Joey Stansfield
-repo:
+repo: https://github.com/JStans12/module_3_diagnostic
 
 ### Jon Kimble
 repo:
