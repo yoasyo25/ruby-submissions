@@ -13,7 +13,7 @@ repo: https://github.com/annadolan/module_3_diagnostic
 repo: https://github.com/antciccone/module_3_diagnostic
 
 ### Ben Pepper
-repo:
+repo: https://github.com/bfpepper/module_3_diagnostic
 
 ### Chase Dunagan
 repo: https://github.com/Cdunagan05/mid_mod
@@ -22,13 +22,13 @@ repo: https://github.com/Cdunagan05/mid_mod
 repo: https://github.com/dshinzie/module_3_diagnostic
 
 ### David Junta
-repo:
+repo: https://github.com/dijital2016/module_3_diagnostic
 
 ### Erin Pintozzi
-repo:
+repo: https://github.com/epintozzi/module_3_diagnostic
 
 ### Joey Stansfield
-repo:
+repo: https://github.com/JStans12/module_3_diagnostic
 
 ### Jon Kimble
 repo: https://github.com/jbkimble/module_3_diagnostic
@@ -43,7 +43,7 @@ repo: https://github.com/meganft/module_3_diagnostic
 repo: https://github.com/mscherer11/module_3_diagnostic
 
 ### Nicholas Martinez
-repo:
+repo: https://github.com/NZenitram/module_3_diagnostic.git
 
 ### Noah Berman
 repo: [mod3 diagnostic](https://github.com/bermannoah/module_3_diagnostic)
@@ -55,7 +55,7 @@ repo: https://github.com/rtravitz/module_3_diagnostic
 repo: https://github.com/lsaville/module_3_diagnostic
 
 ### Vido Seaver
-repo:
+repo: https://github.com/vidoseaver/module_3_diagnostic
 
 ### Brad Green
 repo: https://github.com/bradgreen3/module_3_diagnostic
