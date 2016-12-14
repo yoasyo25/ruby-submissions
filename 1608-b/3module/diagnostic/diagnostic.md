@@ -13,7 +13,7 @@ repo:
 repo:
 
 ### Ben Pepper
-repo: https://github.com/bfpepper/module_3_diagnostic
+repo:
 
 ### Chase Dunagan
 repo:
@@ -46,7 +46,7 @@ repo:
 repo:
 
 ### Noah Berman
-repo:
+repo: [mod3 diagnostic](https://github.com/bermannoah/module_3_diagnostic)
 
 ### Ryan Travitz
 repo:
