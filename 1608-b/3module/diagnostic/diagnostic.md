@@ -34,7 +34,7 @@ repo: https://github.com/JStans12/module_3_diagnostic
 repo:
 
 ### Matt DeMarteau
-repo:
+repo: git@github.com:MDes41/mod_3_diagnostic.git
 
 ### Megan Talbot
 repo: https://github.com/meganft/module_3_diagnostic
