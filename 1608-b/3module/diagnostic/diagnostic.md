@@ -37,7 +37,7 @@ repo:
 repo:
 
 ### Megan Talbot
-repo:
+repo: https://github.com/meganft/module_3_diagnostic
 
 ### Michael Sherer
 repo:
@@ -52,4 +52,4 @@ repo:
 repo:
 
 ### Vido Seaver
-repo: https://github.com/vidoseaver/module_3_diagnostic
+repo:
