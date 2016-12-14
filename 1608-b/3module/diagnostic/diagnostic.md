@@ -49,7 +49,7 @@ repo:
 repo:
 
 ### Ryan Travitz
-repo:
+repo: https://github.com/rtravitz/module_3_diagnostic
 
 ### Vido Seaver
 repo: https://github.com/vidoseaver/module_3_diagnostic
