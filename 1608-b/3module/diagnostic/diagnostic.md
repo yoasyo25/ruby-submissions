@@ -52,4 +52,4 @@ repo:
 repo:
 
 ### Vido Seaver
-repo:
+repo: https://github.com/vidoseaver/module_3_diagnostic
