@@ -19,7 +19,7 @@ repo:
 repo: https://github.com/Cdunagan05/mid_mod
 
 ### Daniel Shin
-repo:
+repo: https://github.com/dshinzie/module_3_diagnostic
 
 ### David Junta
 repo:
