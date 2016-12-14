@@ -4,7 +4,7 @@
 repo: https://github.com/AliSchlereth/module_3_diagnostic
 
 ### Alisher Sadikov
-repo:
+repo: https://github.com/alishersadikov/module_3_diagnostic
 
 ### Anna Dolan
 repo: https://github.com/annadolan/module_3_diagnostic
