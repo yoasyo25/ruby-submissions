@@ -46,7 +46,7 @@ repo:
 repo:
 
 ### Noah Berman
-repo:
+repo: [mod3 diagnostic](https://github.com/bermannoah/module_3_diagnostic)
 
 ### Ryan Travitz
 repo: https://github.com/rtravitz/module_3_diagnostic
