@@ -56,3 +56,6 @@ repo: https://github.com/lsaville/module_3_diagnostic
 
 ### Vido Seaver
 repo:
+
+### Brad Green
+repo: https://github.com/bradgreen3/module_3_diagnostic
