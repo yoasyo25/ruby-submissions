@@ -16,7 +16,7 @@ repo: https://github.com/antciccone/module_3_diagnostic
 repo: https://github.com/bfpepper/module_3_diagnostic
 
 ### Chase Dunagan
-repo:
+repo: https://github.com/dshinzie/module_3_diagnostic
 
 ### Daniel Shin
 repo:
