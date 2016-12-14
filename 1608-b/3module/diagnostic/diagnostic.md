@@ -13,7 +13,7 @@ repo:
 repo:
 
 ### Ben Pepper
-repo: https://github.com/bfpepper/module_3_diagnostic
+repo:
 
 ### Chase Dunagan
 repo:
@@ -34,13 +34,13 @@ repo:
 repo:
 
 ### Matt DeMarteau
-repo:
+repo: git@github.com:MDes41/mod_3_diagnostic.git
 
 ### Megan Talbot
 repo:
 
 ### Michael Sherer
-repo: https://github.com/mscherer11/module_3_diagnostic
+repo:
 
 ### Nicholas Martinez
 repo:
