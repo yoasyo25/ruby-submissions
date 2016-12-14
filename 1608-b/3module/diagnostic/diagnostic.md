@@ -13,7 +13,7 @@ repo:
 repo: https://github.com/antciccone/module_3_diagnostic
 
 ### Ben Pepper
-repo: https://github.com/bfpepper/module_3_diagnostic
+repo:
 
 ### Chase Dunagan
 repo:
@@ -50,6 +50,9 @@ repo:
 
 ### Ryan Travitz
 repo: https://github.com/rtravitz/module_3_diagnostic
+
+### Lee Saville
+repo: https://github.com/lsaville/module_3_diagnostic
 
 ### Vido Seaver
 repo: https://github.com/vidoseaver/module_3_diagnostic
