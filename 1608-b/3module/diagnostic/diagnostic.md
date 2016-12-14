@@ -1,7 +1,7 @@
 ## Module 3 Diagnostic Submissions
 
 ### Ali Schlereth
-repo:
+repo: https://github.com/AliSchlereth/module_3_diagnostic
 
 ### Alisher Sadikov
 repo:
@@ -22,13 +22,13 @@ repo:
 repo:
 
 ### David Junta
-repo:  https://github.com/dijital2016/module_3_diagnostic
+repo:
 
 ### Erin Pintozzi
 repo:
 
 ### Joey Stansfield
-repo: https://github.com/JStans12/module_3_diagnostic
+repo:
 
 ### Jon Kimble
 repo:
@@ -40,7 +40,7 @@ repo:
 repo:
 
 ### Michael Sherer
-repo:
+repo: https://github.com/mscherer11/module_3_diagnostic
 
 ### Nicholas Martinez
 repo:
