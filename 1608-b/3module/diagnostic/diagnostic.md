@@ -25,7 +25,7 @@ repo:
 repo:  https://github.com/dijital2016/module_3_diagnostic
 
 ### Erin Pintozzi
-repo:
+repo: https://github.com/epintozzi/module_3_diagnostic
 
 ### Joey Stansfield
 repo: https://github.com/JStans12/module_3_diagnostic
