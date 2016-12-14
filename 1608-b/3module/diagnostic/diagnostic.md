@@ -22,7 +22,7 @@ repo:
 repo:
 
 ### David Junta
-repo:
+repo:  https://github.com/dijital2016/module_3_diagnostic
 
 ### Erin Pintozzi
 repo:
@@ -40,7 +40,7 @@ repo:
 repo:
 
 ### Michael Sherer
-repo: https://github.com/mscherer11/module_3_diagnostic
+repo:
 
 ### Nicholas Martinez
 repo:
