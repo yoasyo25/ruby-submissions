@@ -139,12 +139,6 @@ Outline:
 
 
 
-Sean OHara:
-
-Outline:
-
-
-
 Seth Moser: Rubik's Cube
 
 Outline:
