@@ -3,7 +3,10 @@ Assessed By: Ilana
 Repo: https://github.com/codyborders/enigma
 
 Notes:
-- 
+- had zero tests
+- had one method that did everything
+- talked about refactoring and running the file properly
+- they are going to write tests and try to make the file work correctly by monday
 
 ### 1. Overall Functionality
 
