@@ -45,7 +45,7 @@ Outline:
 
 
 
-Charlotte Moore:
+Charlotte Moore: The Antikythera Mechanism
 
 Outline:
 
