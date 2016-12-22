@@ -1,18 +1,18 @@
-Assessed By:
+Assessed By: Beth Sebian
 
-Repo:
+Repo: https://github.com/markyv18/battleship.git
 
 Notes:
 
 
 ### 1. Fundamental Ruby & Style
-
 * 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
-* 3:  Application shows strong effort towards organization, content, and refactoring
+* 3:  **Application shows strong effort towards organization, content, and refactoring**
 * 2:  Application runs but the code has many long methods (>8 lines) and needs significant refactoring
 * 1:  Application generates syntax error or crashes during execution
 
 ### 2. Enumerable & Collections
+**n/a**
 
 * 4: Application consistently makes use of the best-choice Enumerable methods
 * 3: Application demonstrates comfortable use of several Enumerable techniques
@@ -23,7 +23,7 @@ Notes:
 
 * 4: Application is broken into components which are well tested in both isolation and integration
 * 3: Application is well tested but does not balance isolation and integration tests
-* 2: Application makes some use of tests, but the coverage is insufficient
+* 2: **Application makes some use of tests, but the coverage is insufficient**
 * 1: Application does not demonstrate strong use of TDD
 
 ### 4. REPL Interface
