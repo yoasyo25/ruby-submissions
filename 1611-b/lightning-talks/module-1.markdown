@@ -45,7 +45,7 @@ Outline:
 
 
 
-Charlotte Moore:
+Charlotte Moore: The Antikythera Mechanism
 
 Outline:
 
@@ -134,12 +134,6 @@ Outline:
 
 
 Ryan Spink: Cooking with an Immersion Circulator
-
-Outline:
-
-
-
-Sean OHara:
 
 Outline:
 
