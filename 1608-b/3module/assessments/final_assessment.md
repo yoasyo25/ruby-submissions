@@ -37,7 +37,7 @@ repo:
 repo:
 
 ### Megan Talbot
-repo:
+repo: https://github.com/meganft/module_3_assessment
 
 ### Michael Sherer
 repo:
