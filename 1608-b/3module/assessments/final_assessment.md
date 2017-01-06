@@ -43,7 +43,7 @@ repo:
 repo: https://github.com/mscherer11/module_3_assessment
 
 ### Nicholas Martinez
-repo:
+repo: https://github.com/NZenitram/module_3_assessment
 
 ### Noah Berman
 repo: https://github.com/bermannoah/module_3_assessment
