@@ -46,7 +46,7 @@ repo: https://github.com/mscherer11/module_3_assessment
 repo:
 
 ### Noah Berman
-repo:
+repo: https://github.com/bermannoah/module_3_assessment
 
 ### Ryan Travitz
 repo:
