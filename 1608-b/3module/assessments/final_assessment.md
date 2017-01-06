@@ -55,7 +55,7 @@ repo: https://github.com/rtravitz/module_3_assessment
 repo: https://github.com/lsaville/module_3_assessment
 
 ### Vido Seaver
-repo:
+repo: https://github.com/vidoseaver/mod_3_final
 
 ### Brad Green
 repo:
