@@ -49,7 +49,7 @@ repo: https://github.com/NZenitram/module_3_assessment
 repo: https://github.com/bermannoah/module_3_assessment
 
 ### Ryan Travitz
-repo:
+repo: https://github.com/rtravitz/module_3_assessment
 
 ### Lee Saville
 repo: https://github.com/lsaville/module_3_assessment
