@@ -31,7 +31,7 @@ repo:
 repo: https://github.com/JStans12/module_3_assessment
 
 ### Jon Kimble
-repo:
+repo: https://github.com/jbkimble/module_3_assessment
 
 ### Matt DeMarteau
 repo:
