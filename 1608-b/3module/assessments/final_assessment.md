@@ -4,13 +4,13 @@
 repo: https://github.com/AliSchlereth/module_3_assessment
 
 ### Alisher Sadikov
-repo:
+repo: https://github.com/alishersadikov/module_3_assessment
 
 ### Anna Dolan
 repo: https://github.com/annadolan/module_3_assessment
 
 ### Anthony Ciccone
-repo:
+repo: https://github.com/antciccone/module_3_assessment
 
 ### Ben Pepper
 repo:
@@ -58,4 +58,4 @@ repo: https://github.com/lsaville/module_3_assessment
 repo: https://github.com/vidoseaver/mod_3_final
 
 ### Brad Green
-repo:
+repo: https://github.com/bradgreen3/module_3_assessment
