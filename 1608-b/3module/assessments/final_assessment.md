@@ -19,7 +19,7 @@ repo:
 repo:https://github.com/Cdunagan05/mod_3_final
 
 ### Daniel Shin
-repo:
+repo: https://github.com/dshinzie/module_3_assessment
 
 ### David Junta
 repo: https://github.com/dijital2016/module_3_assessment
