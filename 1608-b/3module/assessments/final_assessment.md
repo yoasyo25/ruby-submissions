@@ -37,7 +37,7 @@ repo: https://github.com/jbkimble/module_3_assessment
 repo:
 
 ### Megan Talbot
-repo:
+repo: https://github.com/meganft/module_3_assessment
 
 ### Michael Sherer
 repo: https://github.com/mscherer11/module_3_assessment
