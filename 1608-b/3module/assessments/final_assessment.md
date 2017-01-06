@@ -25,7 +25,7 @@ repo:
 repo:
 
 ### Erin Pintozzi
-repo:
+repo: https://github.com/epintozzi/module_3_assessment
 
 ### Joey Stansfield
 repo:
