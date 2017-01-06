@@ -19,7 +19,7 @@ repo:
 repo:
 
 ### Daniel Shin
-repo:
+repo: https://github.com/dshinzie/module_3_assessment
 
 ### David Junta
 repo:
