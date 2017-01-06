@@ -13,7 +13,7 @@ repo: https://github.com/annadolan/module_3_assessment
 repo: https://github.com/antciccone/module_3_assessment
 
 ### Ben Pepper
-repo:
+repo: https://github.com/bfpepper/module_3_assessment
 
 ### Chase Dunagan
 repo:https://github.com/Cdunagan05/mod_3_final
@@ -34,7 +34,7 @@ repo: https://github.com/JStans12/module_3_assessment
 repo: https://github.com/jbkimble/module_3_assessment
 
 ### Matt DeMarteau
-repo:
+repo: https://github.com/MDes41/mod_3_assessment
 
 ### Megan Talbot
 repo: https://github.com/meganft/module_3_assessment
