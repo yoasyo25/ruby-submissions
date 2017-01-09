@@ -1,85 +1,85 @@
-# Submisssions
+# Submissions:
 
-## Name: Amy Kintner
+## Alex Fosco
 
-* GitHub Repo Link: https://github.com/akintner/web_guesser
+* Github Repo Link:
 
-## Ann Wolff
+## Amara Lovato
 
-* GitHub Repo Link: https://github.com/wlffann/web_guesser
+* Github Repo Link:
 
-## Brett Rivers
+## Andrew Wooten
 
-* GitHub Repo Link: https://github.com/riverswb/web_guesser
+* Github Repo Link:
 
-## Caroline Powell
+## Ashley Schauer
 
-* GitHub Repo Link: https://github.com/CPowell23/web_guesser
+* Github Repo Link:
 
-## Daniel Rodriguez
+## Brandon Randall
 
-* GitHub Repo Link: https://github.com/drod1000/web_guesser
+* Github Repo Link:
 
-## David Knott
+## Beth Knight
 
-* GitHub Repo Link:https://github.com/DavidKnott/web_guesser
+* Github Repo Link:
 
-## Drew Palazzari
+## Casey Macaulay
 
-* GitHub Repo Link: https://github.com/Dpalazzari/web_guesser
+* Github Repo Link:
 
-## Eric Wahlgren-Sauro
+## Charlotte Moore
 
-* GitHub Repo Link: https://github.com/cews7/web_guesser
+* Github Repo Link:
 
-## Ethan Bennett
+## Cody Borders
 
-* GitHub Repo Link: https://github.com/ethanbennett/web_guesser
+* Github Repo Link:
 
-## Jason Conrad
+## Courtney Meyerhofer
 
-* GitHub Repo Link: https://github.com/jdconrad89/web_guesser
+* Github Repo Link:
 
-## Jesse Shipley
+## Daniel Olson
 
-* GitHub Repo Link: https://github.com/Sh1pley/web_guesser
+* Github Repo Link:
 
-## Kyle Heppenstall
+## Edilene Cruz
 
-* GitHub Repo Link: https://github.com/kheppenstall/web_guesser
+* Github Repo Link:
 
-## Josh Cohen
+## Gregory Taylor
 
-* GitHub Repo Link: https://github.com/Daleon/Web-Guesser
+* Github Repo Link:
 
-## Laszlo Balogh
+## James Anderson
 
-* GitHub Repo Link: https://github.com/Laszlo-JFLMTCO/mod2pre_web_guesser
+* Github Repo Link:
 
-## Lucy Conklin
+## Jonthan Serrano
 
-* GitHub Repo Link: https://github.com/lucyconklin/webguesser
+* Github Repo Link:
 
-## Marisa Burton
+## Katy Farmer
 
-* GitHub Repo Link: https://github.com/MarisaMBurton/web-guesser
+* Github Repo Link:
 
-## Molly Brown
+## Maria Stenquist
 
-* GitHub Repo Link: https://github.com/mollybrown/web_guesser
+* Github Repo Link:
 
-## Michael Schutte
+## Max Glassie
 
-* GitHub Repo Link: https://github.com/tmikeschu/web_guesser
+* Github Repo Link:
 
-## Nick Erhardt
+## Ryan Spink
 
-* GitHub Repo Link: https://github.com/ski-climb/web_guesser
+* Github Repo Link:
 
-## Nick Gheorghita
+## Spencer Carter
 
-* GitHub Repo Link: https://github.com/njgheorghita/web_server
+* Github Repo Link:
 
-## Robbie Smith
+## Valerie Trudell
 
-* GitHub Repo Link: https://github.com/Robbie-Smith/Web-Guesser.git
+* Github Repo Link:

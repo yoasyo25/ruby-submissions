@@ -1,106 +1,106 @@
-# Submisssions
+# Submissions
 
-## Name: Amy Kintner
+## Alex Fosco
 
-* Personal Site GitHub Repo Link:https://github.com/akintner/akintner.github.io
-* Personal Site URL:https://akintner.github.io
+* Personal Site GitHub Repo Link:
+* Personal Site URL:
 
-## Ann Wolff
+## Amara Lovato
 
-* Personal Site GitHub Repo Link: https://github.com/wlffann/wlffann.github.io
-* Personal Site URL: https://wlffann.github.io/
+* Personal Site GitHub Repo Link:
+* Personal Site URL:
 
-## Brett Rivers
+## Andrew Wooten
 
-* Personal Site GitHub Repo Link: https://github.com/riverswb/riverswb.github.io
-* Personal Site URL: https://riverswb.github.io/index.html
+* Personal Site GitHub Repo Link:
+* Personal Site URL:
 
-## Caroline Powell
+## Ashley Schauer
 
-* Personal Site GitHub Repo Link: https://github.com/CPowell23/CPowell23.github.io
-* Personal Site URL: https://cpowell23.github.io/
+* Personal Site GitHub Repo Link:
+* Personal Site URL:
 
-## Daniel Rodriguez
+## Brandon Randall
 
-* Personal Site GitHub Repo Link: https://github.com/drod1000/drod1000.github.io
-* Personal Site URL: https://drod1000.github.io
+* Personal Site GitHub Repo Link:
+* Personal Site URL:
 
-## David Knott
+## Beth Knight
 
-* Personal Site GitHub Repo Link: https://github.com/DavidKnott/davidknott.github.io
-* Personal Site URL: https://davidknott.github.io
+* Personal Site GitHub Repo Link:
+* Personal Site URL:
 
-## Drew Palazzari
+## Casey Macaulay
 
-* Personal Site GitHub Repo Link:https://github.com/Dpalazzari/Dpalazzari.github.io
-* Personal Site URL:https://Dpalazzari.github.io
+* Personal Site GitHub Repo Link:
+* Personal Site URL:
 
-## Eric Wahlgren-Sauro
+## Charlotte Moore
 
-* Personal Site GitHub Repo Link: https://github.com/cews7/cews7.github.io
-* Personal Site URL: https://cews7.github.io/
+* Personal Site GitHub Repo Link:
+* Personal Site URL:
 
-## Ethan Bennett
+## Cody Borders
 
-* Personal Site GitHub Repo Link: https://github.com/ethanbennett/ethanbennett.github.io
-* Personal Site URL: https://ethanbennett.github.io
+* Personal Site GitHub Repo Link:
+* Personal Site URL:
 
-## Jason Conrad
+## Courtney Meyerhofer
 
-* Personal Site GitHub Repo Link: https://github.com/jdconrad89/jdconrad89.github.io
-* Personal Site URL: https://jdconrad89.github.io
+* Personal Site GitHub Repo Link:
+* Personal Site URL:
 
-## Jesse Shipley
+## Daniel Olson
 
-* Personal Site GitHub Repo Link: https://github.com/Sh1pley/Sh1pley.github.io
-* Personal Site URL: https://Sh1pley.github.io
+* Personal Site GitHub Repo Link:
+* Personal Site URL:
 
-## Kyle Heppenstall
+## Edilene Cruz
 
-* Personal Site GitHub Repo Link: https://github.com/kheppenstall/kheppenstall.github.io
-* Personal Site URL: https://kheppenstall.github.io
+* Personal Site GitHub Repo Link:
+* Personal Site URL:
 
-## Josh Cohen
+## Gregory Taylor
 
-* Personal Site GitHub Repo Link: https://github.com/Daleon/Daleon.github.io
-* Personal Site URL:  https://daleon.github.io/
+* Personal Site GitHub Repo Link:
+* Personal Site URL:
 
-## Laszlo Balogh
+## James Anderson
 
-* Personal Site GitHub Repo Link: https://github.com/Laszlo-JFLMTCO/laszlo-jflmtco.github.io
-* Personal Site URL: https://laszlo-jflmtco.github.io
+* Personal Site GitHub Repo Link:
+* Personal Site URL:
 
-## Lucy Conklin
+## Jonthan Serrano
 
-* Personal Site GitHub Repo Link: https://github.com/lucyconklin/lucyconklin.github.io
-* Personal Site URL:http://lucyconklin.github.io/
+* Personal Site GitHub Repo Link:
+* Personal Site URL:
 
-## Marisa Burton
+## Katy Farmer
 
-* Personal Site GitHub Repo Link: https://github.com/MarisaMBurton/marisamburton.github.io
-* Personal Site URL: https://marisamburton.github.io/
+* Personal Site GitHub Repo Link:
+* Personal Site URL:
 
-## Molly Brown
+## Maria Stenquist
 
-* Personal Site GitHub Repo Link: https://github.com/mollybrown/mollybrown.github.io
-* Personal Site URL: https://mollybrown.github.io/
+* Personal Site GitHub Repo Link:
+* Personal Site URL:
 
-## Michael Schutte
+## Max Glassie
 
-* Personal Site GitHub Repo Link: https://github.com/tmikeschu/tmikeschu.github.io
-* Personal Site URL: https://tmikeschu.github.io/
+* Personal Site GitHub Repo Link:
+* Personal Site URL:
 
-## Nick Erhardt
+## Ryan Spink
 
-* Personal Site GitHub Repo Link: https://github.com/ski-climb/ski-climb.github.io
-* Personal Site URL: https://ski-climb.github.io/
+* Personal Site GitHub Repo Link:
+* Personal Site URL:
 
-## Nick Gheorghita
+## Spencer Carter
 
-* Personal Site GitHub Repo Link: https://github.com/njgheorghita/website
-* Personal Site URL: www.nickgheorghita.com
+* Personal Site GitHub Repo Link:
+* Personal Site URL:
 
-## Robbie Smith
+## Valerie Trudell
 
-* Personal Site GitHub Repo Link: https://github.com/Robbie-Smith/robbie-smith.github.io.git
-* Personal Site URL:https://robbie-smith.github.io
+* Personal Site GitHub Repo Link:
+* Personal Site URL:
