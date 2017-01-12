@@ -36,4 +36,4 @@ The project will be assessed with the following guidelines:
 
 The output from `rake sanitation:all` shows...
 
-* 3: Five or fewer complaints
+* 4: Zero Complaints
