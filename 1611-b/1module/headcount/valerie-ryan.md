@@ -1,8 +1,12 @@
-Assessed By:
+Assessed By: Mike 
 
-Repo:
+Repo: https://github.com/valerietrudell/Head_Count
 
 Notes:
+
+* Finished up to iteration 3
+* Spec harness unable to run 
+* Many opportunities to refactor, long methods
 
 ## Evaluation Rubric
 
