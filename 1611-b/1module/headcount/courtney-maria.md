@@ -5,11 +5,10 @@ Repo: https://github.com/meyerhoferc/headcount
 Self-Evaluation: https://gist.github.com/meyerhoferc/68b350215b57a4ca1779f37847b1c686
 
 Notes:
-* One crash on 5 spec harness, otherwise passing through 5
+* One crash on 5 spec harness, otherwise passing through 5. Process for exploring crash and resolving is sound and thus test failure forgiven
 * Really strong test suite
 * Some opportunities to refactor long methods, over ruby style is really strong
-* 
-
+* Great use of enumerables
 
 ## Evaluation Rubric
 
