@@ -1,20 +1,19 @@
-## Assessed By:
+Assessed By:
 
-## Notes:
+Repo:
 
-## Scores:
-
+Notes:
 
 ## Evaluation Rubric
 
-The project will be assessed with the following rubric:
+The project will be assessed with the following guidelines:
 
 ### 1. Functional Expectations
 
-* 4: Application fulfills all base expectations and the one extension
-* 3: Application fulfills all base expectations
-* 2: Application is missing one base expectation
-* 1: Application is missing more than one base expectation
+* 4: Application fulfills all expectations of Iterations 0 - 6 *as well as* one additional, comparable Iteration of your own design.
+* 3: Application fulfills expectations of Iterations 0 - 4 *as well as* one of Iterations 5 or 6
+* 2: Application has some missing functionality but no crashes
+* 1: Application crashes during normal usage
 
 ### 2. Test-Driven Development
 
@@ -37,9 +36,18 @@ The project will be assessed with the following rubric:
 * 2:  Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
 * 1:  Application generates syntax error or crashes during execution
 
-### 5. Looping *or* Recursion
+### 5. Enumerable & Collections
 
-* 4: Application makes excellent use of loop/recursion techniques
-* 3: Application makes effective use of loop/recursion techniques
-* 2: Application has issues with loop/recursion techniques or mixes them inappropriately
-* 1: Application struggles to loop/recurse at all
+* 4: Application consistently makes use of the best-choice Enumerable methods
+* 3: Application demonstrates comfortable use of appropriate Enumerable methods
+* 2: Application demonstrates functional knowledge of Enumerable but only uses the most basic techniques
+* 1: Application demonstrates deficiencies with Enumerable and struggles with collections
+
+### 6. Code Sanitation
+
+The output from `rake sanitation:all` shows...
+
+* 4: Zero complaints
+* 3: Five or fewer complaints
+* 2: Six to ten complaints
+* 1: More than ten complaints
