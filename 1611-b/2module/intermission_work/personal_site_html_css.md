@@ -25,11 +25,6 @@
 * Personal Site GitHub Repo Link:
 * Personal Site URL:
 
-## Beth Knight
-
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
-
 ## Casey Macaulay
 
 * Personal Site GitHub Repo Link:
@@ -60,11 +55,6 @@
 * Personal Site GitHub Repo Link:
 * Personal Site URL:
 
-## Gregory Taylor
-
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
-
 ## James Anderson
 
 * Personal Site GitHub Repo Link:
@@ -76,11 +66,6 @@
 * Personal Site URL:
 
 ## Katy Farmer
-
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
-
-## Maria Stenquist
 
 * Personal Site GitHub Repo Link:
 * Personal Site URL:
