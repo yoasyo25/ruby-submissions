@@ -47,8 +47,8 @@
 
 ## Daniel Olson
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/blackknight75/blackknight75.github.io.git
+* Personal Site URL: https://blackknight75.github.io/
 
 ## Edilene Cruz
 
