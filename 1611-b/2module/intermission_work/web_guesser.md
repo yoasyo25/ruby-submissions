@@ -22,7 +22,7 @@
 
 ## Casey Macaulay
 
-* Github Repo Link:
+* Github Repo Link: https://github.com/cmacaulay/web-guesser
 
 ## Charlotte Moore
 
