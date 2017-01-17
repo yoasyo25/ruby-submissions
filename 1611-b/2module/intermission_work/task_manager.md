@@ -20,10 +20,6 @@
 
 * Github Repo Link:
 
-## Beth Knight
-
-* Github Repo Link:
-
 ## Casey Macaulay
 
 * Github Repo Link:
@@ -48,10 +44,6 @@
 
 * Github Repo Link:
 
-## Gregory Taylor
-
-* Github Repo Link:
-
 ## James Anderson
 
 * Github Repo Link:
@@ -61,10 +53,6 @@
 * Github Repo Link:
 
 ## Katy Farmer
-
-* Github Repo Link:
-
-## Maria Stenquist
 
 * Github Repo Link:
 
