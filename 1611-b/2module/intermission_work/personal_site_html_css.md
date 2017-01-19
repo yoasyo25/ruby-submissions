@@ -57,8 +57,8 @@
 
 ## James Anderson
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/ande1618/ande1618.github.io
+* Personal Site URL: https://ande1618.github.io/
 
 ## Jonthan Serrano
 
