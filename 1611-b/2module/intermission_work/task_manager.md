@@ -42,7 +42,7 @@
 
 ## Edilene Cruz
 
-* Github Repo Link:
+* Github Repo Link: https://github.com/edilenedacruz/task_manager
 
 ## James Anderson
 
