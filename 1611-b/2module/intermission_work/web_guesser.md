@@ -14,7 +14,7 @@
 
 ## Ashley Schauer
 
-* Github Repo Link:
+* Github Repo Link: https://github.com/AELSchauer/turing-web_guesser
 
 ## Brandon Randall
 
