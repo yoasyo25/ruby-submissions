@@ -30,7 +30,7 @@
 
 ## Cody Borders
 
-* Github Repo Link:
+* Github Repo Link: https://github.com/codyborders/web_guesser
 
 ## Courtney Meyerhofer
 
