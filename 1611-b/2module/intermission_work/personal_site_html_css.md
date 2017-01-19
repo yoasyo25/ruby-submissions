@@ -77,8 +77,8 @@
 
 ## Ryan Spink
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/Ryanspink1/ryanspink1.github.io
+* Personal Site URL: https://ryanspink1.github.io/
 
 ## Spencer Carter
 
