@@ -70,4 +70,4 @@
 
 ## Valerie Trudell
 
-* Github Repo Link:
+* Github Repo Link: https://github.com/valerietrudell/web_master
