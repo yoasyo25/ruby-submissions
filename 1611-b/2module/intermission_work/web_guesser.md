@@ -50,7 +50,7 @@
 
 ## Jonthan Serrano
 
-* Github Repo Link:
+* Github Repo Link: https://github.com/JonathanSR/Web-Guesser
 
 ## Katy Farmer
 
