@@ -58,7 +58,7 @@
 
 ## Max Glassie
 
-* Github Repo Link:
+* Github Repo Link: https://github.com/maxglassie/web_guesser.git
 
 ## Ryan Spink
 
