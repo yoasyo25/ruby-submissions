@@ -67,8 +67,8 @@
 
 ## Katy Farmer
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/TheKaterTot/thekatertot.github.io
+* Personal Site URL: thekatertot.github.io
 
 ## Max Glassie
 
