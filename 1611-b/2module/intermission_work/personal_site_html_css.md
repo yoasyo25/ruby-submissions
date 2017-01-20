@@ -7,8 +7,8 @@
 
 ## Amara Lovato
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/pixapi/pixapi.github.io
+* Personal Site URL: https://pixapi.github.io/
 
 ## Andrew Wooten
 
