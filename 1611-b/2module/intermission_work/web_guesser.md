@@ -18,7 +18,7 @@
 
 ## Brandon Randall
 
-* Github Repo Link:
+* Github Repo Link: https://github.com/brandonrandall/web_guesser
 
 ## Casey Macaulay
 
