@@ -42,8 +42,8 @@
 
 ## Courtney Meyerhofer
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/meyerhoferc/meyerhoferc.github.io
+* Personal Site URL: https://meyerhoferc.github.io/
 
 ## Daniel Olson
 
