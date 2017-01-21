@@ -26,7 +26,7 @@
 
 ## Charlotte Moore
 
-* Github Repo Link:
+* Github Repo Link:https://github.com/CjMoore/task_manager
 
 ## Cody Borders
 
