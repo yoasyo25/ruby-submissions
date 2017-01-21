@@ -32,8 +32,8 @@
 
 ## Charlotte Moore
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link:https://github.com/CjMoore/CjMoore.github.io
+* Personal Site URL:https://cjmoore.github.io/
 
 ## Cody Borders
 
