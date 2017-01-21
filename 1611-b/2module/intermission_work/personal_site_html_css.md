@@ -12,8 +12,8 @@
 
 ## Andrew Wooten
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link:https://github.com/andrewdwooten/andrewdwooten.github.io
+* Personal Site URL:https://andrewdwooten.github.io
 
 ## Ashley Schauer
 
