@@ -38,7 +38,7 @@
 
 ## Daniel Olson
 
-* Github Repo Link:
+* Github Repo Link: https://github.com/blackknight75/task_manager
 
 ## Edilene Cruz
 
