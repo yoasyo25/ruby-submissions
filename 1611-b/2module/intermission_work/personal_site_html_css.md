@@ -52,8 +52,8 @@
 
 ## Edilene Cruz
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/edilenedacruz/edilenedacruz.github.io
+* Personal Site URL: https://edilenedacruz.github.io/
 
 ## James Anderson
 
