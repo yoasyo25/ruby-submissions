@@ -2,7 +2,7 @@
 
 ## Alex Fosco
 
-* Github Repo Link:
+* Github Repo Link: https://github.com/alfosco/task_manager
 
 ## Amara Lovato
 
