@@ -6,7 +6,7 @@
 
 ## Amara Lovato
 
-* Github Repo Link:
+* Github Repo Link: https://github.com/pixapi/task_manager
 
 ## Andrew Wooten
 
