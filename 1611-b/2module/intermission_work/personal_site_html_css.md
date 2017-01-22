@@ -12,8 +12,8 @@
 
 ## Andrew Wooten
 
-* Personal Site GitHub Repo Link:https://github.com/andrewdwooten/andrewdwooten.github.io
-* Personal Site URL:https://andrewdwooten.github.io
+* Personal Site GitHub Repo Link: https://github.com/andrewdwooten/andrewdwooten.github.io
+* Personal Site URL: https://andrewdwooten.github.io
 
 ## Ashley Schauer
 
@@ -32,8 +32,8 @@
 
 ## Charlotte Moore
 
-* Personal Site GitHub Repo Link:https://github.com/CjMoore/CjMoore.github.io
-* Personal Site URL:https://cjmoore.github.io/
+* Personal Site GitHub Repo Link: https://github.com/CjMoore/CjMoore.github.io
+* Personal Site URL: https://cjmoore.github.io/
 
 ## Cody Borders
 
@@ -62,7 +62,7 @@
 
 ## Jonthan Serrano
 
-* Personal Site GitHub Repo Link: gihttps://github.com/JonathanSR/JonathanSR.github.io
+* Personal Site GitHub Repo Link: https://github.com/JonathanSR/JonathanSR.github.io
 * Personal Site URL: https://jonathansr.github.io/
 
 ## Katy Farmer
