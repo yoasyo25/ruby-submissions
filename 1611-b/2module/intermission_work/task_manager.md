@@ -34,7 +34,7 @@
 
 ## Courtney Meyerhofer
 
-* Github Repo Link:
+* Github Repo Link: https://github.com/meyerhoferc/task_manager
 
 ## Daniel Olson
 
