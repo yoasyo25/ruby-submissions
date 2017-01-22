@@ -54,7 +54,7 @@
 
 ## Katy Farmer
 
-* Github Repo Link:
+* Github Repo Link: git@github.com:TheKaterTot/task_manager.git
 
 ## Max Glassie
 
