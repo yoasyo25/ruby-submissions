@@ -22,8 +22,8 @@
 
 ## Brandon Randall
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/brandonrandall/brandonrandall.github.io
+* Personal Site URL: https://brandonrandall.github.io
 
 ## Casey Macaulay
 
