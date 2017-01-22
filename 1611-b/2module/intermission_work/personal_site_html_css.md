@@ -62,8 +62,8 @@
 
 ## Jonthan Serrano
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: gihttps://github.com/JonathanSR/JonathanSR.github.io
+* Personal Site URL: https://jonathansr.github.io/
 
 ## Katy Farmer
 
