@@ -27,8 +27,8 @@
 
 ## Casey Macaulay
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/cmacaulay/cmacaulay.github.io
+* Personal Site URL: https://cmacaulay.github.io/
 
 ## Charlotte Moore
 
