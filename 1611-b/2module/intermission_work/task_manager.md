@@ -58,7 +58,7 @@
 
 ## Max Glassie
 
-* Github Repo Link:
+* Github Repo Link: https://github.com/maxglassie/task_manager.git
 
 ## Ryan Spink
 
