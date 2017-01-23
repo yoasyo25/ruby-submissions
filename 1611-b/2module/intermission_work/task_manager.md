@@ -62,7 +62,7 @@
 
 ## Ryan Spink
 
-* Github Repo Link:
+* Github Repo Link: https://github.com/Ryanspink1/task_manager
 
 ## Spencer Carter
 
