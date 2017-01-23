@@ -87,5 +87,5 @@
 
 ## Valerie Trudell
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/valerietrudell/valerietrudell.github.io.git
+* Personal Site URL: https://valerietrudell.github.io/index.html
