@@ -17,7 +17,7 @@
 
 ## Ashley Schauer
 
-* Personal Site GitHub Repo Link:
+* Personal Site GitHub Repo Link: https://github.com/AELSchauer/turing-personal_blog_site
 * Personal Site URL:
 
 ## Brandon Randall
