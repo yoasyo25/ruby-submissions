@@ -18,7 +18,7 @@
 
 ## Brandon Randall
 
-* Github Repo Link:
+* Github Repo Link: https://github.com/brandonrandall/task_manager
 
 ## Casey Macaulay
 
