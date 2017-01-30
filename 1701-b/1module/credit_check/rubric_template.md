@@ -1,8 +1,10 @@
-### Assessed By:
+## Evaluation Rubric
 
-### Notes:
+Name:
 
-### Evaluation Rubric:
+Assessor:
+
+The project will be assessed with the following guidelines:
 
 ### 1. Fundamental Ruby & Style
 
