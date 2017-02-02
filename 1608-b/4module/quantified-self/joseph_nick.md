@@ -6,7 +6,7 @@ Notes:
 
 * 42 tests, mostly feature.
 * Fully functional app, no bugs.
-* I like how meals are 
+* I like how meals are combined.
 
 
 ## Rubric
