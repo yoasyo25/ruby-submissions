@@ -1,6 +1,6 @@
-## Assessor:
+## Assessor: Beth Sebian
 
-## Notes:
+## Notes: https://github.com/VictoriaVasys/complete_me
 
 ## Evaluation Rubric:
 
