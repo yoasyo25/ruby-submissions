@@ -1,9 +1,8 @@
 ## Assessor:
-Ilana
+
+## Repo: https://github.com/mpiatnichko/Week-2-Project
+
 ## Notes:
-- got throught IT6 
-- full test suite 
-- small methods and nicely refactored 
 
 ## Evaluation Rubric:
 

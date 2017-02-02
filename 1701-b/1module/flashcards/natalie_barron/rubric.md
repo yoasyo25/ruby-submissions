@@ -1,9 +1,11 @@
-## Assessor:
-Ilana
+## Assessor: Mike
+
+## Repo: https://github.com/NatBee/Flashcards
+
 ## Notes:
-- got throught IT6 
-- full test suite 
-- small methods and nicely refactored 
+
+* Overall good syntax, generally good tsting.
+* Would like to have seen more edge cases.
 
 ## Evaluation Rubric:
 
@@ -24,7 +26,6 @@ The project will be assessed with the following guidelines:
 ### 4. Encapsulation / Breaking Logic into Components
 
 *   3: Application effectively breaks logical components apart but breaks the principle of SRP.
-
 ### 5. Functional Expectations
 
-*   3: Application fulfills expectations of iterations 1 - 6 with no bugs, crashes, or missing functionality.
+*   2: Application is usable but has some missing functionality.

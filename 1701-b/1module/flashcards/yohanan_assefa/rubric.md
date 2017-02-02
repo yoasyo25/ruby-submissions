@@ -1,9 +1,8 @@
-## Assessor:
-Ilana
+## Assessor: Mike
+
+## Repo: https://github.com/yoasyo25/Flashcards
+
 ## Notes:
-- got throught IT6 
-- full test suite 
-- small methods and nicely refactored 
 
 ## Evaluation Rubric:
 

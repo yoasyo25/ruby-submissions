@@ -1,9 +1,15 @@
-## Assessor:
-Ilana
+## Assessor: Mike
+
+## Repo: https://github.com/NicholasJacques/flash_cards
+
 ## Notes:
-- got throught IT6 
-- full test suite 
-- small methods and nicely refactored 
+* 23 tests, they all pass
+* Watch for commented code,
+* Don't use accessors, unless you're changing information from outside of the
+class.
+* Dont use instance variable unnecessarily.
+* Overall, cleanly written.
+
 
 ## Evaluation Rubric:
 
