@@ -1,7 +1,7 @@
 ## Assessor:
 Ilana 
 ## Notes:
-- Got through IT 3, working on IT 4
+- Got through IT 3, working on IT 4 on first go around...fixed up and resubmitted
 - might have gotten a little tripped up with variables, naming conventions
 
 ## Evaluation Rubric:
@@ -14,7 +14,7 @@ The project will be assessed with the following guidelines:
 
 ### 2. Enumerable & Collections
 
-*   2: Application demonstrates functional knowledge of Enumerable but only uses the most basic techniques
+*   3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 ### 3. Test-Driven Development
 
@@ -26,4 +26,4 @@ The project will be assessed with the following guidelines:
 
 ### 5. Functional Expectations
 
-*   2: Application is usable but has some missing functionality.
+*   3: Application fulfills expectations of iterations 1 - 6 with no bugs, crashes, or missing functionality.

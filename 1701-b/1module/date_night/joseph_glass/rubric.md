@@ -2,10 +2,10 @@
 
 ## Notes:
 
-* Good variable and method naming.
-* Very expressive and clear code.
-* Really good testing at unit and integration level.
-* Some opportunities to take risks with the syntax (i.e. making more concise code)
+* Really well tested at a unit level and at integration level.
+* Almost completed all functionality and finished an extension.
+* Methods were well written and elegant.
+* Some opportunities for reducing repetition.
 
 ## Evaluation Rubric:
 
@@ -28,13 +28,13 @@ The project will be assessed with the following rubric:
 ### 3. Encapsulation / Breaking Logic into Components
 
 *   4: Application is expertly divided into logical components each with a clear, single responsibility
-*   3: Application effectively breaks logical components apart but breaks the principle of SRP
-*   **2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear**
+*   **3: Application effectively breaks logical components apart but breaks the principle of SRP**
+*   2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
 *   1: Application logic shows poor decomposition with too much logic mashed together
 
 ### 4. Functional Expectations
 
 *   4: Application meets all requirements, and implements one extension properly.
-*   3: Application meets all requirements as laid out per the specification.
-*   **2.5: Application runs, but does not work properly, or does not meet specifications.**
+*   **3: Application meets all requirements as laid out per the specification.**
+*   2: Application runs, but does not work properly, or does not meet specifications.
 *   1: Application does not run, crashes on start.

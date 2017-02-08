@@ -21,20 +21,21 @@ You will be subjectively graded by an instructor on the following criteria:
 - 4: All functionality is covered by tests. Tests can be run both in the browser and terminal. Appropriate mix of unit and integration tests. Sad path testing in both unit and integration tests
 - 3: All functionality is covered by tests. Appropriate mix of unit and integration tests.
 - **2: More functionality implemented than tested or only uses one test type**
+
 - 1: Team fails to effectively test the application.
 
 ### HTML/CSS/UI
 
-- **4: Team used CSS preprocessor and put some effort into styling. HTML features unique IDs, classes for DOM traversal, and data namespace attributes**
-- 3: Application is not confusing to use. HTML Classes and IDs are kebab case.
+- 4: Team used CSS preprocessor and put some effort into styling. HTML features unique IDs, classes for DOM traversal, and data namespace attributes
+- **3: Application is not confusing to use. HTML Classes and IDs are kebab case.**
 - 2: HTML is greatly lacking in standards compliance. UI is confusing or very buggy.
 - 1: Application is unusable
 
 ### JS syntax and Style
 
 - 4: Javascript features explicit DOM traversal (not using closest), demonstrates great OOP concepts, and uses named and anonymous functions when appropriate
-- 3: Uses classes as modules. DRY code where appropriate. Attention payed to indentation and naming.
-- **2: Javascript is noticeably lacking in the above concepts.**
+- **3: Uses classes as modules. DRY code where appropriate. Attention payed to indentation and naming.**
+- 2: Javascript is noticeably lacking in the above concepts.
 - 1: Team has not applied any style concepts from class or from Ruby background
 
 ### Git Workflow
