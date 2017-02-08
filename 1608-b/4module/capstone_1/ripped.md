@@ -12,10 +12,10 @@ Notes:
 
 ### 2. Completion & Pace
 
-* 4: Team is on track to complete all stories and has tracked/completed chores and/or laid out future stories.
-* 3: Team is on track to complete all the user stories and requirements set by the client in timely manner.
-* 2: Team is on track to complete a subset of user stories after an approved cutting of the work scope.
-* 1: Team is not on track to complete the agreed-upon stories.
+* 4: Team completed all stories scheduled for this checkpoint by the product owner and laid out future stories.
+* 3: Team completed all stories scheduled for this checkpoint by the product owner.
+* 2: Team completed most stories scheduled for this checkpoint by the product owner.
+* 1: Team completed some stories scheduled for this checkpoint by the product owner.
 
 ### 3. Implementation Quality
 
