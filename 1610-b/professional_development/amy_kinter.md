@@ -1,7 +1,9 @@
 # Amy Kinter
 
-## Link to Portfolio: www.example.com
+### Link to Flower Exercise:
 
-## Link to Trello Board:
+### Link to Portfolio:
 
-## Link to Job Search Action Plan:
+### Link to Trello Board:
+
+### Link to Job Search Action Plan:
