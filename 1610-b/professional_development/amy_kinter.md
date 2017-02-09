@@ -1,6 +1,6 @@
 # Amy Kinter
 
-## Link to Portfolio:
+## Link to Portfolio: www.example.com
 
 ## Link to Trello Board:
 
