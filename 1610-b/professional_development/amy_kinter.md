@@ -4,4 +4,4 @@
 
 ## Link to Trello Board:
 
-## Link to Job Sear Action Plan:
+## Link to Job Search Action Plan:
