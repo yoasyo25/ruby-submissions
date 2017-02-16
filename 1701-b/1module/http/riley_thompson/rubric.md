@@ -1,10 +1,8 @@
 ## Assessor: Lauren
 
-## Repo: https://github.com/BethKnight1234/http_yeah_you_know_me
+## Repo: https://github.com/ryt11/http_yeah_you_know_me
 
 ## Notes:
-
-* headers missing
 
 ## Evaluation Rubric
 
@@ -26,14 +24,14 @@ The project will be assessed with the following rubric:
 
 ### 3. Test-Driven Development
 
-*   4: Application is broken into components which are well tested in both isolation and integration
+*   **4: Application is broken into components which are well tested in both isolation and integration**
 *   3: Application uses tests to exercise core functionality and some edge cases, but fails to break out component objects/tests.
-*   **2: Application uses tests to exercise core functionality but leaves many common edge cases untested.**
+*   2: Application uses tests to exercise core functionality but leaves many common edge cases untested.
 *   1: Application does not demonstrate strong use of TDD
 
 ### 4. Functional Expectations
 
 *   4: Application implements all five iterations and at least one extension
-*   3: Application implements iterations 0 - 4
-*   **2: Application implements iterations 0 - 3**
+*   **3: Application implements iterations 0 - 4**
+*   2: Application implements iterations 0 - 3
 *   1: Application implements through interation 2 or less
