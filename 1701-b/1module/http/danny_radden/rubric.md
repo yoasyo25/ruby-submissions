@@ -1,6 +1,9 @@
 ## Assessor:
 - Ilana
 
+## Link: 
+https://github.com/dannyradden/http_yeah
+
 ## Notes:
 - Used threading for testing and had 32 assertions all passing
 - Talked about use of instance variables and how to create more dynamic classes
