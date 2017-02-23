@@ -34,7 +34,7 @@
   - Github Repo:https://github.com/ski-climb/module_3_assessment
 
 ## Nick G
-  - Github Repo:
+  - Github Repo: https://github.com/njgheorghita/module_3_assessment
 
 ## Kyle
   - Github Repo: https://github.com/kheppenstall/module_3_assessment
