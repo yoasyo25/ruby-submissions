@@ -49,7 +49,7 @@
   - Github Repo:
 
 ## Laszlo
-  - Github Repo:
+  - Github Repo: https://github.com/Laszlo-JFLMTCO/module_3_assessment
 
 ## David
   - Github Repo:
