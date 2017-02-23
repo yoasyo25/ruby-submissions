@@ -46,7 +46,7 @@
   - Github Repo: https://github.com/Dpalazzari/module_3_assessment
 
 ## Lucy
-  - Github Repo:
+  - Github Repo: https://github.com/lucyconklin/module_3_assessment
 
 ## Laszlo
   - Github Repo: https://github.com/Laszlo-JFLMTCO/module_3_assessment
