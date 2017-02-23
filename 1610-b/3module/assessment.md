@@ -1,7 +1,7 @@
 # Assessment
 
 ## Jesse
-  - Github Repo: 
+  - Github Repo: https://github.com/Sh1pley/module_3_assessment
   
 ## Caroline
   - Github Repo: https://github.com/CPowell23/module_3_assessment
