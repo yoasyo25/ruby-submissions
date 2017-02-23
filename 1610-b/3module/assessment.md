@@ -19,7 +19,7 @@
   - Github Repo:
 
 ## Jason
-  - Github Repo:
+  - Github Repo: https://github.com/jdconrad89/module_3_assessment
 
 ## Brett
   - Github Repo:
