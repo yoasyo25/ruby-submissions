@@ -22,7 +22,7 @@
   - Github Repo: https://github.com/jdconrad89/module_3_assessment
 
 ## Brett
-  - Github Repo:
+  - Github Repo: https://github.com/riverswb/module_3_assessment
 
 ## Ethan
   - Github Repo: https://github.com/ethanbennett/module_3_assessment
