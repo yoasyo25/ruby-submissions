@@ -37,7 +37,7 @@
   - Github Repo:
 
 ## Kyle
-  - Github Repo:
+  - Github Repo: https://github.com/kheppenstall/module_3_assessment
 
 ## Robbie
   - Github Repo:
