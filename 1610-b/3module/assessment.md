@@ -25,7 +25,7 @@
   - Github Repo:
 
 ## Ethan
-  - Github Repo:
+  - Github Repo: https://github.com/ethanbennett/module_3_assessment
 
 ## Molly
   - Github Repo:
