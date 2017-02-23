@@ -16,7 +16,7 @@
   - Github Repo:
 
 ## Mike Schutte
-  - Github Repo:
+  - Github Repo: https://github.com/tmikeschu/module_3_assessment
 
 ## Jason
   - Github Repo:
