@@ -22,7 +22,7 @@
   - Github Repo:
 
 ## Brett
-  - Github Repo:
+  - Github Repo: https://github.com/riverswb/module_3_assessment
 
 ## Ethan
   - Github Repo:
