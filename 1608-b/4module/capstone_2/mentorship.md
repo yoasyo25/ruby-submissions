@@ -1,23 +1,21 @@
-Members: Briefcase members
+Members: MentorShip Team
 
 Reviewer: Nate
 
 Notes:
 
-- Didn't fill out cards before working on them
-
 
 ### 1. Project Management
 
-* 4: Team is using a project management tool and updating their progress daily.
-* **3: Team is using a project management tool to keep their project organized.**
+* **4: Team is using a project management tool and updating their progress daily.**
+* 3: Team is using a project management tool to keep their project organized.
 * 2: Team is using a project management tool but didn't update the progress frequently.
 * 1: Team failed to use a project management tool to track its progress.
 
 ### 2. Completion & Pace
 
-* **4: Team completed all stories scheduled for this checkpoint by the product owner and additional functionality.**
-* 3: Team completed all stories scheduled for this checkpoint by the product owner.
+* 4: Team completed all stories scheduled for this checkpoint by the product owner and additional functionality.
+* **3: Team completed all stories scheduled for this checkpoint by the product owner.**
 * 2: Team completed most stories scheduled for this checkpoint by the product owner.
 * 1: Team completed some stories scheduled for this checkpoint by the product owner.
 
