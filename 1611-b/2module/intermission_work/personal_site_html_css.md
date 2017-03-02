@@ -37,7 +37,7 @@
 
 ## Cody Borders
 
-* Personal Site GitHub Repo Link: https://github.com/codyborders/codyborders.github.io
+* Personal Site GitHub Repo Link: ster/codyborders.github.io
 * Personal Site URL: https://codyborders.github.io
 
 ## Courtney Meyerhofer
