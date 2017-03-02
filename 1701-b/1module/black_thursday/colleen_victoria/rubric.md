@@ -2,6 +2,7 @@
 
 ## Notes:
 - Great breakdown of classes and creation of modules 
+- Created charts with JS
 - Talked about more robust testing 
 - Talked about small use of instance variables instead of methods
 
