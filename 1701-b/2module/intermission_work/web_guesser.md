@@ -8,9 +8,7 @@ Github Repo Link:
 
 ## Beth Knight
 
-Github Repo Link:
-
-https://github.com/BethKnight1234/web_guesser
+Github Repo Link: https://github.com/BethKnight1234/web_guesser
 
 -----
 
