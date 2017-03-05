@@ -146,7 +146,7 @@ Github Repo Link:
 
 ## Stephanie Bentley
 
-Github Repo Link:
+Github Repo Link: https://github.com/slague/web_guesser
 
 -----
 
