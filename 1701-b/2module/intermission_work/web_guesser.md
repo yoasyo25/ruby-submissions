@@ -56,7 +56,7 @@ Github Repo Link:
 
 ## Erin Bassity
 
-Github Repo Link:
+Github Repo Link: https://github.com/somedayrainbows/web_guesser
 
 -----
 
