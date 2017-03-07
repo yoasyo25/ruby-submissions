@@ -134,7 +134,7 @@ Github Repo Link:https://github.com/samlandfried/web_guesser
 
 ## Sergey Lukayaneko
 
-Github Repo Link:
+Github Repo Link:https://github.com/lukyans/web_guesser
 
 -----
 
