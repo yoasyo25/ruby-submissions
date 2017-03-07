@@ -44,7 +44,7 @@ Github Repo Link: https://github.com/dannyradden/web_guesser
 
 ## David Thompson
 
-Github Repo Link:
+Github Repo Link: https://github.com/ryt11/web_guesser
 
 -----
 
