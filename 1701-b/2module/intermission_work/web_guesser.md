@@ -86,7 +86,7 @@ Github Repo Link: https://github.com/josh-works/web_guesser
 
 ## Ken Lee
 
-Github Repo Link:
+Github Repo Link: https://github.com/wewert/web_guesser
 
 -----
 
