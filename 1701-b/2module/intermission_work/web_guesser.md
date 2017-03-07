@@ -68,7 +68,7 @@ Github Repo Link: https://github.com/jwpincus/web-guesser
 
 ## Jonathan Kidd
 
-Github Repo Link:
+Github Repo Link: https://github.com/jk1dd/web_guesser
 
 -----
 
