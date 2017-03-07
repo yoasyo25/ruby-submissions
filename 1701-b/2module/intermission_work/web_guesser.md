@@ -74,7 +74,7 @@ Github Repo Link: https://github.com/jk1dd/web_guesser
 
 ## Joseph Glass
 
-Github Repo Link:
+Github Repo Link: https://github.com/glassjoseph/web_guesser
 
 -----
 
