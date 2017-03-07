@@ -93,8 +93,8 @@
 
 ## Josh Thompson
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/josh-works/josh-works.github.io
+* Personal Site URL: http://keeptryinghard.com/ (very much WIP. check out [this branch](https://github.com/josh-works/josh-works.github.io/tree/completed_first_version) for a more complete hand-written site that I built ~9 months ago)
 
 -----
 
