@@ -170,8 +170,8 @@
 
 ## Stephanie Bentley
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/slague/slague.github.io
+* Personal Site URL: https://slague.github.io/
 
 -----
 
