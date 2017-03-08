@@ -149,8 +149,8 @@
 
 ## Sam Landfried
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/samlandfried/samlandfried.github.io
+* Personal Site URL: https://samlandfried.github.io/
 
 -----
 
