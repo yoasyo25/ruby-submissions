@@ -51,8 +51,8 @@
 
 ## David Thompson
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/ryt11/ryt11.github.io
+* Personal Site URL: https://ryt11.github.io/#
 
 -----
 
