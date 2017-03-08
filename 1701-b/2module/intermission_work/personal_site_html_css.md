@@ -30,8 +30,8 @@
 
 ## Colleen Ward
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/caward12/caward12.github.io
+* Personal Site URL: https://caward12.github.io/
 
 -----
 
