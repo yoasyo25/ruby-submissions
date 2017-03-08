@@ -122,7 +122,7 @@ Github Repo Link: https://github.com/NatBee/web_guesser
 
 ## Nick Jacques
 
-Github Repo Link:
+Github Repo Link: https://github.com/NicholasJacques/web_guesser
 
 -----
 
