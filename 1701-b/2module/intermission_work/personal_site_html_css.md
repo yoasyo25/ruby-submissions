@@ -100,8 +100,8 @@
 
 ## Ken Lee
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link:https://github.com/wewert/wewert.github.io
+* Personal Site URL:https://wewert.github.io/
 
 -----
 
