@@ -90,9 +90,9 @@ Github Repo Link: https://github.com/wewert/web_guesser
 
 -----
 
-## Lauren Olivieri
+## Lauren Oliveri
 
-Github Repo Link:
+Github Repo Link: https://github.com/lao9/web_guesser
 
 -----
 
