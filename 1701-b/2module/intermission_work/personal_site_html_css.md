@@ -114,8 +114,8 @@
 
 ## Maria Stenquist
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/mariastenquist/mariastenquist.github.io
+* Personal Site URL: https://mariastenquist.github.io/
 
 -----
 
