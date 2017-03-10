@@ -80,7 +80,7 @@ Github Repo Link:
 
 ## Josh Thompson
 
-Github Repo Link:
+Github Repo Link: https://github.com/josh-works/task_manager
 
 -----
 
