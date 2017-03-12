@@ -62,7 +62,7 @@ Github Repo Link: https://github.com/jwpincus/task_manager
 
 ## Jonathan Kidd
 
-Github Repo Link:
+Github Repo Link: https://github.com/jk1dd/task_manager
 
 -----
 
