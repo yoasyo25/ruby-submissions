@@ -56,13 +56,6 @@
 
 -----
 
-## Diana Whalen
-
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
-
------
-
 ## Erin Bassity
 
 * Personal Site GitHub Repo Link: https://github.com/somedayrainbows/somedayrainbows.github.io
