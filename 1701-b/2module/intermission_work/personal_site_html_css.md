@@ -128,8 +128,8 @@
 
 ## Mark Van Akkeren
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/markyv18/markyv18.github.io
+* Personal Site URL:https://markyv18.github.io
 
 -----
 
