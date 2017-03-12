@@ -135,8 +135,8 @@
 
 ## Natalie Barron
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/NatBee/NatBee.github.io
+* Personal Site URL: https://natbee.github.io/
 
 -----
 
