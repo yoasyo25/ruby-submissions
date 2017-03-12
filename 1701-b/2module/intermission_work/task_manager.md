@@ -42,7 +42,7 @@ Github Repo Link: https://github.com/dannyradden/task_manager
 
 -----
 
-## David Thompson
+## Riley Thompson
 
 Github Repo Link:
 
