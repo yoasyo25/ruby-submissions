@@ -9,8 +9,8 @@
 
 ## Beth Knight
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/BethKnight1234/bethknight1234.github.io
+* Personal Site URL: https://desolate-stream-20193.herokuapp.com/ 
 
 -----
 
