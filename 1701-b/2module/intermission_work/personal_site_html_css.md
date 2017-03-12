@@ -72,8 +72,8 @@
 
 ## Jack Pincus
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link:https://github.com/jwpincus/jwpincus.github.io
+* Personal Site URL: https://jwpincus.github.io/
 
 -----
 
