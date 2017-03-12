@@ -48,12 +48,6 @@ Github Repo Link: https://github.com/ryt11/web_guesser
 
 -----
 
-## Diana Whalen
-
-Github Repo Link:
-
------
-
 ## Erin Bassity
 
 Github Repo Link: https://github.com/somedayrainbows/web_guesser
