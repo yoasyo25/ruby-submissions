@@ -42,7 +42,7 @@ Github Repo Link: https://github.com/dannyradden/web_guesser
 
 -----
 
-## David Thompson
+## Riley Thompson
 
 Github Repo Link: https://github.com/ryt11/web_guesser
 
