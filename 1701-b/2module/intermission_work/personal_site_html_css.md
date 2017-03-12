@@ -23,8 +23,8 @@
 
 ## Christopher Dale
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/Cdale3/Cdale3.github.io
+* Personal Site URL: file:///Users/christopherdale/1701/module2/personal_site/index.html
 
 -----
 
