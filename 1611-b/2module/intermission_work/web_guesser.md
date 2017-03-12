@@ -2,7 +2,7 @@
 
 ## Alex Fosco
 
-* Github Repo Link:
+* Github Repo Link: https://github.com/alfosco/web_guesser
 
 ## Amara Lovato
 
@@ -18,7 +18,7 @@
 
 ## Brandon Randall
 
-* Github Repo Link:
+* Github Repo Link: https://github.com/brandonrandall/web_guesser
 
 ## Casey Macaulay
 
@@ -30,7 +30,7 @@
 
 ## Cody Borders
 
-* Github Repo Link:
+* Github Repo Link: https://github.com/codyborders/web_guesser
 
 ## Courtney Meyerhofer
 
@@ -38,7 +38,7 @@
 
 ## Daniel Olson
 
-* Github Repo Link:
+* Github Repo Link: https://github.com/blackknight75/web-guesser
 
 ## Edilene Cruz
 
@@ -58,7 +58,7 @@
 
 ## Max Glassie
 
-* Github Repo Link:
+* Github Repo Link: https://github.com/maxglassie/web_guesser.git
 
 ## Ryan Spink
 
@@ -70,4 +70,4 @@
 
 ## Valerie Trudell
 
-* Github Repo Link:
+* Github Repo Link: https://github.com/valerietrudell/web_master
