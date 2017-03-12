@@ -16,8 +16,8 @@
 
 ## Brett Schwartz
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/bschwartz10/bschwartz10.github.io
+* Personal Site URL: https://github.com/bschwartz10/bschwartz10.github.io
 
 -----
 
