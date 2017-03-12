@@ -79,8 +79,8 @@
 
 ## Jonathan Kidd
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/jk1dd/jk1dd.github.io
+* Personal Site URL: https://jk1dd.github.io/
 
 -----
 
