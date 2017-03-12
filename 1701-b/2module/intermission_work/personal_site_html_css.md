@@ -107,8 +107,8 @@
 
 ## Lauren Olivieri
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/lao9/lao9.github.io
+* Personal Site URL: https://lao9.github.io
 
 -----
 
