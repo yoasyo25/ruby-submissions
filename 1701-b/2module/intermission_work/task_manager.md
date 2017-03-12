@@ -48,12 +48,6 @@ Github Repo Link:
 
 -----
 
-## Diana Whalen
-
-Github Repo Link:
-
------
-
 ## Erin Bassity
 
 Github Repo Link:
