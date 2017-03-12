@@ -74,7 +74,7 @@ Github Repo Link:
 
 ## Joseph Glass
 
-Github Repo Link:
+Github Repo Link: https://github.com/glassjoseph/task_manager
 
 -----
 
