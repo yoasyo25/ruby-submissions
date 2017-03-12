@@ -37,8 +37,8 @@
 
 ## Craig Ness
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/NessEFC/NessEFC.github.io
+* Personal Site URL: https://nessefc.github.io/
 
 -----
 
