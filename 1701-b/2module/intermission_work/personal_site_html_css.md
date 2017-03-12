@@ -86,8 +86,8 @@
 
 ## Joseph Glass
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/glassjoseph/glassjoseph.github.io
+* Personal Site URL: https://glassjoseph.github.io
 
 -----
 
