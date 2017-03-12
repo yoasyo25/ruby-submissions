@@ -65,8 +65,8 @@
 
 ## Erin Bassity
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/somedayrainbows/somedayrainbows.github.io
+* Personal Site URL: https://somedayrainbows.github.io/
 
 -----
 
