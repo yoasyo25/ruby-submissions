@@ -7,7 +7,7 @@
 * Casey Macaulay:
 * Charlotte Moore:
 * Cody Borders:
-* Courtney Meyerhofer:
+* Courtney Meyerhofer: https://github.com/meyerhoferc/python-networking
 * Daniel Olson:
 * Edilene Cruz:
 * Eric Wahlgren-Sauro:  
