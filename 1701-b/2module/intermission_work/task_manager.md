@@ -44,7 +44,7 @@ Github Repo Link: https://github.com/dannyradden/task_manager
 
 ## Riley Thompson
 
-Github Repo Link:
+Github Repo Link: https://github.com/ryt11/task_manager
 
 -----
 
