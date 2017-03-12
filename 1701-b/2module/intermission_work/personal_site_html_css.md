@@ -49,13 +49,6 @@
 
 -----
 
-## David Thompson
-
-* Personal Site GitHub Repo Link: https://github.com/ryt11/ryt11.github.io
-* Personal Site URL: https://ryt11.github.io/#
-
------
-
 ## Erin Bassity
 
 * Personal Site GitHub Repo Link: https://github.com/somedayrainbows/somedayrainbows.github.io
@@ -137,6 +130,13 @@
 
 * Personal Site GitHub Repo Link:
 * Personal Site URL:
+
+-----
+
+## Riley Thompson
+
+* Personal Site GitHub Repo Link: https://github.com/ryt11/ryt11.github.io
+* Personal Site URL: https://ryt11.github.io/#
 
 -----
 
