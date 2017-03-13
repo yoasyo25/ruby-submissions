@@ -44,8 +44,8 @@
 
 ## Danny Radden
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/dannyradden/dannyradden.github.io
+* Personal Site URL: https://dannyradden.github.io/
 
 -----
 
