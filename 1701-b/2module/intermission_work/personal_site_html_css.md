@@ -2,8 +2,8 @@
 
 ## Andrew Mossefin
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/frustratedswede/frustratedswede.github.io
+* Personal Site URL: https://frustratedswede.github.io
 
 -----
 
