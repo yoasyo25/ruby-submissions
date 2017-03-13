@@ -20,7 +20,7 @@ Github Repo Link: https://github.com/bschwartz10/task_manager
 
 ## Christopher Dale
 
-Github Repo Link:
+Github Repo Link: https://github.com/Cdale3/task-manager
 
 -----
 
