@@ -50,7 +50,7 @@ Github Repo Link: https://github.com/ryt11/task_manager
 
 ## Erin Bassity
 
-Github Repo Link:
+Github Repo Link: https://github.com/somedayrainbows/task_manager
 
 -----
 
