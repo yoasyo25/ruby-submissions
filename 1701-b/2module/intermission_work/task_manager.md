@@ -32,7 +32,7 @@ Github Repo Link: https://github.com/caward12/task_manager
 
 ## Craig Ness
 
-Github Repo Link:
+Github Repo Link: https://github.com/NessEFC/task_manager
 
 -----
 
