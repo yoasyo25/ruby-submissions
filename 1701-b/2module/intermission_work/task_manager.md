@@ -116,7 +116,7 @@ Github Repo Link: https://github.com/NatBee/Task-Manager
 
 ## Nick Jacques
 
-Github Repo Link:
+Github Repo Link: https://github.com/NicholasJacques/task_manager
 
 -----
 
