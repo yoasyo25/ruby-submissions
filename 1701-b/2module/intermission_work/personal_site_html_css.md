@@ -156,8 +156,8 @@
 
 ## Seth Moser
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/themenintights/themenintights.github.io
+* Personal Site URL: https://themenintights.github.io/
 
 -----
 

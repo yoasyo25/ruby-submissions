@@ -134,7 +134,7 @@ Github Repo Link:https://github.com/lukyans/web_guesser
 
 ## Seth Moser
 
-Github Repo Link:
+Github Repo Link: https://github.com/themenintights/web_guesser
 
 -----
 

@@ -134,7 +134,7 @@ Github Repo Link:
 
 ## Seth Moser
 
-Github Repo Link:
+Github Repo Link: https://github.com/themenintights/task_manager
 
 -----
 
