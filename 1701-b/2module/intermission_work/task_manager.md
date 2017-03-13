@@ -146,6 +146,6 @@ Github Repo Link: https://github.com/slague/task_manager
 
 ## Victoria Vasys
 
-Github Repo Link:
+Github Repo Link: https://github.com/VictoriaVasys/task_manager
 
 -----
