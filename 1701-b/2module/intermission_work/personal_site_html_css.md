@@ -170,7 +170,7 @@
 
 ## Victoria Vasys
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/VictoriaVasys/VictoriaVasys.github.io
+* Personal Site URL: https://victoriavasys.github.io/
 
 -----
