@@ -8,7 +8,7 @@
 * Charlotte Moore:
 * Cody Borders:
 * Courtney Meyerhofer: https://github.com/meyerhoferc/python-networking
-* Daniel Olson:
+* Daniel Olson: https://github.com/blackknight75/first-react
 * Edilene Cruz:
 * Eric Wahlgren-Sauro:  
 * James Anderson:
