@@ -149,8 +149,8 @@
 
 ## Sergey Lukayaneko
 
-* Personal Site GitHub Repo Link:
-* Personal Site URL:
+* Personal Site GitHub Repo Link: https://github.com/lukyans/lukyans.github.io
+* Personal Site URL: https://lukyans.github.io
 
 -----
 
