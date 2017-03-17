@@ -1,3 +1,12 @@
+Notes:
+
+- The spec does mention that the diary is at the `/` route. It should be it's own page.
+- There's several things missing from the specs, but I don't think it's worth listing them all here. The stuff that has been implemented is well done.
+- I know testing didn't go that smoothly, but I expected to see more by this point. I'd be happy to find some time next week to pair with you on testing, as we're going to continue working in this codebase.
+- Let's find some time to pair on your JS in general. There's some really promising stuff, but also some misunderstandings. Stuff I missed in your PRs that I looked at.
+- Good use of github.
+- Tracker is up to date, and technically there was an update to it each day ;)
+- I know that Lucy had some heavy personal stuff this week, as well as taking on the demo night, which I hope went well. I graded the project according to the Rubric, but wanted to acknowledge that I think Laszlo and Lucy did a great job this week, and I look forward to all the work they do this module. I don't see this as a failing project at all.
 
 ## Rubric
 
@@ -7,14 +16,14 @@ You will be subjectively graded by an instructor on the following criteria:
 
 - 4: Application implements all functionality as defined, with no bugs, and one extension
 - 3: Application implements all functionality as defined, but some bugs or strange behavior where features intersect
-- 2: Application is missing required functionality, deviates significantly from the spec, or serious bugs prevent features from being usable
+- **2: Application is missing required functionality, deviates significantly from the spec, or serious bugs prevent features from being usable**
 - 1: Application is missing a significant portion of functionality
 
 ### Testing
 
 - 4: All functionality is covered by tests. Appropriate mix of unit and integration tests. Sad path testing in both unit and integration tests.
 - 3: All functionality is covered by tests. Appropriate mix of unit and integration tests.
-- 2: More functionality implemented than tested or only uses one test type
+- **2: More functionality implemented than tested or only uses one test type**
 - 1: Team fails to effectively test the application.
 
 ### HTML/UI
@@ -28,19 +37,19 @@ You will be subjectively graded by an instructor on the following criteria:
 
 - 4: Javascript features explicit DOM traversal (not using closest), demonstrates great OOP concepts, and uses named and anonymous functions when appropriate
 - 3: Code logically divided into files. Developer can show examples of some SOLID concepts. Attention payed to indentation and naming.
-- 2: Javascript is noticeably lacking in the above concepts.
+- **2: Javascript is noticeably lacking in the above concepts.**
 - 1: Team has not applied any style concepts from class or from Ruby background
 
 ### Git Workflow
 
-- 4: Team uses master for production, and creates a feature branch for each card worked on. Team is using pull requests with good context and conversation
+- **4: Team uses master for production, and creates a feature branch for each card worked on. Team is using pull requests with good context and conversation**
 - 3: Team is using the feature branches for small groups of cards, and has a pull request for each feature. Developers that aren't on the team have commented on PRs.
 - 2: Team fails to use feature branches, or isn't using pull requests
 - 1: All code is committed to master
 
 ### Project Management
 
-- 4: Team is using a project management tool and updating their progress daily. Team is approving each other's  work. Team is documenting conversations and conclusions on relevant cards.
+- **4: Team is using a project management tool and updating their progress daily. Team is approving each other's  work. Team is documenting conversations and conclusions on relevant cards.**
 - 3: Team is using a project management tool to keep their project organized. Nearly every card has been turned into user stories.
 - 2: Team is using a project management tool but didn't update the progress frequently. Many cards have no changes made to them
 - 1: Team failed to use a project management tool to track its progress.
