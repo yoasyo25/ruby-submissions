@@ -1,6 +1,10 @@
-## Evaluation
+# Evaluation
 
-### Feature Delivery
+Students:
+
+Evaluated by:
+
+# Feature Delivery
 
 **1. Completion**
 
@@ -9,7 +13,7 @@
 * 2: Project completes most requirements but fails 7 - 5 (10 to 6 for individual project) spec harness tests.
 * 1: Project fails more than 7 (10 for individual project) spec harness tests.
 
-### Technical Quality
+# Technical Quality
 
 **1. Test-Driven Development**
 
@@ -38,3 +42,4 @@
 * 3: Project makes good use of ActiveRecord, but drops to ruby enumerables for some query methods.
 * 2: Project has some gaps in ActiveRecord usage, including numerous business methods that rely on ruby enumerables to find the appropriate data.
 * 1: Project struggles to establish a coherent ActiveRecords schema, including missing relationships or dysfunctional queries.
+
