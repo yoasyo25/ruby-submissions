@@ -27,4 +27,4 @@ The project will be assessed with the following guidelines:
 
 ### 3. Functional Expectations
 
-* 3: Application meets all requirements as laid out per the specification.
+* 4: Application meets all requirements, and implements one extension properly.
