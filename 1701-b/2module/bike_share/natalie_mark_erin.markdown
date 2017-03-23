@@ -1,5 +1,9 @@
 ## Evaluation Rubric
 
+### Repo
+
+https://github.com/somedayrainbows/bike-share
+
 The project will be assessed with the following rubric:
 
 ### Notes
@@ -10,7 +14,6 @@ The project will be assessed with the following rubric:
 * Weather CRUD: solid
 * Bugs: deleting station presents (poss) issues rerendering stations index page, creating station with invalid city affects stations index page
 * Trips dashboard analytics 3/4 working, seed file only showing August data for one year, correctly identified count for Aug but incorrectly applies to additional 2 years
-* 
 
 ### 1. Functional Expectations
 
