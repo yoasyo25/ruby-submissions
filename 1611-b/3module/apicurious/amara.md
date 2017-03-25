@@ -16,6 +16,8 @@ You’ll be graded on each of the criteria below with a score of (1) well below 
 
 ### 1. Test-Driven Development
 
+simplecov not installed - not evaluated.
+
 4: Project demonstrates high test coverage (>90%), tests at the feature and unit levels, and does not rely on external * services.
 3: Project demonstrates high test coverage (>80%), tests at feature and unit levels, but relies on external services
 2: Project demonstrates high test coverage (>70%), but does not adequately balance feature and unit tests
