@@ -1,6 +1,6 @@
-Assessed By:
+Assessed By: Lauren
 
-Repo:
+Repo: https://github.com/larisasmiles/mastermind
 
 Notes:
 
