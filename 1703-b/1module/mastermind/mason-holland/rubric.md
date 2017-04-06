@@ -1,8 +1,10 @@
-Assessed By:
+Assessed By: Lauren
 
-Repo:
+Repo: https://github.com/MasonHolland/mastermind
 
 Notes:
+
+* messages module
 
 
 ### 1. Test-Driven Development
