@@ -1,6 +1,6 @@
 Pitch
 
-Shine is a browser-based game that encourages users to interact with their world by offering surprises and challenges around 
+Shine is a browser-based game that encourages users to interact with their world by offering surprises and challenges around
 ever corner. When users engage with their surroundings, they begin to shine, becoming the best, shiniest version of themselves.
 
 Problem
