@@ -1,6 +1,6 @@
-Assessed By:
+Assessed By: Josh
 
-Repo:
+Repo: https://github.com/sarahdactyl71/battleship
 
 Notes:
 
