@@ -10,7 +10,6 @@ News sources are great to become informed on a topic, and don’t get me wrong t
 
 This website will solve that problem, allowing discuss on topics and articles. People also have the option the declare there identity or not as guest can comment on anything they want, they can also contribute information to the writers to talk about; however they wouldn’t be allowed to post articles until they sign up or login as a author.
 
-
 ### Target Audience
 
 Reddit users interested in current events, and people with backgrounds in certain topics; also people without backgrounds who are interested in learning more; as well as journalist interested in educating the community
@@ -18,4 +17,61 @@ Reddit users interested in current events, and people with backgrounds in certai
 ### Integrations
 
 * Which APIs will you use?
+    - Reddit
 * Which OAuth integration are you planning to use?
+    - sign in with Reddit
+
+### Iterations
+
+#### Iteration One
+    -  a website that logs you in with your reddit account or you can plainly sign up.
+    -  whether you simply sign up or you sign in with your reddit account you are brought to a profile     page where have the option the update several things including your background. Depending on     your background you’ll get a badge thats shows for example: Masters in Political Science.
+    user types -
+     - guest (anonymous) - can discuss
+     - user - can discuss/ up or down vote
+     - admin - delete users accounts / remove content / (make users ops / make users authors )
+    web- page structure
+        - articles page
+        - current events page
+        - certain hot topic pages
+
+#### Iteration Two
+messaging between users
+users can subscribe to topics
+
+#### Iteration Three
+Additional types of users
+- authors - can write articles / discuss/ comment on articles / up or down vote
+- opers - regulate users of topic board
+
+users and guests can comment on articles
+users can subscribe to authors
+users can message authors
+
+admins make operators
+users become operators
+operators can ban / kick  users and guests
+
+#### Iteration Four
+
+additional pages add to discussion ….
+        - education
+        - politics
+        - government
+        - history
+        - human rights
+        - law
+        - healthcare
+        - economics
+        - environment
+        - leaks
+
+#### Iteration Five
+set up an email service to email users
+    - forgot password / password reset
+    - subsribtions
+    - new forms
+    - new articles
+
+#### Iteration Six.
+- 2 factor authentication
