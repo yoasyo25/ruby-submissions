@@ -4,6 +4,10 @@ Repo: https://github.com/yoasyo25/battle_ship
 
 Notes:
 
+* Object separation is pretty solid. Good attempts at single responsibility.
+* Application crashes when running.
+* Ruby looks good.
+
 
 ### 1. Fundamental Ruby & Style
 
@@ -41,7 +45,7 @@ Notes:
 ### 5. Breaking Logic into Components
 
 * 4: Application is expertly divided into logical components such that individual pieces could be reused or replaced without difficulty
-* 3: Application effectively breaks logical components apart with clear intent and usage
+* **3: Application effectively breaks logical components apart with clear intent and usage**
 * 2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
 * 1: Application logic shows poor decomposition with too much logic mashed together
 
