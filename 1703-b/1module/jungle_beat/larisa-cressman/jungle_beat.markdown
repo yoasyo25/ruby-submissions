@@ -28,19 +28,19 @@ The project will be assessed with the following rubric:
 
 * 4: Application is expertly divided into logical components each with a clear, single responsibility
 * 3: Application effectively breaks logical components apart but breaks the principle of SRP
-* 2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
+* **2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear**
 * 1: Application logic shows poor decomposition with too much logic mashed together
 
 ### 4. Fundamental Ruby & Style
 
 * 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 * 3:  Application shows strong effort towards organization, content, and refactoring
-* 2:  Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
+* **2:  Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring**
 * 1:  Application generates syntax error or crashes during execution
 
 ### 5. Looping *or* Recursion
 
 * 4: Application makes excellent use of loop/recursion techniques
 * 3: Application makes effective use of loop/recursion techniques
-* 2: Application has issues with loop/recursion techniques or mixes them inappropriately
+* **2: Application has issues with loop/recursion techniques or mixes them inappropriately**
 * 1: Application struggles to loop/recurse at all
