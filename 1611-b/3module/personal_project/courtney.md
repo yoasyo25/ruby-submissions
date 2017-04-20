@@ -24,8 +24,61 @@ User dashboard includes recent activity from all followed entities (politician c
 #### Four (Data Analysis is Cool)
 **(not sure how this is going to work yet, consulting data scientists and mentors this weekend)**
 
-Politicians receive a corruption-index score that looks at how they voted for a piece of legislation/policy, if/to what extent that policy benefited their campaign contributors (through World Bank Data stock prices maybe?), and if/to what extent that policy affected their constituents (recent polls / scraping news sources). I also might use some data scientists' models for corruption-perception-index to calculate the perceived corruption of a politician. 
+Politicians receive a corruption-index score that looks at how they voted for a piece of legislation/policy, if/to what extent that policy benefited their campaign contributors (through World Bank Data stock prices maybe?), and if/to what extent that policy affected their constituents (recent polls / scraping news sources). I also might use some data scientists' models for corruption-perception-index to calculate the perceived corruption of a politician.
 
 ### Data Strategy
 #### Automation
 I plan to set up a background worker or something similar to download all of the information I need from these APIs and update it daily and use an internal API for that I consume. I want to do this to make the data analysis easier later since it isn't really an on-the-fly calculation for corruption indexing. I wonder if it would make sense to have a stand-alone API and make the app as a companion to consume the API. This would help with staying in the free-zone for production.
+
+
+# Evaluation
+
+You’ll be graded on each of the criteria below with a score of (1) well below expectations, (2) below expectations, (3) as expected, (4) better than expected.
+
+## Feature Delivery
+
+### 1. Completion
+
+4: Developer completed all the user stories and requirements set by the client in timely manner.
+3: Developer completed all the user stories and requirements set by the client.
+2: Developer completed most of the user stories and requirements set by the client.
+1: Developer completed the user stories and requirements partially.
+
+### 2. Organization
+
+4: Developer used a project management tool and updated their progress in real-time.
+3: Developer used a project management tool to keep their project organized.
+2: Developer used a project management tool but didn’t update the progress frequently.
+1: Developer failed to use a project management tool to track its progress.
+
+## Technical Quality
+
+### 1. Test-Driven Development
+
+4: Project shows exceptional use of testing at different layers (above 95% coverage).
+3: Project shows adequate testing (90% - 95% coverage).
+2: Project shows gaps in test usage/coverage/design (85 - 90% coverage).
+1: Project lacks sufficient testing (under 85% coverage).
+
+### 2. Code Quality
+
+4: Project demonstrates exceptionally well factored code.
+3: Project demonstrates solid code quality and MVC principles.
+2: Project demonstrates some gaps in code quality and/or application of MVC principles.
+1: Project demonstrates poor factoring and/or understanding of MVC.
+
+## Product Experience
+
+### 1. User Experience
+
+4: Project exhibits a production-ready and polished UX.
+3: Project exhibits a production-ready user experience.
+2: Project exhibits some gaps in the UX.
+1: Project exhibits inattention to the user experience.
+
+### 2. Performance
+
+4: Project pages load on average under 300 milliseconds.
+3: Project pages load on average under 400 milliseconds.
+2: Project pages load on average under 500 milliseconds.
+1: Project pages load on average over 500 milliseconds.
