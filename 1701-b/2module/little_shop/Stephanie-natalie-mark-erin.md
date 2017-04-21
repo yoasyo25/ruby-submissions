@@ -49,7 +49,7 @@ __* 3: Project is highly usable, but needs more polish before it'd be customer-r
 
 ### 7. Workflow
 
-* 4: Excellent use of branches, pull requests, and a project management tool.
-__* 3: Good use of branches, pull requests, and a project-management tool.__
+__* 4: Excellent use of branches, pull requests, and a project management tool.__
+* 3: Good use of branches, pull requests, and a project-management tool.
 * 2: Sporadic use of branches, pull requests, and/or project-management tool.
 * 1: Little use of branches, pull requests, and/or a project-management tool.
