@@ -1,8 +1,10 @@
 ## Assessor:
 
+Beth Sebian
 
 ## Repo:
 
+https://github.com/TomSoucie/bike-share
 
 ## Notes:
 
