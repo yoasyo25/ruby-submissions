@@ -1,10 +1,11 @@
-## Assessor:
+## Assessor: Beth Sebian
 
 
-## Repo:
+## Repo: https://github.com/rongxanh88/bike-share/tree/master
 
 
 ## Notes:
+* 
 
 
 ## Evaluation Rubric
