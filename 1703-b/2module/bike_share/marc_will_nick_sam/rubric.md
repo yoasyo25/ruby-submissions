@@ -7,7 +7,7 @@ Beth Sebian
 https://github.com/limsammy/bike-share
 
 ## Notes:
-* Ran into issues right at the end. Weather dashboard broken. 2 hr extension to address.
+* Ran into issues right at the end. Weather dashboard broken. 2 hr extension to address. UPDATE: resolved
 * Tests very solid. Dashboard tests missing
 * Model tests solid
 * Controller very clear. Organization solid in general.
@@ -19,7 +19,7 @@ The project will be assessed with the following rubric:
 ### 1. Functional Expectations
 PENDING
 * 4: Application fulfills base expectations and adds two extensions
-* 3: Application fulfills base expectations
+* 3: **Application fulfills base expectations**
 * 2: Application has some small missing base functionality
 * 1: Application is not usable
 
