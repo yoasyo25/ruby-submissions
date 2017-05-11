@@ -5,7 +5,7 @@ Repo:
 https://github.com/NateGiesing/Jungle_beat  
 
 Notes:  
-Working through iter 1 with prepend working, but append not working for multiple nodes
+Working through iter 1 with prepend working, but append not working for multiple nodes  
 14 tests, all passing  
 
 Rubric:
