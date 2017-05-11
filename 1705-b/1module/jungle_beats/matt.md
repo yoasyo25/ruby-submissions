@@ -5,9 +5,9 @@ Repo:
 https://github.com/mdevoe12/jungle_beat
 
 Notes:  
-Working through mid iter 3 
-Code that is present is clean and works well
-8 test, all passing
+Working through mid iter 3   
+Code that is present is clean and works well  
+8 test, all passing  
 
 Rubric:
 
