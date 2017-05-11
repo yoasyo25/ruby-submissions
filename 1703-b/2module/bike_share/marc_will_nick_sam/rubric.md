@@ -1,8 +1,16 @@
-## Assessor: Beth Sebian
+## Assessor: 
 
-## Repo: git@github.com:limsammy/bike-share.git
+Beth Sebian
+
+## Repo: 
+
+https://github.com/limsammy/bike-share
 
 ## Notes:
+* Ran into issues right at the end. Weather dashboard broken. 2 hr extension to address.
+* Tests very solid. Dashboard tests missing
+* Model tests solid
+* Controller very clear. Organization solid in general.
 
 ## Evaluation Rubric
 
