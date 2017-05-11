@@ -1,10 +1,12 @@
 Assessed By:
-Ali 
+Ali   
+
 Repo:
-https://github.com/vaidashi/jungle_beats
-Notes:
-The functionality that is there is well written
-9 tests, all passing
+https://github.com/vaidashi/jungle_beats  
+
+Notes:  
+The functionality that is there is well written  
+9 tests, all passing  
 
 Rubric:
 
