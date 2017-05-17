@@ -47,7 +47,7 @@ Repo: https://github.com/markyv18/mod3diagnostic
 Repo:
 
 ### Sam Landfried
-Repo:
+Repo: https://github.com/samlandfried/module_3_diagnostic.git
 
 ### Sergey Lukyaneko
 Repo: https://github.com/lukyans/module_3_diagnostic
