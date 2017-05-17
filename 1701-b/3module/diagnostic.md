@@ -14,7 +14,7 @@ Repo:
 Repo:
 
 ### Danny Radden
-Repo:
+Repo: https://github.com/dannyradden/module_3_diagnostic
 
 ### Riley Thompson
 Repo:
