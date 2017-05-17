@@ -35,7 +35,7 @@ Repo:
 Repo:
 
 ### Lauren Oliveri
-Repo:
+Repo: https://github.com/lao9/module_3_diagnostic
 
 ### Mark Stover
 Repo:
