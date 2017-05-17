@@ -23,7 +23,7 @@ Repo:
 Repo:
 
 ### Jack Pincus
-Repo:
+Repo: https://github.com/jwpincus/module_3_diagnostic
 
 ### Jonathan Kidd
 Repo:
