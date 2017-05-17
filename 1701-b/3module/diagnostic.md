@@ -53,7 +53,7 @@ Repo:
 Repo: https://github.com/lukyans/module_3_diagnostic
 
 ### Seth Moser
-Repo:
+Repo: https://github.com/themenintights/alt-fuel-finder
 
 ### Stephanie Bentley
 Repo: https://github.com/slague/module_3_diagnostic
