@@ -56,7 +56,7 @@ Repo: https://github.com/lukyans/module_3_diagnostic
 Repo:
 
 ### Stephanie Bentley
-Repo:
+Repo: https://github.com/slague/module_3_diagnostic
 
 ### Victoria Vasy
 Repo:
