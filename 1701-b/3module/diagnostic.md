@@ -26,7 +26,7 @@ Repo: https://github.com/somedayrainbows/module_3_diagnostic
 Repo: https://github.com/jwpincus/module_3_diagnostic
 
 ### Jonathan Kidd
-Repo:
+Repo: https://github.com/jk1dd/module_3_diagnostic
 
 ### Joseph Glass
 Repo:
