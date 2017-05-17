@@ -47,7 +47,7 @@ Repo:
 Repo:
 
 ### Sam Landfried
-Repo:
+Repo: https://github.com/samlandfried/module_3_diagnostic.git
 
 ### Sergey Lukyaneko
 Repo:
