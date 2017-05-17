@@ -41,7 +41,7 @@ Repo:
 Repo: https://github.com/stovermc/module_3_diagnostic
 
 ### Mark Van Akkeren
-Repo:
+Repo: https://github.com/markyv18/mod3diagnostic
 
 ### Nick Jacques
 Repo:
