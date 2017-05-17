@@ -32,7 +32,7 @@ Repo:
 Repo:
 
 ### Josh Thompson
-Repo:
+Repo: https://github.com/josh-works/module_3_diagnostics
 
 ### Lauren Oliveri
 Repo:
