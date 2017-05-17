@@ -5,7 +5,7 @@ Repo:
 Repo:
 
 ### Cody Borders
-Repo:
+Repo: https://github.com/codyborders/module_3_diagnostic
 
 ### Colleen Ward
 Repo:
