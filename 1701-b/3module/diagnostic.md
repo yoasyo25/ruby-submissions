@@ -1,5 +1,5 @@
 ### Beth Knight
-Repo:
+Repo: https://github.com/BethKnight1234/module_3_diagnostic
 
 ### Brett Schwartz
 Repo:
