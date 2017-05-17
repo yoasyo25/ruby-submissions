@@ -35,7 +35,7 @@ Repo: https://github.com/glassjoseph/module_3_diagnostic
 Repo: https://github.com/josh-works/module_3_diagnostics
 
 ### Lauren Oliveri
-Repo:
+Repo: https://github.com/lao9/module_3_diagnostic
 
 ### Mark Stover
 Repo: https://github.com/stovermc/module_3_diagnostic
