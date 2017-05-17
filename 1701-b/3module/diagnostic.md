@@ -53,7 +53,7 @@ Repo:
 Repo:
 
 ### Seth Moser
-Repo:
+Repo: https://github.com/themenintights/alt-fuel-finder
 
 ### Stephanie Bentley
 Repo:
