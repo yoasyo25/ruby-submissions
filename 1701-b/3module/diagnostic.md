@@ -20,7 +20,7 @@ Repo:
 Repo:
 
 ### Erin Bassity
-Repo:
+Repo: https://github.com/somedayrainbows/module_3_diagnostic
 
 ### Jack Pincus
 Repo: https://github.com/jwpincus/module_3_diagnostic
