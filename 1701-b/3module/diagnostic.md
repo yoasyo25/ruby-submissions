@@ -14,7 +14,7 @@ Repo: https://github.com/caward12/module_3_diagnostic
 Repo: https://github.com/NessEFC/module_3_diagnostic
 
 ### Danny Radden
-Repo:
+Repo: https://github.com/dannyradden/module_3_diagnostic
 
 ### Riley Thompson
 Repo:
