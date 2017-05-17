@@ -29,7 +29,7 @@ Repo:
 Repo:
 
 ### Joseph Glass
-Repo:
+Repo: https://github.com/glassjoseph/module_3_diagnostic
 
 ### Josh Thompson
 Repo:
