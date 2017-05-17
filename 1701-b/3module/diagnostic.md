@@ -38,7 +38,7 @@ Repo: https://github.com/josh-works/module_3_diagnostics
 Repo:
 
 ### Mark Stover
-Repo:
+Repo: https://github.com/stovermc/module_3_diagnostic
 
 ### Mark Van Akkeren
 Repo:
