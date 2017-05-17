@@ -29,7 +29,7 @@ Repo: https://github.com/jwpincus/module_3_diagnostic
 Repo: https://github.com/jk1dd/module_3_diagnostic
 
 ### Joseph Glass
-Repo:
+Repo: https://github.com/glassjoseph/module_3_diagnostic
 
 ### Josh Thompson
 Repo: https://github.com/josh-works/module_3_diagnostics
