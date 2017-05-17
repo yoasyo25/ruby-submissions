@@ -26,7 +26,7 @@ Repo:
 Repo:
 
 ### Jonathan Kidd
-Repo:
+Repo: https://github.com/jk1dd/module_3_diagnostic
 
 ### Joseph Glass
 Repo:
