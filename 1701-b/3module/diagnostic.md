@@ -50,7 +50,7 @@ Repo:
 Repo:
 
 ### Sergey Lukyaneko
-Repo:
+Repo: https://github.com/lukyans/module_3_diagnostic
 
 ### Seth Moser
 Repo:
