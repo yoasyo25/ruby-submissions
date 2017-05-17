@@ -59,4 +59,4 @@ Repo: https://github.com/themenintights/alt-fuel-finder
 Repo: https://github.com/slague/module_3_diagnostic
 
 ### Victoria Vasy
-Repo:
+Repo: https://github.com/VictoriaVasys/module_3_mid_mod_diagnostic
