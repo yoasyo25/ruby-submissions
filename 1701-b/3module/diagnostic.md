@@ -44,7 +44,7 @@ Repo:
 Repo:
 
 ### Nick Jacques
-Repo:
+Repo: [link](https://github.com/NicholasJacques/module_3_mid_diagnostic)
 
 ### Sam Landfried
 Repo:
