@@ -65,8 +65,8 @@ _You utilized git well and created branches, PR's, and engaged in meaningful dis
 ### Project Management
 
 - 4: Team is using a project management tool and updating their progress daily. Team is approving each other's  work. Team is documenting conversations and conclusions on relevant cards.
-- 3: Team is using a project management tool to keep their project organized.
-- **2: Team is using a project management tool but didn't update the progress frequently. Many cards have no changes made to them**
+- **3: Team is using a project management tool to keep their project organized.**
+- 2: Team is using a project management tool but didn't update the progress frequently. Many cards have no changes made to them
 - 1: Team failed to use a project management tool to track its progress.
 
-_I don't see much action on your Pivotal Tracker. I'm wondering if you used another project management tool to help you stay organized. If so, please let me know._
+_You used PT to track your progress and estimate stories._
