@@ -1,8 +1,8 @@
 # Andrew & Charlotte
 
-* Backend Github Link:
-* Frontend Github Link:
-* Frontend Production Link:
+* Backend Github Link:https://github.com/CjMoore/quantified-self-be
+* Frontend Github Link:https://github.com/CjMoore/quantified-self
+* Frontend Production Link:https://cjmoore.github.io/quantified-self/
 
 ## Rubric
 
