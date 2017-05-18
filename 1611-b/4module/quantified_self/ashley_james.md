@@ -1,8 +1,8 @@
 # Ashley & James
 
-* Backend Github Link:
-* Frontend Github Link:
-* Frontend Production Link:
+* Backend Github Link: https://github.com/AELSchauer/quantified-self-be
+* Frontend Github Link: https://github.com/AELSchauer/quantified-self-fe
+* Frontend Production Link: https://aelschauer.github.io/quantified-self-fe/
 
 ## Rubric
 
