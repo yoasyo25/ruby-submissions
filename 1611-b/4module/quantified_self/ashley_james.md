@@ -17,7 +17,6 @@ You will be subjectively graded by an instructor on the following criteria:
 
 *Adding a food is actually reloading the page, other than that food page works well
 Small validation error where if I enter the calories I'm allowed to enter a negative amount.
-
 Diaries page looks really good.  I caught a small error where if I add a food to a diary, and then remove it the total calories and remaining calories field are not updated.*
 
 ### Planning and Design
