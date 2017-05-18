@@ -1,8 +1,8 @@
 # Courtney
 
-* Backend Github Link:
-* Frontend Github Link:
-* Frontend Production Link:
+* Backend Github Link: https://github.com/meyerhoferc/quantified-self
+* Frontend Github Link: https://github.com/meyerhoferc/quantified-self-client
+* Frontend Production Link: https://meyerhoferc.github.io/quantified-self-client/
 
 ## Rubric
 
