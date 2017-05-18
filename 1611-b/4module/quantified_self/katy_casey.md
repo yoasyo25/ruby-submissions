@@ -1,8 +1,8 @@
 # Katy & Casey
 
-* Backend Github Link:
-* Frontend Github Link:
-* Frontend Production Link:
+* Backend Github Link: https://github.com/TheKaterTot/quantified-self-api
+* Frontend Github Link: https://github.com/cmacaulay/quantified-self
+* Frontend Production Link: https://cmacaulay.github.io/quantified-self/
 
 ## Rubric
 
