@@ -20,7 +20,7 @@ Rubric:
 
 ### 4. Encapsulation / Breaking Logic into Components
 
-* 2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
+* 1: Application logic shows poor decomposition with too much logic mashed together
 
 ### 5. Functional Expectations
 
