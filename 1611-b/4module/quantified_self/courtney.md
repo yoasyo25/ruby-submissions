@@ -75,6 +75,6 @@ The unit tests in the backend are well written and fast.*
 ### Project Management
 
 - 4: Team is using a project management tool and updating their progress daily. Team is approving each other's  work. Team is documenting conversations and conclusions on relevant cards.
-- 3: Team is using a project management tool to keep their project organized.
+- **3: Team is using a project management tool to keep their project organized.**
 - 2: Team is using a project management tool but didn't update the progress frequently. Many cards have no changes made to them
 - 1: Team failed to use a project management tool to track its progress.
