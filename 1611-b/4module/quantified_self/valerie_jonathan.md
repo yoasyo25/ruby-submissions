@@ -1,8 +1,8 @@
 # Valerie & Jonathan
 
-* Backend Github Link:
-* Frontend Github Link:
-* Frontend Production Link:
+* Backend Github Link: https://github.com/JonathanSR/quantified_self
+* Frontend Github Link: https://github.com/valerietrudell/quantified-self
+* Frontend Production Link: https://valerietrudell.github.io/quantified-self/
 
 ## Rubric
 
