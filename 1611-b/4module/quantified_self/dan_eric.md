@@ -1,8 +1,8 @@
 # Dan & Eric
 
-* Backend Github Link:
-* Frontend Github Link:
-* Frontend Production Link:
+* Backend Github Link: https://github.com/blackknight75/quantified_self
+* Frontend Github Link: https://github.com/blackknight75/quantified-self-frontend
+* Frontend Production Link: https://blackknight75.github.io/quantified-self-frontend/
 
 ## Rubric
 
