@@ -1,8 +1,12 @@
 # Max and Spencer
 
-* Backend Github Link:
-* Frontend Github Link:
-* Frontend Production Link:
+* [Backend Github Link:](https://github.com/scmountain/Quantified-Self/)
+* [Frontend Github Link:](https://github.com/maxglassie/quantified-self-front-end)
+* [Frontend Production Link:](https://maxglassie.github.io/quantified-self-front-end/)
+
+## Reflection
+Reflection Gist Link:(https://gist.github.com/maxglassie/917678b8eb805a292af4c99f6de1b46b)
+
 
 ## Rubric
 
