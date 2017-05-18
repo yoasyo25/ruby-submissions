@@ -1,7 +1,7 @@
 # Edilene & Ryan
 
-* Backend Github Link:
-* Frontend Github Link:
+* Backend Github Link: https://github.com/Ryanspink1/quantified_self
+* Frontend Github Link:https://github.com/edilenedacruz/quantified-self
 * Frontend Production Link:
 
 ## Rubric
