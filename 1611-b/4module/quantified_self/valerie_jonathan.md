@@ -17,6 +17,8 @@ You will be subjectively graded by an instructor on the following criteria:
 
 _You did not achieve full functionality, but you communicated your timeline near the end of project. In the future, I encourage you to communicate your timeline throughout the entire project. I also notice a lot of existing code that could be functional, yet it doesn't work in production. I'd love to hear why it seems like you have more functionality than is actually working._
 
+_Valerie still has a 1 for this rubric item due to the requested reflection not being submitted._
+
 ### Planning and Design
 
 - 4: Team created visual schema, API documentation and user stories, before writing tests. API adheres to REST standard.
