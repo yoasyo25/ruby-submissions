@@ -51,8 +51,8 @@
 
 ## Eric Wahlgren-Sauro
 
-* URL Lockbox Github Repo Link:
-* URL Lockbox Production Link:
+* URL Lockbox Github Repo Link: https://github.com/cews7/m4-final-starter
+* URL Lockbox Production Link: https://still-fjord-55858.herokuapp.com/login
 * Hot Reads Github Repo Link:
 * Hot Reads Production Link:
 
