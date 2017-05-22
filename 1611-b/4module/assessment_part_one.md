@@ -30,8 +30,8 @@
 
 ## Courtney Meyerhofer
 
-* URL Lockbox Github Repo Link:
-* URL Lockbox Production Link:
+* URL Lockbox Github Repo Link: https://github.com/meyerhoferc/m4-assessment
+* URL Lockbox Production Link: https://warm-plains-20041.herokuapp.com
 * Hot Reads Github Repo Link:
 * Hot Reads Production Link:
 
