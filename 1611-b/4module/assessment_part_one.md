@@ -72,8 +72,8 @@
 
 ## Katy Farmer
 
-* URL Lockbox Github Repo Link:
-* URL Lockbox Production Link:
+* URL Lockbox Github Repo Link: https://github.com/TheKaterTot/m4-final-starter
+* URL Lockbox Production Link: https://dry-caverns-43653.herokuapp.com
 * Hot Reads Github Repo Link:
 * Hot Reads Production Link:
 
