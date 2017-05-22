@@ -16,7 +16,7 @@ Rubric:
 
 ### 3. Test-Driven Development
 
-* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+* 2: Application makes some use of tests, but the coverage is insufficient
 
 ### 4. Encapsulation / Breaking Logic into Components
 
