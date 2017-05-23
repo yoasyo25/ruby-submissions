@@ -37,8 +37,8 @@
 
 ## Daniel Olson
 
-* URL Lockbox Github Repo Link:
-* URL Lockbox Production Link:
+* URL Lockbox Github Repo Link: https://github.com/blackknight75/m4-final-starter
+* URL Lockbox Production Link: https://thawing-wildwood-17227.herokuapp.com
 * Hot Reads Github Repo Link:
 * Hot Reads Production Link:
 
