@@ -9,8 +9,8 @@
 
 ## Ashley Schauer
 
-* URL Lockbox Github Repo Link:
-* URL Lockbox Production Link:
+* URL Lockbox Github Repo Link: https://github.com/AELSchauer/turing-final-assessment-url-lockbox
+* URL Lockbox Production Link: https://arcane-fortress-91308.herokuapp.com
 * Hot Reads Github Repo Link:
 * Hot Reads Production Link:
 
