@@ -44,7 +44,7 @@ Repo: https://github.com/stovermc/module_3_diagnostic
 Repo: https://github.com/markyv18/mod3diagnostic
 
 ### Nick Jacques
-Repo:
+Repo: [link](https://github.com/NicholasJacques/module_3_mid_diagnostic)
 
 ### Sam Landfried
 Repo: https://github.com/samlandfried/module_3_diagnostic.git

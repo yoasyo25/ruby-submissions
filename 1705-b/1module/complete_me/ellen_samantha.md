@@ -12,7 +12,7 @@ Rubric:
 
 ### 2. Test-Driven Development
 
-* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+* 4: Application is broken into components which are well tested in both isolation and integration using appropriate data
 
 ### 3. Encapsulation / Breaking Logic into Components
 
@@ -20,4 +20,4 @@ Rubric:
 
 ### 4. Functional Expectations
 
-* 3: Application meets all requirements as laid out per the specification.
+* 4: Application meets all requirements, and implements one extension properly.
