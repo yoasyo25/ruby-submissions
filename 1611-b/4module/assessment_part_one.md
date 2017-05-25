@@ -58,8 +58,8 @@
 
 ## James Anderson
 
-* URL Lockbox Github Repo Link:
-* URL Lockbox Production Link:
+* URL Lockbox Github Repo Link: https://github.com/janderson16/m4-final
+* URL Lockbox Production Link: https://obscure-basin-69091.herokuapp.com/
 * Hot Reads Github Repo Link:
 * Hot Reads Production Link:
 
