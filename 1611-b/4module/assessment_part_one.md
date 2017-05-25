@@ -79,8 +79,8 @@
 
 ## Max Glassie
 
-* URL Lockbox Github Repo Link:
-* URL Lockbox Production Link:
+* URL Lockbox Github Repo Link: (https://github.com/maxglassie/module_4_final_assessment)
+* URL Lockbox Production Link: (https://salty-peak-54308.herokuapp.com/)
 * Hot Reads Github Repo Link:
 * Hot Reads Production Link:
 
