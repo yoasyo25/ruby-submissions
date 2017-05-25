@@ -2,6 +2,10 @@
 
 ### Notes
 
+See feedback on code here:
+* https://github.com/glassjoseph/grab_bag/pull/34
+* https://github.com/glassjoseph/grab_bag/pull/39
+
 ### Client Expectations
 
 Student delivered user story agreed upon with client.
