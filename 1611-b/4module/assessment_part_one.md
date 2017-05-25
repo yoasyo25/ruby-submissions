@@ -17,7 +17,7 @@
 ## Casey Macaulay
 
 * URL Lockbox Github Repo Link: https://github.com/cmacaulay/m4-final-starter
-* URL Lockbox Production Link: https://git.heroku.com/m4-macaulay-final.git
+* URL Lockbox Production Link: https://m4-macaulay-final.herokuapp.com/
 * Hot Reads Github Repo Link:
 * Hot Reads Production Link:
 
