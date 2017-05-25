@@ -65,8 +65,8 @@
 
 ## Jonthan Serrano
 
-* URL Lockbox Github Repo Link:
-* URL Lockbox Production Link:
+* URL Lockbox Github Repo Link: https://github.com/JonathanSR/URLockbox
+* URL Lockbox Production Link: https://young-retreat-72886.herokuapp.com
 * Hot Reads Github Repo Link:
 * Hot Reads Production Link:
 
