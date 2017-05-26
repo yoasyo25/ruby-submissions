@@ -42,4 +42,3 @@ Rubric:
 ### 6. Functional Expectations
 
 * 3: Application meets all requirements as laid out per the specification.
-* 2: Application runs, but does not work properly, or does not meet specifications.
