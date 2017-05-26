@@ -3,13 +3,14 @@
 ### Notes
 
 * Deployed project to Digital Ocean Droplet
+* Not all of the groups stories were deployed to production
 
 ### Client Expectations
 
 Student delivered user story agreed upon with client.
 
-- **4: Better than expected**
-- 3: As expected
+- 4: Better than expected
+- **3: As expected**
 - 2: Below expectations
 - 1: Well below expectations
 
