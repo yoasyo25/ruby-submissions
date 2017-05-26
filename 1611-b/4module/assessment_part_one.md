@@ -100,7 +100,7 @@
 
 ## Valerie Trudell
 
-* URL Lockbox Github Repo Link:
-* URL Lockbox Production Link:
+* URL Lockbox Github Repo Link: https://github.com/valerietrudell/url_lock_box
+* URL Lockbox Production Link: https://urllockboxforyou.herokuapp.com/
 * Hot Reads Github Repo Link:
 * Hot Reads Production Link:
