@@ -29,7 +29,6 @@ Rubric:
 ### 4. Git Workflow
 
 * PASS:  Developer demonstrates mastery of git and GitHub; commits with appropriate frequency, with clear, atomic commits that demonstrates a clear history.
-* FAIL: Developer does not commit often, commits are overly large, poor commit messages. Drastic changes in code in a single commit.
 
 ### 4. REPL Interface
 
