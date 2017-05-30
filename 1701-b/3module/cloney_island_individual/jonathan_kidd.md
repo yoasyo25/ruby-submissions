@@ -11,11 +11,9 @@ See PR comments here:
 Student delivered user story agreed upon with client.
 
 - 4: Better than expected
-- 3: As expected 
+- **3: As expected**
 - 2: Below expectations 
-- **1: Well below expectations**
-
-_The app is currently broken after I try to sign in so I cannot view your story on production._
+- 1: Well below expectations
 
 ### Test Quality
 
