@@ -10,7 +10,9 @@
 *   4: Team is proactive in understanding scope and is able to commit to stories before starting the sprint
 *   **3: Team is able to set and update expectations so that there are no surprises on the last day of the sprint**
 *   2: Team does not have agreed upon stories completed at the end of the sprint, but has a plan to get them done
-*   1: Team does not have agreed upon stories completed, and has no plan to complete them
+*   **1: Team does not have agreed upon stories completed, and has no plan to complete them**
+
+*Ashley a 1 for being a no show to the demo*
 
 ### 3. Implementation Quality
 
