@@ -74,8 +74,8 @@
 
 * URL Lockbox Github Repo Link: https://github.com/TheKaterTot/m4-final-starter
 * URL Lockbox Production Link: https://dry-caverns-43653.herokuapp.com
-* Hot Reads Github Repo Link:
-* Hot Reads Production Link:
+* Hot Reads Github Repo Link: https://github.com/TheKaterTot/hot_reads
+* Hot Reads Production Link: https://rocky-atoll-70277.herokuapp.com/
 
 ## Max Glassie
 
