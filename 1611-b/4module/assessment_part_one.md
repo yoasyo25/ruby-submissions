@@ -67,8 +67,8 @@
 
 * URL Lockbox Github Repo Link: https://github.com/JonathanSR/URLockbox
 * URL Lockbox Production Link: https://young-retreat-72886.herokuapp.com
-* Hot Reads Github Repo Link:
-* Hot Reads Production Link:
+* Hot Reads Github Repo Link: https://github.com/JonathanSR/hot_reads
+* Hot Reads Production Link: https://protected-woodland-35657.herokuapp.com/
 
 ## Katy Farmer
 
