@@ -96,7 +96,7 @@
 * URL Lockbox Github Repo Link:https://github.com/scmountain/M4-Final
 * URL Lockbox Production Link:https://url-locken-boxen.herokuapp.com/
 * Hot Reads Github Repo Link:https://github.com/scmountain/Hawt-reads-
-* Hot Reads Production Link:https://hawt-reads.herokuapp.com/
+* Hot Reads Production Link:https://the-hawt-reads.herokuapp.com/
 
 ## Valerie Trudell
 
