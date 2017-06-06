@@ -86,10 +86,10 @@
 
 ## Ryan Spink
 
-* URL Lockbox Github Repo Link:https://github.com/Ryanspink1/m4_final
-* URL Lockbox Production Link:
-* Hot Reads Github Repo Link:
-* Hot Reads Production Link:
+* URL Lockbox Github Repo Link: https://github.com/Ryanspink1/m4_final
+* URL Lockbox Production Link: https://urllockboxfinal.herokuapp.com
+* Hot Reads Github Repo Link: https://github.com/Ryanspink1/hot_reads
+* Hot Reads Production Link: https://finalhotreads.herokuapp.com/
 
 ## Spencer Carter
 
