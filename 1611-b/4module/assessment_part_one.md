@@ -102,5 +102,5 @@
 
 * URL Lockbox Github Repo Link: https://github.com/valerietrudell/url_lock_box
 * URL Lockbox Production Link: https://urllockboxforyou.herokuapp.com/
-* Hot Reads Github Repo Link:
-* Hot Reads Production Link:
+* Hot Reads Github Repo Link: https://github.com/valerietrudell/hot_reads
+* Hot Reads Production Link: https://veryhotreads.herokuapp.com/
