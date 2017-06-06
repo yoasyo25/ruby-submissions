@@ -81,8 +81,8 @@
 
 * URL Lockbox Github Repo Link: (https://github.com/maxglassie/module_4_final_assessment)
 * URL Lockbox Production Link: (https://salty-peak-54308.herokuapp.com/)
-* Hot Reads Github Repo Link:
-* Hot Reads Production Link:
+* Hot Reads Github Repo Link: (https://github.com/maxglassie/hot_reads_final)
+* Hot Reads Production Link: (https://arcane-eyrie-99827.herokuapp.com/)
 
 ## Ryan Spink
 
