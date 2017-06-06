@@ -3,9 +3,9 @@
 ## Andrew Wooten
 
 * URL Lockbox Github Repo Link: https://github.com/andrewdwooten/m4-final-starter
-* URL Lockbox Production Link:
-* Hot Reads Github Repo Link:
-* Hot Reads Production Link:
+* URL Lockbox Production Link: https://frozen-temple-33865.herokuapp.com
+* Hot Reads Github Repo Link: https://github.com/andrewdwooten/HotReads
+* Hot Reads Production Link: https://sheltered-cliffs-80557.herokuapp.com
 
 ## Ashley Schauer
 
