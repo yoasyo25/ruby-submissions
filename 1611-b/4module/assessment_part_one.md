@@ -39,8 +39,8 @@
 
 * URL Lockbox Github Repo Link: https://github.com/blackknight75/m4-final-starter
 * URL Lockbox Production Link: https://thawing-wildwood-17227.herokuapp.com
-* Hot Reads Github Repo Link:
-* Hot Reads Production Link:
+* Hot Reads Github Repo Link: https://github.com/blackknight75/hot_reads
+* Hot Reads Production Link: https://boiling-woodland-88175.herokuapp.com/
 
 ## Edilene Cruz
 
