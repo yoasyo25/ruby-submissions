@@ -60,8 +60,8 @@
 
 * URL Lockbox Github Repo Link: https://github.com/janderson16/m4-final
 * URL Lockbox Production Link: https://obscure-basin-69091.herokuapp.com/
-* Hot Reads Github Repo Link:
-* Hot Reads Production Link:
+* Hot Reads Github Repo Link: https://github.com/janderson16/hotreads
+* Hot Reads Production Link: https://peaceful-anchorage-24168.herokuapp.com/
 
 ## Jonthan Serrano
 
