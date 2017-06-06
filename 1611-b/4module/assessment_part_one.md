@@ -32,8 +32,8 @@
 
 * URL Lockbox Github Repo Link: https://github.com/meyerhoferc/m4-assessment
 * URL Lockbox Production Link: https://warm-plains-20041.herokuapp.com
-* Hot Reads Github Repo Link:
-* Hot Reads Production Link:
+* Hot Reads Github Repo Link: https://github.com/meyerhoferc/hotreads
+* Hot Reads Production Link:https://desolate-crag-20501.herokuapp.com/
 
 ## Daniel Olson
 
