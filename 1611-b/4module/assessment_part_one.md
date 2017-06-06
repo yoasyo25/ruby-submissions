@@ -46,8 +46,8 @@
 
 * URL Lockbox Github Repo Link: https://github.com/edilenedacruz/m4-final-starter
 * URL Lockbox Production Link:  https://damp-journey-77886.herokuapp.com/
-* Hot Reads Github Repo Link:
-* Hot Reads Production Link:
+* Hot Reads Github Repo Link:https://github.com/edilenedacruz/hot_reads
+* Hot Reads Production Link: https://frozen-mesa-43893.herokuapp.com/
 
 ## Eric Wahlgren-Sauro
 
