@@ -11,8 +11,8 @@
 
 * URL Lockbox Github Repo Link: https://github.com/AELSchauer/turing-final-assessment-url-lockbox
 * URL Lockbox Production Link: https://arcane-fortress-91308.herokuapp.com
-* Hot Reads Github Repo Link:
-* Hot Reads Production Link:
+* Hot Reads Github Repo Link: https://github.com/AELSchauer/turing-final-assessment-hot-reads
+* Hot Reads Production Link: https://fierce-beach-38151.herokuapp.com/
 
 ## Casey Macaulay
 
