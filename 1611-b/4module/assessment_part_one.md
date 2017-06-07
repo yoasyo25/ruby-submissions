@@ -54,7 +54,7 @@
 * URL Lockbox Github Repo Link: https://github.com/cews7/m4-final-starter
 * URL Lockbox Production Link: https://still-fjord-55858.herokuapp.com/login
 * Hot Reads Github Repo Link: https://github.com/cews7/hot-reads
-* Hot Reads Production Link: https://hot-reads-cews.herokuapp.com/
+* Hot Reads Production Link: https://whispering-brushlands-58561.herokuapp.com/
 
 ## James Anderson
 
