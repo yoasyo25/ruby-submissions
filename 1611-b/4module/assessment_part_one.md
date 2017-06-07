@@ -25,8 +25,8 @@
 
 * URL Lockbox Github Repo Link:https://github.com/CjMoore/m4-final-assessment
 * URL Lockbox Production Link:https://shrouded-plateau-67325.herokuapp.com/
-* Hot Reads Github Repo Link:
-* Hot Reads Production Link:
+* Hot Reads Github Repo Link:https://github.com/CjMoore/hot_reads
+* Hot Reads Production Link:https://hot-reads-cjm.herokuapp.com/
 
 ## Courtney Meyerhofer
 
