@@ -1,43 +1,42 @@
 Assessed By:
+Ali  
 
 Repo:
 
-Notes:
+Notes:  
+Started Iter 4  
+Tried using fixtures, but it caused problems with answers off, so switched back to data set  
+Testing:
+Talked through unit vs integration examples  
+Testing individual components as broke out methods  
+Talked about how much TDD helped them trace errors  
+140 assertions  
+98% coverage  
+1108s to run  
+Ruby & Style:  
+map, find_all, some reduce
+Talked about breaking things apart to appease Law of Demeter  
+Could improve readability of variable names  i.e. ir for invoice_repository  
 
 
 ### 1. Fundamental Ruby & Style
 
-*   4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 *   3:  Application shows strong effort towards organization, content, and refactoring
-*   2:  Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
-*   1:  Application generates syntax error or crashes during execution
 
 ### 2. Breaking Logic into Components
 
-*   4: Application is expertly divided into logical components each with a clear, single responsibility
 *   3: Application effectively breaks logical components apart but breaks the principle of SRP
-*   2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
-*   1: Application logic shows poor decomposition with too much logic mashed together
 
 ### 3. Test-Driven Development
 
-*   4: Application is broken into components which are well tested in both isolation and integration using appropriate data
 *   3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
-*   2: Application makes some use of tests, but the coverage is insufficient
-*   1: Application does not demonstrate strong use of TDD
 
 ### 4. Functional Expectations
 
-*   4: Application implements iterations 0, 1, 2, 3, (4 or 5), and features of your own design
-*   3: Application implements iterations 0, 1, 2, 3, and either 4 or 5
 *   2: Application implements iterations 0, 1, 2, and 3
-*   1: Application does not fully implement iterations 0, 1, 2, and 3
 
 ### 5. Code Sanitation
 
 The output from `rake sanitation:all` shows...
 
 *   4: Zero complaints
-*   3: Five or fewer complaints
-*   2: Six to ten complaints
-*   1: More than ten complaints
