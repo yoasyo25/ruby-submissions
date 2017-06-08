@@ -1,81 +1,81 @@
 # Intermission Work Submission
 
-## Student Name
+## Brett Schwartz
 
 * Reflection Gist: 
 * Sorting Suite Repo: 
 
-## Student Name
+## Colleen Ward
 
 * Reflection Gist: 
 * Sorting Suite Repo: 
 
-## Student Name
+## Craig Ness
 
 * Reflection Gist: 
 * Sorting Suite Repo: 
 
-## Student Name
+## Danny Radden
 
 * Reflection Gist: 
 * Sorting Suite Repo: 
 
-## Student Name
+## Jack Pincus
 
 * Reflection Gist: 
 * Sorting Suite Repo: 
 
-## Student Name
+## Jonathan Kidd
 
 * Reflection Gist: 
 * Sorting Suite Repo: 
 
-## Student Name
+## Joseph Glass
 
 * Reflection Gist: 
 * Sorting Suite Repo: 
 
-## Student Name
+## Josh Thompson
 
 * Reflection Gist: 
 * Sorting Suite Repo: 
 
-## Student Name
+## Lauren Olivieri
 
 * Reflection Gist: 
 * Sorting Suite Repo: 
 
-## Student Name
+## Mark Stover
 
 * Reflection Gist: 
 * Sorting Suite Repo: 
 
-## Student Name
+## Nick Jacques
 
 * Reflection Gist: 
 * Sorting Suite Repo: 
 
-## Student Name
+## Sam Landfried
 
 * Reflection Gist: 
 * Sorting Suite Repo: 
 
-## Student Name
+## Sergey Lukayaneko
 
 * Reflection Gist: 
 * Sorting Suite Repo: 
 
-## Student Name
+## Seth Moser
 
 * Reflection Gist: 
 * Sorting Suite Repo: 
 
-## Student Name
+## Stephanie Bentley
 
 * Reflection Gist: 
 * Sorting Suite Repo: 
 
-## Student Name
+## Victoria Vasys
 
 * Reflection Gist: 
 * Sorting Suite Repo: 
