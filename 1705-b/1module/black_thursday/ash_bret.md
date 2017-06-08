@@ -1,7 +1,8 @@
 Assessed By:
 Ali  
 
-Repo:
+Repo:  
+https://github.com/brettt/black_thursday
 
 Notes:  
 Started Iter 4  
@@ -14,7 +15,7 @@ Talked about how much TDD helped them trace errors
 98% coverage  
 1108s to run  
 Ruby & Style:  
-map, find_all, some reduce
+map, find_all, some reduce  
 Talked about breaking things apart to appease Law of Demeter  
 Could improve readability of variable names  i.e. ir for invoice_repository  
 
