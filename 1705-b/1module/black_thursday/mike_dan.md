@@ -1,17 +1,18 @@
-Assessed By:
+Assessed By:  
 Ali  
 
-Repo:
+Repo:  
+https://github.com/mikeyduece/black_thursday  
 
-Notes:
+Notes:  
 Through Iteration 3, 2 methods from 4  
-Testing:
-108 tests
-142 assertions
+Testing:  
+108 tests  
+142 assertions  
 94% coverage  
 Built fixtures for repo tests  
 Ruby:  
-find, find_all, map, each
+find, find_all, map, each  
 Used a Stats module  
 Used some helper methods, used some chaining between classes  
 
