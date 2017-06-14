@@ -90,6 +90,11 @@
 * Reflection Gist: 
 * Sorting Suite Repo: 
 
+## Valerie Trudell
+
+* Reflection Gist: 
+* Sorting Suite Repo: 
+
 ## Victoria Vasys
 
 * Reflection Gist: 
