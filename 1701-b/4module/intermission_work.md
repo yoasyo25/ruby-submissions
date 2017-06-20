@@ -20,6 +20,16 @@
 * Reflection Gist: 
 * Sorting Suite Repo: 
 
+## Riley Thompson
+
+* Reflection Gist: 
+* Sorting Suite Repo: 
+
+## Erin Bassity
+
+* Reflection Gist: 
+* Sorting Suite Repo: 
+
 ## Jack Pincus
 
 * Reflection Gist: 
@@ -50,6 +60,11 @@
 * Reflection Gist: 
 * Sorting Suite Repo: 
 
+## Mark Van Akkeren
+
+* Reflection Gist: 
+* Sorting Suite Repo: 
+
 ## Nick Jacques
 
 * Reflection Gist: 
@@ -75,47 +90,12 @@
 * Reflection Gist: 
 * Sorting Suite Repo: 
 
+## Valerie Trudell
+
+* Reflection Gist: 
+* Sorting Suite Repo: 
+
 ## Victoria Vasys
-
-* Reflection Gist: 
-* Sorting Suite Repo: 
-
-## Student Name
-
-* Reflection Gist: 
-* Sorting Suite Repo: 
-
-## Student Name
-
-* Reflection Gist: 
-* Sorting Suite Repo: 
-
-## Student Name
-
-* Reflection Gist: 
-* Sorting Suite Repo: 
-
-## Student Name
-
-* Reflection Gist: 
-* Sorting Suite Repo: 
-
-## Student Name
-
-* Reflection Gist: 
-* Sorting Suite Repo: 
-
-## Student Name
-
-* Reflection Gist: 
-* Sorting Suite Repo: 
-
-## Student Name
-
-* Reflection Gist: 
-* Sorting Suite Repo: 
-
-## Student Name
 
 * Reflection Gist: 
 * Sorting Suite Repo: 
