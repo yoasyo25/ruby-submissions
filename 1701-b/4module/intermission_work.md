@@ -87,8 +87,8 @@
 
 ## Stephanie Bentley
 
-* Reflection Gist: 
-* Sorting Suite Repo: 
+* Reflection Gist: https://gist.github.com/slague
+* Sorting Suite Repo: https://github.com/slague/sorting-suite
 
 ## Valerie Trudell
 
