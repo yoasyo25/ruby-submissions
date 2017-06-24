@@ -92,8 +92,8 @@
 
 ## Valerie Trudell
 
-* Reflection Gist: 
-* Sorting Suite Repo: 
+* Reflection Gist: https://gist.github.com/valerietrudell/ad976b08ab64b587b6e1cfb1ae0b086a 
+* Sorting Suite Repo: https://github.com/valerietrudell/javascriptSortingSuite 
 
 ## Victoria Vasys
 
