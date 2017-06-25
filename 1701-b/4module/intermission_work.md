@@ -7,8 +7,8 @@
 
 ## Colleen Ward
 
-* Reflection Gist: 
-* Sorting Suite Repo: 
+* Reflection Gist: https://gist.github.com/caward12/f7946208400505f1cc5d27eb2a598e69
+* Sorting Suite Repo: https://github.com/caward12/sorting-suite
 
 ## Craig Ness
 
