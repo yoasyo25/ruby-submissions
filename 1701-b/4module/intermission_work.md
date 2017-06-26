@@ -42,8 +42,8 @@
 
 ## Joseph Glass
 
-* Reflection Gist: 
-* Sorting Suite Repo: 
+* Reflection Gist: https://gist.github.com/glassjoseph/7b942ba58235453253f59f70556373a9
+* Sorting Suite Repo: https://github.com/glassjoseph/sorting_suite
 
 ## Josh Thompson
 
