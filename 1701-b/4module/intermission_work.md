@@ -50,10 +50,10 @@
 * Reflection Gist: 
 * Sorting Suite Repo: 
 
-## Lauren Olivieri
+## Lauren Oliveri
 
-* Reflection Gist: 
-* Sorting Suite Repo: 
+* Reflection Gist: https://gist.github.com/lao9/9903cd2c30f73b270f91eaf589524027
+* Sorting Suite Repo: https://github.com/lao9/sorting-suite
 
 ## Mark Stover
 
