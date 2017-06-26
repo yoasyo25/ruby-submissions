@@ -77,8 +77,8 @@
 
 ## Sergey Lukayaneko
 
-* Reflection Gist: 
-* Sorting Suite Repo: 
+* Reflection Gist: https://gist.github.com/lukyans/a41df99c1427c854fc9d7dfe43bf6df8
+* Sorting Suite Repo: https://github.com/lukyans/intermission_work_mod4
 
 ## Seth Moser
 
