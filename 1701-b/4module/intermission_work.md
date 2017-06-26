@@ -37,8 +37,8 @@
 
 ## Jonathan Kidd
 
-* Reflection Gist: 
-* Sorting Suite Repo: 
+* Reflection Gist: https://gist.github.com/jk1dd/b24336b6083e998a16302ed5c41e4750
+* Sorting Suite Repo: https://github.com/jk1dd/sorting-suite
 
 ## Joseph Glass
 
