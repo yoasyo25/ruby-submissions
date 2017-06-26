@@ -67,7 +67,7 @@
 
 ## Nick Jacques
 
-* Reflection Gist: 
+* Reflection Gist: [link](https://gist.github.com/NicholasJacques/6e0ce459848be5b1ed6a0e6aaa17bbee)
 * Sorting Suite Repo: 
 
 ## Sam Landfried
