@@ -57,8 +57,8 @@
 
 ## Mark Stover
 
-* Reflection Gist: 
-* Sorting Suite Repo: 
+* Reflection Gist: https://gist.github.com/stovermc/6ac9122a08f76fb4a92a6b62a37f420d
+* Sorting Suite Repo: https://github.com/stovermc/sortingSuite
 
 ## Mark Van Akkeren
 
