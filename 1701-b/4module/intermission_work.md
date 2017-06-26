@@ -32,8 +32,8 @@
 
 ## Jack Pincus
 
-* Reflection Gist: 
-* Sorting Suite Repo: 
+* Reflection Gist: [link](https://gist.github.com/jwpincus/bf0337590ad330390733045316905a42)
+* Sorting Suite Repo: [link](https://github.com/jwpincus/sorting_suite_js)
 
 ## Jonathan Kidd
 
