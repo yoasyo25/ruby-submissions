@@ -72,8 +72,8 @@
 
 ## Sam Landfried
 
-* Reflection Gist: 
-* Sorting Suite Repo: 
+* Reflection Gist: https://gist.github.com/samlandfried/9c0ff1f655097c9b8cd2145f7de36be6
+* Sorting Suite Repo: https://github.com/samlandfried/jsSortingSuite
 
 ## Sergey Lukayaneko
 
