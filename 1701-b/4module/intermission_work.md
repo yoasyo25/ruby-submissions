@@ -47,8 +47,8 @@
 
 ## Josh Thompson
 
-* Reflection Gist: 
-* Sorting Suite Repo: 
+* Reflection Gist: https://gist.github.com/josh-works/377b460dcec0e580738eb7b85a9773e4
+* Sorting Suite Repo: https://github.com/josh-works/sorting
 
 ## Lauren Olivieri
 
