@@ -97,5 +97,5 @@
 
 ## Victoria Vasys
 
-* Reflection Gist: 
-* Sorting Suite Repo: 
+* Reflection Gist: https://gist.github.com/VictoriaVasys/d4e44e8b2a58cc22d84314bc584f08f7
+* Sorting Suite Repo: https://github.com/VictoriaVasys/sorting-suite-js
