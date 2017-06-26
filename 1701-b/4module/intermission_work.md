@@ -12,8 +12,8 @@
 
 ## Craig Ness
 
-* Reflection Gist: 
-* Sorting Suite Repo: 
+* Reflection Gist: [Link to Gist](https://gist.github.com/NessEFC/1c7f509f8e321c7bb8b9cf3d905d8f00)
+* Sorting Suite Repo: [Link to Repo](https://github.com/NessEFC/sorting_suite_js)
 
 ## Danny Radden
 
