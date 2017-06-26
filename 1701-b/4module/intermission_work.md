@@ -27,8 +27,8 @@
 
 ## Erin Bassity
 
-* Reflection Gist: 
-* Sorting Suite Repo: 
+* Reflection Gist: [link](https://gist.github.com/somedayrainbows/7ae37e42a85266ca27c9d7d83f8e77f8)
+* Sorting Suite Repo: [link](https://github.com/somedayrainbows/sorting_suite)
 
 ## Jack Pincus
 
