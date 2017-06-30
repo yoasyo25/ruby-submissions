@@ -3,11 +3,12 @@
 ### Git Workflow
 
 - Team always used pull requests and commented on pull requests prior to introducing code into the master branch.
-  - 4: Better than expected
+  - **4: Better than expected**
   - 3: As expected
   - 2: Below expectations
   - 1: Well below expectations
 
+- Lots of branches and commits! I also really like the use of the PR template.
 
 ### Test Quality
 
