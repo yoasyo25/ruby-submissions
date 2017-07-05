@@ -67,8 +67,8 @@
 
 ## Nick Jacques
 
-* Reflection Gist: 
-* Sorting Suite Repo: 
+* Reflection Gist: [link](https://gist.github.com/NicholasJacques/6e0ce459848be5b1ed6a0e6aaa17bbee)
+* Sorting Suite Repo: [link](https://github.com/NicholasJacques/sortingSuiteJS)
 
 ## Sam Landfried
 
