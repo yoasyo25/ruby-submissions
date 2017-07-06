@@ -1,13 +1,13 @@
 Evaluation Rubric
 
-Student: Nicholas
-Evaluated By: Ali
-Notes:
-Testing: 5, 3
-Uses classes (Node and LinkedList)
-Uses methods
-Works for appending one node 
-Nodes hold data and next node
+Student: Nicholas  
+Evaluated By: Ali  
+Notes:  
+Testing: 5, 3  
+Uses classes (Node and LinkedList)  
+Uses methods  
+Works for appending one node  
+Nodes hold data and next node  
 
 The project will be assessed with the following rubric:
 

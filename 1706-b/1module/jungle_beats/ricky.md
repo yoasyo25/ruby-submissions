@@ -1,13 +1,13 @@
 Evaluation Rubric
 
-Student: Ricky
-Evaluated By: Ali
-Notes:
-Testing- 3, 10, 3
-Works through- 5 w/ includes? glitch
+Student: Ricky  
+Evaluated By: Ali  
+Notes:  
+Testing- 3, 10, 3  
+Works through- 5 w/ includes? glitch  
 
 Numerous places where it follows the heart of the spec but not the letter  
-list.includes?() only returns true for last element in list
+list.includes?() only returns true for last element in list  
 Completed through iteration 5 by 9a, finished through 6 by 10a(eval time)  
 
 

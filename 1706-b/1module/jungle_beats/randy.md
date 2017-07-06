@@ -1,7 +1,7 @@
 Evaluation Rubric
 
-Student: Randy
-Evaluated By: Ali
+Student: Randy  
+Evaluated By: Ali  
 Notes:  
 Testing- 3, 11, 6   
 Works through- 6!!  

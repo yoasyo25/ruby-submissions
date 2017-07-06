@@ -1,9 +1,9 @@
 Evaluation Rubric
 
-Student: Tim
-Evaluated By: Tim
-Notes:
-Working through append for multiple nodes, does not have to_string
+Student: Tim  
+Evaluated By: Tim  
+Notes:  
+Working through append for multiple nodes, does not have to_string  
 Testing - 16 tests, 3 failing, testing LinkedList  
 
 
