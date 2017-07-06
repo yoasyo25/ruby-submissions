@@ -1,7 +1,7 @@
 Evaluation Rubric
 
-Student:
-Evaluated By:
+Student: Tim
+Evaluated By: Tim 
 Notes:
 
 The project will be assessed with the following rubric:

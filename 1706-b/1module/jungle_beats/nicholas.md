@@ -1,7 +1,7 @@
 Evaluation Rubric
 
-Student:
-Evaluated By:
+Student: Nicholas
+Evaluated By: Ali
 Notes:
 
 The project will be assessed with the following rubric:
