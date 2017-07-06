@@ -1,13 +1,13 @@
 Evaluation Rubric
 
-Student: Mike H
-Evaluated By: Ali
-Notes:
-Tests: 3, 18, 8 Sings a song
-Inlcudes? returns true only for first element
+Student: Mike H  
+Evaluated By: Ali  
+Notes:  
+Tests: 3, 18, 8 Sings a song  
+Inlcudes? returns true only for first element  
 Some return values do not explicitly match spec  
-Naming and use of loops looks great.
-Talked about some areas to extract out loops.
+Naming and use of loops looks great.  
+Talked about some areas to extract out loops.  
 
 The project will be assessed with the following rubric:
 

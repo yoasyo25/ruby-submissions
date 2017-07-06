@@ -1,11 +1,11 @@
 Evaluation Rubric
 
-Student: Sam S
-Evaluated By: Ali
-Notes:
-Testing- 5, 21, 12  
-Some instances of not following spec specifics
-Working through - Solid through iter 5, in iter 6 does not append nodes to list through Jungle Beat
+Student: Sam S  
+Evaluated By: Ali  
+Notes:  
+Testing- 5, 21, 12   
+Some instances of not following spec specifics  
+Working through - Solid through iter 5, in iter 6 does not append nodes to list through Jungle Beat  
 Some long methods - but most within target range  
 
 The project will be assessed with the following rubric:
@@ -24,4 +24,4 @@ The project will be assessed with the following rubric:
 
 # 4. Functional Expectations
 
-2: Application runs, but does not work properly, or does not meet specifications.
+3: Application meets all requirements as laid out per the specification.

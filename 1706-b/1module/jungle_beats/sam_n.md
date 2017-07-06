@@ -1,10 +1,10 @@
 Evaluation Rubric
 
-Student: Sam N
-Evaluated By: Ali
+Student: Sam N  
+Evaluated By: Ali  
 Notes:  
-Testing - 9, 2 - no JB tests
-Working through - Iteration 6  
+Testing - 9, 2 - no JB tests  
+Working through - Iteration 6   
 Uses classes and methods  
 Method lengths look to be on target  
 Talked about some opportunities for refactoring  
