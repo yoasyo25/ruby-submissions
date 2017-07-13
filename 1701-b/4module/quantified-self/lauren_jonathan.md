@@ -68,10 +68,12 @@ _Great git workflow. I saw multiple comments on PR's to document discussions and
 
 ### Project Management
 
-- 4: Team is using a project management tool and updating their progress daily. Team is approving each other's  work. Team is documenting conversations and conclusions on relevant cards.
+- **4: Team is using a project management tool and updating their progress daily. Team is approving each other's  work. Team is documenting conversations and conclusions on relevant cards.**
 - 3: Team is using a project management tool to keep their project organized.
 - 2: Team is using a project management tool but didn't update the progress frequently. Many cards have no changes made to them
 - 1: Team failed to use a project management tool to track its progress.
+
+_Team used PT to track progress and assign cards to team members. They also documented conversations that were relevant to workflow on PT. Good work!_
 
 ### Risk Taking
 
