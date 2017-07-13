@@ -2,10 +2,10 @@
 
 ### Brett & Seth
 
-* Frontend Production:
-* Backend Production:
-* Frontend Github Repo:
-* Backend Github Repo:
+* Frontend Production: NA
+* Backend Production: NA
+* Frontend Github Repo: https://github.com/bschwartz10/fe-quantified-self
+* Backend Github Repo: https://github.com/seth-at-at/quantified-self
 
 ### Colleen & Josh
 
