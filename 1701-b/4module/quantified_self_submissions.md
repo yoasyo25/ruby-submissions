@@ -51,8 +51,8 @@
 
 ### Stephanie & Sergey
 
-* Frontend Production:
-* Backend Production:
-* Frontend Github Repo:
-* Backend Github Repo:
+* Frontend Production: https://lukyans.github.io/quantified-self-fe
+* Backend Production: https://quantified-self-1701.herokuapp.com/api/v1/foods
+* Frontend Github Repo: https://github.com/lukyans/quantified-self-fe
+* Backend Github Repo: https://github.com/slague/quantified-self
 
