@@ -23,10 +23,10 @@
 
 ### Mark & Victoria
 
-* Frontend Production:
-* Backend Production:
-* Frontend Github Repo:
-* Backend Github Repo:
+* Frontend Production: https://victoriavasys.github.io/QS-Frontend/
+* Backend Production: https://ms-vv-quantified-self.herokuapp.com/
+* Frontend Github Repo: https://github.com/VictoriaVasys/QS-Frontend/
+* Backend Github Repo: https://github.com/stovermc/QS-Node-Backend/
 
 ### Jack & Nick
 
