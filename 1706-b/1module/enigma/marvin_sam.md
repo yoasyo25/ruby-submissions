@@ -1,7 +1,7 @@
 Evaluation Rubric
 
-Student:
-Evaluated By:
+Student: Marvin & Sam
+Evaluated By: Ali  
 Notes:
 5, 1, 7, - one failing due to Date complexity  
 Encrypt and Crack working, Decrypt working only through Crack  
