@@ -6,6 +6,7 @@
 
 #### Notes
 
+* This was a pleasure to review. Great job!
 * Awesome first impression on the production front-end!
 * Interesting bug: when there is only one item left in a meal table, my delete
   gets a 404 in the console, but the item is gone if I refresh. Hm...
