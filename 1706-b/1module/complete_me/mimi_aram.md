@@ -6,7 +6,7 @@ Notes:
 Spec harness passing all  
 37 runs 54 assertions w/ Rake task  
 Methods are fairly streamlined and explicit
-  Talked about ways they'd like to refactor  & pros/cons of ladder vs runner methods
+  Talked about ways they'd like to refactor  & pros/cons of ladder vs runner methods 
 
 The project will be assessed with the following rubric:
 

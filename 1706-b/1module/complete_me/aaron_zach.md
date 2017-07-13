@@ -1,7 +1,7 @@
 Evaluation Rubric
 
-Student:
-Evaluated By:
+Student: Aaron & Zach  
+Evaluated By: Ali  
 Notes:
 Spec harness passing all assertions  
 15 & 21 local tests  

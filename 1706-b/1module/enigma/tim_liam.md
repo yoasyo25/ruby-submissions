@@ -1,12 +1,12 @@
 Evaluation Rubric
 
-Student: Tim, Liam
+Student: Tim, Liam  
 Evaluated By: Ali  
-Notes:
-7 decrypt
-29 - 2 errors
-1 key
-6 1 f reader test
+Notes:  
+7 decrypt  
+29 - 2 errors  
+1 key  
+6 1 f reader test  
 3 1 f writer test  
 
 Date formatting doesn't match the spec  
