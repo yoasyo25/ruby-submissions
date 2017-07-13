@@ -44,10 +44,11 @@
 
 ### Valerie & Joseph
 
-* Frontend Production:
-* Backend Production:
-* Frontend Github Repo:
-* Backend Github Repo:
+* Backend Production: ?
+* Frontend Production Link: https://valerietrudell.github.io/1701_quantified_self_frontend/
+* Backend Github Link: https://github.com/valerietrudell/1701_quantified_self_backend.git
+* Frontend Github Link: https://github.com/valerietrudell/1701_quantified_self_frontend.git
+
 
 ### Stephanie & Sergey
 
