@@ -1,6 +1,6 @@
 # Quantified Self
 
-### Students: Valerie * Mark
+### Students: Victoria * Mark
 
 ### Evaluated by: Casey
 
