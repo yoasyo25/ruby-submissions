@@ -1,12 +1,12 @@
 # Quantified Self
 
-### Students:
+### Students: Erin & Craig
 
-### Evaluated by:
+### Evaluated by: Casey
 
 #### Notes
 
-* 
+_See notes below_
 
 ## Rubric
 
@@ -16,43 +16,55 @@ You will be subjectively graded by an instructor on the following criteria:
 
 - 4: Application implements all functionality as defined, with no bugs, and one extension (if you choose to put your point here)
 - 3: Application implements all functionality as defined, but some bugs or strange behavior where features intersect
-- 2: Application is missing required functionality, deviates significantly from the spec, or serious bugs prevent features from being usable
+- **2: Application is missing required functionality, deviates significantly from the spec, or serious bugs prevent features from being usable**
 - 1: Application is missing a significant portion of functionality
+
+_The food portion of the frontend is working as specified. The meals portion is still in progress. It does not meet the specs. Erin and Craig are going to write a reflection on their process and this project to help supplement this score._
 
 ### Planning and Design
 
 - 4: Team created visual schema, API documentation and user stories, before writing tests. API adheres to REST standard.
-- 3: Team created either a schema or API docs to facilitate implementation of a service.
+- **3: Team created either a schema or API docs to facilitate implementation of a service.**
 - 2: Team has some notes on how to implement their service, but someone else couldn't implement it.
 - 1: Team did not design their service.
+
+_You have API documentation and the API follows REST standards. Good work._
 
 ### Testing
 
 - 4: All functionality is covered by tests. Appropriate mix of unit and integration tests. Sad path testing in both unit and integration tests.
 - 3: All back-end functionality is covered by tests. Front-end uses unit tests wherever logic can be separated from interface and network requests.
-- 2: More back-end functionality implemented than tested and/or very little front-end testing
+- **2: More back-end functionality implemented than tested and/or very little front-end testing**
 - 1: Team fails to effectively test the application.
+
+_Your missing front end tests and a good chunk of tests for your backend functionality. I don't see tests for your Meal or MealFood models on your backend. The tests that you do have look solid. Good work on those._
 
 ### HTML/UI
 
-- 4: Team put some effort into styling. HTML features unique IDs, classes and data attributes for DOM traversal.
+- **4: Team put some effort into styling. HTML features unique IDs, classes and data attributes for DOM traversal.**
 - 3: Application is not confusing to use. HTML classes and IDs are kebab case.
 - 2: HTML is greatly lacking in standards compliance. UI is confusing or very buggy.
 - 1: Application is unusable
 
+_Great job on this rubric item. You clearly put thought into the UX/UI of the app. Your HTML is also well-structured._
+
 ### JS syntax and Style
 
 - 4: Javascript features explicit DOM traversal (not using closest), demonstrates great OOP concepts, and uses named and anonymous functions when appropriate
-- 3: Code logically divided into files. Developer can show examples of good coding practices, like DRY and separation of concerns. Attention payed to indentation and naming.
+- **3: Code logically divided into files. Developer can show examples of good coding practices, like DRY and separation of concerns. Attention payed to indentation and naming.**
 - 2: Javascript is noticeably lacking in the above concepts.
 - 1: Team has not applied any style concepts from class or from Ruby background
+
+_Be sure you're following JS convention by naming variables in camel case (I think I found snake case at least one place). I like your use of classes to organize your code. You have some repetitive code in your meals.js which I believe is just about where you got to. The JS code that you have mostly looks clean, and it appears that y'all tried to make it as DRY as possible and you broke things down as much as possible. Definitely room to refactor, but overall good job._
 
 ### Git Workflow
 
 - 4: Team uses master for production, and creates a feature branch for each card worked on. Team is using pull requests with good context and conversation
-- 3: Team is using the feature branches for small groups of cards, and has a pull request for each feature. Developers that aren't on the team have commented on PRs.
+- **3: Team is using the feature branches for small groups of cards, and has a pull request for each feature. Developers that aren't on the team have commented on PRs.**
 - 2: Team fails to use feature branches, or isn't using pull requests
 - 1: All code is committed to master
+
+_Good working using Git and Github here. In the future, I'd like to see y'all commenting even more on each other's code. I appreciate you tagging me to keep me up to date and give me a chance to comment/give feedback!_
 
 ### Project Management
 
