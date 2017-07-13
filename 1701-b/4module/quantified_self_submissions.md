@@ -16,10 +16,10 @@
 
 ### Craig & Erin
 
-* Frontend Production:
-* Backend Production:
-* Frontend Github Repo:
-* Backend Github Repo:
+* Frontend Production: https://somedayrainbows.github.io/quantified-self/
+* Backend Production: https://quantified-self-be-bassiness.herokuapp.com/
+* Frontend Github Repo: https://github.com/somedayrainbows/quantified-self
+* Backend Github Repo: https://github.com/somedayrainbows/quantified-self-be
 
 ### Mark & Victoria
 
