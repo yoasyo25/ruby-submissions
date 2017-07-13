@@ -9,10 +9,10 @@
 
 ### Colleen & Josh
 
-* Frontend Production:
-* Backend Production:
-* Frontend Github Repo:
-* Backend Github Repo:
+* Frontend Production: https://caward12.github.io/quantified-self-frontend/
+* Backend Production: https://quantified-self-backend.herokuapp.com/
+* Frontend Github Repo: https://github.com/caward12/quantified-self-frontend
+* Backend Github Repo: https://github.com/caward12/quantified-self
 
 ### Craig & Erin
 
