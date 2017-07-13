@@ -37,10 +37,10 @@
 
 ### Jonathan & Lauren
 
-* Frontend Production:
-* Backend Production:
-* Frontend Github Repo:
-* Backend Github Repo:
+* Frontend Production: https://jk1dd.github.io/quantified-self-fe/
+* Backend Production: https://qs-food-log.herokuapp.com/api/foods
+* Frontend Github Repo: https://github.com/jk1dd/quantified-self-fe
+* Backend Github Repo: https://github.com/lao9/quantified_self
 
 ### Valerie & Joseph
 
