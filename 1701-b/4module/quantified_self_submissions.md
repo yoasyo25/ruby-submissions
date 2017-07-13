@@ -44,7 +44,7 @@
 
 ### Valerie & Joseph
 
-* Backend Production: ?
+* Backend Production: https://quantself-1701.herokuapp.com/
 * Frontend Production Link: https://valerietrudell.github.io/1701_quantified_self_frontend/
 * Backend Github Link: https://github.com/valerietrudell/1701_quantified_self_backend.git
 * Frontend Github Link: https://github.com/valerietrudell/1701_quantified_self_frontend.git
