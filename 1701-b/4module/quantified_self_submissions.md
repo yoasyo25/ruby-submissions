@@ -30,10 +30,10 @@
 
 ### Jack & Nick
 
-* Frontend Production:
-* Backend Production:
-* Frontend Github Repo:
-* Backend Github Repo:
+* Frontend Production: [link](https://jwpincus.github.io)
+* Backend Production: [link](https://ancient-reef-88532.herokuapp.com)
+* Frontend Github Repo: [link](https://github.com/jwpincus/quantified-self-back-end)
+* Backend Github Repo: [link](https://github.com/jwpincus/quantified-self)
 
 ### Jonathan & Lauren
 
