@@ -1,6 +1,6 @@
 # Quantified Self
 
-### Student:
+### Students:
 
 ### Evaluated by:
 
