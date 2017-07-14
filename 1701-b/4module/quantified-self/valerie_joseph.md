@@ -19,7 +19,7 @@ You will be subjectively graded by an instructor on the following criteria:
 - **2: Application is missing required functionality, deviates significantly from the spec, or serious bugs prevent features from being usable**
 - 1: Application is missing a significant portion of functionality
 
-_You're missing required functionality, but not by too much._
+_You're missing required functionality, but not by too much. Because you both submitted reflections, this project will not be considered as a "fail."_
 
 ### Planning and Design
 
