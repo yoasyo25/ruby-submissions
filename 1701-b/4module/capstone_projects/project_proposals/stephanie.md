@@ -1,27 +1,27 @@
 ### Project Template
 
-### [Project Title]
+### Turing Wellness Tracker App
 
 ### Pitch
 
-1 sentence that explains the value proposition of the application. How would you explain it to a potential business partner, team member, or investor?
+This app will replace the google spreadsheet Turing students currently use to track welness goals. 
 
 ### Problem
 
-1-3 sentences describing the problem that you are trying to solve.
+The current goal tracker is OK, not super neat and clean. It is a spreadsheet that gets the job done, but could be built in a much more user friendly way.
 
 ### Solution
 
-1-3 sentences describing how your application will solve that problem.
+As a leader of Hamilton posse, we began work on this during Mod 2... it has sat dormant since.  I would like to see this completed to a poinnt where students can use it and an Admin can gather data/stats for each week and mod. 
 
 ### Target Audience
 
-1-3 sentences describing what type of user your app would be applicable to.
+Turing students
 
 ### New Techniques
 
-Which new techniques are you hoping to implement?
+Not sure... would love some advice here! Definitely going to be a rails app with Javascript. I would like to build in some of the things we learned about in Mod 3, but that I never really had the chance to implement (eg some kind of background worker that sends reminder texts) 
 
 ### Workflow
 
-What project management tool will you be using to manage your progress?
+Waffle.io and personal notes
