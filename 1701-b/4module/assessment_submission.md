@@ -28,8 +28,8 @@
 
 # Jack Pincus
 
-- URL Lockbox Github Repo Link:
-- URL Lockbox Production Link: 
+- URL Lockbox Github Repo [Link:](https://github.com/jwpincus/m4-final-starter)
+- URL Lockbox Production [Link:](https://safe-beach-18611.herokuapp.com/)
 - Hot Reads Github Repo Link:
 - Hot Reads Production Link: 
 
