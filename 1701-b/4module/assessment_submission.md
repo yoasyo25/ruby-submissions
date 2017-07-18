@@ -35,7 +35,7 @@
 
 # Jonathan Kidd
 
-- URL Lockbox Github Repo Link:
+- URL Lockbox Github Repo Link: https://github.com/jk1dd/URLockBox
 - URL Lockbox Production Link: 
 - Hot Reads Github Repo Link:
 - Hot Reads Production Link: 
