@@ -105,8 +105,8 @@
 
 # Valerie Trudell
 
-- URL Lockbox Github Repo Link:
-- URL Lockbox Production Link: 
+- URL Lockbox Github Repo Link: https://github.com/valerietrudell/final_assessment_url_box
+- URL Lockbox Production Link: https://urlboxfinalassessment.herokuapp.com/login
 - Hot Reads Github Repo Link:
 - Hot Reads Production Link: 
 
