@@ -98,8 +98,8 @@
 
 # Stephanie Bentley
 
-- URL Lockbox Github Repo Link:
-- URL Lockbox Production Link: 
+- URL Lockbox Github Repo Link: https://github.com/slague/m4-final-starter
+- URL Lockbox Production Link: https://mod-4-final-stephanie.herokuapp.com/
 - Hot Reads Github Repo Link:
 - Hot Reads Production Link: 
 
