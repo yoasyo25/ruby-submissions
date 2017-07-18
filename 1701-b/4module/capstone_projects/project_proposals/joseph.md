@@ -1,27 +1,29 @@
 ### Project Template
 
-### [Project Title]
+### Core Values
 
 ### Pitch
 
-1 sentence that explains the value proposition of the application. How would you explain it to a potential business partner, team member, or investor?
+Core Values helps you build and keep value-driven goals based on psychological research of willpower, habit forming, and social support.
 
 ### Problem
 
-1-3 sentences describing the problem that you are trying to solve.
+There are thousands of task-trackers, goal-setters, and will-power boosting apps on the market, but most completely miss the essential elements of human psychology. They treat goals as checklists without identifying the root causes of success and failure in goal-keeping and habit formation.
 
 ### Solution
 
-1-3 sentences describing how your application will solve that problem.
+Core Values changes the 'checklist' mentality into goals that reflect your values, and then supports you with habit-development, social support, and guided reflection. Users are guided through goal-setting with links and resources to performance research. My app will include standard goal setting and tracking but will also prompt social support from a list of mentors and cheerleaders for each user.
 
 ### Target Audience
 
-1-3 sentences describing what type of user your app would be applicable to.
+People who want to change habits and track their performance on their most important values.
 
 ### New Techniques
 
-Which new techniques are you hoping to implement?
+- Data Visualization
+- Mailer gems
+
 
 ### Workflow
 
-What project management tool will you be using to manage your progress?
+Pivotal Tracker
