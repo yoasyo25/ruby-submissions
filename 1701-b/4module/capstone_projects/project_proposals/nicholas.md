@@ -1,27 +1,27 @@
 ### Project Template
 
-### [Project Title]
+### [Tinkr](https://github.com/NicholasJacques/Tinkr)
 
 ### Pitch
 
-1 sentence that explains the value proposition of the application. How would you explain it to a potential business partner, team member, or investor?
+A mobile app that helps users track the maintenance schedule for their vehicle.
 
 ### Problem
 
-1-3 sentences describing the problem that you are trying to solve.
+It's hard to remember when you should do maintenance on your vehicles. This results in poor performance and voided warrantees.
 
 ### Solution
 
-1-3 sentences describing how your application will solve that problem.
+This is a mobile application that will allow users to select the vehicles that they own and receive recurring reminders when their vehicle is due for manufacturer recommended maintenance.
 
 ### Target Audience
 
-1-3 sentences describing what type of user your app would be applicable to.
+This app could be useful for both commercial and non-commercial users. This app would be especially useful for small business owners who have to manage fleets of vehicles
 
 ### New Techniques
 
-Which new techniques are you hoping to implement?
+I plan to build the mobile app in React Native. There will be a rails backend to store user data. Car maintenance information will come from the Edmunds API.
 
 ### Workflow
 
-What project management tool will you be using to manage your progress?
+I plan to use pivotal tracker to manage the project. I am waiting to recieve my API key from Edmunds. Until then I am going to start building user stories for the front-end mobile application.
