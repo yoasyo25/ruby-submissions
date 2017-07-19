@@ -12,11 +12,11 @@ It's hard to remember when you should do maintenance on your vehicles. This resu
 
 ### Solution
 
-This is a mobile application that will allow users to select the vehicles that they own and receive recurring reminders when their vehicle is due for manufacturer reccomended maintenance.
+This is a mobile application that will allow users to select the vehicles that they own and receive recurring reminders when their vehicle is due for manufacturer recommended maintenance.
 
 ### Target Audience
 
-This app could be usefull for both commercial and non-commercial users. This app would be especially usefull for small business owners who have to manage fleets of vehicles
+This app could be useful for both commercial and non-commercial users. This app would be especially useful for small business owners who have to manage fleets of vehicles
 
 ### New Techniques
 
