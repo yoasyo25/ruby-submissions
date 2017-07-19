@@ -1,27 +1,27 @@
 ### Project Template
 
-### [Project Title]
+### Security Analizer
 
 ### Pitch
 
-1 sentence that explains the value proposition of the application. How would you explain it to a potential business partner, team member, or investor?
+This (website or gem) analyzes a website (or source code) for security vulnerabilities - cross site scripting, sql injection etc and shows exactly where the vulnerability exists and then sugests how it can fix it.  I'd likely draw from OWASAP's top ten vulnerabilities: https://www.port80software.com/support/articles/2013-owasp-top-10  and look for those vulnerabilities in the scan, And ideally this would be a gem that is or an atom package maybe that would real time analyze the code being written and assess whether or not it has a vulnerabiltiy and if it does it'll pop up a window that shows the vulnerability and how to fix it. 
 
 ### Problem
 
-1-3 sentences describing the problem that you are trying to solve.
+There is a discontect between developers and security analyst about how to secure a companies information. So many apps are left unsecure and the fix to it is really not that difficult. 
 
 ### Solution
 
-1-3 sentences describing how your application will solve that problem.
+This tool brings the security to the beginning of path - with the developer. 
 
 ### Target Audience
 
-1-3 sentences describing what type of user your app would be applicable to.
+Developers Mostly
 
 ### New Techniques
 
-Which new techniques are you hoping to implement?
+  - possibily using a gem 
 
 ### Workflow
 
-What project management tool will you be using to manage your progress?
+  - Waffle!

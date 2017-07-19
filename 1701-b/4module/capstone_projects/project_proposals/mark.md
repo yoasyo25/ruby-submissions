@@ -1,27 +1,27 @@
 ### Project Template
 
-### [Project Title]
+### [RiverRight]
 
 ### Pitch
 
-1 sentence that explains the value proposition of the application. How would you explain it to a potential business partner, team member, or investor?
+A platform for managing the coordination of shared gear while planning a multiday raft trip.
 
 ### Problem
 
-1-3 sentences describing the problem that you are trying to solve.
+Planning a rafting trip requires a ton of coordination around shared gear. Typically, this coordination is achieved using spreadsheats, email, phone calls/texting, and in person planning sessions. It is very difficult to keep track of it all to ensure a successful trip.
 
 ### Solution
 
-1-3 sentences describing how your application will solve that problem.
+River Right will provide a single platform for coordinating group gear. It will display who is bringing what based on user profiles. These user profiles will be used in order to determine which gear is still needed and which is in excess, making the trip planning much more efficient.
 
 ### Target Audience
 
-1-3 sentences describing what type of user your app would be applicable to.
+The target audience is the larger rafting community but the technology could be implemented to include planning for backpacking/camping or any type of activity that requires gear aggregation from individuals.
 
 ### New Techniques
 
-Which new techniques are you hoping to implement?
+New techniques will include building a frontend using Object Oriented JavaScript and a backend using Node/Express
 
 ### Workflow
 
-What project management tool will you be using to manage your progress?
+I will be using Pivotal tracker to manage the development of my app.
