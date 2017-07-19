@@ -1,27 +1,27 @@
 ### Project Template
 
-### [Project Title]
+### Imgur Favorites
 
 ### Pitch
 
-1 sentence that explains the value proposition of the application. How would you explain it to a potential business partner, team member, or investor?
+A website that parses Imgur's api and allows you to create folders for your favorite images allowing to find specific images easier with folders and search tags
 
 ### Problem
 
-1-3 sentences describing the problem that you are trying to solve.
+Imgur users go through hundreds of images a day and favorite images for later use. But because there is no way for them to sort their images they eventually forget about them or can't find the specific one they want fast enough.
 
 ### Solution
 
-1-3 sentences describing how your application will solve that problem.
+I will have an easy to use site that allows people to sort their images and search for specific ones with tags they create inside their folders to quickly and easily find an image.
 
 ### Target Audience
 
-1-3 sentences describing what type of user your app would be applicable to.
+Any imgur user.
 
 ### New Techniques
 
-Which new techniques are you hoping to implement?
+Dropdowns on image clicks to add it to a folder.
 
 ### Workflow
 
-What project management tool will you be using to manage your progress?
+Waffle.io
