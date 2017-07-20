@@ -24,4 +24,4 @@ I plan to build the webapp in React. There will be a rails api backend. Car main
 
 ### Workflow
 
-I plan to use pivotal tracker to manage the project. I am waiting to recieve my API key from Edmunds. Until then I am going to start building user stories for the front-end mobile application.
+I plan to use waffle to manage the project. I am waiting to recieve my API key from Edmunds. Until then I am going to start building user stories for the front-end mobile application.
