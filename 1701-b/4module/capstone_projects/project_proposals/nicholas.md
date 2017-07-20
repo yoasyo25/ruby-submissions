@@ -4,7 +4,7 @@
 
 ### Pitch
 
-A mobile app that helps users track the maintenance schedule for their vehicle.
+A webapp that helps users track the maintenance schedule for their vehicle.
 
 ### Problem
 
@@ -20,7 +20,7 @@ This app could be useful for both commercial and non-commercial users. This app 
 
 ### New Techniques
 
-I plan to build the mobile app in React Native. There will be a rails backend to store user data. Car maintenance information will come from the Edmunds API.
+I plan to build the webapp in React. There will be a rails api backend. Car maintenance information will come from the Edmunds API.
 
 ### Workflow
 
