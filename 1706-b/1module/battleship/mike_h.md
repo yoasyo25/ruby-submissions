@@ -1,7 +1,7 @@
 ## Evaluation Rubric
 
-Student:
-Assessed By:
+Student: Mike H  
+Assessed By: Ali  
 Notes:
 52 tests!  66 assertions  
 
