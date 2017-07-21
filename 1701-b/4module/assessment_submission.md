@@ -56,8 +56,8 @@
 
 # Lauren Oliveri
 
-- URL Lockbox Github Repo Link:
-- URL Lockbox Production Link: 
+- [URL Lockbox Github Repo Link](https://github.com/lao9/URLockBox) 
+- [URL Lockbox Production Link](https://loliveri-urlockbox.herokuapp.com/login) 
 - Hot Reads Github Repo Link:
 - Hot Reads Production Link: 
 
