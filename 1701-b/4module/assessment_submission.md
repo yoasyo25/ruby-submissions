@@ -42,7 +42,7 @@
 
 # Joseph Glass
 
-- URL Lockbox Github Repo Link:
+- URL Lockbox Github Repo Link: https://github.com/glassjoseph/m4-final-starter/tree/edit_links
 - URL Lockbox Production Link: 
 - Hot Reads Github Repo Link:
 - Hot Reads Production Link: 
