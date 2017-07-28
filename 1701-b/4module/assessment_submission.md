@@ -64,9 +64,9 @@
 # Mark Stover
 
 - URL Lockbox Github Repo Link: https://github.com/stovermc/m4-final-starter
-- URL Lockbox Production Link: 
-- Hot Reads Github Repo Link:
-- Hot Reads Production Link: 
+- URL Lockbox Production Link: https://stover-m4-final.herokuapp.com/
+- Hot Reads Github Repo Link: https://github.com/stovermc/hot-reads
+- Hot Reads Production Link: https://stover-hotreads.herokuapp.com/
 
 # Nick Jacques
 
