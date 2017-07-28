@@ -42,10 +42,10 @@
 
 # Joseph Glass
 
-- URL Lockbox Github Repo Link: https://github.com/glassjoseph/m4-final-starter/tree/edit_links
-- URL Lockbox Production Link: 
-- Hot Reads Github Repo Link:
-- Hot Reads Production Link: 
+- URL Lockbox Github Repo Link: https://github.com/glassjoseph/m4-final-starter
+- URL Lockbox Production Link: https://urllockbox-jg.herokuapp.com/
+- Hot Reads Github Repo Link: https://github.com/glassjoseph/hot_reads
+- Hot Reads Production Link: https://hotreads-jg.herokuapp.com/
 
 # Josh Thompson
 
