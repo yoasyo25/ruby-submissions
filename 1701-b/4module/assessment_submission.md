@@ -1,9 +1,9 @@
 # Brett Schwartz
 
 - URL Lockbox Github Repo Link: https://github.com/bschwartz10/m4-final-starter
-- URL Lockbox Production Link: 
-- Hot Reads Github Repo Link:
-- Hot Reads Production Link: 
+- URL Lockbox Production Link: https://url-lockbox-bs.herokuapp.com/
+- Hot Reads Github Repo Link: https://github.com/bschwartz10/hot_reads
+- Hot Reads Production Link: https://hot-reads-bs.herokuapp.com/
 
 # Colleen Ward
 
