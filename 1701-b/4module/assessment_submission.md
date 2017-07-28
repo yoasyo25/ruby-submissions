@@ -22,9 +22,9 @@
 # Erin Bassity
 
 - URL Lockbox Github Repo Link: https://github.com/somedayrainbows/m4-final-starter
-- URL Lockbox Production Link: 
-- Hot Reads Github Repo Link:
-- Hot Reads Production Link: 
+- URL Lockbox Production Link: https://nameless-castle-71849.herokuapp.com
+- Hot Reads Github Repo Link:https://github.com/somedayrainbows/hot-reads
+- Hot Reads Production Link: https://guarded-reef-14770.herokuapp.com
 
 # Jack Pincus
 
