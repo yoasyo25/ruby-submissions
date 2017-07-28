@@ -77,10 +77,10 @@
 
 # Sam Landfried
 
-- URL Lockbox Github Repo Link:
-- URL Lockbox Production Link: 
-- Hot Reads Github Repo Link:
-- Hot Reads Production Link: 
+- URL Lockbox Github Repo Link: https://github.com/samlandfried/m4-final-starter
+- URL Lockbox Production Link: https://m4-assessment.herokuapp.com/
+- Hot Reads Github Repo Link: https://github.com/samlandfried/m4-assessment-hotreads
+- Hot Reads Production Link: https://m4-assessment-hotreads.herokuapp.com/
 
 # Sergey Lukyanenko
 
