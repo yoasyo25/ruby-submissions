@@ -70,7 +70,7 @@
 
 # Nick Jacques
 
-- URL Lockbox Github Repo Link: [link](https://github.com/NicholasJacques/m4-final-starter)
+- URL Lockbox Github Repo Link: [link](https://github.com/NicholasJacques/URLockbox)
 - URL Lockbox Production Link: [link](https://secret-ocean-16532.herokuapp.com)
 - Hot Reads Github Repo Link: [Link](https://github.com/NicholasJacques/hot_reads)
 - Hot Reads Production Link:  [Link](https://ndj-hot-reads.herokuapp.com/)
