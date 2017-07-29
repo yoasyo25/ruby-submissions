@@ -107,7 +107,7 @@
 
 - URL Lockbox Github Repo Link: https://github.com/valerietrudell/final_assessment_url_box
 - URL Lockbox Production Link: https://stormy-brushlands-12634.herokuapp.com/
-- Hot Reads Github Repo Link:https://infinite-mountain-46053.herokuapp.com/
+- Hot Reads Github Repo Link:https://morning-sierra-75612.herokuapp.com/
 - Hot Reads Production Link: https://github.com/vatrudell/final_assessment_hot_reads.git
 
 # Victoria Vasys
