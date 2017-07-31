@@ -1,9 +1,9 @@
 # Brett Schwartz
 
 - URL Lockbox Github Repo Link: https://github.com/bschwartz10/m4-final-starter
-- URL Lockbox Production Link: 
-- Hot Reads Github Repo Link:
-- Hot Reads Production Link: 
+- URL Lockbox Production Link: https://url-lockbox-bs.herokuapp.com/
+- Hot Reads Github Repo Link: https://github.com/bschwartz10/hot_reads
+- Hot Reads Production Link: https://hot-reads-bs.herokuapp.com/
 
 # Colleen Ward
 
@@ -56,10 +56,10 @@
 
 # Lauren Oliveri
 
-- [URL Lockbox Github Repo Link](https://github.com/lao9/URLockBox) 
-- [URL Lockbox Production Link](https://loliveri-urlockbox.herokuapp.com/login) 
-- Hot Reads Github Repo Link:
-- Hot Reads Production Link: 
+- [URL Lockbox Github Repo](https://github.com/lao9/URLockBox) 
+- [URL Lockbox Production](https://loliveri-urlockbox.herokuapp.com/) 
+- [Hot Reads Github Repo](https://github.com/lao9/hot-reads)
+- [Hot Reads Production](https://loliveri-hotreads.herokuapp.com/) 
 
 # Mark Stover
 
