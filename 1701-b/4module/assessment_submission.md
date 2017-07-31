@@ -100,8 +100,8 @@
 
 - URL Lockbox Github Repo Link: https://github.com/slague/m4-final-starter
 - URL Lockbox Production Link: https://mod-4-final-stephanie.herokuapp.com/
-- Hot Reads Github Repo Link:
-- Hot Reads Production Link: 
+- Hot Reads Github Repo Link: https://github.com/slague/hot_reads
+- Hot Reads Production Link: https://m4-hot-reads.herokuapp.com/
 
 # Valerie Trudell
 
