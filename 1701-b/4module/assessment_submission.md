@@ -8,9 +8,9 @@
 # Colleen Ward
 
 - URL Lockbox Github Repo Link: https://github.com/caward12/m4-final-starter
-- URL Lockbox Production Link: 
-- Hot Reads Github Repo Link:
-- Hot Reads Production Link: 
+- URL Lockbox Production Link: https://salty-ravine-23588.herokuapp.com/
+- Hot Reads Github Repo Link: https://github.com/caward12/hot_reads
+- Hot Reads Production Link: https://pacific-earth-63717.herokuapp.com/
 
 # Craig Ness
 
