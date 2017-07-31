@@ -29,6 +29,6 @@ Project demonstrates well-factored code and a solid grasp of MVC principles.
 - 4: Better than expected
 - **3: As expected**
 - 2: Below expectations
-- **1: Well below expectations**
+- 1: Well below expectations
 
 **Notes: Some refactoring but nice job!**
