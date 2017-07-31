@@ -85,9 +85,9 @@
 # Sergey Lukyanenko
 
 - URL Lockbox Github Repo Link:https://github.com/lukyans/m4-final-starter
-- URL Lockbox Production Link: 
-- Hot Reads Github Repo Link:
-- Hot Reads Production Link: 
+- URL Lockbox Production Link: http://agile-basin-29918.herokuapp.com/
+- Hot Reads Github Repo Link: https://github.com/lukyans/hot_reads
+- Hot Reads Production Link: http://hot-reads-sl.herokuapp.com/
 
 # Seth Moser
 
