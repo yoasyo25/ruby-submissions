@@ -94,9 +94,9 @@
 ## Spencer Carter
 
 * URL Lockbox Github Repo Link:https://github.com/scmountain/M4-Final
-* URL Lockbox Production Link:https://url-locken-boxen.herokuapp.com/
+* URL Lockbox Production Link:https://mighty-sands-58853.herokuapp.com/
 * Hot Reads Github Repo Link:https://github.com/scmountain/Hawt-reads-
-* Hot Reads Production Link:https://the-hawt-reads.herokuapp.com/
+* Hot Reads Production Link:https://frozen-headland-51906.herokuapp.com/
 
 ## Valerie Trudell
 
