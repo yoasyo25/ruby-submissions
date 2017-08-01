@@ -17,8 +17,8 @@ Rubric
 
 ### 3. Implementation Quality
 
-*   4: Project demonstrates exceptionally well tested and maintainable code.
-*   **3: Project exhibits tested, maintainable, well divided code. Developers are able to speak to architecture and implementation decisions.**
+*   **4: Project demonstrates exceptionally well tested and maintainable code.**
+*   3: Project exhibits tested, maintainable, well divided code. Developers are able to speak to architecture and implementation decisions.
 *   2: Project demonstrates some gaps in code quality and/or developers cannot defend their decisions.
 *   1: Project demonstrates poor factoring and/or understanding of MVC.
 

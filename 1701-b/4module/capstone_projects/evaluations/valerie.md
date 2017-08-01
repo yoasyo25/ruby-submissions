@@ -22,17 +22,17 @@ Rubric
 *   2: Project demonstrates some gaps in code quality and/or developers cannot defend their decisions.
 *   1: Project demonstrates poor factoring and/or understanding of MVC.
 
-### 4. Application of Techniques
+### 4. NOT GRADED - Application of Techniques
 
 *   4: Project has implemented four or more major techniques that were new to the student.
-*   **3: Project has implemented two major technique that were new.**
+*   3: Project has implemented two major technique that were new.
 *   2: Project has a implementation in progress of one major technique that has not been previously attempted.
 *   1: Project does not implement new techniques.
 
 ### 5. Documentation
 
-*   **4: Project also features a screencast, tutorial or other wow factor**
-*   3: Project features easy to navigate documentation showing how to setup and contribute to the application
+*   4: Project also features a screencast, tutorial or other wow factor
+*   **3: Project features easy to navigate documentation showing how to setup and contribute to the application**
 *   2: Project features barebones documentation showing how to get the dev environment up and running
 *   1: Project has insufficient documentation
 

@@ -3,8 +3,8 @@ Rubric
 
 ### 1. Project Management
 
-*   4: Feature and scope related conversations happen within the tracking tool.
-*   **3: Student is using well formatted user stories and moving cards through each status in realtime**
+*   **4: Feature and scope related conversations happen within the tracking tool.**
+*   3: Student is using well formatted user stories and moving cards through each status in realtime
 *   2: Student has used some tracking tool as a respository of information
 *   1: Student barely uses a tracking tool, or does not use one at all
 
@@ -31,8 +31,8 @@ Rubric
 
 ### 5. Documentation
 
-*   **4: Project also features a screencast, tutorial or other wow factor**
-*   3: Project features easy to navigate documentation showing how to setup and contribute to the application
+*   4: Project also features a screencast, tutorial or other wow factor
+*   **3: Project features easy to navigate documentation showing how to setup and contribute to the application**
 *   2: Project features barebones documentation showing how to get the dev environment up and running
 *   1: Project has insufficient documentation
 

@@ -31,14 +31,14 @@ Rubric
 
 ### 5. Documentation
 
-*   **4: Project also features a screencast, tutorial or other wow factor**
+*   4: Project also features a screencast, tutorial or other wow factor
 *   3: Project features easy to navigate documentation showing how to setup and contribute to the application
 *   2: Project features barebones documentation showing how to get the dev environment up and running
-*   1: Project has insufficient documentation
+*   **1: Project has insufficient documentation**
 
 ### 6. Accessibility
 
 *   4: Project has expertly implemented features to follow accessibility best practices.
-*   **3: Project has implemented code to increase accessibility.**
-*   2: Project has considered accessibility issues but has not yet produced code to address them.
+*   3: Project has implemented code to increase accessibility.
+*   **2: Project has considered accessibility issues but has not yet produced code to address them.**
 *   1: Project has not considered accessibility issues.
