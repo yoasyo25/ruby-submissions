@@ -24,7 +24,7 @@ Rubric
 
 ### 5. Documentation
 
-*   **1: Project has insufficient documentation**
+*   **3: Project features easy to navigate documentation showing how to setup and contribute to the application**
 
 * Adding this afternoon
 
