@@ -12,10 +12,7 @@
 
 4. Functional Expectations
 
-4: Application implements iterations 0, 1, 2, 3, (4 or 5), and features of your own design
-3: Application implements iterations 0, 1, 2, 3, and either 4 or 5
 2: Application implements iterations 0, 1, 2, and 3
-1: Application does not fully implement iterations 0, 1, 2, and 3
 
 5. Code Sanitation
 
