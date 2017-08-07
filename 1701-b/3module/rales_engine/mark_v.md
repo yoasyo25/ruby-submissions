@@ -1,3 +1,8 @@
+Notes:
+
+* README doesn't include instructions on how to set up project and import data. There doesn't appear to be a rake task and the seed file is empty.
+* Test coverage is 69.3%
+
 ### Feature Delivery
 
 **1. Completion**
@@ -5,7 +10,7 @@
 * 4: Project completes all base requirements according to the spec harness.
 * 3: Project completes most requirements but fails 3 (5 for individual project) or fewer spec harness tests.
 * 2: Project completes most requirements but fails 7 - 5 (10 to 6 for individual project) spec harness tests.
-* 1: Project fails more than 7 (10 for individual project) spec harness tests.
+* **1: Project fails more than 7 (10 for individual project) spec harness tests.**
 
 ### Technical Quality
 
@@ -14,7 +19,7 @@
 * 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
 * 3: Project demonstrates high test coverage (>80%) and tests at the controller and unit levels.
 * 2: Project demonstrates high test coverage (>70%) but does not adequately balance controller and unit tests.
-* 1: Project does not have 70% test coverage.
+* **1: Project does not have 70% test coverage.**
 
 **2. Code Quality**
 
