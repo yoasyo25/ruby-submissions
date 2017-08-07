@@ -3,7 +3,7 @@
 Please provide links to each part of the four requirements listed below:
 
 * Documentation patch:
-    To be completed
+   https://github.com/BOWiki/BOW/pull/970
 * Feature/Bug Fix/Refactor PR:
     https://github.com/rubyforgood/playtime/pull/83
 * Bug replication/confirmation:
