@@ -27,8 +27,8 @@
 
 ## Ben Ross
 
-* Reflection Gist: 
-* Sorting Suite Repo: 
+* Reflection Gist: https://gist.github.com/Benja-Ross/531d17f0236571476a96671269fbac9e
+* Sorting Suite Repo: https://github.com/Benja-Ross/javascript_sorting_suite
 
 ## Carl Richmond
 
