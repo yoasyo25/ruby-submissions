@@ -42,8 +42,8 @@
 
 ## Chris Smith
 
-* Reflection Gist: 
-* Sorting Suite Repo: 
+* [Reflection Gist](https://gist.github.com/iamchrissmith/58686f5c9d463ec3a741808b8c4ca3ea)
+* [Sorting Suite Repo](https://github.com/iamchrissmith/sorting-suite) 
 
 ## Squee Mueller 
 
