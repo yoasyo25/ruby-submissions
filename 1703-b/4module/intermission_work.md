@@ -17,8 +17,8 @@
 
 ## Bao Nguyen
 
-* Reflection Gist: 
-* Sorting Suite Repo: 
+* Reflection Gist: https://gist.github.com/rongxanh88/777720be82cafbd6d979c941f1df5a29
+* Sorting Suite Repo: https://github.com/rongxanh88/JS-sorting-suite
 
 ## Ben Jacobs
 
