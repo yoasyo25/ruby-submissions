@@ -77,7 +77,7 @@
 
 ## Sarah Kirk
 
-* Reflection Gist: 
+* Reflection Gist: https://gist.github.com/sarahdactyl71/5b4e852891f977cec6b2d09e5d641e13
 * Sorting Suite Repo: 
 
 ## William Thomas
