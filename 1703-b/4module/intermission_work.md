@@ -57,8 +57,8 @@
 
 ## Natalia Colome
 
-* Reflection Gist: 
-* Sorting Suite Repo: 
+* Reflection Gist: [Reflection Gist](https://gist.github.com/nmcolome/aa0321d52bd4fc9bd7b284de6457c2e7)
+* Sorting Suite Repo: [Sorting Suite JS](https://github.com/nmcolome/sorting_suite_js)
 
 ## Nick Edwards
 
