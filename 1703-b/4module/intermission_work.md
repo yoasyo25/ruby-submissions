@@ -2,8 +2,8 @@
 
 ## Aaron Olsen
 
-* Reflection Gist: 
-* Sorting Suite Repo: 
+* [Reflection Gist](https://gist.github.com/MrAaronOlsen/cd97ff95fb22b8ec19c17b1042aa12e7) 
+* [Sorting Suite Repo](https://github.com/MrAaronOlsen/sorting_suite_javascript)
 
 ## Adam Gunther
 
