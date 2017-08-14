@@ -37,8 +37,8 @@
 
 ## Charlie Corrigan
 
-* Reflection Gist: 
-* Sorting Suite Repo: 
+* Reflection Gist: [Reflection](https://gist.github.com/charliecorrigan/64427fceb900ac550a17f428ce489f16)
+* Sorting Suite Repo: [Sorting Algorithms](https://github.com/charliecorrigan/sorting-algorithms)
 
 ## Chris Smith
 
