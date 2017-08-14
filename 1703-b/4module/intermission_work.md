@@ -82,5 +82,5 @@
 
 ## William Thomas
 
-* Reflection Gist: 
-* Sorting Suite Repo: 
+* Reflection Gist: https://gist.github.com/wthoma22/fd4a7a80a952f24a4e94e2a681815fb2
+* Sorting Suite Repo: https://github.com/wthoma22/bubble-sort
