@@ -72,8 +72,8 @@
 
 ## Rhonda Wilhelmson
 
-* Reflection Gist: 
-* Sorting Suite Repo: 
+* Reflection Gist: https://gist.github.com/rwilhel/104ff9f427f6b9165a40ee84158d1842
+* Sorting Suite Repo: https://github.com/rwilhel/sorting_suite_js
 
 ## Sarah Kirk
 
