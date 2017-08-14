@@ -22,8 +22,8 @@
 
 ## Ben Jacobs
 
-* Reflection Gist: 
-* Sorting Suite Repo: 
+* Reflection Gist: [Reflection](https://gist.github.com/Benjaminpjacobs/fc12b9ab0bb3174101f2b3733e7a2b90)
+* Sorting Suite Repo: [Sorting Suite](https://github.com/Benjaminpjacobs/js-sorting-suite)
 
 ## Ben Ross
 
