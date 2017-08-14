@@ -67,8 +67,8 @@
 
 ## Padraic ONeill
 
-* Reflection Gist: 
-* Sorting Suite Repo: 
+* Reflection Gist: https://gist.github.com/podoglyph/79a6dbf84bb5dade57c71f1fd7b6849a
+* Sorting Suite Repo: https://github.com/podoglyph/javascript-sorting-suite
 
 ## Rhonda Wilhelmson
 
