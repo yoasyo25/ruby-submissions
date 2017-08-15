@@ -62,8 +62,8 @@
 
 ## Nick Edwards
 
-* Reflection Gist: 
-* Sorting Suite Repo: 
+* Reflection Gist: [Reflection Gist]https://gist.github.com/nickedwards109/8ff2c6bc1e6be949f390268f436553bf
+* Sorting Suite Repo: [Sorting Suite Repo]https://github.com/nickedwards109/sorting_suite
 
 ## Padraic ONeill
 
