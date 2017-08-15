@@ -49,10 +49,10 @@
 
 # Josh Thompson
 
-- URL Lockbox Github Repo Link:
-- URL Lockbox Production Link: 
-- Hot Reads Github Repo Link:
-- Hot Reads Production Link: 
+- URL Lockbox Github Repo Link: https://github.com/josh-works/url_lockbox
+- URL Lockbox Production Link: https://shrouded-cove-34397.herokuapp.com/
+- Hot Reads Github Repo Link: https://github.com/josh-works/hotreads
+- Hot Reads Production Link: https://gentle-escarpment-75722.herokuapp.com/
 
 # Lauren Oliveri
 
