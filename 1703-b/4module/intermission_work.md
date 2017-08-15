@@ -12,7 +12,7 @@
 
 ## Alexander Koch
 
-* Reflection Gist: 
+* Reflection Gist: https://gist.github.com/alex-w-k/754cf09a058a7680ff0708545238323e
 * Sorting Suite Repo: 
 
 ## Bao Nguyen
