@@ -32,8 +32,8 @@
 
 ## Carl Richmond
 
-* Reflection Gist: 
-* Sorting Suite Repo: 
+* Reflection Gist: https://gist.github.com/ACC25/0387790547ef5e8596bbdf76670bf34c
+* Sorting Suite Repo: https://github.com/ACC25/module_4_intermission
 
 ## Charlie Corrigan
 
