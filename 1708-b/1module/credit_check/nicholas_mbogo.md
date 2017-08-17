@@ -10,9 +10,9 @@ The project will be assessed with the following rubric:
 ### 1. Ruby Syntax & Style
 
 * 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
-* 3:  Application shows strong effort towards organization, content, and refactoring
+* **3:  Application shows strong effort towards organization, content, and refactoring**
 * 2:  Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
-* **1:  Application generates syntax error or crashes during execution**
+* 1:  Application generates syntax error or crashes during execution
 
 ### 2. Breaking Logic into Components
 
@@ -24,6 +24,6 @@ The project will be assessed with the following rubric:
 ### 3. Functional Expectations
 
 * 4: Application meets all requirements, and implements one extension properly.
-* 3: Application meets all requirements as laid out per the specification.
-* **2: Application runs, but does not work properly, or does not meet specifications.**
+* **3: Application meets all requirements as laid out per the specification.**
+* 2: Application runs, but does not work properly, or does not meet specifications.
 * 1: Application does not run, crashes on start.
