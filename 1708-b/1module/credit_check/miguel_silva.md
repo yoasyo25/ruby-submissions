@@ -3,6 +3,7 @@
 Wrote it using a class, only two methods.   
 Uses .map and an if/elsif block   
 Works through Amex  
+Built out with a runner file. Require works if in lib not project root.
 
 ## Evaluation Rubric
 
