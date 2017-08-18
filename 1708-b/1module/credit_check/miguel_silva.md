@@ -1,4 +1,4 @@
-**Instructor:**   Ali
+**Instructor:**   Ali  
 **Notes:**   
 Wrote it using a class, only two methods.   
 Uses .map and an if/elsif block   
@@ -15,7 +15,7 @@ The project will be assessed with the following rubric:
 
 ### 2. Breaking Logic into Components
 
-* 2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
+* 3: Application effectively breaks logical components apart but breaks the principle of SRP
 
 ### 3. Functional Expectations
 
