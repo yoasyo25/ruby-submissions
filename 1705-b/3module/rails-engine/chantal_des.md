@@ -1,9 +1,12 @@
-Assessed By:
+Assessed By: Ilana 
 
-Repo:
+Repo: https://github.com/DesTodo/rails_engine
 
-Notes:
-
+Notes: 
+- 40 failures but pieces are there to make it successful
+- Some serializers set up but not all things serialized per spec
+- Logic is pushed down the stack nicely 
+- Chance to improve features and testing by Saturday at 6pm.
 
 ### Feature Delivery
 
@@ -12,7 +15,7 @@ Notes:
 * 4: Project completes all base requirements according to the spec harness.
 * 3: Project completes most requirements but fails 3 (5 for individual project) or fewer spec harness tests.
 * 2: Project completes most requirements but fails 7 - 5 (10 to 6 for individual project) spec harness tests.
-* 1: Project fails more than 7 (10 for individual project) spec harness tests.
+* **1: Project fails more than 7 (10 for individual project) spec harness tests.**
 
 ### Technical Quality
 
@@ -26,14 +29,14 @@ Notes:
 **2. Code Quality**
 
 * 4: Project demonstrates exceptionally well factored code.
-* 3: Project demonstrates solid code quality and MVC principles.
+* **3: Project demonstrates solid code quality and MVC principles.**
 * 2: Project demonstrates some gaps in code quality and/or application of MVC principles.
 * 1: Project demonstrates poor factoring and/or understanding of MVC.
 
 **3. API Design**
 
 * 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
-* 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
+* **3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.**
 * 2: Project has inconsistencies or gaps in how its JSON data is organized or formatted.
 * 1: Project's API is not fully functional or has significant confusion around request formats.
 
@@ -41,5 +44,5 @@ Notes:
 
 * 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as `joins` and `includes`.
 * 3: Project makes good use of ActiveRecord, but drops to ruby enumerables for some query methods.
-* 2: Project has some gaps in ActiveRecord usage, including numerous business methods that rely on ruby enumerables to find the appropriate data.
+* **2: Project has some gaps in ActiveRecord usage, including numerous business methods that rely on ruby enumerables to find the appropriate data.**
 * 1: Project struggles to establish a coherent ActiveRecords schema, including missing relationships or dysfunctional queries.
