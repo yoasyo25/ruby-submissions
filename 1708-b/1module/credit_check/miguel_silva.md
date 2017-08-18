@@ -19,5 +19,5 @@ The project will be assessed with the following rubric:
 
 ### 3. Functional Expectations
 
-* 4: Application meets all requirements, and implements one extension properly.
+* 3: Application meets all requirements as laid out per the specification.
 
