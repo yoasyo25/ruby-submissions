@@ -1,8 +1,8 @@
 **Instructor:**  Ali 
-**Notes:**
-Built as a REPL works through Amex
+**Notes:**  
+Built as a REPL works through Amex  
 Variable names a bit wonky  
-No methods, with a lot happening in each line makes it a bit hard to read 
+No methods, with a lot happening in each line makes it a bit hard to read   
 
 ## Evaluation Rubric
 
