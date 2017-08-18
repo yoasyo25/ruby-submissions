@@ -1,8 +1,8 @@
 **Instructor:**  Ali 
 **Notes:**  
-Built 2 versions, one regular one repl
-Built out at test suite
-Works through Amex, but the non repl version has no way to trigger the whole process, needs a runner method
+Built 2 versions, one regular one repl  
+Built out at test suite  
+Works through Amex, but the non repl version has no way to trigger the whole process, needs a runner method  
 
 ## Evaluation Rubric
 
