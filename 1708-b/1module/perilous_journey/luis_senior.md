@@ -2,9 +2,9 @@
 Ali  
 **Repo URL:**   
 
-**Notes:**
-2 node tests
-10 linked list tests
+**Notes:**  
+2 node tests  
+10 linked list tests  
 Working through find - beg of Iter 4   
 Built using recursion  
 Talked about pairing more and how to make sure you get the learning out of those various sessions  

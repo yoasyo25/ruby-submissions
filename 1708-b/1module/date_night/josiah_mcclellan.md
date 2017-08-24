@@ -5,7 +5,7 @@ Ali
 **Notes:**  
 43 tests, 92 assertions  
 Smart node  
- - knows about depth & branching
+ - knows about depth & branching  
  - nice encapsulation in not having access to information living on other nodes  
 Improvements on naming of variables and method names, keep working on this  
 Opportunities for further refactoring regarding SRP, make improvements here as well  

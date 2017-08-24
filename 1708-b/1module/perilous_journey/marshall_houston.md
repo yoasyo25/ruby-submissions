@@ -5,14 +5,14 @@ Ali
 **Notes:**  
 Supplies hash not defaulted - doesn't quite match spec in earlier iterations  
 Includes only works for the first element  
-23 linked list tests
-3 node tests
+23 linked list tests  
+3 node tests  
 10 wagon tests  
 
-Working toward breaking logic into more SRP components
+Working toward breaking logic into more SRP components  
 Identified places for refactoring and why we might want to.  
 
-Some variables/methods have data types in their names
+Some variables/methods have data types in their names  
 
 ## Evaluation Rubric
 

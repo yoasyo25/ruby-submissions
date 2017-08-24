@@ -3,10 +3,10 @@ Ali
 **Repo URL:**   
 
 **Notes:**
-5 node tests
-15 BST tests
+5 node tests  
+15 BST tests  
 Does a great job breaking methods into SRP   
-Talked through challenges of wrapping head around recursion, explained it well
+Talked through challenges of wrapping head around recursion, explained it well  
 Some cases for better variable naming - data types in names  
 
 ## Evaluation Rubric

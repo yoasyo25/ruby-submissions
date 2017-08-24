@@ -2,15 +2,15 @@
 Ali  
 **Repo URL:**
 **Notes:**  
-11 Linked list Tests
-4 wagon tests
-2 node tests  
-Good at start, fell off toward the end
+11 Linked list Tests  
+4 wagon tests  
+2 node tests   
+Good at start, fell off toward the end  
 
 Works through end of six, missing to_string  
 A couple of places where return values don't match spec  
 Pulled out some functionality into own methods  
-Talked about where to do more refactoring to get better SRP
+Talked about where to do more refactoring to get better SRP  
 
 
 ## Evaluation Rubric

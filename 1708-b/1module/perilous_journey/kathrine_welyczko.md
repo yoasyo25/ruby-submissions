@@ -5,9 +5,9 @@ Ali
 **Notes:**  
 2 node tests  
 12 asssertsions, 2 failures, 2 errors  
-Append working for multiple nodes
-count errors out
-to_string collects information from two nodes, need to pull surname for second node  
+Append working for multiple nodes  
+count errors out  
+to_string collects information from two nodes, need to pull surname for second node   
 
 
 ## Evaluation Rubric

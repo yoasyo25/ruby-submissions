@@ -4,12 +4,12 @@ Ali
 
 **Notes:**  
 3 node tests  
-17 linked list tests
-10 tests, 2 failures
+17 linked list tests  
+10 tests, 2 failures  
 
- Count returning 0
- When appending 4 functionality is off
- - head is the last node appended
+ Count returning 0  
+ When appending 4 functionality is off  
+ - head is the last node appended  
 
 
 ## Evaluation Rubric

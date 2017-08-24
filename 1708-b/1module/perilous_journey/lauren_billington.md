@@ -5,7 +5,7 @@ Ali
 **Notes:**  
 4 node tests  
 11 linked list  
-Insert & find off by one in positioning
+Insert & find off by one in positioning  
 Working through pop with some irregularities  
 
 
