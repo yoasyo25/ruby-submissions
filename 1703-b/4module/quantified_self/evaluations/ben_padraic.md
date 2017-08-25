@@ -1,9 +1,9 @@
 # Padraic and Ben
 
-### Frontend Production:
-### Frontend Github:
-### Backend Production:
-### Backend Github:
+Frontend Production:
+Frontend Github:
+Backend Production:
+Backend Github:
 
 ## Self Assessment Rubric
 
@@ -59,6 +59,8 @@ Please self assess with the rubric below. Provide additional information to expl
 - 1: Team failed to use a project management tool to track its progress.
 
 ## Instructor Rubric
+
+### Evaluated By:
 
 ### Notes:
 
