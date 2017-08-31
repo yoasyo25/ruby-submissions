@@ -56,6 +56,8 @@ Please self assess with the rubric below. Provide additional information to expl
 
 ### Project Management
 
+_For this rubric item, please describe how you leveraged the project management tool throughout the duration of your project in addition to scoring yourself._
+
 - 4: Team is using a project management tool and updating their progress daily. Team is approving each other's  work. Team is documenting conversations and conclusions on relevant cards.
 - 3: Team is using a project management tool to keep their project organized.
 - 2: Team is using a project management tool but didn't update the progress frequently. Many cards have no changes made to them
