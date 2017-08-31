@@ -1,3 +1,4 @@
+**Instructor:**
 **Notes:**
 
 ## Evaluation Rubric
@@ -18,14 +19,7 @@ The project will be assessed with the following rubric:
 * 2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
 * 1: Application logic shows poor decomposition with too much logic mashed together
 
-### 3. Test-Driven Development
-
-* 4: Application is broken into components which are well tested in both isolation and integration using appropriate data
-* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
-* 2: Application makes some use of tests, but the coverage is insufficient
-* 1: Application does not demonstrate strong use of TDD
-
-### 4. Functional Expectations
+### 3. Functional Expectations
 
 * 4: Application meets all requirements, and implements one extension properly.
 * 3: Application meets all requirements as laid out per the specification.

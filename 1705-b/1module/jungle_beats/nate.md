@@ -1,12 +1,12 @@
-Assessed By:  
-Ali  
+Assessed By:
+Ali
 
-Repo:  
-https://github.com/NateGiesing/Jungle_beat  
+Repo:
+https://github.com/NateGiesing/Jungle_beat
 
-Notes:  
-Working through iter 1 with prepend working, but append not working for multiple nodes  
-14 tests, all passing  
+Notes:
+Working through iter 1 with prepend working, but append not working for multiple nodes
+14 tests, all passing
 
 Rubric:
 
