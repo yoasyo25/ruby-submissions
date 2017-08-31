@@ -61,6 +61,8 @@ Please self assess with the rubric below. Provide additional information to expl
 - 2: Team is using a project management tool but didn't update the progress frequently. Many cards have no changes made to them
 - 1: Team failed to use a project management tool to track its progress.
 
+_For this rubric item, please describe how you leveraged the project management tool throughout the duration of your project in addition to scoring yourself._
+
 ## Instructor Rubric
 
 ### Evaluated By:
