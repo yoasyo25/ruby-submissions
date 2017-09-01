@@ -19,12 +19,16 @@ Please self assess with the rubric below. Provide additional information to expl
 - 2: Application is missing required functionality, deviates significantly from the spec, or serious bugs prevent features from being usable
 - 1: Application is missing a significant portion of functionality
 
+Completed all user stories with no major bugs. some slight unexpected behavior.
+
 ### Planning and Design
 
 - 4: Team created visual schema, API documentation and user stories, before writing tests. API adheres to REST standard.
 * 3: Team created either a schema or API docs to facilitate implementation of a service. *
 - 2: Team has some notes on how to implement their service, but someone else couldn't implement it.
 - 1: Team did not design their service.
+
+Our readme explains what users should be able to access and do.
 
 ### Testing
 
@@ -33,12 +37,16 @@ Please self assess with the rubric below. Provide additional information to expl
 - 2: More back-end functionality implemented than tested and/or very little front-end testing
 - 1: Team fails to effectively test the application.
 
+All back end functionality is tested. Attempted to test on the front end but too much effort for small coverage so abandoned.
+
 ### HTML/UI
 
 - 4: Team put some effort into styling. HTML features unique IDs, classes and data attributes for DOM traversal.
 * 3: Application is not confusing to use. HTML classes and IDs are kebab case. *
 - 2: HTML is greatly lacking in standards compliance. UI is confusing or very buggy.
 - 1: Application is unusable
+
+UI is clearly laid out with navigation on both pages. 
 
 ### JS syntax and Style
 
@@ -47,12 +55,16 @@ Please self assess with the rubric below. Provide additional information to expl
 - 2: Javascript is noticeably lacking in the above concepts.
 - 1: Team has not applied any style concepts from class or from Ruby background
 
+Indentation and naming was consistant. Logically sepereated into foods and meals and index.
+
 ### Git Workflow
 
 - 4: Team uses master for production, and creates a feature branch for each card worked on. Team is using pull requests with good context and conversation
 * 3: Team is using the feature branches for small groups of cards, and has a pull request for each feature. Developers that aren't on the team have commented on PRs. *
 - 2: Team fails to use feature branches, or isn't using pull requests
 - 1: All code is committed to master
+
+Not much required conversation work was divided into areas that didn't interact with eachother. 
 
 ### Project Management
 
@@ -62,6 +74,8 @@ _For this rubric item, please describe how you leveraged the project management 
 * 3: Team is using a project management tool to keep their project organized. *
 - 2: Team is using a project management tool but didn't update the progress frequently. Many cards have no changes made to them
 - 1: Team failed to use a project management tool to track its progress.
+
+Used waffle effectively to track all user stories.
 
 ## Instructor Rubric
 
