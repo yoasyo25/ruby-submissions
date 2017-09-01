@@ -1,12 +1,12 @@
 # Sarah and Adam
 
-Frontend Production:
+Frontend Production: https://adamgunther1.github.io/quantified-self/
 
-Frontend Github:
+Frontend Github: https://github.com/adamgunther1/quantified-self
 
-Backend Production:
+Backend Production: https://quantify-self-express-api.herokuapp.com
 
-Backend Github:
+Backend Github: https://github.com/sarahdactyl71/quantified-self-express-api
 
 ## Self Assessment Rubric
 
@@ -18,6 +18,8 @@ Please self assess with the rubric below. Provide additional information to expl
 - 3: Application implements all functionality as defined, but some bugs or strange behavior where features intersect
 - **2: Application is missing required functionality, deviates significantly from the spec, or serious bugs prevent features from being usable**
 - 1: Application is missing a significant portion of functionality
+
+things work with tests and individually, but the apps do not work together for put, post, delete requests.
 
 ### Planning and Design
 
