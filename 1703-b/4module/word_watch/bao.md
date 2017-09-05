@@ -1,7 +1,7 @@
 # Word Watch Submission
 
-Developer: Bao
-Evaluated by:
+* Developer: Bao
+* Evaluated by: Casey
 
 ## Repo
 
@@ -61,12 +61,12 @@ Above Expectations
 
 Below Expectations
 
-## Rubric
+## Evaluation Rubric
 
 ### 1. Completion:
   * At a minimum, developer completes challenges 1-3.
 
-Above Expectations
+**Above Expectations** - The developer completed all the stories present.
 
 Meets Expectations
 
@@ -83,7 +83,7 @@ Below Expectations
 
 Above Expectations
 
-Meets Expectations
+**Meets Expectations** - I think you could take this a step further and follow the MVC pattern or another design pattern even, but this is a great start - you definitely meet expectations on this one. You have a solid code quality.
 
 Below Expectations
 
@@ -94,7 +94,7 @@ Below Expectations
 
 Above Expectations
 
-Meets Expectations
+**Meets Expectations** - There are a few times you need to call `[0]` to get the correct element - this is dependent on the order of elements on the page which could potentially be fragile. I encourage you to always be as specific as possible!
 
 Below Expectations
 
@@ -107,7 +107,7 @@ Below Expectations
   * Developer names variables using camelCase.
   * Developer names classes and constructor functions using CapitalizedCamelCased.
 
-Above Expectations
+**Above Expectations** - You followed all JS conventions - great job!
 
 Meets Expectations
 
