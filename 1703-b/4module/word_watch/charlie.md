@@ -5,7 +5,7 @@ Evaluated by:
 
 ## Repo
 
-* 
+* [word_watch](https://github.com/charliecorrigan/word_watch)
 
 ## Self Assessment Rubric
 
@@ -14,7 +14,7 @@ Evaluated by:
 ### 1. Completion:
   * At a minimum, developer completes challenges 1-3.
 
-Above Expectations
+**Above Expectations - completed all possible functionality
 
 Meets Expectations
 
@@ -31,7 +31,7 @@ Below Expectations
 
 Above Expectations
 
-Meets Expectations
+**Meets Expectations - code is broken into single task functions and is readable. There is a function that is just over 8 lines, but I don't think it's inappropriate. #countWords() in pastedText.js
 
 Below Expectations
 
@@ -42,7 +42,7 @@ Below Expectations
 
 Above Expectations
 
-Meets Expectations
+**Meets Expectations - event listeners are registered within document.ready and elements are targeted clearly using specific selectors
 
 Below Expectations
 
@@ -57,7 +57,7 @@ Below Expectations
 
 Above Expectations
 
-Meets Expectations
+**Meets Expectations - conventions are consistent across code
 
 Below Expectations
 
