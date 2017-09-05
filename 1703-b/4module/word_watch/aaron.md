@@ -5,7 +5,7 @@ Evaluated by:
 
 ## Repo
 
-* 
+* https://github.com/MrAaronOlsen/mod4_mid_assessment
 
 ## Self Assessment Rubric
 
@@ -16,7 +16,7 @@ Evaluated by:
 
 Above Expectations
 
-Meets Expectations
+**Meets Expectations**
 
 Below Expectations
 
@@ -29,7 +29,7 @@ Below Expectations
   * Developer uses `Array.prototype` functions over `for` loops where appropriate.
   * Developer deals with async API requests in a readable, coherent way.
 
-Above Expectations
+**Above Expectations**
 
 Meets Expectations
 
@@ -40,7 +40,7 @@ Below Expectations
   * Developer targets nodes/elements cleanly using 1 or 2 css selectors.
     * && without heavy use of traversing parents and/or children.
 
-Above Expectations
+**Above Expectations**
 
 Meets Expectations
 
@@ -57,7 +57,7 @@ Below Expectations
 
 Above Expectations
 
-Meets Expectations
+**Meets Expectations**
 
 Below Expectations
 
