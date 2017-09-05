@@ -96,7 +96,7 @@ replaced with `words.forEach`.
   * Developer names variables using camelCase.
   * Developer names classes and constructor functions using CapitalizedCamelCased.
 
-Below **Expectations**
+**Below Expectations**
 
 Your function expressions are not defined with `var`. Make a quick PR to fix that and you'll be at "Meets".When you don't set with `var` or `const` or `let`, the variable gets set as a key on the `window` object, which is not appropriately/safely scoped.
 
