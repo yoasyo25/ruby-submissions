@@ -5,7 +5,7 @@ Evaluated by:
 
 ## Repo
 
-* 
+* https://github.com/alex-w-k/word_watch
 
 ## Self Assessment Rubric
 
@@ -16,7 +16,7 @@ Evaluated by:
 
 Above Expectations
 
-Meets Expectations
+**Meets Expectations**
 
 Below Expectations
 
@@ -31,7 +31,7 @@ Below Expectations
 
 Above Expectations
 
-Meets Expectations
+**Meets Expectations**
 
 Below Expectations
 
@@ -42,7 +42,7 @@ Below Expectations
 
 Above Expectations
 
-Meets Expectations
+**Meets Expectations**
 
 Below Expectations
 
@@ -57,7 +57,7 @@ Below Expectations
 
 Above Expectations
 
-Meets Expectations
+**Meets Expectations**
 
 Below Expectations
 
