@@ -5,11 +5,9 @@ Evaluated by:
 
 ## Repo
 
-* 
+* https://github.com/sarahdactyl71/word_watch
 
 ## Self Assessment Rubric
-
-*Of "Above", "Meets", and "Below" expectations, describe why you deserve which one.*
 
 ### 1. Completion:
   * At a minimum, developer completes challenges 1-3.
@@ -18,7 +16,8 @@ Above Expectations
 
 Meets Expectations
 
-Below Expectations
+*Below Expectations
+didn't complete the assignment. 
 
 ### 2. Code quality
   * Developer breaks functions out into separate responsibilities for:
@@ -31,7 +30,8 @@ Below Expectations
 
 Above Expectations
 
-Meets Expectations
+*Meets Expectations
+My code was pretty dry. I could have broken down my API interactions into separate JS files, but didn't have time. 
 
 Below Expectations
 
@@ -42,7 +42,8 @@ Below Expectations
 
 Above Expectations
 
-Meets Expectations
+*Meets Expectations
+I target things that I want to. I changed some of the names in the HTML to target the button I wanted. I had event listeners for when a button was clicked. 
 
 Below Expectations
 
@@ -57,7 +58,10 @@ Below Expectations
 
 Above Expectations
 
-Meets Expectations
+*Meets Expectations
+Used decent amount of ES6 syntax. Prefer to use const over var. I do not use semicolons. 
+I don't think I used much fat arrow syntax. 
+Used Camel Case properly. 
 
 Below Expectations
 
