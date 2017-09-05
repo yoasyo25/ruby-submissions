@@ -5,7 +5,7 @@ Evaluated by:
 
 ## Repo
 
-* 
+* https://github.com/rongxanh88/word_watch
 
 ## Self Assessment Rubric
 
@@ -16,7 +16,7 @@ Evaluated by:
 
 Above Expectations
 
-Meets Expectations
+* Meets Expectations - I completed all of the user stories.
 
 Below Expectations
 
@@ -31,7 +31,7 @@ Below Expectations
 
 Above Expectations
 
-Meets Expectations
+* Meets Expectations - I have DOM manipulation all in one file (view-helper), talk to the API solely through the Word model class, and I have events all in the events.js file.
 
 Below Expectations
 
@@ -42,7 +42,7 @@ Below Expectations
 
 Above Expectations
 
-Meets Expectations
+* Meets Expectations - events.js file is required within the document.ready function. I target the CSS by targeting the parent's class name and the child's HTML tag.
 
 Below Expectations
 
@@ -57,7 +57,7 @@ Below Expectations
 
 Above Expectations
 
-Meets Expectations
+* Meets Expectations - use ES6 syntax, using only `const` or `let`. I use arrow functions everywhere since I did not need `this` binded to anything. I did not use semicolons, and I camelCased my variables.
 
 Below Expectations
 
