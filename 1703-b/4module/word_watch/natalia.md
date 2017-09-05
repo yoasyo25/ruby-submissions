@@ -1,7 +1,8 @@
 # Word Watch Submission
 
 Developer: Natalia
-Evaluated by:
+
+Evaluated by: Schutte
 
 ## Repo
 
@@ -16,10 +17,6 @@ Evaluated by:
 
 **Above Expectations** I did them all
 
-Meets Expectations
-
-Below Expectations
-
 ### 2. Code quality
   * Developer breaks functions out into separate responsibilities for:
     * DOM manipulation
@@ -31,20 +28,12 @@ Below Expectations
 
 **Above Expectations** I respect SRP, I have separate functions for DOM manipulation, API, appending to html, etc. None of my functions exceed 8 lines. I used map and reduce when appropriate, used for loops when I didn't want to return an array and I chose for loops instead of forEach because it is faster.
 
-Meets Expectations
-
-Below Expectations
-
 ### 3. Events and DOM manipulation
   * Developer resgisters event listeners within `document.ready`.
   * Developer targets nodes/elements cleanly using 1 or 2 css selectors.
     * && without heavy use of traversing parents and/or children.
 
 **Above Expectations** It is within document.ready and I added classes to avoid traversing children.
-
-Meets Expectations
-
-Below Expectations
 
 ### 4. JS conventions
   * Developer scopes variables appropriately.
@@ -57,20 +46,12 @@ Below Expectations
 
 **Above Expectations** I did all of them and even used classes. The only es6 style I didn't use was fat arrows because I used a reduce and didn't know how the syntax would change; so to avoid problems (time constraint) I didn't use them.
 
-Meets Expectations
-
-Below Expectations
-
 ## Rubric
 
 ### 1. Completion:
   * At a minimum, developer completes challenges 1-3.
 
-Above Expectations
-
-Meets Expectations
-
-Below Expectations
+**Above Expectations**
 
 ### 2. Code quality
   * Developer breaks functions out into separate responsibilities for:
@@ -81,22 +62,19 @@ Below Expectations
   * Developer uses `Array.prototype` functions over `for` loops where appropriate.
   * Developer deals with async API requests in a readable, coherent way.
 
-Above Expectations
+**Meets Expectations**
 
-Meets Expectations
+You already do a great job hiding implementation details from the document ready listener, so this bit: https://github.com/nmcolome/word_watch/blob/master/src/index.js#L8-L12 is inconsistent.
 
-Below Expectations
+For "Above", we'd like to see things like separating out different scopes of
+functionality. E.g., an API service class, and DOM manipulation class, etc.
 
 ### 3. Events and DOM manipulation
   * Developer resgisters event listeners within `document.ready`.
   * Developer targets nodes/elements cleanly using 1 or 2 css selectors.
     * && without heavy use of traversing parents and/or children.
 
-Above Expectations
-
-Meets Expectations
-
-Below Expectations
+**Meets Expectations**
 
 ### 4. JS conventions
   * Developer scopes variables appropriately.
@@ -107,8 +85,7 @@ Below Expectations
   * Developer names variables using camelCase.
   * Developer names classes and constructor functions using CapitalizedCamelCased.
 
-Above Expectations
+**Meets Expectations**
 
-Meets Expectations
+Great job! You wrote very clean code 👍
 
-Below Expectations
