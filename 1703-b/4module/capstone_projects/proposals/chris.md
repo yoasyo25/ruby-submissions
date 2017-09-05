@@ -1,27 +1,27 @@
 ### Project Template
 
-### [Project Title]
+### blockHouses
 
 ### Pitch
 
-1 sentence that explains the value proposition of the application. How would you explain it to a potential business partner, team member, or investor?
+This application will use the blockchain to track the ownership and facilitate the sale of Tiny Houses.
 
 ### Problem
 
-1-3 sentences describing the problem that you are trying to solve.
+Tiny Houses tend to exist in a gray area as far as proving ownership and transfering the asset.  Often times, they have to be licensed as a trailor and the actual housing structure is just an 'add-on'.  People purchasing used Tiny Houses have to trust that the person selling it truly does own it and what they say about its history.
 
 ### Solution
 
-1-3 sentences describing how your application will solve that problem.
+Manufacturers will log their new Tiny Houses in the system, creating a blockchain title.  They can create a listing and set a price.  When a buyer transfers that amount of value to the manufacturer using the blockchain, the title will transfer ownership automatically to the buyer.  This will create a historical record that can be viewed for the entire life of that Tiny House.
 
 ### Target Audience
 
-1-3 sentences describing what type of user your app would be applicable to.
+Initially, this targets Tiny House manufacturers and purchasers.  However, this could be easily adapted to regular homes and all other types of property.  Similar systems have been tried in a couple of countries, but have yet to take hold.
 
 ### New Techniques
 
-Which new techniques are you hoping to implement?
+I will be writing the blockchain software in Solidity.  Application will utilize the MEAN (Mongo Express Angular Node) stack.
 
 ### Workflow
 
-What project management tool will you be using to manage your progress?
+Pivotal Tracker
