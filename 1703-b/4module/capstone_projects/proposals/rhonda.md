@@ -4,24 +4,24 @@
 
 ### Pitch
 
-1 sentence that explains the value proposition of the application. How would you explain it to a potential business partner, team member, or investor?
+This application provides a user with the option to select several cryptocurrencies in order to track their real time rates with an Amazon Alexa skill extension.
 
 ### Problem
 
-1-3 sentences describing the problem that you are trying to solve.
+A user will be able to access up-to-date information about the cryptocurrencies of their choice all from one place in addition to using Alexa in order to find cryptocurrency rates.
 
 ### Solution
 
-1-3 sentences describing how your application will solve that problem.
+This application will pull cryptocurrency data from a reliable API and allow the user to see the real-time rates of their favorite crypto coins in an easy-to-read, user-friendly format.
 
 ### Target Audience
 
-1-3 sentences describing what type of user your app would be applicable to.
+Anyone who's curious about blockchain currencies. It will be accessible to users from all backgrounds.
 
 ### New Techniques
 
-Which new techniques are you hoping to implement?
+I am hoping to build this application with Vue.js and implement an Amazon Alexa skill to accompany it.
 
 ### Workflow
 
-What project management tool will you be using to manage your progress?
+I will be using Pivotal Tracker to manage the progress of my project.
