@@ -1,6 +1,7 @@
 # Word Watch Submission
 
 Developer: Ben J.
+
 Evaluated by: Schutte
 
 ## Repo
@@ -38,7 +39,7 @@ I broke down all functions into separate responsibilities and files for the vari
 
 **Meets Expectations
 
-I am not exactly sure how you could above expectation on this one. I am setting all neccessary jquery variables inside my document ready and only targeted nodes using one or 2 css selectors. 
+I am not exactly sure how you could above expectation on this one. I am setting all neccessary jquery variables inside my document ready and only targeted nodes using one or 2 css selectors.
 
 ### 4. JS conventions
   * Developer scopes variables appropriately.
@@ -99,7 +100,7 @@ Nice job splitting listeners from handlers.
 
 **Meets Expectations**
 
-Any reason you use vanilla JS and jQuery here: https://github.com/Benjaminpjacobs/word_watch/blob/master/src/listeners.js#L4-L6 ?
+Any reason you use vanilla JS and jQuery here? https://github.com/Benjaminpjacobs/word_watch/blob/master/src/listeners.js#L4-L6 ?
 
-Remember that these vars should be prefixed with `$` https://github.com/Benjaminpjacobs/word_watch/blob/master/src/listeners.js#L6
+Remember that these jQuery object vars should be prefixed with `$` https://github.com/Benjaminpjacobs/word_watch/blob/master/src/listeners.js#L6
 
