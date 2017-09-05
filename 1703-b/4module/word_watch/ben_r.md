@@ -16,7 +16,9 @@ Evaluated by:
 
 Above Expectations
 
-Meets Expectations
+**Meets Expectations
+
+I completed all the challenges. I am choosing not to assess myself as above expectations because there was at least one bug that I noticed. If the paragraph I submitted was very long, then it would split into multiple paragraphs, each on being analyzed separately so words would appear multiple times. 
 
 Below Expectations
 
@@ -31,7 +33,9 @@ Below Expectations
 
 Above Expectations
 
-Meets Expectations
+**Meets Expectations
+
+I felt that I broke my functions down into single responsibilities fairly well. My functions are short. I did however use for loops and didn't deal with Async scenarios.
 
 Below Expectations
 
@@ -42,7 +46,9 @@ Below Expectations
 
 Above Expectations
 
-Meets Expectations
+**Meets Expectations
+
+I felt that I was effective with and readable with DOM manipulation targeting the nodes that I was trying to listen for or manipulate. 
 
 Below Expectations
 
@@ -57,7 +63,9 @@ Below Expectations
 
 Above Expectations
 
-Meets Expectations
+**Meets Expectations
+
+I felt I kept the same flavor of tofu throughout my code. I consistently used ES5 syntax and didn't stray to ES6. I consistently don't use simicolons. I use camelCase throughout. I scoped variables correctly. 
 
 Below Expectations
 
