@@ -1,11 +1,12 @@
 # Word Watch Submission
 
 Developer: Squee
+
 Evaluated by:
 
 ## Repo
 
-* 
+* https://github.com/squeemishly/m4-assessment
 
 ## Self Assessment Rubric
 
@@ -14,7 +15,7 @@ Evaluated by:
 ### 1. Completion:
   * At a minimum, developer completes challenges 1-3.
 
-Above Expectations
+*Above Expectations*
 
 Meets Expectations
 
@@ -31,7 +32,7 @@ Below Expectations
 
 Above Expectations
 
-Meets Expectations
+*Meets Expectations*
 
 Below Expectations
 
@@ -42,7 +43,7 @@ Below Expectations
 
 Above Expectations
 
-Meets Expectations
+*Meets Expectations*
 
 Below Expectations
 
@@ -57,7 +58,7 @@ Below Expectations
 
 Above Expectations
 
-Meets Expectations
+*Meets Expectations*
 
 Below Expectations
 
