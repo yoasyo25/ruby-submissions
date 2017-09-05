@@ -5,7 +5,7 @@ Evaluated by:
 
 ## Repo
 
-* 
+* [My Repo](https://github.com/Benjaminpjacobs/word_watch)
 
 ## Self Assessment Rubric
 
@@ -14,7 +14,9 @@ Evaluated by:
 ### 1. Completion:
   * At a minimum, developer completes challenges 1-3.
 
-Above Expectations
+**Above Expectations
+
+I completed all user stories.
 
 Meets Expectations
 
@@ -29,7 +31,9 @@ Below Expectations
   * Developer uses `Array.prototype` functions over `for` loops where appropriate.
   * Developer deals with async API requests in a readable, coherent way.
 
-Above Expectations
+**Above Expectations
+
+I broke down all functions into separate responsibilities and files for the various functions, including moving all the code out of index.js so it was split into listeners, handlers, utilities and services. Additionally I tracked down a circular dependency whcih was breaking webpack and rectified that.
 
 Meets Expectations
 
@@ -42,7 +46,9 @@ Below Expectations
 
 Above Expectations
 
-Meets Expectations
+**Meets Expectations
+
+I am not exactly sure how you could above expectation on this one. I am setting all neccessary jquery variables inside my document ready and only targeted nodes using one or 2 css selectors. 
 
 Below Expectations
 
@@ -57,7 +63,11 @@ Below Expectations
 
 Above Expectations
 
-Meets Expectations
+
+
+**Meets Expectations
+
+I consistently user ES6 syntax and correctly only use let within a foreach loop when lexical scopping would have caused problems. Utilize arrow syntax correctly, explicity omitting brackets when I wanted implicit return and retaining them when it was unneccessary. I Correctly and precisely named variables using proper JS convention. The only reason I don't believe this is possibly not above expectation is that I did not use any classes or constructors because I simply did not see the need. Without any data persistence it did not seem neccessary to explicity construct objects. Perhaps I could have created an API class that would have served instead of the two functions that live in that file. Similarly I may have been able to create a TextSubmission class that would have held the data from the submision an internally applied functions to it. Again, for this particular challenge that seemed like overkill, but that is also why I'm in this bracket and not the one above.
 
 Below Expectations
 
