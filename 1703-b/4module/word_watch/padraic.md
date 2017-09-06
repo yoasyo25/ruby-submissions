@@ -4,8 +4,7 @@ Developer: Padraic
 Evaluated by:
 
 ## Repo
-
-* 
+https://github.com/podoglyph/m4_assessment
 
 ## Self Assessment Rubric
 
@@ -14,11 +13,7 @@ Evaluated by:
 ### 1. Completion:
   * At a minimum, developer completes challenges 1-3.
 
-Above Expectations
-
 Meets Expectations
-
-Below Expectations
 
 ### 2. Code quality
   * Developer breaks functions out into separate responsibilities for:
@@ -29,10 +24,6 @@ Below Expectations
   * Developer uses `Array.prototype` functions over `for` loops where appropriate.
   * Developer deals with async API requests in a readable, coherent way.
 
-Above Expectations
-
-Meets Expectations
-
 Below Expectations
 
 ### 3. Events and DOM manipulation
@@ -40,11 +31,7 @@ Below Expectations
   * Developer targets nodes/elements cleanly using 1 or 2 css selectors.
     * && without heavy use of traversing parents and/or children.
 
-Above Expectations
-
 Meets Expectations
-
-Below Expectations
 
 ### 4. JS conventions
   * Developer scopes variables appropriately.
@@ -55,11 +42,7 @@ Below Expectations
   * Developer names variables using camelCase.
   * Developer names classes and constructor functions using CapitalizedCamelCased.
 
-Above Expectations
-
 Meets Expectations
-
-Below Expectations
 
 ## Rubric
 
