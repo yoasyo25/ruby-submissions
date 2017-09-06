@@ -46,14 +46,16 @@ Meets Expectations - I consistently used const, let, and var where appropriate. 
 
 ## Rubric
 
+## Notes:
+
+- technically only event listeners need to be bound within a `$(document).ready` - not the whole script
+- inconsistencies with `let`/`const` vs `var` - ideally it would all be `var` OR a mix of `let`/`const`
+- definitely room to refactor longer functions / file as a whole (into multiple separate files)
+
 ### 1. Completion:
   * At a minimum, developer completes challenges 1-3.
 
-Above Expectations
-
-Meets Expectations
-
-Below Expectations
+**Above Expectations**
 
 ### 2. Code quality
   * Developer breaks functions out into separate responsibilities for:
@@ -64,22 +66,14 @@ Below Expectations
   * Developer uses `Array.prototype` functions over `for` loops where appropriate.
   * Developer deals with async API requests in a readable, coherent way.
 
-Above Expectations
-
-Meets Expectations
-
-Below Expectations
+**Below Expectations**
 
 ### 3. Events and DOM manipulation
   * Developer resgisters event listeners within `document.ready`.
   * Developer targets nodes/elements cleanly using 1 or 2 css selectors.
     * && without heavy use of traversing parents and/or children.
 
-Above Expectations
-
-Meets Expectations
-
-Below Expectations
+**Meets Expectations**
 
 ### 4. JS conventions
   * Developer scopes variables appropriately.
@@ -90,8 +84,4 @@ Below Expectations
   * Developer names variables using camelCase.
   * Developer names classes and constructor functions using CapitalizedCamelCased.
 
-Above Expectations
-
-Meets Expectations
-
-Below Expectations
+**Meets Expectations**
