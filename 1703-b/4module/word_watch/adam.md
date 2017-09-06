@@ -15,6 +15,7 @@ Evaluated by:
   * At a minimum, developer completes challenges 1-3.
 
 **Above Expectations**
+Challenges 1-5 were completed with plenty of time and full functionality.
 
 Meets Expectations
 
@@ -30,6 +31,7 @@ Below Expectations
   * Developer deals with async API requests in a readable, coherent way.
 
 **Above Expectations**
+DOM manipulation, API calls, and data processing are in single responsibility functions, functions are below 8 lines, enumerables are used instead of for loops. Javascript are organized into Single Responsibility classes
 
 Meets Expectations
 
@@ -41,6 +43,7 @@ Below Expectations
     * && without heavy use of traversing parents and/or children.
 
 **Above Expectations**
+Solid targeting of nodes and document.ready event listeners.
 
 Meets Expectations
 
@@ -56,6 +59,7 @@ Below Expectations
   * Developer names classes and constructor functions using CapitalizedCamelCased.
 
 **Above Expectations**
+Uses consistent ES6 syntax and proper naminbg conventions
 
 Meets Expectations
 
