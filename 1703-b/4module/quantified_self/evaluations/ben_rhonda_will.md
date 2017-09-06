@@ -19,12 +19,16 @@ Please self assess with the rubric below. Provide additional information to expl
 - 2: Application is missing required functionality, deviates significantly from the spec, or serious bugs prevent features from being usable
 - 1: Application is missing a significant portion of functionality
 
+Our application implements all functionality as defined, but is experiencing some buggy behavior with the sorting feature. 
+
 ### Planning and Design
 
 *** 4: Team created visual schema, API documentation and user stories, before writing tests. API adheres to REST standard.
 - 3: Team created either a schema or API docs to facilitate implementation of a service.
 - 2: Team has some notes on how to implement their service, but someone else couldn't implement it.
 - 1: Team did not design their service.
+
+Our team created and heavily utilized a visual db schema and wrote API documentation for an API that adheres to REST.
 
 ### Testing
 
@@ -33,6 +37,8 @@ Please self assess with the rubric below. Provide additional information to expl
 - 2: More back-end functionality implemented than tested and/or very little front-end testing
 - 1: Team fails to effectively test the application.
 
+We wrote extensive back-end tests and front-end tests in areas that didn't require communication with the back end.
+
 ### HTML/UI
 
 *** 4: Team put some effort into styling. HTML features unique IDs, classes and data attributes for DOM traversal.
@@ -40,12 +46,16 @@ Please self assess with the rubric below. Provide additional information to expl
 - 2: HTML is greatly lacking in standards compliance. UI is confusing or very buggy.
 - 1: Application is unusable
 
+We implemented styling with attention to user experience along with differentiated class/ID naming for ease of DOM traversal.
+
 ### JS syntax and Style
 
 - 4: Javascript features explicit DOM traversal (not using closest), demonstrates great OOP concepts, and uses named and anonymous functions when appropriate
 *** 3: Code logically divided into files. Developer can show examples of good coding practices, like DRY and separation of concerns. Attention payed to indentation and naming.
 - 2: Javascript is noticeably lacking in the above concepts.
 - 1: Team has not applied any style concepts from class or from Ruby background
+
+We broke out the JS code into separate files and DRY'ed it out in several areas.
 
 ### Git Workflow
 
@@ -62,6 +72,8 @@ _For this rubric item, please describe how you leveraged the project management 
 - 3: Team is using a project management tool to keep their project organized.
 - 2: Team is using a project management tool but didn't update the progress frequently. Many cards have no changes made to them
 - 1: Team failed to use a project management tool to track its progress.
+
+We made great use of Pivotal Tracker for features and chores. We also maintained excellent Git workflow with separate branches and thorough pull request reviews.
 
 ## Instructor Rubric
 
