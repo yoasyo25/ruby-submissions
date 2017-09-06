@@ -1,27 +1,27 @@
 ### Project Template
 
-### [Project Title]
+### Homestead-Strategies-Platform
 
 ### Pitch
 
-1 sentence that explains the value proposition of the application. How would you explain it to a potential business partner, team member, or investor?
+Create an application that gathers climate data based on a user's location, and presents that user with crowd sourced homestead and farm strategies from other users who live in their same climate either close by, or across the globe. 
 
 ### Problem
 
-1-3 sentences describing the problem that you are trying to solve.
+Finding farming, gardening, and homesteading information or strategies relevant to a specific site requires a significant amount of time and effort. A large part of this problem is due to the fact that climate is the most significant variable when determining if a particular strategy is relevant, and there are many different climate types across the globe, or even in a specific region. Much of the information available is intended to sell to broad groups of people across many climates, leaving much work to be done by the consumer to determine what is applicable to their site. Often, people realize that strategies are not intended for their climate only after they have already been implemented. There are many resources available that are more climate targeted, but they can be costly and still require time and effort to find. In addition to the problems of accessing information, it is difficult to find a community of people whom are in the same climate for interaction and support. Often when a community is found, it is a group of people who live in close proximity and techniques are limited to what is known and practiced in the area. There is no easy method for reaching out to other people around the globe who live in similar climates in order to discover different but applicable approaches. If a technology was developed that would act as a targeted conduit between strategies and users in their corresponding climates, efforts towards increasing sustainability and self reliance would be much more efficient, successful, and fun. The health of our future planet relies on a much higher percentage of individuals increasing their positive environmental impact. One way to make that possible is by radically reducing the amount of effort required to know the solutions and strategies one can use. 
 
 ### Solution
 
-1-3 sentences describing how your application will solve that problem.
+Develop an online platform that utilizes historical climate information through API’s in order to organize users into their corresponding climate analog based on user’s coordinates. A climate analog is defined by all of the geographical areas which have climates that are similar (analogous) enough to utilize the same agricultural, architectural, technological, and land management techniques. The platform can present user submitted techniques with information relevant to the current user’s climate being displayed. Strategies can be deployed and evolved over time to deliver the most applicable and useful information to each user based on the climate in which they live. An example of this is a verification process where users verify if they have had success in their climate with a particular strategy. That verification and the climatic information of that user can then be applied to the ‘profile’ of that technique in order to better target that information to all users that it may benefit. It could also help to create the range and specific climate variables at which that technique works best.  Users can view the techniques in different climates and if they verify those techniques, they can then be viewed in their respective climate analog as well. Measures would be taken to limit the number of duplicate entries. To increase the value of each entry, users can edit and add information to techniques similar to Wikipedia. Each entry will be associated with the climate of the user that entered the data in order to display each technique uniquely based on the climate of the user viewing it. Certain strategies will also be utilized in order to encourage cross pollination of ideas and concepts, as well as encouraging peer review of techniques in order to insure the efficacy of all ideas presented by the platform. The platform will also provide means for users to communicate and share information with any other user in a one on one thread but also to start threads within their own climate to further discuss specific topics. It is the intent of the platform to easily connect users to the most useful information for their site, connect them to other users in their climate to establish communities, but also to ensure the information on the site is as valuable, factual, and scientifically honest as possible. 
 
 ### Target Audience
 
-1-3 sentences describing what type of user your app would be applicable to.
+The target audiences of this application are homesteaders, horticulturalists, agriculturalists, and anyone else seeking to learn skills and techniques that increase self reliance. 
 
 ### New Techniques
 
-Which new techniques are you hoping to implement?
+The application will utilize geocoder to find location coordinates and then send off to a NOAA API to gather historical climate data. It will incorporate action cable in order to provide the ability for users to start conversations, as well as to provide forums within each strategy profile. The use of graphs will also be incorporated in order to visually demonstrate interactions between climates and strategies. I would like to incorporate maps but I haven't come up with a specific use case for them. Database queries will be particularly complex looking for overlap between all climate variable ranges in order to return strategies. I consider this a new technique because I have some interesting problems to solve that are complex that I've never seen before.  
 
 ### Workflow
 
-What project management tool will you be using to manage your progress?
+Waffle.io

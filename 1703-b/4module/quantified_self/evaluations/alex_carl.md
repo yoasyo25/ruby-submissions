@@ -1,12 +1,12 @@
 # Alex and Carl
 
-Frontend Production:
+Frontend Production: https://qs.alexwk.rocks/
 
-Frontend Github:
+Frontend Github: https://github.com/ACC25/quantified-self
 
-Backend Production:
+Backend Production: https://qs-backend.herokuapp.com/api/v1/
 
-Backend Github:
+Backend Github: https://github.com/ACC25/qs-express
 
 ## Self Assessment Rubric
 
@@ -14,106 +14,100 @@ Please self assess with the rubric below. Provide additional information to expl
 
 ### Specification Adherence
 
-- 4: Application implements all functionality as defined, with no bugs, and one extension (if you choose to put your point here)
-- 3: Application implements all functionality as defined, but some bugs or strange behavior where features intersect
-- 2: Application is missing required functionality, deviates significantly from the spec, or serious bugs prevent features from being usable
-- 1: Application is missing a significant portion of functionality
+* 3: Application implements all functionality as defined, but some bugs or strange behavior where features intersect *
+
+Completed all user stories with no major bugs. some slight unexpected behavior.
 
 ### Planning and Design
 
-- 4: Team created visual schema, API documentation and user stories, before writing tests. API adheres to REST standard.
-- 3: Team created either a schema or API docs to facilitate implementation of a service.
-- 2: Team has some notes on how to implement their service, but someone else couldn't implement it.
-- 1: Team did not design their service.
+* 3: Team created either a schema or API docs to facilitate implementation of a service. *
+
+Our readme explains what users should be able to access and do.
 
 ### Testing
 
-- 4: All functionality is covered by tests. Appropriate mix of unit and integration tests. Sad path testing in both unit and integration tests.
-- 3: All back-end functionality is covered by tests. Front-end uses unit tests wherever logic can be separated from interface and network requests.
-- 2: More back-end functionality implemented than tested and/or very little front-end testing
-- 1: Team fails to effectively test the application.
+* 3: All back-end functionality is covered by tests. Front-end uses unit tests wherever logic can be separated from interface and network requests. *
+
+All back end functionality is tested. Attempted to test on the front end but too much effort for small coverage so abandoned.
 
 ### HTML/UI
 
-- 4: Team put some effort into styling. HTML features unique IDs, classes and data attributes for DOM traversal.
-- 3: Application is not confusing to use. HTML classes and IDs are kebab case.
-- 2: HTML is greatly lacking in standards compliance. UI is confusing or very buggy.
-- 1: Application is unusable
+* 3: Application is not confusing to use. HTML classes and IDs are kebab case. *
+
+UI is clearly laid out with navigation on both pages.
 
 ### JS syntax and Style
 
-- 4: Javascript features explicit DOM traversal (not using closest), demonstrates great OOP concepts, and uses named and anonymous functions when appropriate
-- 3: Code logically divided into files. Developer can show examples of good coding practices, like DRY and separation of concerns. Attention payed to indentation and naming.
-- 2: Javascript is noticeably lacking in the above concepts.
-- 1: Team has not applied any style concepts from class or from Ruby background
+* 3: Code logically divided into files. Developer can show examples of good coding practices, like DRY and separation of concerns. Attention payed to indentation and naming. *
+
+Indentation and naming was consistant. Logically sepereated into foods and meals and index.
 
 ### Git Workflow
 
-- 4: Team uses master for production, and creates a feature branch for each card worked on. Team is using pull requests with good context and conversation
-- 3: Team is using the feature branches for small groups of cards, and has a pull request for each feature. Developers that aren't on the team have commented on PRs.
-- 2: Team fails to use feature branches, or isn't using pull requests
-- 1: All code is committed to master
+* 3: Team is using the feature branches for small groups of cards, and has a pull request for each feature. Developers that aren't on the team have commented on PRs. *
+
+Not much required conversation work was divided into areas that didn't interact with eachother.
 
 ### Project Management
 
 _For this rubric item, please describe how you leveraged the project management tool throughout the duration of your project in addition to scoring yourself._
 
-- 4: Team is using a project management tool and updating their progress daily. Team is approving each other's  work. Team is documenting conversations and conclusions on relevant cards.
-- 3: Team is using a project management tool to keep their project organized.
-- 2: Team is using a project management tool but didn't update the progress frequently. Many cards have no changes made to them
-- 1: Team failed to use a project management tool to track its progress.
+* 3: Team is using a project management tool to keep their project organized. *
+
+Used waffle effectively to track all user stories.
 
 ## Instructor Rubric
 
-### Evaluated By:
+### Evaluated By: Schutte
 
 ### Notes:
 
+* Nice job on functionality! No major bugs that I saw, but you didn't implement sorting by calories or name.
+* No notes on either readme for local setup.
+* Would like to see more robust assertions on the API. E.g., `delete` just tests a response value, not if the DB count decreased.
+* Could have unit tested some of your JS logic / written more testable JS logic.
+* Great UI! Love the checkbox animations.
+* Take advantage of webpack: https://github.com/ACC25/quantified-self/blob/development/foods.html#L41
+* Checking a boolean to return a boolean. Think about a simpler way to do this: https://github.com/ACC25/quantified-self/blob/development/lib/filter.js#L11-L14
+* Great abstractions: https://github.com/ACC25/quantified-self/blob/development/lib/filter.js#L37-L46
+* Nice use of Knex on the API 👍
+* Break these two new lines: https://github.com/ACC25/qs-express/blob/development/lib/models/meal.js#L18
+```js
+  static withFoods(id) {
+    return database.from('foods')
+      .innerJoin('meals_foods', 'foods.id', '=', 'meals_foods.food_id')
+      .where('meals_foods.meal_id', '=', id)
+      .select('foods.id', 'name', 'calories')
+  }
+```
+* This is the same as nesting `document.ready`'s inside each other: https://github.com/ACC25/quantified-self/blob/development/lib/index.js#L10-L16
+* DRY: https://github.com/ACC25/quantified-self/blob/development/lib/filter.js#L122-L130
+
 ### Specification Adherence
 
-- 4: Application implements all functionality as defined, with no bugs, and one extension (if you choose to put your point here)
-- 3: Application implements all functionality as defined, but some bugs or strange behavior where features intersect
-- 2: Application is missing required functionality, deviates significantly from the spec, or serious bugs prevent features from being usable
-- 1: Application is missing a significant portion of functionality
+- **3: Application implements all functionality as defined, but some bugs or strange behavior where features intersect**
 
 ### Planning and Design
 
-- 4: Team created visual schema, API documentation and user stories, before writing tests. API adheres to REST standard.
-- 3: Team created either a schema or API docs to facilitate implementation of a service.
-- 2: Team has some notes on how to implement their service, but someone else couldn't implement it.
-- 1: Team did not design their service.
+- **2: Team has some notes on how to implement their service, but someone else couldn't implement it.**
 
 ### Testing
 
-- 4: All functionality is covered by tests. Appropriate mix of unit and integration tests. Sad path testing in both unit and integration tests.
-- 3: All back-end functionality is covered by tests. Front-end uses unit tests wherever logic can be separated from interface and network requests.
-- 2: More back-end functionality implemented than tested and/or very little front-end testing
-- 1: Team fails to effectively test the application.
+- **3: All back-end functionality is covered by tests. Front-end uses unit tests wherever logic can be separated from interface and network requests.**
 
 ### HTML/UI
 
-- 4: Team put some effort into styling. HTML features unique IDs, classes and data attributes for DOM traversal.
-- 3: Application is not confusing to use. HTML classes and IDs are kebab case.
-- 2: HTML is greatly lacking in standards compliance. UI is confusing or very buggy.
-- 1: Application is unusable
+- **4: Team put some effort into styling. HTML features unique IDs, classes and data attributes for DOM traversal.**
 
 ### JS syntax and Style
 
-- 4: Javascript features explicit DOM traversal (not using closest), demonstrates great OOP concepts, and uses named and anonymous functions when appropriate
-- 3: Code logically divided into files. Developer can show examples of good coding practices, like DRY and separation of concerns. Attention payed to indentation and naming.
-- 2: Javascript is noticeably lacking in the above concepts.
-- 1: Team has not applied any style concepts from class or from Ruby background
+- **3: Code logically divided into files. Developer can show examples of good coding practices, like DRY and separation of concerns. Attention payed to indentation and naming.**
 
 ### Git Workflow
 
-- 4: Team uses master for production, and creates a feature branch for each card worked on. Team is using pull requests with good context and conversation
-- 3: Team is using the feature branches for small groups of cards, and has a pull request for each feature. Developers that aren't on the team have commented on PRs.
-- 2: Team fails to use feature branches, or isn't using pull requests
-- 1: All code is committed to master
+- **3: Team is using the feature branches for small groups of cards, and has a pull request for each feature. Developers that aren't on the team have commented on PRs.**
 
 ### Project Management
 
-- 4: Team is using a project management tool and updating their progress daily. Team is approving each other's  work. Team is documenting conversations and conclusions on relevant cards.
-- 3: Team is using a project management tool to keep their project organized.
-- 2: Team is using a project management tool but didn't update the progress frequently. Many cards have no changes made to them
-- 1: Team failed to use a project management tool to track its progress.
+- **3: Team is using a project management tool to keep their project
+  organized.**

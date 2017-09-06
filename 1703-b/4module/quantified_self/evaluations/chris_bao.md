@@ -1,12 +1,12 @@
 # Chris and Bao
 
-Frontend Production:
+[Frontend Production](https://rongxanh88.github.io/quantified-self/)
 
-Frontend Github:
+[Frontend Github](https://github.com/rongxanh88/quantified-self)
 
-Backend Production:
+[Backend Production](https://qs-bc-node-api.herokuapp.com/)
 
-Backend Github:
+[Backend Github](https://github.com/rongxanh88/qs-node-api)
 
 ## Self Assessment Rubric
 
@@ -14,35 +14,43 @@ Please self assess with the rubric below. Provide additional information to expl
 
 ### Specification Adherence
 
-- 4: Application implements all functionality as defined, with no bugs, and one extension (if you choose to put your point here)
-- 3: Application implements all functionality as defined, but some bugs or strange behavior where features intersect
+#### 4: Application implements all functionality as defined, with no bugs, and one extension (if you choose to put your point here)
+* Implemented all defined functionality and we wrote only in ES6 with the only exception of the require statements. No bugs or strange behavior.
+3: Application implements all functionality as defined, but some bugs or strange behavior where features intersect
+
+
 - 2: Application is missing required functionality, deviates significantly from the spec, or serious bugs prevent features from being usable
 - 1: Application is missing a significant portion of functionality
 
 ### Planning and Design
 
-- 4: Team created visual schema, API documentation and user stories, before writing tests. API adheres to REST standard.
+#### 4: Team created visual schema, API documentation and user stories, before writing tests. API adheres to REST standard.
+* We used the old documentation when visiting root for the API. For the front end, we imported all the user stories to drive development. API is RESTful.
 - 3: Team created either a schema or API docs to facilitate implementation of a service.
 - 2: Team has some notes on how to implement their service, but someone else couldn't implement it.
 - 1: Team did not design their service.
 
 ### Testing
 
-- 4: All functionality is covered by tests. Appropriate mix of unit and integration tests. Sad path testing in both unit and integration tests.
+#### 4: All functionality is covered by tests. Appropriate mix of unit and integration tests. Sad path testing in both unit and integration tests.
+* Front end tests do not cover everything. Some unit tests and a few selenium tests cover integration. Backend completely covered by request testing.
+
 - 3: All back-end functionality is covered by tests. Front-end uses unit tests wherever logic can be separated from interface and network requests.
 - 2: More back-end functionality implemented than tested and/or very little front-end testing
 - 1: Team fails to effectively test the application.
 
 ### HTML/UI
 
-- 4: Team put some effort into styling. HTML features unique IDs, classes and data attributes for DOM traversal.
-- 3: Application is not confusing to use. HTML classes and IDs are kebab case.
+#### 4: Team put some effort into styling. HTML features unique IDs, classes and data attributes for DOM traversal.
+* HTML uses good data attributes, IDs, and class naming to make DOM traversal easy. We did not put special attention into styling.
+#### 3: Application is not confusing to use. HTML classes and IDs are kebab case.
 - 2: HTML is greatly lacking in standards compliance. UI is confusing or very buggy.
 - 1: Application is unusable
 
 ### JS syntax and Style
 
-- 4: Javascript features explicit DOM traversal (not using closest), demonstrates great OOP concepts, and uses named and anonymous functions when appropriate
+#### 4: Javascript features explicit DOM traversal (not using closest), demonstrates great OOP concepts, and uses named and anonymous functions when appropriate
+* We consistently use OOP with JS, use of arrow functions when appropriate (didn't need binding of `this, super, or arguments`), and we consistently use named functions due to how JS hoists declared variables and named functions.
 - 3: Code logically divided into files. Developer can show examples of good coding practices, like DRY and separation of concerns. Attention payed to indentation and naming.
 - 2: Javascript is noticeably lacking in the above concepts.
 - 1: Team has not applied any style concepts from class or from Ruby background
@@ -50,7 +58,8 @@ Please self assess with the rubric below. Provide additional information to expl
 ### Git Workflow
 
 - 4: Team uses master for production, and creates a feature branch for each card worked on. Team is using pull requests with good context and conversation
-- 3: Team is using the feature branches for small groups of cards, and has a pull request for each feature. Developers that aren't on the team have commented on PRs.
+#### 3: Team is using the feature branches for small groups of cards, and has a pull request for each feature. Developers that aren't on the team have commented on PRs.
+* We didn't discuss much in our PRs (and code reviews). We also didn't use a PR template this time. Communicating with only two developers didn't seem to require such steps.
 - 2: Team fails to use feature branches, or isn't using pull requests
 - 1: All code is committed to master
 
@@ -59,61 +68,43 @@ Please self assess with the rubric below. Provide additional information to expl
 _For this rubric item, please describe how you leveraged the project management tool throughout the duration of your project in addition to scoring yourself._
 
 - 4: Team is using a project management tool and updating their progress daily. Team is approving each other's  work. Team is documenting conversations and conclusions on relevant cards.
-- 3: Team is using a project management tool to keep their project organized.
+#### 3: Team is using a project management tool to keep their project organized.
+* We consistenly utilized Pivotal Tracker for the front end development. Cards were updated and approved when PRs were accepted into the master branch. Communication was thorough on Slack and on PR code comments, but this was not documented on PT.
 - 2: Team is using a project management tool but didn't update the progress frequently. Many cards have no changes made to them
 - 1: Team failed to use a project management tool to track its progress.
 
 ## Instructor Rubric
 
-### Evaluated By:
+### Evaluated By: Lauren
 
 ### Notes:
 
+Overall, great job done. UI is seamless and very easy to use. Accessibility is apparent. ES6 was implemented very well in both front-end and back-end repositories. Code was refactored well, allowing for solid organization with easy-to-read code in both repos.
+
 ### Specification Adherence
 
-- 4: Application implements all functionality as defined, with no bugs, and one extension (if you choose to put your point here)
-- 3: Application implements all functionality as defined, but some bugs or strange behavior where features intersect
-- 2: Application is missing required functionality, deviates significantly from the spec, or serious bugs prevent features from being usable
-- 1: Application is missing a significant portion of functionality
+- **4: Application implements all functionality as defined, with no bugs, and one extension (if you choose to put your point here)**
 
 ### Planning and Design
 
-- 4: Team created visual schema, API documentation and user stories, before writing tests. API adheres to REST standard.
-- 3: Team created either a schema or API docs to facilitate implementation of a service.
-- 2: Team has some notes on how to implement their service, but someone else couldn't implement it.
-- 1: Team did not design their service.
+- **4: Team created visual schema, API documentation and user stories, before writing tests. API adheres to REST standard.**
 
 ### Testing
 
-- 4: All functionality is covered by tests. Appropriate mix of unit and integration tests. Sad path testing in both unit and integration tests.
-- 3: All back-end functionality is covered by tests. Front-end uses unit tests wherever logic can be separated from interface and network requests.
-- 2: More back-end functionality implemented than tested and/or very little front-end testing
-- 1: Team fails to effectively test the application.
+**- 4: All functionality is covered by tests. Appropriate mix of unit and integration tests. Sad path testing in both unit and integration tests.**
 
 ### HTML/UI
 
-- 4: Team put some effort into styling. HTML features unique IDs, classes and data attributes for DOM traversal.
-- 3: Application is not confusing to use. HTML classes and IDs are kebab case.
-- 2: HTML is greatly lacking in standards compliance. UI is confusing or very buggy.
-- 1: Application is unusable
+**- 4: Team put some effort into styling. HTML features unique IDs, classes and data attributes for DOM traversal.**
 
 ### JS syntax and Style
 
-- 4: Javascript features explicit DOM traversal (not using closest), demonstrates great OOP concepts, and uses named and anonymous functions when appropriate
-- 3: Code logically divided into files. Developer can show examples of good coding practices, like DRY and separation of concerns. Attention payed to indentation and naming.
-- 2: Javascript is noticeably lacking in the above concepts.
-- 1: Team has not applied any style concepts from class or from Ruby background
+**- 4: Javascript features explicit DOM traversal (not using closest), demonstrates great OOP concepts, and uses named and anonymous functions when appropriate**
 
 ### Git Workflow
 
-- 4: Team uses master for production, and creates a feature branch for each card worked on. Team is using pull requests with good context and conversation
-- 3: Team is using the feature branches for small groups of cards, and has a pull request for each feature. Developers that aren't on the team have commented on PRs.
-- 2: Team fails to use feature branches, or isn't using pull requests
-- 1: All code is committed to master
+**- 3: Team is using the feature branches for small groups of cards, and has a pull request for each feature. Developers that aren't on the team have commented on PRs.**
 
 ### Project Management
 
-- 4: Team is using a project management tool and updating their progress daily. Team is approving each other's  work. Team is documenting conversations and conclusions on relevant cards.
-- 3: Team is using a project management tool to keep their project organized.
-- 2: Team is using a project management tool but didn't update the progress frequently. Many cards have no changes made to them
-- 1: Team failed to use a project management tool to track its progress.
+**- 3: Team is using a project management tool to keep their project organized.**
