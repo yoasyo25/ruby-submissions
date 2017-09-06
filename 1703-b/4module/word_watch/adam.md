@@ -38,7 +38,7 @@ Meets Expectations
 Below Expectations
 
 ### 3. Events and DOM manipulation
-  * Developer resgisters event listeners within `document.ready`.
+  * Developer registers event listeners within `document.ready`.
   * Developer targets nodes/elements cleanly using 1 or 2 css selectors.
     * && without heavy use of traversing parents and/or children.
 
@@ -65,12 +65,12 @@ Meets Expectations
 
 Below Expectations
 
-## Rubric
+## Instructor Rubric
 
 ### 1. Completion:
   * At a minimum, developer completes challenges 1-3.
 
-Above Expectations
+**Above Expectations** - All functionality for challenges 1-5 is present and works as expected.
 
 Meets Expectations
 
@@ -87,7 +87,7 @@ Below Expectations
 
 Above Expectations
 
-Meets Expectations
+**Meets Expectations** - I think the WordCloud object could be broken down even further. A specific Word doesn't need to know how to append itself to the page or calculate the number of times it appears or even post it to a third party service. I encourage you to try to make connections between how we organize our Ruby code to improve (even further) your JS code quality. I do like that you've broken your functions down and kept them as single responsibility as possible. Also - needing to call `word.word` is confusing!
 
 Below Expectations
 
@@ -96,7 +96,7 @@ Below Expectations
   * Developer targets nodes/elements cleanly using 1 or 2 css selectors.
     * && without heavy use of traversing parents and/or children.
 
-Above Expectations
+**Above Expectations** - You did a great job assigning specific event listeners and traversing the DOM in a way that doesn't rely on parents/children. You were as specific as possible when manipulating the DOM.
 
 Meets Expectations
 
@@ -111,7 +111,7 @@ Below Expectations
   * Developer names variables using camelCase.
   * Developer names classes and constructor functions using CapitalizedCamelCased.
 
-Above Expectations
+**Above Expectations** - Good job following JS conventions - the one thing I'd suggest is to be mindful about choosing variable names - at one point you're calling `word.word` which is confusing!
 
 Meets Expectations
 
