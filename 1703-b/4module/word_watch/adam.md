@@ -5,7 +5,7 @@ Evaluated by:
 
 ## Repo
 
-* 
+* https://github.com/adamgunther1/word_watch
 
 ## Self Assessment Rubric
 
@@ -14,7 +14,8 @@ Evaluated by:
 ### 1. Completion:
   * At a minimum, developer completes challenges 1-3.
 
-Above Expectations
+**Above Expectations**
+Challenges 1-5 were completed with plenty of time and full functionality.
 
 Meets Expectations
 
@@ -29,7 +30,8 @@ Below Expectations
   * Developer uses `Array.prototype` functions over `for` loops where appropriate.
   * Developer deals with async API requests in a readable, coherent way.
 
-Above Expectations
+**Above Expectations**
+DOM manipulation, API calls, and data processing are in single responsibility functions, functions are below 8 lines, enumerables are used instead of for loops. Javascript are organized into Single Responsibility classes
 
 Meets Expectations
 
@@ -40,7 +42,8 @@ Below Expectations
   * Developer targets nodes/elements cleanly using 1 or 2 css selectors.
     * && without heavy use of traversing parents and/or children.
 
-Above Expectations
+**Above Expectations**
+Solid targeting of nodes and document.ready event listeners.
 
 Meets Expectations
 
@@ -55,7 +58,8 @@ Below Expectations
   * Developer names variables using camelCase.
   * Developer names classes and constructor functions using CapitalizedCamelCased.
 
-Above Expectations
+**Above Expectations**
+Uses consistent ES6 syntax and proper naminbg conventions
 
 Meets Expectations
 
