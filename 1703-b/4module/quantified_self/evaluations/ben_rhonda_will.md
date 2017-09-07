@@ -99,16 +99,16 @@ _The edit functionality is broken and I don't see the sorting by calories functi
 - 2: Team has some notes on how to implement their service, but someone else couldn't implement it.
 - 1: Team did not design their service.
 
-_I don't see a visual schema in either repo, but you do have API docs and your API follows RESTful conventions._
+_I don't see a visual schema in either repo, but you do have API docs and your API follows RESTful conventions which looks solid._
 
 ### Testing
 
 - 4: All functionality is covered by tests. Appropriate mix of unit and integration tests. Sad path testing in both unit and integration tests.
-- 3: All back-end functionality is covered by tests. Front-end uses unit tests wherever logic can be separated from interface and network requests.
-- **2: More back-end functionality implemented than tested and/or very little front-end testing**
+- **3: All back-end functionality is covered by tests. Front-end uses unit tests wherever logic can be separated from interface and network requests.**
+- 2: More back-end functionality implemented than tested and/or very little front-end testing
 - 1: Team fails to effectively test the application.
 
-_Backend tests are pending and frontend has several unit and integration tests. The tests that you have look solid._
+_Backend tests are pending (Will mentioned that instructors told y'all to move on) and frontend has several unit and integration tests. The tests look solid and well-organized._
 
 ### HTML/UI
 
