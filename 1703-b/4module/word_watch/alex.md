@@ -78,7 +78,7 @@ Below Expectations
 
 (technically all stories were developed towards, but story 2, the most critical one, is not functioning properly due to the last note)
 
-**Below Expectations**
+**Meets Expectations**
 
 ### 2. Code quality
   * Developer breaks functions out into separate responsibilities for:
@@ -89,7 +89,7 @@ Below Expectations
   * Developer uses `Array.prototype` functions over `for` loops where appropriate.
   * Developer deals with async API requests in a readable, coherent way.
 
-**Below Expectations**
+**Meets Expectations**
 
 ### 3. Events and DOM manipulation
   * Developer resgisters event listeners within `document.ready`.
@@ -107,4 +107,4 @@ Below Expectations
   * Developer names variables using camelCase.
   * Developer names classes and constructor functions using CapitalizedCamelCased.
 
-**Below Expectations**
+**Meets Expectations**
