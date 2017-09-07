@@ -1,27 +1,27 @@
 ### Project Template
 
-### [Project Title]
+### Wakaru
 
 ### Pitch
 
-1 sentence that explains the value proposition of the application. How would you explain it to a potential business partner, team member, or investor?
+The aim of the app is to give businesses actionable insights into the tone and language of their customer service representatives and help them interpret the information that IBM Watson provides. 
 
 ### Problem
 
-1-3 sentences describing the problem that you are trying to solve.
+The problems I am trying to solve are presenting trends in IBM Watson results and categorizing new inputs with statistically sound methodologies. 
 
 ### Solution
 
-1-3 sentences describing how your application will solve that problem.
+Using correlations and regression analysis, Wakaru will give determinations on new inputs. 
 
 ### Target Audience
 
-1-3 sentences describing what type of user your app would be applicable to.
+Medium size businesses that have a growing customer service department. 
 
 ### New Techniques
 
-Which new techniques are you hoping to implement?
+I will be learning new statistical analysis, using a new API and presenting my results with a React Frontend. 
 
 ### Workflow
 
-What project management tool will you be using to manage your progress?
+I will be documenting all my work in excel in a detailed report and will be using Waffle for general task management.
