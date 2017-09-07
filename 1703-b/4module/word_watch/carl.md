@@ -53,14 +53,14 @@ Evaluated by:
 **Meets Expectations**
 
 
-## Rubric
+## Instructor Rubric
 
 ### 1. Completion:
   * At a minimum, developer completes challenges 1-3.
 
 Above Expectations
 
-Meets Expectations
+**Meets Expectations** - All challenges complete (the top word functionality was a little broken due to pointing to localhost rather than the hosted API).
 
 Below Expectations
 
@@ -75,7 +75,7 @@ Below Expectations
 
 Above Expectations
 
-Meets Expectations
+**Meets Expectations** - You separated responsibility as best you code in the given time. There's room for improvement and room to further break things down - you could even follow the MVC design pattern as a way of organizing your code. No functions are too long and your code is readable and variables are well-named.
 
 Below Expectations
 
@@ -86,7 +86,7 @@ Below Expectations
 
 Above Expectations
 
-Meets Expectations
+**Meets Expectations** - You don't traverse the DOM through parents and children - you register events in a way that makes sense and is easy to read.
 
 Below Expectations
 
@@ -101,6 +101,6 @@ Below Expectations
 
 Above Expectations
 
-Meets Expectations
+**Meets Expectations** - You follow JS conventions well - good job!
 
 Below Expectations
