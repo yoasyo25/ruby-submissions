@@ -6,7 +6,8 @@
 
 - A shortcut for `category = Category.find(params[:id) category.destroy` is `Category.destroy(params[:id])` and update `category = Category.update(params[:id], category_params)`
 - Would like to see the view hold a collection of jobs sorted by interest by passing instance vairables that hold that specific collection instead of `@job.count_by_location` in the view, could use, in the controller,  `@locations = @job.count_by_location` which would push some logic from the view to the controller and down the stack.
-- ```ruby
+- In comment controller
+```ruby
 def create
   @comment = Comment.new(comment_params)
   @comment.job_id = params[:job_id]

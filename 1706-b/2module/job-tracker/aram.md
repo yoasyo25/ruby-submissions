@@ -4,34 +4,10 @@
 
 ### Notes:
 
-- Nice work, overall especially with extensions. A few comments below.
+- Nice work, overall especially with extensions
 - Cannot Delete a Job
-
-### 1) Database, Relationships, and Migrations
-
-* **4: The database has appropriate tables and appropriate columns to create relationships between tables. Foreign keys are indexed to increase database performance. Tables and columns are appropriately named.**
-* 3: The database has been prepared in a manner that allows for all functionality in the application, but not all foreign keys are indexed, and tables/columns may be named in a manner inconsistent with Rails conventions.
-* 2: The database supports most, but not all functionality. The developer may struggle to explain the relationships between tables.
-* 1: The database likely does not support significant portions of functionality. Relationships between tables may be lacking. The developer may have placed foreign keys on the wrong table or not be using a join table when appropriate.
-
 - Would like to see a more appropriately named table for `taggings` such as `job_tags`
-
-### 2) Routes
-
-* **4: Routes are defined for all functionality and not any additional functionality. All routes conform to RESTful conventions for resources, and routes to pages that are not specifically for resources stored in the database are not named in a way that an experienced developer would find surprising.**
-* 3: The developer has routes for all functionality that they provide, but may include routes that are not used in the application.
-* 2: The routes file is missing routes for some functionality that the developer has implemented. Routes may be named in unconventional ways. Some routes may be preventing pattern matching because they are out of order.
-* 1: Routes have not been updated or significant functionality is missing.
-
 - Could use some better organization in the routing file to provide clarity.
-
-### 3) Controllers
-
-* 4: The developer has moved logic out of the controllers and into the models/POROs where appropriate. The developer uses strong params in a private method. Instance variables being passed to views are appropriately named and limited in number. The developer can speak to each choice made when questioned.
-* **3: Some logic may leak into the controllers that would more appropriately exist in a model/PORO. The developer may pass more instance variables than necessary to the view.**
-* 2: Significant logic exists in the controllers. Methods may be more complicated than necessary. Most functionality is still supported.
-* 1: Significant functionality may be missing. Significant logic may be present, and it is difficult to understand at a glance the purpose of each method.
-
 - This piece is not working because the `if` statement is not actually setting an if statement. Unable to edit a category
 ```ruby
 def update
@@ -44,22 +20,18 @@ def update
   end
 end
 ```
-
 - If we are just going to save an object after calling new, we can use a shortcut. For example:
 ```ruby
 @comment = @job.comments.new(comment_params)
 @comment.save
-
 ## can be
 @comment = @job.comments.create(comment_params)
-
 ## in this same method, you have:
 redirect_to company_job_path(@comment.job.company_id, @comment.job_id)
 ## but we already have access to @job = Job.find(params[:job_id]) so it can be
 redirect_to company_job_path(@job.company, @job)
 ## I would also get in the habit of using the full object to represent the id
 ```
-
 - Would also like to see creating object through the other object (I see this done on other controllers but be consistent), i.e:
 ```ruby
 def show
@@ -74,8 +46,38 @@ def show
 end
 ```
 - A shortcut for `company = Company.find(params[:id) company.destroy` is `Company.destroy(params[:id])`
-
 - Would also like to see the activerecord on the jobs index to be somewhat refactored down to the model.
+- Would like to see any ActiveRecord calls pushed down to the model
+- In the `if` statement in the jobs index, `Job.all.order` is unnecessary as we can just call `Job.order`
+- Easy to navigate.
+- Could use some additional positioning and refined styling to make it client ready.
+- Could not navigate without manually entering in the url to create a new job for a company.
+- `When the user creates a new Job, they are required to select its Category from a drop down menu of existing categories. They also see a link to create a new Category.` Category should be a drop down not a manual input and there is no link to create new category.
+- Not clear how to get to categories page or editing a category.
+- Solid testing but would like to see feature level tests for the dashboard as well as model level tests for the methods you created.
+
+
+### 1) Database, Relationships, and Migrations
+
+* **4: The database has appropriate tables and appropriate columns to create relationships between tables. Foreign keys are indexed to increase database performance. Tables and columns are appropriately named.**
+* 3: The database has been prepared in a manner that allows for all functionality in the application, but not all foreign keys are indexed, and tables/columns may be named in a manner inconsistent with Rails conventions.
+* 2: The database supports most, but not all functionality. The developer may struggle to explain the relationships between tables.
+* 1: The database likely does not support significant portions of functionality. Relationships between tables may be lacking. The developer may have placed foreign keys on the wrong table or not be using a join table when appropriate.
+
+### 2) Routes
+
+* **4: Routes are defined for all functionality and not any additional functionality. All routes conform to RESTful conventions for resources, and routes to pages that are not specifically for resources stored in the database are not named in a way that an experienced developer would find surprising.**
+* 3: The developer has routes for all functionality that they provide, but may include routes that are not used in the application.
+* 2: The routes file is missing routes for some functionality that the developer has implemented. Routes may be named in unconventional ways. Some routes may be preventing pattern matching because they are out of order.
+* 1: Routes have not been updated or significant functionality is missing.
+
+
+### 3) Controllers
+
+* 4: The developer has moved logic out of the controllers and into the models/POROs where appropriate. The developer uses strong params in a private method. Instance variables being passed to views are appropriately named and limited in number. The developer can speak to each choice made when questioned.
+* **3: Some logic may leak into the controllers that would more appropriately exist in a model/PORO. The developer may pass more instance variables than necessary to the view.**
+* 2: Significant logic exists in the controllers. Methods may be more complicated than necessary. Most functionality is still supported.
+* 1: Significant functionality may be missing. Significant logic may be present, and it is difficult to understand at a glance the purpose of each method.
 
 ### 4) ActiveRecord
 
@@ -83,9 +85,6 @@ end
 * **3: ActiveRecord methods are used appropriately in the database, but some Ruby enumerables may also be used. The developer uses ActiveRecord relationships appropriately, and does not call on other classes in their models.**
 * 2: The developer may be calling on other classes in models (e.g. `Category.where(title: title)`), and may struggle to explain choices they made in implementing some functionality.
 * 1: Significant functionality is missing. The developer seems to not understand the methods that ActiveRecord makes available.
-
-- Would like to see any ActiveRecord calls pushed down to the model
-- In the `if` statement in the jobs index, `Job.all.order` is unnecessary as we can just call `Job.order`
 
 ### 5) Views
 
@@ -101,17 +100,9 @@ end
 * 2: The application has limited styling, and it may not be clear how to navigate the application.
 * 1: The application has little to no styling and it is difficult to navigate.
 
-- Easy to navigate.
-- Could use some additional positioning and refined styling to make it client ready.
-- Could not navigate without manually entering in the url to create a new job for a company.
-- `When the user creates a new Job, they are required to select its Category from a drop down menu of existing categories. They also see a link to create a new Category.` Category should be a drop down not a manual input and there is no link to create new category.
-- Not clear how to get to categories page or editing a category.
-
 ### 7) Testing
 
 * 4: Project has a running test suite that exercises the application at multiple levels
 * **3: Project has a running test suite that tests and multiple levels but fails to cover some features**
 * 2: Project has sporadic use of tests and multiple levels
 * 1: Project did not really attempt to use TDD
-
-- Solid testing but would like to see feature level tests for the dashboard as well as model level tests for the methods you created.

@@ -12,7 +12,6 @@
 - All of contacts is opened up right now and we are only creating a new contact
 - Would like routes to adhere to conventions so instead of custom sort or dashboard actions in the jobs controller, create a sort controller/dashboard controller.
 - Would also like to see creating object through the other object , i.e:
-
 ```ruby
 def show
     @company        = Company.find(params[:company_id])
@@ -59,7 +58,6 @@ end
 * **3: ActiveRecord methods are used appropriately in the database, but some Ruby enumerables may also be used. The developer uses ActiveRecord relationships appropriately, and does not call on other classes in their models.**
 * 2: The developer may be calling on other classes in models (e.g. `Category.where(title: title)`), and may struggle to explain choices they made in implementing some functionality.
 * 1: Significant functionality is missing. The developer seems to not understand the methods that ActiveRecord makes available.
-
 
 ### 5) Views
 
