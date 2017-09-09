@@ -4,7 +4,33 @@
 
 ### Notes:
 
-- Overall, nice job! Some comments below
+- Overall, nice job!
+- A few small refactors such as the if statement in the dashboard controller which leaks some logic into the controller.
+- In the comments controller:
+```ruby
+@comment = @job.comments.new(comment_params)
+  @comment.save
+```
+- we can go straight to `@job.comments.create(comment_params)` since we have no validations on comments and also, we are just immediately saving it.
+- In the companies_controller:
+```ruby
+def show
+  @company = Company.find(params[:id])
+  @contact = Contact.new
+  @contact.company_id = @company.id
+end
+#could be
+def show
+  @company = Company.find(params[:id])
+  @contact = @company.contacts.new
+end
+```
+- `take(3)` is actually a ruby method. Something like `limit(3)` is ActiveRecord.
+- On the `_comment.html.erb` page, there is some logic in the view that could be refactored out
+- no root page so I have to manually navigate from the start.
+- When I create a new category for a job, no way to get back to job form.
+- no styling
+- For a 4, would like to see testing of the methods that are on the model level
 
 ### 1) Database, Relationships, and Migrations
 
@@ -27,42 +53,12 @@
 * 2: Significant logic exists in the controllers. Methods may be more complicated than necessary. Most functionality is still supported.
 * 1: Significant functionality may be missing. Significant logic may be present, and it is difficult to understand at a glance the purpose of each method.
 
-- A few small refactors such as the if statement in the dashboard controller which leaks some logic into the controller.
-In the comments controller:
-
-```ruby
-@comment = @job.comments.new(comment_params)
-  @comment.save
-```
-
-- we can go straight to `@job.comments.create(comment_params)` since we have no validations on comments and also, we are just immediately saving it.
-
-In the companies_controller:
-
-```ruby
-def show
-  @company = Company.find(params[:id])
-  @contact = Contact.new
-  @contact.company_id = @company.id
-end
-```
-- a more straightforward way to create this association is:
-
-```ruby
-def show
-  @company = Company.find(params[:id])
-  @contact = @company.contacts.new
-end
-```
-
 ### 4) ActiveRecord
 
 * **4: ActiveRecord methods are used in models to supply all appropriate functionality. Methods exist on the appropriate model, and developers are not referencing other classes or `self` in models unnecessarily. Ruby enumerables are not used where ActiveRecord methods could provide the necessary functionality. The developer can explain the ActiveRecord methods they used and the relationships between ActiveRecord models.**
 * 3: ActiveRecord methods are used appropriately in the database, but some Ruby enumerables may also be used. The developer uses ActiveRecord relationships appropriately, and does not call on other classes in their models.
 * 2: The developer may be calling on other classes in models (e.g. `Category.where(title: title)`), and may struggle to explain choices they made in implementing some functionality.
 * 1: Significant functionality is missing. The developer seems to not understand the methods that ActiveRecord makes available.
-
-- `take(3)` is actually a ruby method. Something like `limit(3)` is ActiveRecord.
 
 ### 5) Views
 
@@ -71,18 +67,12 @@ end
 * 2: Significant logic leaks into the view or remains in controllers and developers show some difficulty in identifying strategies to refactor.
 * 1: Significant logic is present in the view or controllers and developers are unable to articulate potential strategies to refactor.
 
-- On the `_comment.html.erb` page, there is some logic in the view that could be refactored out
-
 ### 6) User Experience
 
 * 4: The application has been styled and the user can easily navigate between different portions of the application without manually entering the URL into the nav-bar or using the back button on their browser.
 * 3: The application has been styled, but the user may need to use the nav-bar to enter a URL or back button to get to access some functionality.
-* **2: The application has limited styling, and it may not be clear how to navigate the application.**
-* 1: The application has little to no styling and it is difficult to navigate.
-
-- There is no root page so I have to manually navigate from the start.
-- When I create a new category for a job, no way to get back to job form.
-- There is no CSS at all.
+* 2: The application has limited styling, and it may not be clear how to navigate the application.
+* **1: The application has little to no styling and it is difficult to navigate.**
 
 ### 7) Testing
 
@@ -90,5 +80,3 @@ end
 * **3: Project has a running test suite that tests and multiple levels but fails to cover some features**
 * 2: Project has sporadic use of tests and multiple levels
 * 1: Project did not really attempt to use TDD
-
-- For a 4, would like to see testing of the methods that are on the model level

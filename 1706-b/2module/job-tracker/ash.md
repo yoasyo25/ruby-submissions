@@ -12,6 +12,7 @@
 - All of contacts is opened up right now and we are only creating a new contact
 - Would like routes to adhere to conventions so instead of custom sort or dashboard actions in the jobs controller, create a sort controller/dashboard controller.
 - Would also like to see creating object through the other object , i.e:
+
 ```ruby
 def show
     @company        = Company.find(params[:company_id])
@@ -74,7 +75,7 @@ end
 * **2: The application has limited styling, and it may not be clear how to navigate the application.**
 * 1: The application has little to no styling and it is difficult to navigate.
 
-### 7) Testing 
+### 7) Testing
 
 * 4: Project has a running test suite that exercises the application at multiple levels
 * **3: Project has a running test suite that tests and multiple levels but fails to cover some features**
