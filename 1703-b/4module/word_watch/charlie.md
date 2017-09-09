@@ -1,7 +1,8 @@
 # Word Watch Submission
 
 Developer: Charlie
-Evaluated by:
+
+Evaluated by: Schutte
 
 ## Repo
 
@@ -16,10 +17,6 @@ Evaluated by:
 
 **Above Expectations - completed all possible functionality
 
-Meets Expectations
-
-Below Expectations
-
 ### 2. Code quality
   * Developer breaks functions out into separate responsibilities for:
     * DOM manipulation
@@ -29,22 +26,14 @@ Below Expectations
   * Developer uses `Array.prototype` functions over `for` loops where appropriate.
   * Developer deals with async API requests in a readable, coherent way.
 
-Above Expectations
-
 **Meets Expectations - code is broken into single task functions and is readable. There is a function that is just over 8 lines, but I don't think it's inappropriate. #countWords() in pastedText.js
-
-Below Expectations
 
 ### 3. Events and DOM manipulation
   * Developer resgisters event listeners within `document.ready`.
   * Developer targets nodes/elements cleanly using 1 or 2 css selectors.
     * && without heavy use of traversing parents and/or children.
 
-Above Expectations
-
 **Meets Expectations - event listeners are registered within document.ready and elements are targeted clearly using specific selectors
-
-Below Expectations
 
 ### 4. JS conventions
   * Developer scopes variables appropriately.
@@ -55,22 +44,16 @@ Below Expectations
   * Developer names variables using camelCase.
   * Developer names classes and constructor functions using CapitalizedCamelCased.
 
-Above Expectations
-
 **Meets Expectations - conventions are consistent across code
-
-Below Expectations
 
 ## Rubric
 
 ### 1. Completion:
   * At a minimum, developer completes challenges 1-3.
 
-Above Expectations
+**Above Expectations**
 
-Meets Expectations
-
-Below Expectations
+Nice job!
 
 ### 2. Code quality
   * Developer breaks functions out into separate responsibilities for:
@@ -81,22 +64,25 @@ Below Expectations
   * Developer uses `Array.prototype` functions over `for` loops where appropriate.
   * Developer deals with async API requests in a readable, coherent way.
 
-Above Expectations
+**Meets Expectations**
 
-Meets Expectations
+Nice job breaking out the functionality. Thanks for the heads up on the length of `countWords`. I agree with you, those curly brackets and parentheses lines are exceptional.
 
-Below Expectations
+I did see a for loop where a `forEach` would work, just something to keep in mind.
+
+This:
+https://github.com/charliecorrigan/word_watch/blob/master/src/javascript/pastedText.js#L7
+is different than `this.words`. To set an "instance" variable in a constructor,
+you need to set it as `this.words = []`.
 
 ### 3. Events and DOM manipulation
   * Developer resgisters event listeners within `document.ready`.
   * Developer targets nodes/elements cleanly using 1 or 2 css selectors.
     * && without heavy use of traversing parents and/or children.
 
-Above Expectations
+**Above Expectations**
 
-Meets Expectations
-
-Below Expectations
+Love that you broke out a `listen` function. You could even one-line it with `new PasteText().listen()`.
 
 ### 4. JS conventions
   * Developer scopes variables appropriately.
@@ -107,8 +93,11 @@ Below Expectations
   * Developer names variables using camelCase.
   * Developer names classes and constructor functions using CapitalizedCamelCased.
 
-Above Expectations
+**Meets Expectations**
 
-Meets Expectations
+While using `let` isn't wrong per se, you use it a lot where you should just use
+`const`. Always start with `const` and move to `let` if you get an error about
+variable reassignment.
 
-Below Expectations
+Reach for string interpolation here: https://github.com/charliecorrigan/word_watch/blob/master/src/javascript/topWord.js#L13
+
