@@ -2,11 +2,12 @@ Assessed By:
 
 Notes:
 
-* Not in production
-* Solid implementation
-* Advanced techniques in testing
-* Clean separation of tricky logic
-
+* Agreed upon story didn't make it to production
+* Full functionality doesn't really work in development
+* Wasn't able to see it working with two users
+* Saw it with one user but not sure if websockets are working properly
+* Contributed other substantial portions to the project (hand rolled OAuth with Facebook)
+* Code looks solid. Good use of scopes and `OR` clause.
 
 **Client Expectations**
 
@@ -19,9 +20,9 @@ Notes:
 **Test Quality**
 
 * Story is well-tested (Above 90% and the most valuable pieces of the app are covered). If you were paying for someone to build this for you, would you be satisfied with the tests that are written?
-    * **4: Better than expected**
+    * 4: Better than expected
     * 3: As expected
-    * 2: Below expectations
+    * **2: Below expectations**
     * 1: Well below expectations
 
 **Code Quality**
