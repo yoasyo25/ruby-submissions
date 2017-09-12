@@ -2,20 +2,24 @@ Assessed By:
 
 Notes:
 
+* Didn't make it to production
+* Works in development
+
+
 
 **Client Expectations**
 
 * Student delivered user story agreed upon with client.
   * 4: Better than expected
   * 3: As expected
-  * 2: Below expectations
+  * **2: Below expectations**
   * 1: Well below expectations
 
 **Test Quality**
 
 * Story is well-tested (Above 90% and the most valuable pieces of the app are covered). If you were paying for someone to build this for you, would you be satisfied with the tests that are written?
     * 4: Better than expected
-    * 3: As expected
+    * **3: As expected**
     * 2: Below expectations
     * 1: Well below expectations
 
@@ -23,7 +27,7 @@ Notes:
 
 * Project demonstrates well-factored code and a solid grasp of MVC principles.
     * 4: Better than expected
-    * 3: As expected
+    * **3: As expected**
     * 2: Below expectations
     * 1: Well below expectations
 
@@ -31,9 +35,9 @@ Notes:
 
 We want to recognize and reward risk-taking and exploration. Sometimes other areas might suffer if the risk doesn't pan out. Earn a bonus point to offset a score above.
 
-* Did the team push themselves by taking risks?
+* Did the student push themselves by taking risks?
     * 1: Yes
-    * 0: No
+    * **0: No**
 
 **Student Evaluation**
 
@@ -56,4 +60,3 @@ Each group member will evaluate each member of the group anonymously based on th
   * 3: Yes, I think I would enjoy working with them.
   * 2: I would prefer not to.
   * 1: I would actively avoid working with them again.
-
