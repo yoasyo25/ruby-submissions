@@ -31,13 +31,10 @@ Each group member will evaluate each member of the group anonymously based on th
 
 * Communication (3.75)
   * 4: Group member did all the things mentioned in the bullet point below, but also was a catalyst for communication with the whole group.
-  * 3: Group member communicated clearly when they would and wouldn't be available well ahead of time. It was clear what they were working on and what the status was.
 
 * Group member contributed code (quantity and quality)... (3.75)
   * 4: above expectations.
-  * 3: as expected.
 
 * I would like to work with this group member professionally. (3.75)
   * 4: Absolutely. I will likely seek them out in the future with the hopes of working with them again.
-  * 3: Yes, I think I would enjoy working with them.
 

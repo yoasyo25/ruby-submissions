@@ -43,7 +43,6 @@ We want to recognize and reward risk-taking and exploration. Sometimes other are
 Each group member will evaluate each member of the group anonymously based on the criteria below. Students will receive the average score combined from all group members. 3 and above is considered passing.
 
 * Communication (3.33)
-  * 4: Group member did all the things mentioned in the bullet point below, but also was a catalyst for communication with the whole group.
   * 3: Group member communicated clearly when they would and wouldn't be available well ahead of time. It was clear what they were working on and what the status was.
 
 * Group member contributed code (quantity and quality)... (2.00)
@@ -51,5 +50,4 @@ Each group member will evaluate each member of the group anonymously based on th
 
 * I would like to work with this group member professionally. (2.67)
   * 3: Yes, I think I would enjoy working with them.
-  * 2: I would prefer not to.
 
