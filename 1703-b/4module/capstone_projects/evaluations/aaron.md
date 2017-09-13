@@ -21,7 +21,7 @@ _Please choose the score you think you've earned in each category below. Please 
 
 ### 2. Completion & Pace
 
-*   4: Developer delivers stories committed to before starting the sprint
+*   4: Developer delivers the stories they committed to before starting the sprint
 *   3: Developer plans stories ahead of sprint and makes some scope adjustments along the way
 *   2: Developer implements very little of the planned sprint
 *   1: Developer does not plan or complete sprint
