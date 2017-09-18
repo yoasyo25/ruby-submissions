@@ -1,27 +1,27 @@
 ### Project Template
 
-### [Project Title]
+### Machine Learning / Computer Vision
 
 ### Pitch
 
-1 sentence that explains the value proposition of the application. How would you explain it to a potential business partner, team member, or investor?
+The main goal is to implement supervised learning machine learning techniques involving computer vision, specifically enabling a computer to recognize color via a camera and/or an array of sensors.
 
 ### Problem
 
-1-3 sentences describing the problem that you are trying to solve.
+Machines need sight to open up innumerable capabilities that will help people create more efficient and intelligent systems. This project should demonstrate a machine's ability to recognize inputs based on light, using standard machine learning algorithms such as gradient descent.
 
 ### Solution
 
-1-3 sentences describing how your application will solve that problem.
+Using classification algorithms the project will show how machines can "see" color, as well as determine the greatest intensity of light in a given field of vision.
 
 ### Target Audience
 
-1-3 sentences describing what type of user your app would be applicable to.
+The project will be useful to those interested in leveraging a machine's ability to find the maximum intensity of light, such as solar companies.
 
 ### New Techniques
 
-Which new techniques are you hoping to implement?
+The project will use Python, Jupyter Notebook, TensorFlow, as well as supporting libraries including matplotlib and numpy.
 
 ### Workflow
 
-What project management tool will you be using to manage your progress?
+Pivotal Tracker.

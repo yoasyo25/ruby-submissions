@@ -1,27 +1,27 @@
 ### Project Template
 
-### [Project Title]
+### [Time Slot]
 
 ### Pitch
 
-1 sentence that explains the value proposition of the application. How would you explain it to a potential business partner, team member, or investor?
+Time Slot is a smart scheduler ideally for a freelancer or production calendar to schedule new jobs wherever there is time in their calendar.
 
 ### Problem
 
-1-3 sentences describing the problem that you are trying to solve.
+The problem is that in project management there are tools to assign tasks, but there aren't applications to book time for custom jobs. 
 
 ### Solution
 
-1-3 sentences describing how your application will solve that problem.
+Time Slot automatically finds free time in the production calendar and schedules jobs/bids. This creates a more seamless operations between project manager and shop for the macro aspect of a job and should be used in conjunction with a project management software for assigning tasks - the more micro aspects of a job.
 
 ### Target Audience
 
-1-3 sentences describing what type of user your app would be applicable to.
+Target audience are freelancers and project managers that bid on custom jobs i.e. in dev shops or in manufacturing.
 
 ### New Techniques
 
-Which new techniques are you hoping to implement?
+MEAN stack, drag and drop/resizing to edit calendar, one page application, google oauth, jwt
 
 ### Workflow
 
-What project management tool will you be using to manage your progress?
+Waffle

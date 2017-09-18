@@ -1,11 +1,12 @@
 # Word Watch Submission
 
-Developer: Chris
-Evaluated by:
+Developer: Chris  
+
+Evaluated by: Schutte
 
 ## Repo
 
-* 
+* [https://github.com/iamchrissmith/word_watch](https://github.com/iamchrissmith/word_watch)
 
 ## Self Assessment Rubric
 
@@ -14,11 +15,7 @@ Evaluated by:
 ### 1. Completion:
   * At a minimum, developer completes challenges 1-3.
 
-Above Expectations
-
-Meets Expectations
-
-Below Expectations
+**Above Expectations
 
 ### 2. Code quality
   * Developer breaks functions out into separate responsibilities for:
@@ -29,22 +26,14 @@ Below Expectations
   * Developer uses `Array.prototype` functions over `for` loops where appropriate.
   * Developer deals with async API requests in a readable, coherent way.
 
-Above Expectations
-
-Meets Expectations
-
-Below Expectations
+**Above Expectations
 
 ### 3. Events and DOM manipulation
   * Developer resgisters event listeners within `document.ready`.
   * Developer targets nodes/elements cleanly using 1 or 2 css selectors.
     * && without heavy use of traversing parents and/or children.
 
-Above Expectations
-
-Meets Expectations
-
-Below Expectations
+**Above Expectations
 
 ### 4. JS conventions
   * Developer scopes variables appropriately.
@@ -55,22 +44,18 @@ Below Expectations
   * Developer names variables using camelCase.
   * Developer names classes and constructor functions using CapitalizedCamelCased.
 
-Above Expectations
-
-Meets Expectations
-
-Below Expectations
+**Above Expectations
 
 ## Rubric
+
+No explanations for your self assessment!
 
 ### 1. Completion:
   * At a minimum, developer completes challenges 1-3.
 
-Above Expectations
+**Above Expectations**
 
-Meets Expectations
-
-Below Expectations
+Nice work!
 
 ### 2. Code quality
   * Developer breaks functions out into separate responsibilities for:
@@ -81,22 +66,19 @@ Below Expectations
   * Developer uses `Array.prototype` functions over `for` loops where appropriate.
   * Developer deals with async API requests in a readable, coherent way.
 
-Above Expectations
+**Meets Expectations**
 
-Meets Expectations
-
-Below Expectations
+Since you already break out a lot of implementation details into your WordWatch
+class, your `index.js` logic seems inconsistent in showing pretty specific
+details to `$(document).ready`, e.g., simulating a click for enter keys and
+appending stuff to the DOM.
 
 ### 3. Events and DOM manipulation
   * Developer resgisters event listeners within `document.ready`.
   * Developer targets nodes/elements cleanly using 1 or 2 css selectors.
     * && without heavy use of traversing parents and/or children.
 
-Above Expectations
-
-Meets Expectations
-
-Below Expectations
+**Meets Expectations**
 
 ### 4. JS conventions
   * Developer scopes variables appropriately.
@@ -107,8 +89,9 @@ Below Expectations
   * Developer names variables using camelCase.
   * Developer names classes and constructor functions using CapitalizedCamelCased.
 
-Above Expectations
+**Meets Expectations**
 
-Meets Expectations
+Nice job!
 
-Below Expectations
+The two `WordWatch` class naming is a bit confusing.
+
