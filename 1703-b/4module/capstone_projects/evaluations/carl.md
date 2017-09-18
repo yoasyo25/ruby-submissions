@@ -60,30 +60,38 @@ Instructor Assessment Rubric
 
 ### 1. Project Planning & Management
 
-*   4: Developer has a highly detailed iteration map, sophisticated organization in their tracker tool, and exceptional Git workflow
+*   **4: Developer has a highly detailed iteration map, sophisticated organization in their tracker tool, and exceptional Git workflow**
+
+Hit deadlines and delivered what was planned.
 
 ### 2. Completion & Pace
 
-*   4: Developer delivers stories committed to before starting the sprint
+*   **4: Developer delivers stories committed to before starting the sprint**
+
+* Planned well and finished what was intended.
 
 ### 3. Implementation Quality
 
-*   4: Project demonstrates exceptionally well tested (where applicable) and maintainable code
+*   **4: Project demonstrates exceptionally well tested (where applicable) and maintainable code**
       * for topics outside of BE curriculum, developer can speak to best practices applied
+
+* Lots of tests on the back-end, followed documentation on React style.
 
 ### 4. Application of Techniques
 
-*   4: Developer builds project in a new language(s) or framework(s)
+*   **4: Developer builds project in a new language(s) or framework(s)**
 
 * React front-end, statistical methods.
 
 ### 5. Documentation
 
-*   4: Developer also adds a screencast, tutorial or other wow factor
+*   **4: Developer also adds a screencast, tutorial or other wow factor**
+
+* Table of contents, GIFs, links, tons of detail.
 
 ### 6. Accessibility
 
-*   2: Developer considers accessibility issues but has not yet produced code to address them
+*   **2: Developer considers accessibility issues but has not yet produced code to address them**
 
 Charting library chosen for screen reader props.
 A little bit hard to read.

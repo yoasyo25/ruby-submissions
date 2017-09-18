@@ -81,30 +81,37 @@ Instructor Assessment Rubric
 
 *   2: Developer has a mental vision for the project iterations, shows some use of a tracker tool, and uses Git effectively
 
+* Somewhat organized for what got done, but definitely room for improvement in
+  specifying deliverables.
+
 ### 2. Completion & Pace
 
-*   2: Developer implements very little of the planned sprint
+*   **2: Developer implements very little of the planned sprint**
+
+Never got around to the CRUD app, but got a lot done.
 
 Got quite a bit done overall. Went through about 20 hours on Chef (learnchef
 website).
 
 ### 3. Implementation Quality
 
-*   3: Project exhibits tested (where applicable), maintainable, and well-organized code. Developer can speak to architecture and implementation decisions
+*   **3: Project exhibits tested (where applicable), maintainable, and well-organized code. Developer can speak to architecture and implementation decisions**
+
+Solid verbal walk-through of the app, spoke to areas for improvement.
 
 ### 4. Application of Techniques
 
-*   4: Developer builds project in a new language(s) or framework(s)
+*   **4: Developer builds project in a new language(s) or framework(s)**
+
+Chef server management framework.
 
 ### 5. Documentation
 
-*   2: Developer provides barebones documentation showing how to get the dev environment up and running
+*   **2: Developer provides barebones documentation showing how to get the dev environment up and running**
 
 ### 6. Accessibility
 
-N/A
+**N/A**
 
-*   4: Developer expertly implements features to follow accessibility best practices
-*   3: Developer implements code to increase accessibility
-*   2: Developer considers accessibility issues but has not yet produced code to address them
-*   1: Developer does not consider accessibility issues
+All server/devops.
+
