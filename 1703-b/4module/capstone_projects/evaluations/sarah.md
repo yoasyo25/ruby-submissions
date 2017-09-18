@@ -2,8 +2,8 @@
 
 **Add links to relevant code bases or production sites here:**
 
-*
-*
+*Github repo https://github.com/sarahdactyl71/gneiss-rocks
+*Production Site https://gneiss-rocks.herokuapp.com/
 
 ---------------
 
@@ -19,12 +19,16 @@ _Please choose the score you think you've earned in each category below. Please 
 *   2: Developer has a mental vision for the project iterations, shows some use of a tracker tool, and uses Git effectively
 *   1: Developer shows little evidence of project planning and management
 
+3: I used waffle to manage the tasks that I wanted to do and add tasks or chores that I wanted to complete as I saw fit. I commited regularly, and make descriptive commit messages. 
+
 ### 2. Completion & Pace
 
 *   4: Developer delivers the stories they committed to before starting the sprint
 *   3: Developer plans stories ahead of sprint and makes some scope adjustments along the way
 *   2: Developer implements very little of the planned sprint
 *   1: Developer does not plan or complete sprint
+
+2: I didn't do anything with my frontend. 
 
 ### 3. Implementation Quality
 
@@ -34,12 +38,16 @@ _Please choose the score you think you've earned in each category below. Please 
 *   2: Project demonstrates some gaps in code quality and/or developers cannot defend their decisions
 *   1: Project demonstrates poor factoring and/or understanding of general programming principles such as MVC and OOP
 
+3: Everything in my backend was well tested. I installed simple cov and have coverage over 98 percent. I was able to make changes relatively easy within my exisiting infractructure. 
+
 ### 4. Application of Techniques
 
 *   4: Developer builds project in a new language(s) or framework(s)
 *   3: Developer implements four new techniques or patterns
 *   2: Developer implements 3 or less major techniques that have not been previously attempted
 *   1: Developer does not implement new techniques
+
+2: Since I did not get to the front end portion I only used Google Cloud SDK, GS bucket, and Google Vision API. 
 
 ### 5. Documentation
 
@@ -48,6 +56,7 @@ _Please choose the score you think you've earned in each category below. Please 
 *   2: Developer provides barebones documentation showing how to get the dev environment up and running
 *   1: Developer provides insufficient documentation
 
+2: I did not refactor my read me. 
 ### 6. Accessibility
 
 *   4: Developer expertly implements features to follow accessibility best practices
@@ -55,6 +64,7 @@ _Please choose the score you think you've earned in each category below. Please 
 *   2: Developer considers accessibility issues but has not yet produced code to address them
 *   1: Developer does not consider accessibility issues
 
+2: Again, ran out of time. 
 ---------------
 
 
