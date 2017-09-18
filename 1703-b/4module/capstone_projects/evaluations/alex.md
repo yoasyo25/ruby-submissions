@@ -77,6 +77,8 @@ Instructor Assessment Rubric
 
 ### Notes:
 
+* Updates for graduation: documentation, CRUD app MVP, accessibility.
+
 ### 1. Project Planning & Management
 
 *   2: Developer has a mental vision for the project iterations, shows some use of a tracker tool, and uses Git effectively

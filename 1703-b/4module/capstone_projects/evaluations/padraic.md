@@ -57,6 +57,8 @@ Instructor Assessment Rubric
 * Building a machine learning solution. Learned that is a time intensive and
   in high demand.
 
+* Updates for graduation: Accessibility boost, documentation boost
+
 ### 1. Project Planning & Management
 
 *   **2: Developer has a mental vision for the project iterations, shows some use of a tracker tool, and uses Git effectively**
