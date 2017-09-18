@@ -2,8 +2,8 @@
 
 **Add links to relevant code bases or production sites here:**
 
-*
-*
+*[CryptoTracker](https://github.com/rwilhel/crypto)
+*[CryptoGame](https://github.com/rwilhel/cryptogame)
 
 ---------------
 
@@ -30,30 +30,38 @@ _Please choose the score you think you've earned in each category below. Please 
 
 *   4: Project demonstrates exceptionally well tested (where applicable) and maintainable code
       * for topics outside of BE curriculum, developer can speak to best practices applied
-*   3: Project exhibits tested (where applicable), maintainable, and well-organized code. Developer can speak to architecture and implementation decisions
+***   3: Project exhibits tested (where applicable), maintainable, and well-organized code. Developer can speak to architecture and implementation decisions
 *   2: Project demonstrates some gaps in code quality and/or developers cannot defend their decisions
 *   1: Project demonstrates poor factoring and/or understanding of general programming principles such as MVC and OOP
 
+While my code wasn't tested via code, I made sure to write maintainable, well-organized code and I can easily defend my archistecture and implementation decisions.
+
 ### 4. Application of Techniques
 
-*   4: Developer builds project in a new language(s) or framework(s)
+***   4: Developer builds project in a new language(s) or framework(s)
 *   3: Developer implements four new techniques or patterns
 *   2: Developer implements 3 or less major techniques that have not been previously attempted
 *   1: Developer does not implement new techniques
 
+Every aspect of my project was built in new languages and frameworks: Vue.js, SpriteKit & Swift.
+
 ### 5. Documentation
 
 *   4: Developer also adds a screencast, tutorial or other wow factor
-*   3: Developer provides easy to navigate documentation showing how to setup and contribute to the application
+***   3: Developer provides easy to navigate documentation showing how to setup and contribute to the application
 *   2: Developer provides barebones documentation showing how to get the dev environment up and running
 *   1: Developer provides insufficient documentation
+
+While the documentation for my game could be much more robust, the documentation for the cryptocurrency tracking application is very clear and explanatory.
 
 ### 6. Accessibility
 
 *   4: Developer expertly implements features to follow accessibility best practices
-*   3: Developer implements code to increase accessibility
+***   3: Developer implements code to increase accessibility
 *   2: Developer considers accessibility issues but has not yet produced code to address them
 *   1: Developer does not consider accessibility issues
+
+I implemented color schemes for those with color vision disabilities.
 
 ---------------
 
