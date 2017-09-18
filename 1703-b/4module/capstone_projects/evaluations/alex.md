@@ -2,7 +2,7 @@
 
 **Add links to relevant code bases or production sites here:**
 
-*
+* https://github.com/alex-w-k/speed-date-chef
 *
 
 ---------------
@@ -19,12 +19,16 @@ _Please choose the score you think you've earned in each category below. Please 
 *   2: Developer has a mental vision for the project iterations, shows some use of a tracker tool, and uses Git effectively
 *   1: Developer shows little evidence of project planning and management
 
+2. Definitely not planned out as well as it could have been. But made use of a tracker tool and used github to the best of the project.
+
 ### 2. Completion & Pace
 
 *   4: Developer delivers the stories they committed to before starting the sprint
 *   3: Developer plans stories ahead of sprint and makes some scope adjustments along the way
 *   2: Developer implements very little of the planned sprint
 *   1: Developer does not plan or complete sprint
+
+3. I implemented the chef recipe to setup a server for a rails app. I completed what I wanted to get out of this project.
 
 ### 3. Implementation Quality
 
@@ -34,12 +38,16 @@ _Please choose the score you think you've earned in each category below. Please 
 *   2: Project demonstrates some gaps in code quality and/or developers cannot defend their decisions
 *   1: Project demonstrates poor factoring and/or understanding of general programming principles such as MVC and OOP
 
+3. Well tested cookbooks are the only way to go. I have 100% coverage.
+
 ### 4. Application of Techniques
 
 *   4: Developer builds project in a new language(s) or framework(s)
 *   3: Developer implements four new techniques or patterns
 *   2: Developer implements 3 or less major techniques that have not been previously attempted
 *   1: Developer does not implement new techniques
+
+4. Used new framework Chef.
 
 ### 5. Documentation
 
@@ -48,12 +56,16 @@ _Please choose the score you think you've earned in each category below. Please 
 *   2: Developer provides barebones documentation showing how to get the dev environment up and running
 *   1: Developer provides insufficient documentation
 
+2. Barebones documentation. Could have been better, but still not sure what bet practices are for Chef repos
+
 ### 6. Accessibility
 
 *   4: Developer expertly implements features to follow accessibility best practices
 *   3: Developer implements code to increase accessibility
 *   2: Developer considers accessibility issues but has not yet produced code to address them
 *   1: Developer does not consider accessibility issues
+
+N/A
 
 ---------------
 
