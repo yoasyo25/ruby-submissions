@@ -18,7 +18,7 @@
 
 ## Ben Jacobs
 
-* Link to Blog Post:
+* Link to Blog Post: [Ben's Blog Post](https://gist.github.com/Benjaminpjacobs/7219791b71e60eba7de8ac6bb7bc87fa)
 
 ## Ben Ross
 
