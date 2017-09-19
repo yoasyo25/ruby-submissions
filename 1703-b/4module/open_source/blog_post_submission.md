@@ -34,7 +34,7 @@
 
 ## Chris Smith
 
-* Link to Blog Post:
+* Link to Blog Post: https://iamchrissmith.io/blog/open-source/2017/09/19/contributing-to-oos/
 
 ## Squee Mueller 
 
