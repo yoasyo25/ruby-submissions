@@ -6,7 +6,7 @@
 
 ## Adam Gunther
 
-* Link to Blog Post:
+* https://gist.github.com/adamgunther1/150fd1356a427e32e823e03843040de7
 
 ## Alexander Koch
 
