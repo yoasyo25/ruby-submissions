@@ -46,7 +46,7 @@
 
 ## Padraic ONeill
 
-* Link to Blog Post:
+* Link to Blog Post: https://gist.github.com/podoglyph/62862426a0633176e0d00fee44d5a798
 
 ## Rhonda Wilhelmson
 
