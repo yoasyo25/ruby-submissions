@@ -26,7 +26,7 @@
 
 ## Carl Richmond
 
-* Link to Blog Post:
+[link](https://gist.github.com/ACC25/bcf6b72c7317b61a2070a9c978d3f97a)
 
 ## Charlie Corrigan
 
