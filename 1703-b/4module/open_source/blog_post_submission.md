@@ -2,7 +2,7 @@
 
 ## Aaron Olsen
 
-* Link to Blog Post:
+* Link to Blog Post: [Blog Post](https://gist.github.com/MrAaronOlsen/d78eacfda06edb69148b066bc5e8d975)
 
 ## Adam Gunther
 
