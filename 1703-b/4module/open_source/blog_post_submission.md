@@ -38,7 +38,7 @@
 
 ## Squee Mueller 
 
-* Link to Blog Post:
+* Link to Blog Post: https://medium.com/@squeemishly/open-source-contributions-ef49062ab0c9
 
 ## Natalia Colome
 
