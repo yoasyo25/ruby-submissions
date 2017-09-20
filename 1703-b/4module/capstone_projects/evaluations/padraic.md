@@ -2,7 +2,7 @@
 
 **Add links to relevant code bases or production sites here:**
 
-* [github](https://github.com/podoglyph/bikeshare_flask)
+* [BikeShare Bay Area](https://github.com/podoglyph/bikeshare_bay_area)
 * No production site.
 
 ---------------
