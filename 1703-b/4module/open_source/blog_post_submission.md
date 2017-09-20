@@ -14,7 +14,7 @@
 
 ## Bao Nguyen
 
-* Link to Blog Post:
+* Link to Blog Post: [Blog Post](https://gist.github.com/rongxanh88/8b0e2b0f2637b9193452ac8805bb007c)
 
 ## Ben Jacobs
 
