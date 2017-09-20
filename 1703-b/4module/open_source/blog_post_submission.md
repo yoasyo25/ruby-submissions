@@ -42,7 +42,7 @@
 
 ## Natalia Colome
 
-* Link to Blog Post:
+* Link to Blog Post: (My blog post)[https://medium.com/@nmcolome/my-first-successful-attempt-at-open-source-ing-10ed5516f3d9]
 
 ## Padraic ONeill
 
