@@ -58,6 +58,7 @@ Instructor Assessment Rubric
   in high demand.
 
 * Updates for graduation: Accessibility boost, documentation boost
+  * UPDATE: Completed
 
 ### 1. Project Planning & Management
 
@@ -84,13 +85,13 @@ MVC patterns where applicable. Well organized.
 
 ### 5. Documentation
 
-*   **2: Developer provides barebones documentation showing how to get the dev environment up and running**
+*   **3: Developer provides easy to navigate documentation showing how to setup and contribute to the application**
 
 * decent start with a template, more specificity needed.
 
 ### 6. Accessibility
 
-*   **2: Developer considers accessibility issues but has not yet produced code to address them**
+*   **3: Developer implements code to increase accessibility**
 
 Simple UI for readability.
 
