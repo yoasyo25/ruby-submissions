@@ -10,7 +10,7 @@
 
 ## Alexander Koch
 
-* Link to Blog Post:
+* Link to Blog Post: https://gist.github.com/alex-w-k/7d0ed8d69827d5d926d1f8ddc6075ae9
 
 ## Bao Nguyen
 
