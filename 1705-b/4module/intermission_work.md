@@ -1,10 +1,5 @@
 # Intermission Work Submissions
 
-## Brandon Randall
-
-* Reflection Gist:
-* Sorting Suite Repo: 
-
 ## Bret Funk
 
 * Reflection Gist:
@@ -20,22 +15,12 @@
 * Reflection Gist:
 * Sorting Suite Repo: 
 
-## Desislava Todorova
-
-* Reflection Gist:
-* Sorting Suite Repo: 
-
 ## Ellen Cooper 
 
 * Reflection Gist:
 * Sorting Suite Repo: 
 
 ## Jean-Francois Lalonde
-
-* Reflection Gist:
-* Sorting Suite Repo: 
-
-## Jim Szalewski
 
 * Reflection Gist:
 * Sorting Suite Repo: 
