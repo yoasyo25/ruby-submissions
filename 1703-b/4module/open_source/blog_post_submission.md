@@ -22,7 +22,7 @@
 
 ## Ben Ross
 
-* Link to Blog Post:
+* Link to Blog Post: https://gist.github.com/Benja-Ross/d8db53a5beea0cba44d9ce28506c7c65
 
 ## Carl Richmond
 
