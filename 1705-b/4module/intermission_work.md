@@ -3,74 +3,74 @@
 ## Bret Funk
 
 * Reflection Gist:
-* Sorting Suite Repo: 
+* Sorting Suite Repo:
 
 ## Chantal Justamond
 
 * Reflection Gist:
-* Sorting Suite Repo: 
+* Sorting Suite Repo:
 
 ## Daniel Vogelsang
 
 * Reflection Gist:
-* Sorting Suite Repo: 
+* Sorting Suite Repo:
 
 ## Desislava Todorova
 
 * Reflection Gist:
-* Sorting Suite Repo: 
+* Sorting Suite Repo:
 
-## Ellen Cooper 
+## Ellen Cooper
 
 * Reflection Gist:
-* Sorting Suite Repo: 
+* Sorting Suite Repo:
 
 ## Jean-Francois Lalonde
 
 * Reflection Gist:
-* Sorting Suite Repo: 
+* Sorting Suite Repo:
 
 ## Jimmy Truong
 
-* Reflection Gist: 
-* Sorting Suite Repo: 
+* Reflection Gist:
+* Sorting Suite Repo:
 
 ## Katie Keel
 
-* Reflection Gist: 
-* Sorting Suite Repo: 
+* Reflection Gist:
+* Sorting Suite Repo:
 
 ## Mark Van Akkeren
 
 * Reflection Gist:
-* Sorting Suite Repo: 
+* Sorting Suite Repo:
 
 ## Matt DeVoe
 
 * Reflection Gist:
-* Sorting Suite Repo: 
+* Sorting Suite Repo:
 
 ## Michael Centrelli
 
 * Reflection Gist:
-* Sorting Suite Repo: 
+* Sorting Suite Repo:
 
 ## Michael Sagapolutele
 
-* Reflection Gist:
-* Sorting Suite Repo: 
+* Reflection Gist: https://gist.github.com/MikelSage/a6d13c3b3658f3d443efc7a1e6e5d71b
+* Sorting Suite Repo: https://github.com/MikelSage/sorting-suite
 
 ## Wil Donovan
 
 * Reflection Gist:
-* Sorting Suite Repo: 
+* Sorting Suite Repo:
 
 ## Will Ratterman
 
 * Reflection Gist:
-* Sorting Suite Repo: 
+* Sorting Suite Repo:
 
 ## Yohanan Assefa
 
 * Reflection Gist:
-* Sorting Suite Repo: 
+* Sorting Suite Repo:
