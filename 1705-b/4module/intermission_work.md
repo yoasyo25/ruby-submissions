@@ -45,6 +45,11 @@
 * Reflection Gist:
 * Sorting Suite Repo: 
 
+## Mason Holland
+
+* [Reflection Gist](https://gist.github.com/MasonHolland/f0c079aefcede441755cd7570ed3a8de)
+* [Sorting Suite Repo](https://github.com/MasonHolland/sorting-suite)
+
 ## Matt DeVoe
 
 * Reflection Gist:
