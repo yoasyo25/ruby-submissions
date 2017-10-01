@@ -7,8 +7,8 @@
 
 ## Chantal Justamond
 
-* Reflection Gist:
-* Sorting Suite Repo: 
+* Reflection Gist: https://gist.github.com/chantal66/7a6cbc13aa35ff6305fb6044d479aafe
+* Sorting Suite Repo: https://github.com/chantal66/sorting_suite_js
 
 ## Daniel Vogelsang
 
