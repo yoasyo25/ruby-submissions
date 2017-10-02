@@ -37,8 +37,9 @@
 
 ## Katie Keel
 
-* Reflection Gist: 
-* Sorting Suite Repo: 
+* Reflection Gist: https://gist.github.com/katiekeel/eb6f2044a5888acb933881a5082c75fd
+* Sorting Suite Repo: https://github.com/katiekeel/mod-4-prework
+** note: Although I did write a function I believe should work and tried to test it, I couldn't get mocha to run due to exporting struggles.
 
 ## Mark Van Akkeren
 
