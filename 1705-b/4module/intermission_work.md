@@ -73,8 +73,8 @@
 
 ## Will Ratterman
 
-* Reflection Gist:
-* Sorting Suite Repo:
+* Reflection Gist: https://gist.github.com/wratterman/41b95701a27c0f1e333810897d446340
+* Sorting Suite Repo: https://github.com/wratterman/sorting-suite
 
 ## Yohanan Assefa
 
