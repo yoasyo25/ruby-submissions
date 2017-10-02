@@ -27,8 +27,8 @@
 
 ## Jean-Francois Lalonde
 
-* Reflection Gist:
-* Sorting Suite Repo:
+* Reflection Gist: https://gist.github.com/JF-Lalonde/55031c3e91b7bb37dcf4db5c282990c7
+* Sorting Suite Repo: https://github.com/JF-Lalonde/node-sorting-suite
 
 ## Jimmy Truong
 
