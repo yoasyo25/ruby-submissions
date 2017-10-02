@@ -32,8 +32,8 @@
 
 ## Jimmy Truong
 
-* Reflection Gist: 
-* Sorting Suite Repo: 
+* Reflection Gist: https://gist.github.com/jtruong2/7ed66a5f02f928210673090fe77f67a1
+* Sorting Suite Repo: https://github.com/jtruong2/sorting-suite-js
 
 ## Katie Keel
 
