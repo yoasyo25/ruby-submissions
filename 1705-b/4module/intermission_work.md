@@ -53,8 +53,8 @@
 
 ## Matt DeVoe
 
-* Reflection Gist:
-* Sorting Suite Repo:
+* Reflection Gist: https://gist.github.com/mdevoe12/0c47ea887fe9a71d1bb17149f7da8b09
+* Sorting Suite Repo: https://github.com/mdevoe12/node_sandbox/tree/master
 
 ## Michael Centrelli
 
