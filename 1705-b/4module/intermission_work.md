@@ -2,8 +2,8 @@
 
 ## Bret Funk
 
-* Reflection Gist:
-* Sorting Suite Repo: 
+* Reflection Gist: https://gist.github.com/bretfunk/47f381ece7e618526fe4880841e6486e
+* Sorting Suite Repo: https://github.com/bretfunk/sorting_suite
 
 ## Chantal Justamond
 
