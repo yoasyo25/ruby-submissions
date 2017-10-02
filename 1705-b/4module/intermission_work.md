@@ -78,5 +78,5 @@
 
 ## Yohanan Assefa
 
-* Reflection Gist:
-* Sorting Suite Repo:
+* Reflection Gist: [https://gist.github.com/yoasyo25/221af126ab816b791e6bcd2d3f567439]
+* Sorting Suite Repo: [https://github.com/yoasyo25/sortingsuite]
