@@ -13,14 +13,14 @@
 ## Daniel Vogelsang
 
 * Reflection Gist:
-* Sorting Suite Repo: 
+* Sorting Suite Repo:
 
 ## Desislava Todorova
 
 * Reflection Gist: https://gist.github.com/DesTodo/c6b60fb2d413e391208cc2d83a9a67bc
 * Sorting Suite Repo: https://github.com/DesTodo/sorting-suite-js
 
-## Ellen Cooper 
+## Ellen Cooper
 
 * Reflection Gist: https://gist.github.com/emcooper/7c7daabbd5ce33d4ca84d19646e679a0
 * Sorting Suite Repo: https://github.com/emcooper/js-sorting-suite
@@ -28,7 +28,7 @@
 ## Jean-Francois Lalonde
 
 * Reflection Gist:
-* Sorting Suite Repo: 
+* Sorting Suite Repo:
 
 ## Jimmy Truong
 
@@ -44,7 +44,7 @@
 ## Mark Van Akkeren
 
 * Reflection Gist:
-* Sorting Suite Repo: 
+* Sorting Suite Repo:
 
 ## Mason Holland
 
@@ -54,17 +54,17 @@
 ## Matt DeVoe
 
 * Reflection Gist:
-* Sorting Suite Repo: 
+* Sorting Suite Repo:
 
 ## Michael Centrelli
 
 * Reflection Gist:
-* Sorting Suite Repo: 
+* Sorting Suite Repo:
 
 ## Michael Sagapolutele
 
-* Reflection Gist:
-* Sorting Suite Repo: 
+* Reflection Gist: https://gist.github.com/MikelSage/a6d13c3b3658f3d443efc7a1e6e5d71b
+* Sorting Suite Repo: https://github.com/MikelSage/sorting-suite
 
 ## Wil Donovan
 
@@ -74,9 +74,9 @@
 ## Will Ratterman
 
 * Reflection Gist:
-* Sorting Suite Repo: 
+* Sorting Suite Repo:
 
 ## Yohanan Assefa
 
 * Reflection Gist:
-* Sorting Suite Repo: 
+* Sorting Suite Repo:
