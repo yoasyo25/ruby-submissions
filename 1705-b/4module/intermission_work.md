@@ -62,8 +62,8 @@
 
 ## Wil Donovan
 
-* Reflection Gist:
-* Sorting Suite Repo: 
+* Reflection Gist:[https://gist.github.com/swdonovan/d977065dbb4d107d4ddc547fa2b2c4ee]
+* Sorting Suite Repo:[https://github.com/swdonovan/javascript_sorting_suite]
 
 ## Will Ratterman
 
