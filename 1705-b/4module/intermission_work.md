@@ -17,8 +17,8 @@
 
 ## Desislava Todorova
 
-* Reflection Gist:
-* Sorting Suite Repo: 
+* Reflection Gist: https://gist.github.com/DesTodo/c6b60fb2d413e391208cc2d83a9a67bc
+* Sorting Suite Repo: https://github.com/DesTodo/sorting-suite-js
 
 ## Ellen Cooper 
 
