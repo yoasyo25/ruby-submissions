@@ -22,8 +22,8 @@
 
 ## Ellen Cooper 
 
-* Reflection Gist:
-* Sorting Suite Repo: 
+* Reflection Gist: https://gist.github.com/emcooper/7c7daabbd5ce33d4ca84d19646e679a0
+* Sorting Suite Repo: https://github.com/emcooper/js-sorting-suite
 
 ## Jean-Francois Lalonde
 
