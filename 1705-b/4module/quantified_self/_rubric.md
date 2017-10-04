@@ -20,9 +20,9 @@ Application implements **all** functionality as defined, but some bugs or strang
 - Meets Expectations
 - Below Expectations
 
-### Testing
+### Documentation
 
-Front-end uses unit tests wherever logic can be separated from interface and network requests.
+Developer provides easy to navigate documentation showing how to setup and contribute to the application.
 
 - Above Expectations
 - Meets Expectations
@@ -31,6 +31,14 @@ Front-end uses unit tests wherever logic can be separated from interface and net
 ### HTML/UI
 
 The team put some effort into styling, and the application is not confusing to use. HTML classes and IDs are kebab case.
+
+- Above Expectations
+- Meets Expectations
+- Below Expectations
+
+### Accessibility
+
+Developer implements code to increase accessibility.
 
 - Above Expectations
 - Meets Expectations
@@ -54,7 +62,7 @@ The team uses master for production, uses feature branches for small groups of c
 
 ### Project Management
 
-The team is using a project management tool to keep their project organized and to track progress. 
+The team is using a project management tool to keep their project organized and to track progress. Team is documenting conclusions and timelines on relevant cards.
 
 - Above Expectations
 - Meets Expectations
@@ -84,9 +92,9 @@ Application implements **all** functionality as defined, but some bugs or strang
 - Meets Expectations
 - Below Expectations
 
-### Testing
+### Documentation
 
-Front-end uses unit tests wherever logic can be separated from interface and network requests.
+Developer provides easy to navigate documentation showing how to setup and contribute to the application.
 
 - Above Expectations
 - Meets Expectations
@@ -95,6 +103,14 @@ Front-end uses unit tests wherever logic can be separated from interface and net
 ### HTML/UI
 
 The team put some effort into styling, and the application is not confusing to use. HTML classes and IDs are kebab case.
+
+- Above Expectations
+- Meets Expectations
+- Below Expectations
+
+### Accessibility
+
+Developer implements code to increase accessibility.
 
 - Above Expectations
 - Meets Expectations
@@ -118,7 +134,7 @@ The team uses master for production, uses feature branches for small groups of c
 
 ### Project Management
 
-The team is using a project management tool to keep their project organized and to track progress. 
+The team is using a project management tool to keep their project organized and to track progress. Team is documenting conclusions and timelines on relevant cards.
 
 - Above Expectations
 - Meets Expectations
