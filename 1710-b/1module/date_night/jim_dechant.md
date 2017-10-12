@@ -1,6 +1,8 @@
-**Instructor:** 
-**Repo URL:** 
-**Notes:** 
+**Instructor:**
+Ali  
+**Repo URL:**   
+https://github.com/Ecksi/date_night  
+**Notes:**
 
 ## Evaluation Rubric
 
@@ -8,7 +10,7 @@ The project will be assessed with the following guidelines:
 
 ### 1. Ruby Syntax & Style
 
-Expectations: 
+Expectations:
 
 - [ ] Applies appropriate attribute encapsulation  
 
@@ -29,13 +31,13 @@ Expectations:
 
 ### 2. Breaking Logic into Components
 
-Expectations: 
+Expectations:
 
-- [ ] Code is effectively broken into methods & classes 
+- [ ] Code is effectively broken into methods & classes
 
-- [ ] Developer writes methods less than 10 lines 
+- [ ] Developer writes methods less than 10 lines
 
-- [ ] No more than 3 methods break the principle of SRP 
+- [ ] No more than 3 methods break the principle of SRP
 
 * 4: Above expectations
 * 3: Meets expectations
@@ -44,7 +46,7 @@ Expectations:
 
 ### 3. Test-Driven Development
 
-Expectations: 
+Expectations:
 
 - [ ] Each method is tested  
 
@@ -57,7 +59,7 @@ Expectations:
 
 ### 4. Functionality
 
-Expectations: 
+Expectations:
 
 - [ ] Application meets all requirements (extension not req'd)
 
