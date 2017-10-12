@@ -2,7 +2,7 @@
 
 ## Aaron Olsen
 
-* Link to Blog Post:
+* Link to Blog Post: [Blog Post](https://gist.github.com/MrAaronOlsen/d78eacfda06edb69148b066bc5e8d975)
 
 ## Adam Gunther
 
@@ -10,7 +10,7 @@
 
 ## Alexander Koch
 
-* Link to Blog Post:
+* Link to Blog Post: https://gist.github.com/alex-w-k/7d0ed8d69827d5d926d1f8ddc6075ae9
 
 ## Bao Nguyen
 
@@ -22,7 +22,7 @@
 
 ## Ben Ross
 
-* Link to Blog Post:
+* Link to Blog Post: https://gist.github.com/Benja-Ross/d8db53a5beea0cba44d9ce28506c7c65
 
 ## Carl Richmond
 
