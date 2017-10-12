@@ -28,4 +28,4 @@ Notes:
 
 ### 7. Workflow
 
-* 3: Good use of branches, pull requests, and a project-management tool.
+* 4: Excellent use of branches, pull requests, and a project management tool.
