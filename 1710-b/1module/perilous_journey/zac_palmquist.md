@@ -1,6 +1,6 @@
-**Instructor:** 
-**Repo URL:** 
-**Notes:** 
+**Instructor:** Mike
+**Repo URL:** https://github.com/freshouttheovenprogrammes/perilous_journey
+**Notes:**
 
 ## Evaluation Rubric
 
@@ -8,9 +8,9 @@ The project will be assessed with the following guidelines:
 
 ### 1. Ruby Syntax & Style
 
-Expectations: 
+Expectations:
 
-- [ ] Applies appropriate attribute encapsulation  
+- [ ] Applies appropriate attribute encapsulation
 
 - [ ] Developer creates instance and local variables appropriately
 
@@ -20,7 +20,7 @@ Expectations:
 
 - [ ] Code is indented properly
 
-- [ ] Code does not exceed 80 characters per line  
+- [ ] Code does not exceed 80 characters per line
 
 * 4: Above expectations
 * 3: Meets expectations
@@ -29,13 +29,13 @@ Expectations:
 
 ### 2. Breaking Logic into Components
 
-Expectations: 
+Expectations:
 
-- [ ] Code is effectively broken into methods & classes 
+- [ ] Code is effectively broken into methods & classes
 
-- [ ] Developer writes methods less than 10 lines 
+- [ ] Developer writes methods less than 10 lines
 
-- [ ] No more than 3 methods break the principle of SRP 
+- [ ] No more than 3 methods break the principle of SRP
 
 * 4: Above expectations
 * 3: Meets expectations
@@ -44,11 +44,11 @@ Expectations:
 
 ### 3. Test-Driven Development
 
-Expectations: 
+Expectations:
 
-- [ ] Each method is tested  
+- [ ] Each method is tested
 
-- [ ] Tests implement Ruby syntax & style   
+- [ ] Tests implement Ruby syntax & style
 
 * 4: Above expectations
 * 3: Meets expectations
@@ -57,11 +57,8 @@ Expectations:
 
 ### 4. Functionality
 
-Expectations: 
+Expectations:
 
 - [ ] Application meets all requirements (extension not req'd)
 
-* 4: Above expectations
-* 3: Meets expectations
-* 2: Below expectations
 * 1: Well-below expectations

@@ -1,6 +1,10 @@
-**Instructor:** 
-**Repo URL:** 
-**Notes:** 
+**Instructor:** Mike
+**Repo URL:** https://github.com/katyjane8/perilous_journey
+**Notes:**
+* 51 tests, all passing
+* a lot of tests arent testing what they should be
+* Some redundancy intests
+* count method does not work
 
 ## Evaluation Rubric
 
@@ -8,60 +12,48 @@ The project will be assessed with the following guidelines:
 
 ### 1. Ruby Syntax & Style
 
-Expectations: 
+Expectations:
 
-- [ ] Applies appropriate attribute encapsulation  
+- [ ] Applies appropriate attribute encapsulation
 
 - [ ] Developer creates instance and local variables appropriately
 
-- [ ] Naming follows convention (is idiomatic)
+- [x] Naming follows convention (is idiomatic)
 
-- [ ] Ruby methods used are logical and readable
+- [x] Ruby methods used are logical and readable
 
-- [ ] Code is indented properly
+- [x] Code is indented properly
 
-- [ ] Code does not exceed 80 characters per line  
+- [x] Code does not exceed 80 characters per line
 
-* 4: Above expectations
 * 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
 
 ### 2. Breaking Logic into Components
 
-Expectations: 
+Expectations:
 
-- [ ] Code is effectively broken into methods & classes 
+- [x] Code is effectively broken into methods & classes
 
-- [ ] Developer writes methods less than 10 lines 
+- [x] Developer writes methods less than 10 lines
 
-- [ ] No more than 3 methods break the principle of SRP 
+- [x] No more than 3 methods break the principle of SRP
 
-* 4: Above expectations
 * 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
 
 ### 3. Test-Driven Development
 
-Expectations: 
+Expectations:
 
-- [ ] Each method is tested  
+- [ ] Each method is tested
 
-- [ ] Tests implement Ruby syntax & style   
+- [ ] Tests implement Ruby syntax & style
 
-* 4: Above expectations
-* 3: Meets expectations
 * 2: Below expectations
-* 1: Well-below expectations
 
 ### 4. Functionality
 
-Expectations: 
+Expectations:
 
 - [ ] Application meets all requirements (extension not req'd)
 
-* 4: Above expectations
 * 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
