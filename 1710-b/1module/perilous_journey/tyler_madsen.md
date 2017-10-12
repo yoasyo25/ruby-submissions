@@ -1,6 +1,11 @@
-**Instructor:** 
-**Repo URL:** 
+**Instructor:** Victoria 
+**Repo URL:** https://github.com/tylermarshal/a-perilous-journey
 **Notes:** 
+
+* Way to push for extensions!
+* Critically think about what logic belongs where (hunting & supplies in WagonTrain)
+* Work on breaking logic out to improve SRP (any if/else statements, loops, variable assignment, etc.) & to improve workflow (break out tests)
+* Be sure to read the spec carefully & produce proper return values
 
 ## Evaluation Rubric
 
@@ -10,58 +15,46 @@ The project will be assessed with the following guidelines:
 
 Expectations: 
 
-- [ ] Applies appropriate attribute encapsulation  
+- [x] Applies appropriate attribute encapsulation  
 
-- [ ] Developer creates instance and local variables appropriately
+- [x] Developer creates instance and local variables appropriately
 
-- [ ] Naming follows convention (is idiomatic)
+- [x] Naming follows convention (is idiomatic)
 
-- [ ] Ruby methods used are logical and readable
+- [x] Ruby methods used are logical and readable
 
-- [ ] Code is indented properly
+- [x] Code is indented properly
 
-- [ ] Code does not exceed 80 characters per line  
+- [x] Code does not exceed 80 characters per line  
 
-* 4: Above expectations
 * 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
 
 ### 2. Breaking Logic into Components
 
 Expectations: 
 
-- [ ] Code is effectively broken into methods & classes 
+- [x] Code is effectively broken into methods & classes 
 
 - [ ] Developer writes methods less than 10 lines 
 
 - [ ] No more than 3 methods break the principle of SRP 
 
-* 4: Above expectations
-* 3: Meets expectations
 * 2: Below expectations
-* 1: Well-below expectations
 
 ### 3. Test-Driven Development
 
 Expectations: 
 
-- [ ] Each method is tested  
+- [x] Each method is tested  
 
-- [ ] Tests implement Ruby syntax & style   
+- [x] Tests implement Ruby syntax & style   
 
-* 4: Above expectations
 * 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
 
 ### 4. Functionality
 
 Expectations: 
 
-- [ ] Application meets all requirements (extension not req'd)
+- [x] Application meets all requirements (extension not req'd)
 
 * 4: Above expectations
-* 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
