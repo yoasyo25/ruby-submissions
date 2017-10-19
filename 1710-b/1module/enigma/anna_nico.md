@@ -1,6 +1,11 @@
-**Instructor:**
-**Repo URL:**
+**Instructor:** Victoria
+**Repo URL:** https://github.com/AnnaMontoya/enigma_final
 **Notes:**
+
+* Great Ruby style & syntax!
+* Make sure to read spec carefully & include classes that are instantiated & focus on using instance variables & attrs (also name things according to spec)
+* Focus especially on TDD (more expansive tests & additional testing; also refrain from puts outcomes in your tests)
+* Push yourselves to refactor (SRP means the method is solely responsible for the action it's completing)
 
 
 ## Evaluation Rubric
@@ -9,31 +14,26 @@
 
 Expectations: 
 
-- [ ] Applies appropriate attribute encapsulation  
-- [ ] Developer creates instance and local variables appropriately
-- [ ] Naming follows convention (is idiomatic)
-- [ ] Ruby methods used are logical and readable  
-- [ ] Developer implements appropriate enumerable methods (#each is used sparingly)
-- [ ] Code is indented properly
-- [ ] Code does not exceed 80 characters per line  
+- [x] Applies appropriate attribute encapsulation  
+- [x] Developer creates instance and local variables appropriately
+- [x] Naming follows convention (is idiomatic)
+- [x] Ruby methods used are logical and readable  
+- [x] Developer implements appropriate enumerable methods (#each is used sparingly)
+- [x] Code is indented properly
+- [x] Code does not exceed 80 characters per line  
 
-* 4: Above expectations
 * 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
 
 ### 2. Breaking Logic into Components
 
 Expectations: 
 
-- [ ] Code is effectively broken into methods & classes 
-- [ ] Developer writes methods less than 8 lines 
+- [x] Code is effectively broken into methods & classes 
+- [x] Developer writes methods less than 8 lines 
 - [ ] No more than 3 methods break the principle of SRP 
 
-* 4: Above expectations
-* 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
+* 2: Below expectations (high 2)
+
 
 ### 3. Test-Driven Development
 
@@ -46,10 +46,7 @@ Expectations:
 - [ ] Evidence of edge cases testing 
 - [ ] Test Coverage metrics are present (SimpleCov)
 
-* 4: Above expectations
-* 3: Meets expectations
 * 2: Below expectations
-* 1: Well-below expectations
 
 ### 4. Functionality
 
@@ -57,7 +54,4 @@ Expectations:
 
 - [ ] Application meets all requirements (extension not req'd)
 
-* 4: Above expectations
-* 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
+* 2: Below expectations (didn't complete crack & didn't create Enigma class)
