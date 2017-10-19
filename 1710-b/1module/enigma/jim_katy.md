@@ -1,63 +1,59 @@
-**Instructor:**
-**Repo URL:**
+**Instructor:** Mike
+**Repo URL:** https://github.com/katyjane8/enigma
 **Notes:**
-
+* Encrypt finished and working
+* Could use a bit more specificity in tests
+* Be careful to name your tests to specify exactly what they are looking for
+* Some major opportunities to refactor within code, look to avoid the pattern
+of using loops to create a collection, use .map instead
+* When nesting things that loop, pull out inner functionality to other methods
+* A number of methods were too long and did too much
+* Used a module! (Good)
+*
 
 ## Evaluation Rubric
 
 ### 1. Ruby Syntax & Style
 
-Expectations: 
+Expectations:
 
-- [ ] Applies appropriate attribute encapsulation  
+- [ ] Applies appropriate attribute encapsulation
 - [ ] Developer creates instance and local variables appropriately
-- [ ] Naming follows convention (is idiomatic)
-- [ ] Ruby methods used are logical and readable  
+- [x] Naming follows convention (is idiomatic)
+- [x] Ruby methods used are logical and readable
 - [ ] Developer implements appropriate enumerable methods (#each is used sparingly)
-- [ ] Code is indented properly
-- [ ] Code does not exceed 80 characters per line  
+- [x] Code is indented properly
+- [x] Code does not exceed 80 characters per line
 
-* 4: Above expectations
-* 3: Meets expectations
 * 2: Below expectations
-* 1: Well-below expectations
 
 ### 2. Breaking Logic into Components
 
-Expectations: 
+Expectations:
 
-- [ ] Code is effectively broken into methods & classes 
-- [ ] Developer writes methods less than 8 lines 
-- [ ] No more than 3 methods break the principle of SRP 
+- [x] Code is effectively broken into methods & classes
+- [ ] Developer writes methods less than 8 lines
+- [ ] No more than 3 methods break the principle of SRP
 
-* 4: Above expectations
-* 3: Meets expectations
 * 2: Below expectations
-* 1: Well-below expectations
 
 ### 3. Test-Driven Development
 
-Expectations: 
+Expectations:
 
-- [ ] Each method is tested  
+- [ ] Each method is tested
 - [ ] Functionality is accurately covered
-- [ ] Tests implement Ruby syntax & style   
-- [ ] Balances unit and integration tests 
-- [ ] Evidence of edge cases testing 
+- [x] Tests implement Ruby syntax & style
+- [ ] Balances unit and integration tests
+- [ ] Evidence of edge cases testing
 - [ ] Test Coverage metrics are present (SimpleCov)
 
-* 4: Above expectations
-* 3: Meets expectations
 * 2: Below expectations
-* 1: Well-below expectations
 
 ### 4. Functionality
 
-Expectations: 
+Expectations:
 
 - [ ] Application meets all requirements (extension not req'd)
 
-* 4: Above expectations
-* 3: Meets expectations
-* 2: Below expectations
 * 1: Well-below expectations

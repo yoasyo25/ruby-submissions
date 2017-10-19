@@ -1,63 +1,52 @@
-**Instructor:**
-**Repo URL:**
+**Instructor:** Mike
+**Repo URL:** https://github.com/tylermarshal/enigma
 **Notes:**
-
+* Well tested, would love to have seen more edge case testing
+* Make sure code doesnt go longer than 80 characters wide
 
 ## Evaluation Rubric
 
 ### 1. Ruby Syntax & Style
 
-Expectations: 
+Expectations:
 
-- [ ] Applies appropriate attribute encapsulation  
+- [ ] Applies appropriate attribute encapsulation
 - [ ] Developer creates instance and local variables appropriately
-- [ ] Naming follows convention (is idiomatic)
-- [ ] Ruby methods used are logical and readable  
+- [x] Naming follows convention (is idiomatic)
+- [x] Ruby methods used are logical and readable
 - [ ] Developer implements appropriate enumerable methods (#each is used sparingly)
 - [ ] Code is indented properly
-- [ ] Code does not exceed 80 characters per line  
+- [ ] Code does not exceed 80 characters per line
 
-* 4: Above expectations
 * 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
 
 ### 2. Breaking Logic into Components
 
-Expectations: 
+Expectations:
 
-- [ ] Code is effectively broken into methods & classes 
-- [ ] Developer writes methods less than 8 lines 
-- [ ] No more than 3 methods break the principle of SRP 
+- [x] Code is effectively broken into methods & classes
+- [x] Developer writes methods less than 8 lines
+- [ ] No more than 3 methods break the principle of SRP
 
-* 4: Above expectations
 * 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
 
 ### 3. Test-Driven Development
 
-Expectations: 
+Expectations:
 
-- [ ] Each method is tested  
-- [ ] Functionality is accurately covered
-- [ ] Tests implement Ruby syntax & style   
-- [ ] Balances unit and integration tests 
-- [ ] Evidence of edge cases testing 
-- [ ] Test Coverage metrics are present (SimpleCov)
+- [ ] Each method is tested
+- [x] Functionality is accurately covered
+- [x] Tests implement Ruby syntax & style
+- [x] Balances unit and integration tests
+- [ ] Evidence of edge cases testing
+- [x] Test Coverage metrics are present (SimpleCov)
 
-* 4: Above expectations
 * 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
 
 ### 4. Functionality
 
-Expectations: 
+Expectations:
 
-- [ ] Application meets all requirements (extension not req'd)
+- [x] Application meets all requirements (extension not req'd)
 
-* 4: Above expectations
 * 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
