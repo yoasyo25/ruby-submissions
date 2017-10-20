@@ -1,23 +1,22 @@
-Assessed By:  
+Assessed By:
 Ali  
 
-Repo:  
-https://github.com/jtruong2/black_thursday  
+Repo:
 
-Notes:  
-Through Iter 3  
-Testing:  
+Notes:
+Through Iter 3
+Testing:
 109 tests & assertions  
-80% coverage   
-Used based data, some fixtures for more isolated functionality i.e. merchant  
-Testing off MerchantRepo for the Merchant test  
+80% coverage
+Used based data, some fixtures for more isolated functionality i.e. merchant
+Testing off MerchantRepo for the Merchant test
 Ruby Style:  
-Variable names do not illustrate what they are holding (i.e. a, x)  
-Talked about how to break long method chains into methods on related classes  
-find, find_all, map, each  
-Convert row to hash, then hash to Merchant info  
-Many methods that use multiple enumerables  
-Reaching through multiple classes to run methods   
+Variable names do not illustrate what they are holding (i.e. a, x)
+Talked about how to break long method chains into methods on related classes
+find, find_all, map, each
+Convert row to hash, then hash to Merchant info
+Many methods that use multiple enumerables
+Reaching through multiple classes to run methods  
 
 
 ### 1. Fundamental Ruby & Style
