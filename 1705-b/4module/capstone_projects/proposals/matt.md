@@ -1,5 +1,3 @@
-### Project Template
-
 ### Correlation Station
 
 ### Pitch
