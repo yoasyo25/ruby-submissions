@@ -1,27 +1,26 @@
-### Project Template
 
-### [Project Title]
+### Correlation Station
 
 ### Pitch
 
-1 sentence that explains the value proposition of the application. How would you explain it to a potential business partner, team member, or investor?
+Correlation Station (CS) will allow a user to see correlations among collected Fitbit data. For example, how does sleep affect heart rate, or activity level.
 
 ### Problem
 
-1-3 sentences describing the problem that you are trying to solve.
+Currently, Fitbit can collect a TON of data about your health. This includes, heart rate, weight, body fat, BMI, activity level, workouts, distance traveled, REM Sleep, Deep Sleep and other data points. What's interesting is that Fitbit does not correlate any of this data. This is a huge gap for potential functionality.
 
 ### Solution
 
-1-3 sentences describing how your application will solve that problem.
+CS will use the Fitbit API to pull data into a normalized, relational database. Data Analysis will be run to present the correlating data in easy-to-digest formats (charts, graphs, warning trends).
 
 ### Target Audience
 
-1-3 sentences describing what type of user your app would be applicable to.
+Fitbit users and those who participate in the quantified self movement. CS will be for data and fitness nerds who want to see what's going on and answer the "why?" question.
 
 ### New Techniques
 
-Which new techniques are you hoping to implement?
+Python and Django for the back end using data analysis libraries. Javascript for front end presentation/UI.
 
 ### Workflow
 
-What project management tool will you be using to manage your progress?
+Pivotal Tracker.
