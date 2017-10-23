@@ -12,8 +12,8 @@
 
 ## Daniel Vogelsang
 
-* Reflection Gist:
-* Sorting Suite Repo:
+* Reflection Gist: https://gist.github.com/thedanielvogelsang/322cdeae52a122f42f795bb371a1bbd5
+* Sorting Suite Repo: https://github.com/thedanielvogelsang/node_js_prework
 
 ## Desislava Todorova
 
@@ -73,10 +73,10 @@
 
 ## Will Ratterman
 
-* Reflection Gist:
-* Sorting Suite Repo:
+* Reflection Gist: https://gist.github.com/wratterman/41b95701a27c0f1e333810897d446340
+* Sorting Suite Repo: https://github.com/wratterman/sorting-suite
 
 ## Yohanan Assefa
 
-* Reflection Gist:
-* Sorting Suite Repo:
+* Reflection Gist: [https://gist.github.com/yoasyo25/221af126ab816b791e6bcd2d3f567439]
+* Sorting Suite Repo: [https://github.com/yoasyo25/sortingsuite]
