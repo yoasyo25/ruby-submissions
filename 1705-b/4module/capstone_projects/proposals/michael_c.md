@@ -4,24 +4,24 @@
 
 ### Pitch
 
-1 sentence that explains the value proposition of the application. How would you explain it to a potential business partner, team member, or investor?
+A application that provides you a list of bars, restaurants that meet your specific parameters such as distance to travel, and money willing to spend. 
 
 ### Problem
 
-1-3 sentences describing the problem that you are trying to solve.
+You have a certain amount of money. And a certain distance you wish to travel. But where should you go out? This application solves that issue. Get a list back of every bar and restaurant. 
 
 ### Solution
 
-1-3 sentences describing how your application will solve that problem.
+The application will consume the google maps api which provides grographical data and the ability to produce directions. It also has restaurant data. 
 
 ### Target Audience
 
-1-3 sentences describing what type of user your app would be applicable to.
+My app would be geared towards anyone who likes to go out. 
 
 ### New Techniques
 
-Which new techniques are you hoping to implement?
+I am hoping to do a one page application in React with no refreshing.
 
 ### Workflow
 
-What project management tool will you be using to manage your progress?
+Waffle.io always. 
