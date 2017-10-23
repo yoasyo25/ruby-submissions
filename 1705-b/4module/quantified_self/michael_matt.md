@@ -1,3 +1,4 @@
+
 Hi Casey,
 
 As you know, we were involved in a separate project as a follow-up to the Hackathon. We attempted to get as much done as possible. Michael and I lost literally five full days on this project due to splitting time.
@@ -32,6 +33,7 @@ Application implements **all** functionality as defined, but some bugs or strang
 - Meets Expectations
 - Below Expectations
 
+
 -Self: We feel this largely meets expectations. All features are implemented except sorting by calories.
 
 ### Documentation
@@ -41,6 +43,7 @@ Developer provides easy to navigate documentation showing how to setup and contr
 - Above Expectations
 - Meets Expectations
 - Below Expectations
+
 
 -Self: Below expectations - ReadMe documentation written for Front End but not Back End
 
@@ -52,6 +55,7 @@ The team put some effort into styling, and the application is not confusing to u
 - Meets Expectations
 - Below Expectations
 
+
 -Self: Meets Expectations - The page isn't "actively hostile". Buttons are styled. IDs are kabob case.
 
 ### Accessibility
@@ -62,6 +66,7 @@ Developer implements code to increase accessibility.
 - Meets Expectations
 - Below Expectations
 
+
 -Self: Below Expectations - Did not actively try to incorporate accessibility.
 
 ### JS syntax and Style
@@ -71,6 +76,7 @@ JavaScript code is logically divided into files. Developers can show examples of
 - Above Expectations
 - Meets Expectations
 - Below Expectations
+
 
 -Self: Front End: Meets Expectations - Shared code sits in a shared file. Code is broken into only a few separate files. Classes and DRY code used. ES6 syntax consistently used.
 
@@ -84,6 +90,7 @@ The team uses master for production, uses feature branches for small groups of c
 - Meets Expectations
 - Below Expectations
 
+
 -Self: Meets Expectations - We did fall behind on tagging Casey. However we consistently used Master for production deployment, Development as active working branch with feature branches from Development.
 
 ### Project Management
@@ -93,6 +100,7 @@ The team is using a project management tool to keep their project organized and 
 - Above Expectations
 - Meets Expectations
 - Below Expectations
+
 
 -Self: Meets Expectations - Used Pivotal Tracker Consistently during Front End phase.
 
@@ -104,15 +112,17 @@ The team consistently reaches out to their Technical Lead for feedback on code q
 - Meets Expectations
 - Below Expectations
 
+
 -Self: Below Expectations - Fell behind on tagging Casey in PRs.
 
 -----------
 
 ## Instructor Rubric
 
-### Evaluated By:
+### Evaluated By: 
 
-### Notes:
+### Notes: 
+
 
 ### Specification Adherence
 
