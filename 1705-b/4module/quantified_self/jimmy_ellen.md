@@ -18,7 +18,7 @@ Application implements **all** functionality as defined, but some bugs or strang
 
 - Meets Expectations
 
-The deployed version has some strange behavior, however, tested individually, all of our frontend and all but one of our endpoints is functional.
+All functionality is implemented except the 3 user stories that Casey allowed us to drop.
 
 
 ### Documentation
@@ -27,7 +27,7 @@ Developer provides easy to navigate documentation showing how to setup and contr
 
 - Meets Expectations
 
-We provided details on both the front and backend repos, with the frontend mostly using the original documentation with was very thorough.
+We provided details on both the front and backend repos.
 
 
 ### HTML/UI
@@ -62,7 +62,7 @@ We tried to be consistent with ES6 but there may be some exceptions. The backend
 
 The team uses master for production, uses feature branches for small groups of cards, and has a pull request for each feature with good context and conversation. Developers that aren't on the team have commented on PRs.
 
-- Above Expectations
+- Meets Expectations
 
 We tagged our Product Owner in most of our big PRs and had good conversations. We used branches, submitted PRs, used our pivotal tracker efficiently. 
 
@@ -79,7 +79,7 @@ We were diligent in keeping up with our pivotal tracker and updating cards. We d
 
 The team consistently reaches out to their Technical Lead for feedback on code quality and technical issues. The team responds to their Technical Lead in a timely manner.
 
-- Above Expectations
+- Meets Expectations
 
 We reached out to Casey via github all through the process.
 
