@@ -1,19 +1,7 @@
 
-Hi Casey,
-
-As you know, we were involved in a separate project as a follow-up to the Hackathon. We attempted to get as much done as possible. Michael and I lost literally five full days on this project due to splitting time.
-
-Sorry we weren't in more communication. Our hair has been on fire for the last three weeks and we've been in full burn mode.
-
-Thanks for all your help on this.
-
-Michael and Matt
-
 # Michael S & Matt
 
 Frontend Production: https://mdevoe12.github.io/quantified-self
-
--Note: current API used is for localhost:3000. Our Backend production is on Heroku, but server crashes when attempting API Calls
 
 Frontend Github: https://github.com/mdevoe12/quantified-self
 
@@ -34,7 +22,7 @@ Application implements **all** functionality as defined, but some bugs or strang
 - Below Expectations
 
 
--Self: We feel this largely meets expectations. All features are implemented except sorting by calories.
+-Self: We feel this largely meets expectations. All features are implemented, still some bugs(documented in issues on front end repo).
 
 ### Documentation
 
@@ -45,7 +33,7 @@ Developer provides easy to navigate documentation showing how to setup and contr
 - Below Expectations
 
 
--Self: Below expectations - ReadMe documentation written for Front End but not Back End
+-Self: Meets expectations - ReadMe documentation written for both FE and BE
 
 ### HTML/UI
 
@@ -56,7 +44,7 @@ The team put some effort into styling, and the application is not confusing to u
 - Below Expectations
 
 
--Self: Meets Expectations - The page isn't "actively hostile". Buttons are styled. IDs are kabob case.
+-Self: Meets Expectations - The page isn't "actively hostile". Buttons and tables are styled. IDs are kabob case.
 
 ### Accessibility
 
@@ -80,7 +68,7 @@ JavaScript code is logically divided into files. Developers can show examples of
 
 -Self: Front End: Meets Expectations - Shared code sits in a shared file. Code is broken into only a few separate files. Classes and DRY code used. ES6 syntax consistently used.
 
--Self: Back End: Below Expectations - All code sitting in server.js
+-Self: Back End: Below Expectations - All code sitting in server.js, attempt made at refactoring into MVC model
 
 ### Git Workflow
 
