@@ -1,7 +1,7 @@
 # Katie & Daniel
 
 
-Frontend Production: https://quantified-self-keel-vogelsang.herokuapp.com/
+Frontend Production: https://katiekeel.github.io/quantified-self/
 
 Frontend Github: https://github.com/katiekeel/quantified-self
 
@@ -18,19 +18,15 @@ Please self assess with the rubric below. Provide additional information to expl
 
 Application implements **all** functionality as defined, but some bugs or strange behavior where features intersect.
 
-
 - Meets Expectations
-
-unable to deploy to production successfully... all functionality on local host
-
 
 ### Documentation
 
 Developer provides easy to navigate documentation showing how to setup and contribute to the application.
 
-- Above Expectations
 - Meets Expectations
-- Below Expectations
+
+README has implemented these requirements.
 
 ### HTML/UI
 
@@ -58,7 +54,6 @@ The team uses master for production, uses feature branches for small groups of c
 
 Very nice job of communicating through github comments and we stayed on sub-branches always when developing new features.
 
-
 ### Project Management
 
 The team is using a project management tool to keep their project organized and to track progress. Team is documenting conclusions and timelines on relevant cards.
@@ -72,7 +67,6 @@ Waffle, github, and slack
 The team consistently reaches out to their Technical Lead for feedback on code quality and technical issues. The team responds to their Technical Lead in a timely manner.
 
 - Above Expectations
-
 
 Great communicators and consistently willing to work to find middle ground.
 
