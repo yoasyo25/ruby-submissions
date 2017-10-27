@@ -1,10 +1,10 @@
 # Yohanan & Michael C
 
-Frontend Production: 
+Frontend Production:
 
-Frontend Github: 
+Frontend Github:
 
-Backend Production: 
+Backend Production:
 
 Backend Github: https://github.com/yoasyo25/quantified-self
 
@@ -65,7 +65,7 @@ The team is using a project management tool to keep their project organized and 
 
 - Below Expectations
 
-Didn't use a manager just myself. 
+Didn't use a manager just myself.
 
 ### Communication
 
@@ -79,9 +79,9 @@ The team consistently reaches out to their Technical Lead for feedback on code q
 
 ## Instructor Rubric
 
-### Evaluated By: 
+### Evaluated By:
 
-### Notes: 
+### Notes:
 
 ### Specification Adherence
 
