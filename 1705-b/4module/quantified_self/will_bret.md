@@ -5,7 +5,7 @@ Frontend Production: https://bretfunk.github.io/quantified-self/
 
 Frontend Github: https://github.com/bretfunk/quantified-self
 
-Backend Production: https://arcane-depths-57821.herokuapp.com/ <--rails backend https://node-api-backend.herokuapp.com/ <--node backend (missing some functionality for meals due to seeding issues)
+Backend Production: https://node-api-backend.herokuapp.com/ 
 
 Backend Github: https://github.com/bretfunk/quantified-self-api-node
 
