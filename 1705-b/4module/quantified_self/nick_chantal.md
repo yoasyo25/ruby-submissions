@@ -96,7 +96,7 @@ feedback for code quality.
 
 ## Instructor Rubric
 
-### Evaluated By:
+### Evaluated By: Lauren
 
 ### Notes:
 
