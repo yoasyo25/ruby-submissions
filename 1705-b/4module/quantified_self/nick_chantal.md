@@ -1,12 +1,13 @@
 # Nick & Chantal
 
-[Frontend Production](http://chantal66.github.io/quantified-self-starter-kit/) 
+[Frontend Production](https://d2irwba0vlxvu5.cloudfront.net)
+This is our Frontend application which is communicating with our Node/Express backend. There are bugs in the Diary page which we have not yet been able to fix (for example, the page needs to be refreshed to display a new meal-food relationship, and none of the meal-food relationships will be displayed when all of the foods are deleted from a meal). However, when connected to the Rails backend, our Frontend application meets all expectations and is in production [here](https://d10383zd199nnr.cloudfront.net)
 
 [Frontend Github](https://github.com/chantal66/quantified-self-starter-kit)
 
-[Backend Production](https://guarded-wildwood-13010.herokuapp.com/)
+[Backend Production](https://hidden-wave-14799.herokuapp.com)
 
-[Backend Github](https://github.com/chantal66/Quantified-Self-API-JS) 
+[Backend Github](https://github.com/chantal66/Quantified-Self-API-JS)
 
 ## Self Assessment Rubric
 
@@ -27,30 +28,30 @@ Note: No bugs
 Developer provides easy to navigate documentation showing how to setup and contribute to the application.
 
 - Above Expectations
-- **Meets Expectations** 
+- **Meets Expectations**
 - Below Expectations
 
-Note: Readme files added, so users can clone down an use our apps. 
+Note: Readme files added, so users can clone down an use our apps.
 
 ### HTML/UI
 
 The team put some effort into styling, and the application is not confusing to use. HTML classes and IDs are kebab case.
 
-- **Above Expectations** 
+- **Above Expectations**
 - Meets Expectations
 - Below Expectations
 
-Note: We think it look pretty amazing. 
+Note: We think it look pretty amazing.
 
 ### Accessibility
 
 Developer implements code to increase accessibility.
 
 - Above Expectations
-- **Meets Expectations** 
+- **Meets Expectations**
 - Below Expectations
 
-Note: We added keyboard accessibility, so people with disability can navigate our app.  
+Note: We added keyboard accessibility, so people with disability can navigate our app.
 
 ### JS syntax and Style
 
@@ -70,7 +71,7 @@ The team uses master for production, uses feature branches for small groups of c
 - **Meets Expectations**
 - Below Expectations
 
-Note: We had conversions and comments in both sides of our app on github. 
+Note: We had conversions and comments in both sides of our app on github.
 
 ### Project Management
 
@@ -91,13 +92,13 @@ The team consistently reaches out to their Technical Lead for feedback on code q
 - **Below Expectations**
 
 Note: We didn't get to stuck implementing a user story so we didn't reached out, however thinking back we could've reached out for some
-feedback for code quality. 
+feedback for code quality.
 
 ## Instructor Rubric
 
-### Evaluated By: 
+### Evaluated By:
 
-### Notes: 
+### Notes:
 
 ### Specification Adherence
 
