@@ -1,27 +1,37 @@
 ### Project Template
 
-### [Project Title]
+### Title still under development...
 
 ### Pitch
 
-1 sentence that explains the value proposition of the application. How would you explain it to a potential business partner, team member, or investor?
+* We're building an application that will display your water tank level data in real-time using a custom-engineered sensor.
 
 ### Problem
 
-1-3 sentences describing the problem that you are trying to solve.
+* Many industries produce wastewater or require fresh water for their operations, and keep water in tanks onsite.
+* Currently, there isn't a great solution for automatic monitoring of water levels.
 
 ### Solution
 
-1-3 sentences describing how your application will solve that problem.
+* Our sensor transmits the level data automatically over a cell modem to an external site for you to view.
+* Ultimately, the goal is to provide analytics on your tanks' levels over time.
+* A larger goal is to develop a platform to help automate the draining and refilling of tanks. 
 
 ### Target Audience
 
-1-3 sentences describing what type of user your app would be applicable to.
+* Any industrial business or entity (i.e. water utility company) that relies on water tanks.
 
 ### New Techniques
 
 Which new techniques are you hoping to implement?
 
+* Using EventMachine and MQTT bindings to connect to Eclipse and receive data
+* Implementing background workers to collect and cache data
+* Potentially using Docker to containerize app
+* Potentially using React to display the front-end
+
 ### Workflow
 
 What project management tool will you be using to manage your progress?
+
+* Waffle

@@ -16,4 +16,7 @@ tmp
 .yardoc
 _yardoc
 doc/
+
+# misc, IDE, etc
+.idea
 .DS_Store
