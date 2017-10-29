@@ -139,7 +139,7 @@ JavaScript code is logically divided into files. Developers can show examples of
 - **Meets Expectations**
 - Below Expectations
 
-_You logically divided your code into files and extracted common functionality into functions. There's lots of room for you to further break down your code and to better follow OO concepts. I encourage you to encapsulate common functionality in classes and to utilize common design patterns (such as MVC) both in your backend and frontend code bases. There's room for improvement in your code but I think this is a good start to developing applications with JavaScript._
+_You logically divided your code into files and extracted common functionality into functions. There's lots of room for you to further break down your code and to better follow OO concepts. I encourage you to encapsulate common functionality in classes and to utilize common design patterns (such as MVC) both in your backend and frontend code bases. There's room for improvement in your code but I think this is a good start to developing applications with JavaScript. You have a few console.log's still in your code base._
 
 ### Git Workflow
 
@@ -159,7 +159,7 @@ The team is using a project management tool to keep their project organized and 
 - **Meets Expectations**
 - Below Expectations
 
-_You used the project management tool to stay organized and track progress._
+_You used the project management tool to stay organized and track progress. I would have liked to see you create cards for the backend of the application as well._
 
 ### Communication
 
