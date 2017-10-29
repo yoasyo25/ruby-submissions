@@ -119,7 +119,7 @@ Application implements **all** functionality as defined, but some bugs or strang
 - **Meets Expectations**
 - Below Expectations
 
-_There's a bug when creating new foods - I can add a food to the database without a name and with only calories. I also don't see ordering by calorie amount, which is documented as an issue, but it's still missing functionality that was not communicated prior to the project being submitted, but the functionality is mostly there._
+_There's a bug when creating new foods - I can add a food to the database without a name and with only calories. All other functionality is present._
 
 ### Documentation
 
