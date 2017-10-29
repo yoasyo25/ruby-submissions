@@ -159,7 +159,7 @@ JavaScript code is logically divided into files. Developers can show examples of
 - Meets Expectations
 - **Below Expectations**
 
-_You paid attention to indentation, naming conventions, and did your best to follow good coding practices._
+_You paid attention to indentation, naming conventions, and did your best to follow good coding practices. You're querying your database in your `server.js` file in your backend. You started to extract the code out, but it looks like you didn't get too far to make your backend code base organized. In your frontend, you're encapsulating common functionality in a Meal class, but you aren't following the same for Food or other closely related pieces of functionality. Your frontend code is significantly more organized and follows good coding practices._
 
 ### Git Workflow
 
