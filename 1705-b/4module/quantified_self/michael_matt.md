@@ -116,10 +116,10 @@ The team consistently reaches out to their Technical Lead for feedback on code q
 Application implements **all** functionality as defined, but some bugs or strange behavior where features intersect.
 
 - Above Expectations
-- Meets Expectations
-- **Below Expectations**
+- **Meets Expectations**
+- Below Expectations
 
-_I can add a food to the database without a name and with only calories. I also don't see ordering by calorie amount, which is documented as an issue, but it's still missing functionality that was not communicated prior to the project being submitted._
+_There's a bug when creating new foods - I can add a food to the database without a name and with only calories. I also don't see ordering by calorie amount, which is documented as an issue, but it's still missing functionality that was not communicated prior to the project being submitted, but the functionality is mostly there._
 
 ### Documentation
 
