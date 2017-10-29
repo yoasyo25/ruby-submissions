@@ -156,10 +156,10 @@ _You did not implement code to increase functionality._
 JavaScript code is logically divided into files. Developers can show examples of good coding practices and demonstrate OOP concepts, like DRY and separation of concerns. Developers pay attention to indentation and naming conventions. They also consistently utilize ES5 or ES6 syntax and jQuery when working with events.
 
 - Above Expectations
-- Meets Expectations
-- **Below Expectations**
+- **Meets Expectations**
+- Below Expectations
 
-_You paid attention to indentation, naming conventions, and did your best to follow good coding practices. You're querying your database in your `server.js` file in your backend. You started to extract the code out, but it looks like you didn't get too far to make your backend code base organized. In your frontend, you're encapsulating common functionality in a Meal class, but you aren't following the same for Food or other closely related pieces of functionality. Your frontend code is significantly more organized and follows good coding practices._
+_You paid attention to indentation, naming conventions, and did your best to follow good coding practices. You're querying your database in your `server.js` file in your backend and you started to extract the code out, but it looks like you didn't get too far to make your backend code base organized. In your frontend, you're encapsulating common functionality in a Meal class, but you aren't following the same pattern for Food or other closely related pieces of functionality. Your frontend code is significantly more organized and follows good coding practices. I believe there's lots of room for improvement, but you're on your way to writing clean/organized JS code._
 
 ### Git Workflow
 
