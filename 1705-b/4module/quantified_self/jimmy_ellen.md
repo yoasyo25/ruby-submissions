@@ -96,10 +96,10 @@ We reached out to Casey via github all through the process.
 Application implements **all** functionality as defined, but some bugs or strange behavior where features intersect.
 
 - Above Expectations
-- Meets Expectations
-- **Below Expectations**
+- **Meets Expectations**
+- Below Expectations
 
-_I don't see functionality for error messages when trying to create a new food item. Additionally, I can create a new food without a name, which does not follow the expectations. This is the only functionality missing (keeping in mind the stories y'all sent me)._
+_I see a bug with the error messages when trying to create a new food item. No error messages show up. Additionally, I can create a new food without a name but with calories - this should not be the case. This is the only functionality missing (keeping in mind the stories y'all sent me)._
 
 ### Documentation
 
