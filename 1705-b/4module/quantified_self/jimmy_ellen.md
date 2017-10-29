@@ -87,9 +87,9 @@ We reached out to Casey via github all through the process.
 
 ## Instructor Rubric
 
-### Evaluated By: 
+### Evaluated By: Casey
 
-### Notes: 
+### Notes: See in each section below.
 
 ### Specification Adherence
 
@@ -97,15 +97,19 @@ Application implements **all** functionality as defined, but some bugs or strang
 
 - Above Expectations
 - Meets Expectations
-- Below Expectations
+- **Below Expectations**
+
+_I don't see functionality for error messages when trying to create a new food item. Additionally, I can create a new food without a name, which does not follow the expectations. This is the only functionality missing (keeping in mind the stories y'all sent me)._
 
 ### Documentation
 
 Developer provides easy to navigate documentation showing how to setup and contribute to the application.
 
 - Above Expectations
-- Meets Expectations
+- **Meets Expectations**
 - Below Expectations
+
+_You have the bare minimum documentation necessary. Ideally, you'll document your API endpoints in your readme. Keep this in mind in the future._
 
 ### HTML/UI
 
@@ -113,44 +117,56 @@ The team put some effort into styling, and the application is not confusing to u
 
 - Above Expectations
 - Meets Expectations
-- Below Expectations
+- **Below Expectations**
+
+_Your application is not confusing to use, but I don't see any styling for the foods page. It doesn't appear that y'all put effort into the styling of this application._
 
 ### Accessibility
 
 Developer implements code to increase accessibility.
 
 - Above Expectations
-- Meets Expectations
+- **Meets Expectations**
 - Below Expectations
+
+_Great job considering accessibilty._
 
 ### JS syntax and Style
 
 JavaScript code is logically divided into files. Developers can show examples of good coding practices and demonstrate OOP concepts, like DRY and separation of concerns. Developers pay attention to indentation and naming conventions. They also consistently utilize ES5 or ES6 syntax and jQuery when working with events.
 
 - Above Expectations
-- Meets Expectations
+- **Meets Expectations**
 - Below Expectations
+
+_You logically divided your code into files and extracted common functionality into functions. There's lots of room for you to further break down your code and to better follow OO concepts. I encourage you to encapsulate common functionality in classes and to utilize common design patterns (such as MVC) both in your backend and frontend code bases. There's room for improvement in your code but I think this is a good start to developing applications with JavaScript._
 
 ### Git Workflow
 
 The team uses master for production, uses feature branches for small groups of cards, and has a pull request for each feature with good context and conversation. Developers that aren't on the team have commented on PRs.
 
 - Above Expectations
-- Meets Expectations
+- **Meets Expectations**
 - Below Expectations
+
+_You asked questions on PR's and used feature branches. I'd love to see y'all comment more on each other's PR's._
 
 ### Project Management
 
 The team is using a project management tool to keep their project organized and to track progress. Team is documenting conclusions and timelines on relevant cards.
 
 - Above Expectations
-- Meets Expectations
+- **Meets Expectations**
 - Below Expectations
+
+_You used the project management tool to stay organized and track progress._
 
 ### Communication
 
 The team consistently reaches out to their Technical Lead for feedback on code quality and technical issues. The team responds to their Technical Lead in a timely manner.
 
 - Above Expectations
-- Meets Expectations
+- **Meets Expectations**
 - Below Expectations
+
+_You asked questions via PR's and kept me updated to let me know how where you were with the project and what you thought you could get accomplished._
