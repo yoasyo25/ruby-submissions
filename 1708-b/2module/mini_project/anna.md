@@ -4,10 +4,10 @@ That's right. You are creative and I believe in you. Feel free to pitch an origi
 
 #### Must-Haves:
 
-[] Deploy to Heroku
+[x] Deploy to Heroku
 [] Authentication/Authorization
-[] One-to-many and Many-to-many relationships
-[] Styling
+[x] One-to-many and Many-to-many relationships
+[x] Styling
 
 #### Approval
 
@@ -24,11 +24,11 @@ In order to have your project approved, send a slack message to your instructors
 If you choose to do this option make sure you try to implement all the concepts we've touched over the last week. For example:
 
 [] TDD - model and feature tests
-[] CRUD
-[] 1-1 and 1-many relationships
-[] ReST-ful routes
+[x] CRUD
+[x] 1-1 and 1-many relationships
+[x] ReST-ful routes
 [] Well structured relational database design
 [] Rails helpers
-[] Sessions, flashes and maybe cookies if you have a good use case for them.
-[] Authentication
+[x] Sessions, flashes and maybe cookies if you have a good use case for them.
+[x] Authentication
 [] Authorization
