@@ -1,12 +1,13 @@
+
 # Michael S & Matt
 
-Frontend Production: 
+Frontend Production: https://mdevoe12.github.io/quantified-self
 
-Frontend Github: 
+Frontend Github: https://github.com/mdevoe12/quantified-self
 
-Backend Production: 
+Backend Production: http://morning-beach-24613.herokuapp.com/
 
-Backend Github: 
+Backend Github: https://github.com/mdevoe12/quanitified-self-express-api
 
 ## Self Assessment Rubric
 
@@ -20,6 +21,9 @@ Application implements **all** functionality as defined, but some bugs or strang
 - Meets Expectations
 - Below Expectations
 
+
+-Self: We feel this largely meets expectations. All features are implemented, still some bugs(documented in issues on front end repo).
+
 ### Documentation
 
 Developer provides easy to navigate documentation showing how to setup and contribute to the application.
@@ -27,6 +31,9 @@ Developer provides easy to navigate documentation showing how to setup and contr
 - Above Expectations
 - Meets Expectations
 - Below Expectations
+
+
+-Self: Meets expectations - ReadMe documentation written for both FE and BE
 
 ### HTML/UI
 
@@ -36,6 +43,9 @@ The team put some effort into styling, and the application is not confusing to u
 - Meets Expectations
 - Below Expectations
 
+
+-Self: Meets Expectations - The page isn't "actively hostile". Buttons and tables are styled. IDs are kabob case.
+
 ### Accessibility
 
 Developer implements code to increase accessibility.
@@ -43,6 +53,9 @@ Developer implements code to increase accessibility.
 - Above Expectations
 - Meets Expectations
 - Below Expectations
+
+
+-Self: Below Expectations - Did not actively try to incorporate accessibility.
 
 ### JS syntax and Style
 
@@ -52,6 +65,11 @@ JavaScript code is logically divided into files. Developers can show examples of
 - Meets Expectations
 - Below Expectations
 
+
+-Self: Front End: Meets Expectations - Shared code sits in a shared file. Code is broken into only a few separate files. Classes and DRY code used. ES6 syntax consistently used.
+
+-Self: Back End: Below Expectations - All code sitting in server.js, attempt made at refactoring into MVC model
+
 ### Git Workflow
 
 The team uses master for production, uses feature branches for small groups of cards, and has a pull request for each feature with good context and conversation. Developers that aren't on the team have commented on PRs.
@@ -59,6 +77,9 @@ The team uses master for production, uses feature branches for small groups of c
 - Above Expectations
 - Meets Expectations
 - Below Expectations
+
+
+-Self: Meets Expectations - We did fall behind on tagging Casey. However we consistently used Master for production deployment, Development as active working branch with feature branches from Development.
 
 ### Project Management
 
@@ -68,6 +89,9 @@ The team is using a project management tool to keep their project organized and 
 - Meets Expectations
 - Below Expectations
 
+
+-Self: Meets Expectations - Used Pivotal Tracker Consistently during Front End phase.
+
 ### Communication
 
 The team consistently reaches out to their Technical Lead for feedback on code quality and technical issues. The team responds to their Technical Lead in a timely manner.
@@ -76,37 +100,46 @@ The team consistently reaches out to their Technical Lead for feedback on code q
 - Meets Expectations
 - Below Expectations
 
+
+-Self: Below Expectations - Fell behind on tagging Casey in PRs.
+
 -----------
 
 ## Instructor Rubric
 
-### Evaluated By: 
+### Evaluated By: Casey
 
-### Notes: 
+### Notes: See notes in each section below.
 
 ### Specification Adherence
 
 Application implements **all** functionality as defined, but some bugs or strange behavior where features intersect.
 
 - Above Expectations
-- Meets Expectations
+- **Meets Expectations**
 - Below Expectations
+
+_There's a bug when creating new foods - I can add a food to the database without a name and with only calories. All other functionality is present._
 
 ### Documentation
 
 Developer provides easy to navigate documentation showing how to setup and contribute to the application.
 
 - Above Expectations
-- Meets Expectations
+- **Meets Expectations**
 - Below Expectations
+
+_You added sufficient documentation. I encourage you to format your documentation of the API endpoints in your backend application in a way that's easier to read!_
 
 ### HTML/UI
 
 The team put some effort into styling, and the application is not confusing to use. HTML classes and IDs are kebab case.
 
 - Above Expectations
-- Meets Expectations
+- **Meets Expectations**
 - Below Expectations
+
+_The application is easy to use and it's clear you put effort into styling._
 
 ### Accessibility
 
@@ -114,31 +147,39 @@ Developer implements code to increase accessibility.
 
 - Above Expectations
 - Meets Expectations
-- Below Expectations
+- **Below Expectations**
+
+_You did not implement code to increase functionality._
 
 ### JS syntax and Style
 
 JavaScript code is logically divided into files. Developers can show examples of good coding practices and demonstrate OOP concepts, like DRY and separation of concerns. Developers pay attention to indentation and naming conventions. They also consistently utilize ES5 or ES6 syntax and jQuery when working with events.
 
 - Above Expectations
-- Meets Expectations
+- **Meets Expectations**
 - Below Expectations
+
+_You paid attention to indentation, naming conventions, and did your best to follow good coding practices. You're querying your database in your `server.js` file in your backend and you started to extract the code out, but it looks like you didn't get too far to make your backend code base organized. In your frontend, you're encapsulating common functionality in a Meal class, but you aren't following the same pattern for Food or other closely related pieces of functionality. Your frontend code is significantly more organized and follows good coding practices. I believe there's lots of room for improvement, but you're on your way to writing clean/organized JS code._
 
 ### Git Workflow
 
 The team uses master for production, uses feature branches for small groups of cards, and has a pull request for each feature with good context and conversation. Developers that aren't on the team have commented on PRs.
 
 - Above Expectations
-- Meets Expectations
+- **Meets Expectations**
 - Below Expectations
+
+_You tagged me in a few PR's, used feature branches and PR's. I would've liked to see you comment more on each other's PR's, so be mindful of this going forward!_
 
 ### Project Management
 
 The team is using a project management tool to keep their project organized and to track progress. Team is documenting conclusions and timelines on relevant cards.
 
 - Above Expectations
-- Meets Expectations
+- **Meets Expectations**
 - Below Expectations
+
+_You used Pivotal to track your progress. I would've liked to see you create cards for the backend functionality as well._
 
 ### Communication
 
@@ -146,4 +187,6 @@ The team consistently reaches out to their Technical Lead for feedback on code q
 
 - Above Expectations
 - Meets Expectations
-- Below Expectations
+- **Below Expectations**
+
+_You started out strong, but did not continue to tag me or communicate your progress throughout the duration of the project. A very important part of developing software is to communicate if you aren't going to meet a deadline or if you aren't going to finish what you set out to complete._
