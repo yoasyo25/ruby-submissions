@@ -66,7 +66,7 @@ My read me has setup and deployment instructions and an extensive contribution s
 *   2: Developer considers accessibility issues but has not yet produced code to address them
 *   1: Developer does not consider accessibility issues
 
-I read a lot about accessibility during the project and confirmed that much of my code was following these practices. I installed a tool called Axe that analyzes websites and pinpoints accessibility issues. I fixed the two issues that it found that were fixable (the other issues were related to Axe not being able to read the chart object)These issues were adding an aria label to the dropdown and changing the dropdown button to have a better color contrast ratio.
+I read a lot about accessibility during the project and confirmed that much of my code was following these practices. I installed a tool called Axe that analyzes websites and pinpoints accessibility issues. I fixed the two issues that it found that were fixable (the other issues were related to Axe not being able to read the chart object). These issues were adding an aria label to the dropdown and changing the dropdown button to have a better color contrast ratio. There is definitely more I would have liked to add, to be at an 'expert' level, specifically making th dropdown accessible via tabbing. I researched this but could not find a clear explanation of how to do this easily, and felt if I went down that path of trying to figure it out it would have potentially cost me time that I needed in order to complete all of the features laid out in my iteration map. 
 
 ---------------
 
