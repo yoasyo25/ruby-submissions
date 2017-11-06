@@ -1,9 +1,9 @@
-# Student Name
+# Katie Keel - TankData
 
-**Add links to relevant code bases or production sites here:**
-
-*
-*
+* Production frontend: https://katie-keel-capstone-frontend.herokuapp.com/
+* Production backend: https://katie-keel-capstone-backend.herokuapp.com/api/v1/tanks
+* Frontend repo: https://github.com/katiekeel/capstone-frontend
+* Backend repo: https://github.com/katiekeel/capstone-backend
 
 ---------------
 
@@ -14,50 +14,41 @@ _Please choose the score you think you've earned in each category below. Please 
 
 ### 1. Project Planning & Management
 
-*   4: Developer has a highly detailed iteration map, sophisticated organization in their tracker tool, and exceptional Git workflow
 *   3: Developer uses an iteration map to plan project scope, breaks down broad features into granular tasks, and exercises good Git workflow (e.g., feature branches, descriptive commits, incremental PRs)
-*   2: Developer has a mental vision for the project iterations, shows some use of a tracker tool, and uses Git effectively
-*   1: Developer shows little evidence of project planning and management
+
+My Git workflow could have been better, and I didn't use a tracker tool for this (which is weird for me). However, I think my communication with my technical lead made up for some of these deficiencies; the project status was always known to both parties.
 
 ### 2. Completion & Pace
 
 *   4: Developer delivers stories committed to before starting the sprint
-*   3: Developer plans stories ahead of sprint and makes some scope adjustments along the way
-*   2: Developer implements very little of the planned sprint
-*   1: Developer does not plan or complete sprint
+
+I achieved the original agreed-upon scope, and attempted to go beyond.
 
 ### 3. Implementation Quality
 
-*   4: Project demonstrates exceptionally well tested (where applicable) and maintainable code
-      * for topics outside of BE curriculum, developer can speak to best practices applied
 *   3: Project exhibits tested (where applicable), maintainable, and well-organized code. Developer can speak to architecture and implementation decisions
-*   2: Project demonstrates some gaps in code quality and/or developers cannot defend their decisions
-*   1: Project demonstrates poor factoring and/or understanding of general programming principles such as MVC and OOP
+
+While testing for my MQTT library is somewhat lacking, overall the backend was lightweight enough that testing is sufficient. ActionCable and React testing were agreed to be outside the scope of the project.
 
 ### 4. Application of Techniques
 
 *   4: Developer builds project in a new language(s) or framework(s)
-*   3: Developer implements four new techniques or patterns
-*   2: Developer implements 3 or less major techniques that have not been previously attempted
-*   1: Developer does not implement new techniques
+
+I used React to build my front end. I also worked with a new Ruby library (MQTT) and ActionCable was new to me as well (not taught in the curriculum).
 
 ### 5. Documentation
 
-*   4: Developer also adds a screencast, tutorial or other wow factor
 *   3: Developer provides easy to navigate documentation showing how to setup and contribute to the application
-*   2: Developer provides barebones documentation showing how to get the dev environment up and running
-*   1: Developer provides insufficient documentation
+
+Both the frontend and backend READMEs have information about the project, how to set up and contribution ideas, as well as information on the general topics involved and the architecture decisions.
 
 ### 6. Accessibility
 
-*   4: Developer expertly implements features to follow accessibility best practices
-*   3: Developer implements code to increase accessibility
 *   2: Developer considers accessibility issues but has not yet produced code to address them
-*   1: Developer does not consider accessibility issues
+
+When using a screen reader (VoiceOver), my actual tank data from Highcharts cannot be read aloud. My navbar dropdown does work without the use of a mouse.
 
 ---------------
-
-
 Instructor Assessment Rubric
 ------------
 
