@@ -12,6 +12,10 @@
 
 * Link to Blog Post: 
 
+## Desislava Todorova
+
+* Link to Blog Post:
+
 ## Ellen Cooper
 
 * Link to Blog Post: 
@@ -28,9 +32,9 @@
 
 * Link to Blog Post:
 
-## Mark Van Akkeren
+## Mason Holland
 
-* Link to Blog Post:
+* Link to Blog Post: 
 
 ## Matt DeVoe
 
@@ -43,6 +47,10 @@
 ## Michael Sagapolutele
 
 * Link to Blog Post: 
+
+## Nick Edwards 
+
+* Link to Blog Post:
 
 ## Wil Donovan
 
