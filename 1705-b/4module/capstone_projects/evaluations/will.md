@@ -13,6 +13,11 @@ Self Assessment Rubric
 
 _Please choose the score you think you've earned in each category below. Please also describe why you feel you've earned this score for each section!_
 
+### NOTE
+ - Run in local environment. I was going through the Heroku asset pipeline errors for my frontend resolving an HTTP vs HTTPS error for my `dimplejs` graphs. Additionally, I had to reformat all my `let` into `var` and finally ES6 was not supported so I would have needed to go through and replace every ES6 string sign with `"`. I used ES6 string intopolation for every situation I needed to concatinate strings, so replacing those would have been going through the entire repo and replacing every instance and reformatting my string. That is a later issue to deal with I think. 
+
+- Until then, setup your local DB and run `rails s` to get the frontend interaction with graphical display of data.
+
 ### 1. Project Planning & Management
 
 *   1: Developer shows little evidence of project planning and management
