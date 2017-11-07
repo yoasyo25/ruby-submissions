@@ -21,26 +21,26 @@ _Please choose the score you think you've earned in each category below. Please 
 ### 2. Completion & Pace
 *   3: Developer plans stories ahead of sprint and makes some scope adjustments along the way
 
-I planned my stories out early on and made necessery adjustments along the way. Had to pivot once or twice. 
+I planned my stories out early on and made necessery adjustments along the way. Had to pivot once or twice.
 
 ### 3. Implementation Quality
 *   3: Project exhibits tested (where applicable), maintainable, and well-organized code. Developer can speak to architecture and implementation decisions
 
-My React app is well organized into seperate components. 
+My React app is well organized into seperate components.
 
 ### 4. Application of Techniques
 *   4: Developer builds project in a new language(s) or framework(s)
 
-Aplication is built entirely with React. 
+Aplication is built entirely with React.
 
 ### 5. Documentation
 *   3: Developer provides easy to navigate documentation showing how to setup and contribute to the application
 
-Clear instructions how to run dev enviroment and use the application. Also clear steps on how to contribute. 
+Clear instructions how to run dev enviroment and use the application. Also clear steps on how to contribute.
 
 ### 6. Accessibility
 *   2: Developer considers accessibility issues but has not yet produced code to address them
-While not directly writing code for acessibility, I used best pratices for designing the app using ARIA guidlines.  
+While not directly writing code for acessibility, I used best pratices for designing the app using ARIA guidlines.
 
 ---------------
 
@@ -48,49 +48,36 @@ While not directly writing code for acessibility, I used best pratices for desig
 Instructor Assessment Rubric
 ------------
 
-### Evaluated By:
+### Evaluated By: Lauren
 
 ### Notes:
 
+- APIs still valid, just not used (key in index.html)
+- map markers not connected to data returned
+- extension of send to phone feature
+- extension of adding by car, bike, etc options
+- try to remove jQuery - it's added bloat when working with react
+
 ### 1. Project Planning & Management
 
-*   4: Developer has a highly detailed iteration map, sophisticated organization in their tracker tool, and exceptional Git workflow
-*   3: Developer uses an iteration map to plan project scope, breaks down broad features into granular tasks, and exercises good Git workflow (e.g., feature branches, descriptive commits, incremental PRs)
-*   2: Developer has a mental vision for the project iterations, shows some use of a tracker tool, and uses Git effectively
-*   1: Developer shows little evidence of project planning and management
+*   **3: Developer uses an iteration map to plan project scope, breaks down broad features into granular tasks, and exercises good Git workflow (e.g., feature branches, descriptive commits, incremental PRs)**
 
 ### 2. Completion & Pace
 
-*   4: Developer delivers stories committed to before starting the sprint
-*   3: Developer plans stories ahead of sprint and makes some scope adjustments along the way
-*   2: Developer implements very little of the planned sprint
-*   1: Developer does not plan or complete sprint
+*   **3: Developer plans stories ahead of sprint and makes some scope adjustments along the way**
 
 ### 3. Implementation Quality
 
-*   4: Project demonstrates exceptionally well tested (where applicable) and maintainable code
-      * for topics outside of BE curriculum, developer can speak to best practices applied
-*   3: Project exhibits tested (where applicable), maintainable, and well-organized code. Developer can speak to architecture and implementation decisions
-*   2: Project demonstrates some gaps in code quality and/or developers cannot defend their decisions
-*   1: Project demonstrates poor factoring and/or understanding of general programming principles such as MVC and OOP
+*   **3: Project exhibits tested (where applicable), maintainable, and well-organized code. Developer can speak to architecture and implementation decisions**
 
 ### 4. Application of Techniques
 
-*   4: Developer builds project in a new language(s) or framework(s)
-*   3: Developer implements four new techniques or patterns
-*   2: Developer implements 3 or less major techniques that have not been previously attempted
-*   1: Developer does not implement new techniques
+*   **4: Developer builds project in a new language(s) or framework(s)**
 
 ### 5. Documentation
 
-*   4: Developer also adds a screencast, tutorial or other wow factor
-*   3: Developer provides easy to navigate documentation showing how to setup and contribute to the application
-*   2: Developer provides barebones documentation showing how to get the dev environment up and running
-*   1: Developer provides insufficient documentation
+*   **3: Developer provides easy to navigate documentation showing how to setup and contribute to the application**
 
 ### 6. Accessibility
 
-*   4: Developer expertly implements features to follow accessibility best practices
-*   3: Developer implements code to increase accessibility
-*   2: Developer considers accessibility issues but has not yet produced code to address them
-*   1: Developer does not consider accessibility issues
+*   **2: Developer considers accessibility issues but has not yet produced code to address them**
