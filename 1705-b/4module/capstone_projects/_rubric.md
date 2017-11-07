@@ -1,10 +1,3 @@
-# Student Name
-
-**Add links to relevant code bases or production sites here:**
-
-*
-*
-
 ---------------
 
 Self Assessment Rubric
