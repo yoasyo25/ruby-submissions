@@ -18,7 +18,7 @@
 
 ## Ellen Cooper
 
-* Link to Blog Post: 
+* Link to Blog Post: https://gist.github.com/emcooper/610d42cee2c8eed58362d7ffc59f47a8
 
 ## Jean-Francois Lalonde
 
