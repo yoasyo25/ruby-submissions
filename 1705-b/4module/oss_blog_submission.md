@@ -22,7 +22,7 @@
 
 ## Jean-Francois Lalonde
 
-* Link to Blog Post: 
+* Link to Blog Post: https://medium.com/@lalondej88/first-foray-into-the-open-source-world-aead83e2c4e3
 
 ## Jimmy Truong
 
