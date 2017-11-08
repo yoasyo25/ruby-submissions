@@ -50,7 +50,7 @@
 
 ## Nick Edwards 
 
-* Link to Blog Post:
+* Link to Blog Post: https://medium.com/@nickedwards109/learning-to-grow-with-openfarm-e8fe74b60864
 
 ## Wil Donovan
 
