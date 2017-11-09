@@ -1,32 +1,66 @@
-Assessed By:
+* **Evaluator:**
+* **Repo:**
+* **Notes**
 
-Notes:
 
+## Evaluation Rubric
 
-### 1. Fundamental Ruby & Style
+The project will be assessed with the following guidelines:
 
-* 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
-* 3:  Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
-* 2:  Application runs but the code has many long methods (>8 lines) and needs significant refactoring
-* 1:  Application generates syntax error or crashes during execution
+* 4: Above expectations
+* 3: Meets expectations
+* 2: Below expectations
+* 1: Well-below expectations
 
-### 2. Enumerable & Collections
+### 1. Ruby Syntax & Style
 
-* 4: Application consistently makes use of the best-choice Enumerable methods and collections
-* 3: Application demonstrates comfortable use of several Enumerable techniques and collections
-* 2: Application demonstrates functional knowledge of Enumerable but only uses the most basic techniques
-* 1: Application demonstrates deficiencies with Enumerable and struggles with collections
+Expectations: 
 
-### 3. REPL Interface and Game Functionality
+- [ ] Applies appropriate attribute encapsulation
+- [ ] Developer creates instance and local variables appropriately
+- [ ] Naming follows convention (is idiomatic)
+- [ ] Ruby methods used are logical and readable 
+- [ ] Code is indented properly
+- [ ] Code does not exceed 80 characters per line
+- [ ] Each class has correctly-named files and corresponding test files in the proper directories
 
-* 4: Application's REPL goes above and beyond expectations and application includes one or more extensions
-* 3: Application's REPL is clear and pleasant to use and application fulfills base expectations from the project spec
-* 2: Application's REPL has inconsistencies and/or there are errors in base gameplay
-* 1: Application's REPL has several issues or application fails to run
+* 4: Above expectations
+* 3: Meets expectations
+* 2: Below expectations
+* 1: Well-below expectations
 
-### 4. Breaking Logic into Components
+### 2. Breaking Logic into Components
 
-* 4: Application consistently breaks concepts into logical classes and methods which encapsulate functionality.
-* 3: Application consistently breaks concepts into logical methods to encapsulate functionality.
-* 2: Application makes use of some methods, but the divisions or encapsulation are unclear.
-* 1: Application makes use of just a few huge methods to control the bulk of the functionality.
+Expectations: 
+
+- [ ] Code is effectively broken into methods & classes 
+- [ ] Developer writes methods less than 10 lines 
+- [ ] No more than 3 methods break the principle of SRP 
+
+* 4: Above expectations
+* 3: Meets expectations
+* 2: Below expectations
+* 1: Well-below expectations
+
+### 3. Test-Driven Development
+
+Expectations: 
+
+- [ ] Each method is tested  
+- [ ] Tests implement Ruby syntax & style   
+
+* 4: Above expectations
+* 3: Meets expectations
+* 2: Below expectations
+* 1: Well-below expectations
+
+### 4. Functionality
+
+Expectations: 
+
+- [ ] Application meets all requirements (extension not req'd)
+
+* 4: Above expectations
+* 3: Meets expectations
+* 2: Below expectations
+* 1: Well-below expectations
