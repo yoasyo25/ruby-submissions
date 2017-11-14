@@ -9,7 +9,6 @@ Great use of enumerables, picking methods that are right for the job
 No sanitation complaints  
 Broke functionality into modules that are clear and readable
 
-
 ## Evaluation Rubric
 
 The project will be assessed with the following guidelines:
