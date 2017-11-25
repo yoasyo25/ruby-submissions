@@ -62,8 +62,8 @@
 
 ## Michael Heft
 
-* Reflection Gist:
-* Sorting Suite Repo:
+* Reflection Gist:(https://gist.github.com/mikeyduece/ec5c1b40a40d298383f485f84062fe86)
+* Sorting Suite Repo:(https://github.com/mikeyduece/js-sorting-suite)
 
 ## Mimi Le
 
