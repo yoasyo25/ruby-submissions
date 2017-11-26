@@ -77,8 +77,8 @@
 
 ## Sam Nayrouz
 
-* Reflection Gist:(https://gist.github.com/snayrouz/3b4b6dbb5bc5ab03f14182f1ef35b60c)
-* Sorting Suite Repo:(https://github.com/snayrouz/sorting-suite)
+* [Reflection Gist](https://gist.github.com/snayrouz/3b4b6dbb5bc5ab03f14182f1ef35b60c)
+* [Sorting Suite Repo](https://github.com/snayrouz/sorting-suite)
 
 ## Samuel Snider
 
