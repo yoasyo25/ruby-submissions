@@ -32,8 +32,8 @@
 
 ## Danny Trujillo
 
-* Reflection Gist:
-* Sorting Suite Repo:
+* Reflection Gist: https://gist.github.com/djtrujillo/2b32c14b612af074f74f48d26b96193c
+* Sorting Suite Repo: https://github.com/djtrujillo/sorting-suite
 
 ## Eddie Rose
 
