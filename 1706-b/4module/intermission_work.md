@@ -22,7 +22,7 @@
 
 ## Brandon Stewart
 
-* Reflection Gist:
+* Reflection Gist: https://gist.github.com/boveus/9deee5f39c7e3b0ea8a6028eabc3ff04
 * Sorting Suite Repo:
 
 ## Daniel Phillips
