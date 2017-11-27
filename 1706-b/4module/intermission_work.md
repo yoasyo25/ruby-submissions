@@ -82,5 +82,5 @@
 
 ## Samuel Snider
 
-* Reflection Gist:
-* Sorting Suite Repo:
+* Reflection Gist: https://gist.github.com/samuelssnider/121babc14822399845bff0db8685659b
+* Sorting Suite Repo: https://github.com/samuelssnider/sorting
