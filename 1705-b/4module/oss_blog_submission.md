@@ -10,7 +10,7 @@
 
 ## Daniel Vogelsang
 
-* Link to Blog Post: 
+* Link to Blog Post: https://medium.com/@danielrobert_50821/open-food-open-source-58ce2692e5df
 
 ## Desislava Todorova
 
