@@ -27,8 +27,8 @@
 
 ## Daniel Phillips
 
-* Reflection Gist:
-* Sorting Suite Repo:
+* Reflection Gist: https://gist.github.com/dphilla/e113f4ea1fe26cd146ef7ab1a04d7749
+* Sorting Suite Repo: https://github.com/dphilla/sorting_suite_js
 
 ## Danny Trujillo
 
