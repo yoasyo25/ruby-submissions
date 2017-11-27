@@ -2,7 +2,7 @@
 
 ## Bret Funk
 
-* Link to Blog Post: 
+* Link to Blog Post: https://medium.com/@BretFunk/my-first-open-source-pr-ed8706336516
 
 ## Chantal Justamond
 
