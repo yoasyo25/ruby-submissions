@@ -12,8 +12,8 @@
 
 ## Ashish Vaid
 
-* Reflection Gist:
-* Sorting Suite Repo:
+* Reflection Gist: https://gist.github.com/vaidashi/39812999a6d45441bfe0feef8bf99cb8
+* Sorting Suite Repo: https://gist.github.com/vaidashi/eeecca1a0cdca285dfadd2f13ebb05d1
 
 ## Becki Srofe (Fierens)
 
