@@ -40,10 +40,10 @@
 * Reflection Gist:
 * Sorting Suite Repo:
 
-## Jay Hodges
+## Jay P Hodges
 
-* Reflection Gist:
-* Sorting Suite Repo:
+* Reflection Gist: https://gist.github.com/jayphodges/10f7cff6bcf33f659ed3765e96bd7a44
+* Sorting Suite Repo: https://github.com/jayphodges/sorting_suite_js
 
 ## Joan Harrington
 
