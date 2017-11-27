@@ -17,8 +17,8 @@
 
 ## Becki Srofe (Fierens)
 
-* Reflection Gist:
-* Sorting Suite Repo:
+* Reflection Gist:  https://gist.github.com/blsrofe/81590180453ae1cd62621bae718d419a
+* Sorting Suite Repo: https://github.com/blsrofe/js_sorting_suite
 
 ## Brandon Stewart
 
