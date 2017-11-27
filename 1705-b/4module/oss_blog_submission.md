@@ -42,7 +42,7 @@
 
 ## Michael Centrelli
 
-* Link to Blog Post: 
+* Link to Blog Post: https://gist.github.com/Mcents/d4cbbf01ee45a97e3ef2087588d4044f
 
 ## Michael Sagapolutele
 
