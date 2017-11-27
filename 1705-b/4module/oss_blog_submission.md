@@ -46,7 +46,7 @@
 
 ## Michael Sagapolutele
 
-* Link to Blog Post: 
+* Link to Blog Post: https://medium.com/@michael.sagapolutele/my-first-open-source-contribution-57b5f12423aa
 
 ## Nick Edwards 
 
