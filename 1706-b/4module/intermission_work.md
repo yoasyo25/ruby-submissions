@@ -2,8 +2,8 @@
 
 ## Aaron Hursh
 
-* Reflection Gist:
-* Sorting Suite Repo:
+* Reflection Gist: https://gist.github.com/amhursh/8f1ffb58163710961cda006d61c3ee5b
+* Sorting Suite Repo: https://github.com/amhursh/js-sorting-suite
 
 ## Aram Anderson
 
