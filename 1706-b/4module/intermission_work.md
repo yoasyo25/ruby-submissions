@@ -72,8 +72,8 @@
 
 ## Ricky Amparo
 
-* Reflection Gist:
-* Sorting Suite Repo:
+* Reflection Gist: https://gist.github.com/rickyamparo/6367e91c95e9456243f6fecf820c3ea7
+* Sorting Suite Repo: https://github.com/rickyamparo/sorting-suite
 
 ## Sam Nayrouz
 
