@@ -58,7 +58,7 @@
 
 ## Will Ratterman
 
-* Link to Blog Post:
+* Link to Blog Post: https://gist.github.com/wratterman/5ae3f8f5f06bdad1d2c1abd12efb6f00
 
 ## Yohanan Assefa
 
