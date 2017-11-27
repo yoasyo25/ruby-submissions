@@ -57,8 +57,8 @@
 
 ## Michael Butera
 
-* Reflection Gist:
-* Sorting Suite Repo:
+* Reflection Gist: https://gist.github.com/ButeraMV/0afc647d099213f365aaefb510ae0d06
+* Sorting Suite Repo: https://github.com/ButeraMV/sortingSuiteJS
 
 ## Michael Heft
 
