@@ -47,8 +47,8 @@
 
 ## Joan Harrington
 
-* Reflection Gist
-* Sorting Suite Repo
+* Reflection Gist: https://gist.github.com/sidewinder2020/60353cc6c39c72b8a4a676caf75ca1ee
+* Sorting Suite Repo: https://github.com/sidewinder2020/Sorting-In-JS-because
 
 ## Joel Lindow
 
