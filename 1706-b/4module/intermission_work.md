@@ -67,8 +67,8 @@
 
 ## Mimi Le
 
-* Reflection Gist:
-* Sorting Suite Repo:
+* Reflection Gist: <a href="https://gist.github.com/mimilettd/6e56f1f38a58eb6b6b458d5d4fefd1b8">Link</a>
+* Sorting Suite Repo: <a href="https://github.com/mimilettd/sorting-suite">Link</a>
 
 ## Ricky Amparo
 
