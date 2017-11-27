@@ -7,8 +7,8 @@
 
 ## Aram Anderson
 
-* Reflection Gist:
-* Sorting Suite Repo:
+* Reflection Gist: https://gist.github.com/Aram-Anderson/cab08e9f69b54480ed3b5b1a9e29de46
+* Sorting Suite Repo: https://github.com/Aram-Anderson/sorting-suite-js
 
 ## Ashish Vaid
 
