@@ -1,42 +1,46 @@
-Assessed By:
+Assessed By: Sal
 
 Repo:
 
 Notes:
 
+The project will be assessed with the following guidelines:
 
-### 1. Test-Driven Development
+4: Above expectations
+3: Meets expectations
+2: Below expectations
+1: Well-below expectations
 
-* 4: Application is broken into components which are well tested in both isolation and integration
-* 3: Application uses tests to exercise core functionality, but has some gaps in coverage or leaves edge cases untested.
-* 2: Application tests some components but has many gaps in coverage.
-* 1: Application does not demonstrate strong use of TDD
+### 1. Ruby Syntax & Style
 
-### 2. REPL Interface and Game Functionality
+3: Meets expectations
 
-* 4: Application's REPL goes above and beyond expectations and application includes one or more extensions
-* 3: Application's REPL is clear and pleasant to use and application fulfills base expectations from the project spec
-* 2: Application's REPL has inconsistencies and/or there are errors in base gameplay
-* 1: Application's REPL has several issues or application fails to run
+[X] Applies appropriate attribute encapsulation
+[X] Developer creates instance and local variables appropriately
+[X] Naming follows convention (is idiomatic)
+[X] Ruby methods used are logical and readable
+[X] Code is indented properly
+[] Code does not exceed 80 characters per line
 
-### 3. Breaking Logic into Components
+### 2. Breaking Logic into Components
 
-* 4: Application always breaks concepts into classes and methods which encapsulate functionality.
-* 3: Application consistently breaks concepts into classes which encapsulate functionality. (SRP)
-* 2: Application makes use of some classes, but the divisions or encapsulation are unclear.
-* 1: Application makes use of just a few huge methods to control the bulk of the functionality.
+3: Meets expectations
 
-### 4. Fundamental Ruby & Style
+[X] Code is effectively broken into methods & classes
+[] Developer writes methods less than 10 lines
+[X] No more than 3 methods break the principle of SRP
 
-* 4:  Application demonstrates excellent knowledge of Ruby syntax, style, refactoring, and extensively uses idiomatic code.
-* 3:  Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines)  needs some refactoring, and is mostly idiomatic.
-* 2:  Application runs but the code has many long methods (>8 lines) has poorly named variables, needs significant refactoring, and is somewhat idiomatic.
-* 1:  Application generates syntax error or crashes during execution
+### 3. Test-Driven Development
 
-### 5. Enumerable & Collections
+3: Meets expectations
+:w
 
-* 4: Application consistently makes use of the best-choice Enumerable methods and collections
-* 3: Application makes use of appropriate Enumerable methods and collections
-* 2: Application only uses the most basic Enumerable techniques.
-* 1: Application does not use enumerables.
+[] Each method is tested
+[X] Tests implement Ruby syntax & style
+
+### 4. Functionality
+
+4: Above expectations
+
+[X] Application meets all requirements (extension not req’d)
 
