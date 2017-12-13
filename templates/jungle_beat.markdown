@@ -1,54 +1,67 @@
-## Student Name
+* **Evaluator:**
+* **Repo:**
+* **Notes**
 
-**Instructor**
-
-**Repo URL**
-
-**Notes**
-
-### Evaluation
-
-* Functional Expectations (1 - 4)
-* TDD (1 - 4)
-* Encapsulation (1 - 4)
-* Ruby Style and Fundamentals (1 - 4)
-* Looping / Recursion (1 - 4)
 
 ## Evaluation Rubric
 
-The project will be assessed with the following rubric:
+The project will be assessed with the following guidelines:
 
-### 1. Functional Expectations
+* 4: Above expectations
+* 3: Meets expectations
+* 2: Below expectations
+* 1: Well-below expectations
 
-* 4: Application fulfills all base expectations and the one extension
-* 3: Application fulfills all base expectations
-* 2: Application is missing one base expectation
-* 1: Application is missing more than one base expectation
+### 1. Ruby Syntax & Style
 
-### 2. Test-Driven Development
+Expectations: 
 
-* 4: Application is broken into components which are well tested in both isolation and integration using appropriate data. Also diligently covers all appropriate cases.
-* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
-* 2: Application makes some use of tests, but the coverage is insufficient
-* 1: Application does not demonstrate strong use of TDD
+- [ ] Applies appropriate attribute encapsulation
+- [ ] Developer creates instance and local variables appropriately
+- [ ] Naming follows convention (is idiomatic)
+- [ ] Ruby methods used are logical and readable 
+- [ ] Recursion is implemented logically
+- [ ] Code is indented properly
+- [ ] Code does not exceed 80 characters per line
+- [ ] Each class has correctly-named files and corresponding test files in the proper directories
 
-### 3. Encapsulation / Breaking Logic into Components
+* 4: Above expectations
+* 3: Meets expectations
+* 2: Below expectations
+* 1: Well-below expectations
 
-* 4: Application is expertly divided into logical components each with a clear, single responsibility
-* 3: Application effectively breaks logical components apart but breaks the principle of SRP
-* 2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
-* 1: Application logic shows poor decomposition with too much logic mashed together
+### 2. Breaking Logic into Components
 
-### 4. Fundamental Ruby & Style
+Expectations: 
 
-* 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
-* 3:  Application shows strong effort towards organization, content, and refactoring
-* 2:  Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
-* 1:  Application generates syntax error or crashes during execution
+- [ ] Code is effectively broken into methods & classes 
+- [ ] Developer writes methods less than 10 lines 
+- [ ] No more than 3 methods break the principle of SRP 
 
-### 5. Looping *or* Recursion
+* 4: Above expectations
+* 3: Meets expectations
+* 2: Below expectations
+* 1: Well-below expectations
 
-* 4: Application makes excellent use of loop/recursion techniques
-* 3: Application makes effective use of loop/recursion techniques
-* 2: Application has issues with loop/recursion techniques or mixes them inappropriately
-* 1: Application struggles to loop/recurse at all
+### 3. Test-Driven Development
+
+Expectations: 
+
+- [ ] Each method is tested  
+- [ ] Tests implement Ruby syntax & style   
+
+* 4: Above expectations
+* 3: Meets expectations
+* 2: Below expectations
+* 1: Well-below expectations
+
+### 4. Functionality
+
+Expectations: 
+
+- [ ] Application meets all requirements (extension not req'd)
+
+* 4: Above expectations
+* 3: Meets expectations
+* 2: Below expectations
+* 1: Well-below expectations

@@ -15,7 +15,8 @@ Expectations:
 - [ ] Ruby methods used are logical and readable  
 - [ ] Developer implements appropriate enumerable methods (#each is used sparingly)
 - [ ] Code is indented properly
-- [ ] Code does not exceed 80 characters per line  
+- [ ] Code does not exceed 80 characters per line
+- [ ] Each class has correctly-named files and corresponding test files in the proper directories
 
 * 4: Above expectations
 * 3: Meets expectations

@@ -1,4 +1,4 @@
-* **Evaluator:**
+* **Evaluator:** Victoria
 * **Repo:** https://github.com/Heybluguy/event_reporter
 * **Notes:**
 

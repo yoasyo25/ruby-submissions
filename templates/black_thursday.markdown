@@ -17,6 +17,7 @@ Expectations:
 - [ ] Developer implements best-choice enumerable methods
 - [ ] Code is indented properly
 - [ ] Code does not exceed 80 characters per line
+- [ ] Each class has correctly-named files and corresponding test files in the proper directories
 
 * 4: Above expectations
 * 3: Meets expectations
@@ -66,6 +67,8 @@ Expectations:
 
 ### 5. Version Control
 
+Expectations: 
+
 - [ ] Developer commits at a pace of at least 1 commit per hour
 - [ ] Developer implements branching and PRs
 - [ ] The final submitted version is merged into master
@@ -76,6 +79,8 @@ Expectations:
 * 1: Well-below expectations
 
 ### 6. Code Sanitation
+
+Expectations: 
 
 - [ ] The output from `rake sanitation:all` shows five or fewer complaints
 

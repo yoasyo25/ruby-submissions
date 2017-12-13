@@ -1,21 +1,28 @@
-**Instructor:** 
-**Repo URL:** 
-**Notes:** 
+* **Evaluator:**
+* **Repo:**
+* **Notes**
+
 
 ## Evaluation Rubric
 
 The project will be assessed with the following guidelines:
 
+* 4: Above expectations
+* 3: Meets expectations
+* 2: Below expectations
+* 1: Well-below expectations
+
 ### 1. Ruby Syntax & Style
 
 Expectations: 
 
-- [ ] Applies appropriate attribute encapsulation  
+- [ ] Applies appropriate attribute encapsulation
 - [ ] Developer creates instance and local variables appropriately
 - [ ] Naming follows convention (is idiomatic)
-- [ ] Ruby methods used are logical and readable
+- [ ] Ruby methods used are logical and readable 
 - [ ] Code is indented properly
 - [ ] Code does not exceed 80 characters per line  
+- [ ] Each class has correctly-named files and corresponding test files in the proper directories
 
 * 4: Above expectations
 * 3: Meets expectations
