@@ -45,7 +45,6 @@ Expectations:
 - [ ] Tests implement Ruby syntax & style   
 - [ ] Balances unit and integration tests 
 - [ ] Evidence of edge cases testing 
-- [ ] Test Coverage metrics are present (SimpleCov)
 
 * 4: Above expectations
 * 3: Meets expectations

@@ -1,15 +1,16 @@
-* **Evaluator:**  
-Ali  
-* **Repo:**  
+Assessed By: Mike
 
-* **Notes**  
-Great job breaking methods into helper methods.  
-Naming is clear and readable, strong efforts made here.  
-Great use of enumerables, picking methods that are right for the job  
-No sanitation complaints  
-Broke functionality into modules that are clear and readable
+Repo: https://github.com/annaroyer/mastermind
 
-## Evaluation Rubric
+Notes:
+
+* Good use of classes
+* Was reaching for the idea of mocks and stubs
+* Some struggles with testing
+* methods were well organized and clean
+* Slightly over-engineered.
+* Did not overuse instance variables inappropriately
+
 
 The project will be assessed with the following guidelines:
 
@@ -37,16 +38,16 @@ Expectations:
 
 - [x] Code is effectively broken into methods & classes
 - [x] Developer writes methods less than 10 lines
-- [x] No more than 3 methods break the principle of SRP
+- [] No more than 3 methods break the principle of SRP
 
-* 4: Above expectations
+* 3: Meets expectations
 
 ### 3. Test-Driven Development
 
 Expectations:
 
-- [x] Each method is tested  
-- [x] Tests implement Ruby syntax & style   
+- [] Each method is tested
+- [x] Tests implement Ruby syntax & style
 
 * 3: Meets expectations
 
@@ -54,6 +55,6 @@ Expectations:
 
 Expectations:
 
-- [ ] Application meets all requirements (extension not req'd)
+- [] Application meets all requirements (extension not req'd)
 
-* 2: Below expectations
+* 3: Meets expectations
