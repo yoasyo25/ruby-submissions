@@ -1,7 +1,10 @@
-**Instructor:**
-**Repo URL:**
+**Instructor:** Mike
+**Repo URL:** https://github.com/andymond/night_writer
 **Notes:**
-
+* Overall, well written, some opportunities to refactor, some methods
+too long, doing a bit much
+* There is a good amount of repetition in the translating, could have 
+consolidated to a single class there
 
 ## Evaluation Rubric
 
@@ -9,55 +12,44 @@
 
 Expectations: 
 
-- [ ] Applies appropriate attribute encapsulation  
+- [X] Applies appropriate attribute encapsulation  
 - [ ] Developer creates instance and local variables appropriately
-- [ ] Naming follows convention (is idiomatic)
-- [ ] Ruby methods used are logical and readable  
-- [ ] Developer implements appropriate enumerable methods (#each is used sparingly)
-- [ ] Code is indented properly
+- [X] Naming follows convention (is idiomatic)
+- [x] Ruby methods used are logical and readable  
+- [x] Developer implements appropriate enumerable methods (#each is used sparingly)
+- [x] Code is indented properly
 - [ ] Code does not exceed 80 characters per line
-- [ ] Each class has correctly-named files and corresponding test files in the proper directories
+- [x] Each class has correctly-named files and corresponding test files in the proper directories
 
-* 4: Above expectations
+
 * 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
 
 ### 2. Breaking Logic into Components
 
 Expectations: 
 
-- [ ] Code is effectively broken into methods & classes 
-- [ ] Developer writes methods less than 8 lines 
+- [x] Code is effectively broken into methods & classes 
+- [x] Developer writes methods less than 8 lines 
 - [ ] No more than 3 methods break the principle of SRP 
 
-* 4: Above expectations
 * 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
 
 ### 3. Test-Driven Development
 
 Expectations: 
 
-- [ ] Each method is tested  
-- [ ] Functionality is accurately covered
-- [ ] Tests implement Ruby syntax & style   
-- [ ] Balances unit and integration tests 
+- [x] Each method is tested  
+- [x] Functionality is accurately covered
+- [x] Tests implement Ruby syntax & style   
+- [x] Balances unit and integration tests 
 - [ ] Evidence of edge cases testing 
 
-* 4: Above expectations
 * 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
 
 ### 4. Functionality
 
 Expectations: 
 
-- [ ] Application meets all requirements (extension not req'd)
+- [x] Application meets all requirements (extension not req'd)
 
-* 4: Above expectations
 * 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
