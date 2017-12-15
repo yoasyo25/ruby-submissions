@@ -1,4 +1,4 @@
-# Student Names
+# Danny Trujillo and Michael Butera
 
 Frontend Production: https://djtrujillo.github.io/quantified-self/
 
