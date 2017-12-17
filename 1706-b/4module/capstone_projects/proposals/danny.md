@@ -1,6 +1,6 @@
 ### Project Template
 
-### [Project Title]
+### BlackJack
 
 ### Pitch
 This is Blackjack! An interactive game that allows players to mimic a real life blackjack card-table playing against the dealer to win hands.
