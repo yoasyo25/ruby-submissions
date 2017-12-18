@@ -1,27 +1,34 @@
 ### Project Template
 
-### [Project Title]
+### @CheckIn
 
 ### Pitch
 
-1 sentence that explains the value proposition of the application. How would you explain it to a potential business partner, team member, or investor?
+Seemlessly allow users to use facial recognition software on the back end of a client facing mobile application to take attendance of a medium size room with 10+ people with out having to call out names.
 
 ### Problem
 
-1-3 sentences describing the problem that you are trying to solve.
+Whether you are a teacher or the host of a company conference/meeting and you need to check in a group of people quickly and efficiently, the platform will allow you to use your exsisting panoramic camera to take a picture of a room and check in the attendees. Quickly giving the user an attendance feedback to the mobile application.
 
 ### Solution
 
-1-3 sentences describing how your application will solve that problem.
+Using Facial recognition software I will use that to import a picture, while extrapolating the faces of humans out, it will then take that picture and compare it back against the attendees imported pictures.
 
 ### Target Audience
 
-1-3 sentences describing what type of user your app would be applicable to.
+Small to medium sized daily groups.
+Classrooms
+Conference Rooms
+Meetings
 
 ### New Techniques
 
-Which new techniques are you hoping to implement?
+React-Native
+Node JS API server
+New API for facial recognition
 
 ### Workflow
 
-What project management tool will you be using to manage your progress?
+Microsoft Planner
+One Note
+MS Teams & Share Point
