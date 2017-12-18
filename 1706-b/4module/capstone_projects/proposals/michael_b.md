@@ -1,27 +1,27 @@
 ### Project Template
 
-### [Project Title]
+### Movie Machine
 
 ### Pitch
 
-1 sentence that explains the value proposition of the application. How would you explain it to a potential business partner, team member, or investor?
+This application allows users to discover new movies that they may not have known about using algorithms that learn the user's preferences.
 
 ### Problem
 
-1-3 sentences describing the problem that you are trying to solve.
+Movies can be great pieces of art but watching them is an investment of time. Watching a movie that is not something that you would like is a waste of time. There are so many bad movies out there on the streaming services, it's hard to find something you would like.
 
 ### Solution
 
-1-3 sentences describing how your application will solve that problem.
+The application will make use of the MovieLens dataset and be able to learn about a users preferences. It will be able to make recommendations of movies that the user would like and list what services they can see the movie on if any.
 
 ### Target Audience
 
-1-3 sentences describing what type of user your app would be applicable to.
+This app would be targetted towards anyone that uses a streaming service, and geared towards cord cutters since they will have more services to make use of.
 
 ### New Techniques
 
-Which new techniques are you hoping to implement?
+iOS app development, python, machine learning
 
 ### Workflow
 
-What project management tool will you be using to manage your progress?
+I will be using Waffle.io to do my project management.
