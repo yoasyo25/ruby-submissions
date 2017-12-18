@@ -97,70 +97,68 @@ Below expectations. We did not reach out to the team lead, and didn't look for f
 
 ## Instructor Rubric
 
-### Evaluated By:
+### Evaluated By: Lauren
 
 ### Notes:
+
+- update food name doesn't persist over refresh (doesn't look like PUT or PATCH call is being made)
+- add food from foods.html POSTs correctly but initially appends to table as `undefined`
+- main diary page works as expected
+- excellent documentation
+- for accessibility - would have loved to at least see tabindex used to make using your site without a mouse possible
+- for QS client-side JS:
+  - would help with readibility to use the variables you created for your API URL
+  - there should be consistency between AJAX's `.then` & `.catch` combo OR `success:` & `error:`
+  - great organization
+- for express:
+  - really impressed by how clean, organized and DRY everything is
+  - server.js could be even further refactored to handle responses, too. that'd leave server.js looking like a tidy routes file
+- As your TL, I really would have liked to be looped in more, but in the end, you delivered
 
 ### Specification Adherence
 
 Application implements **all** functionality as defined, but some bugs or strange behavior where features intersect.
 
-- Above Expectations
-- Meets Expectations
-- Below Expectations
+- **Meets Expectations**
 
 ### Documentation
 
 Developer provides easy to navigate documentation showing how to setup and contribute to the application.
 
-- Above Expectations
-- Meets Expectations
-- Below Expectations
+- **Above Expectations**
 
 ### HTML/UI
 
 The team put some effort into styling, and the application is not confusing to use. HTML classes and IDs are kebab case.
 
-- Above Expectations
-- Meets Expectations
-- Below Expectations
+- **Above Expectations**
 
 ### Accessibility
 
 Developer implements code to increase accessibility.
 
-- Above Expectations
-- Meets Expectations
-- Below Expectations
+- **Below Expectations**
 
 ### JS syntax and Style
 
 JavaScript code is logically divided into files. Developers can show examples of good coding practices and demonstrate OOP concepts, like DRY and separation of concerns. Developers pay attention to indentation and naming conventions. They also consistently utilize ES5 or ES6 syntax and jQuery when working with events.
 
-- Above Expectations
-- Meets Expectations
-- Below Expectations
+- **Meets Expectations**
 
 ### Git Workflow
 
 The team uses master for production, uses feature branches for small groups of cards, and has a pull request for each feature with good context and conversation. Developers that aren't on the team have commented on PRs.
 
-- Above Expectations
-- Meets Expectations
-- Below Expectations
+- **Meets Expectations**
 
 ### Project Management
 
 The team is using a project management tool to keep their project organized and to track progress. Team is documenting conclusions and timelines on relevant cards.
 
-- Above Expectations
-- Meets Expectations
-- Below Expectations
+- **Meets Expectations**
 
 ### Communication
 
 The team consistently reaches out to their Technical Lead for feedback on code quality and technical issues. The team responds to their Technical Lead in a timely manner.
 
-- Above Expectations
-- Meets Expectations
-- Below Expectations
+- **Below Expectations**
