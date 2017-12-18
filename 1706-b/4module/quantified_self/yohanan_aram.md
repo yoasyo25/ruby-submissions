@@ -1,12 +1,13 @@
 # Student Names
+Yohanan Assefa and Aram Anderson
 
-Frontend Production: 
+Frontend Production: https://aram-anderson.github.io/quantified-self-starter-kit/
 
-Frontend Github: 
+Frontend Github: https://github.com/Aram-Anderson/quantified-self-starter-kit
 
-Backend Production: 
+Backend Production: https://y-a-quantified-self-be.herokuapp.com/
 
-Backend Github: 
+Backend Github: https://github.com/Aram-Anderson/quantified-self-BE
 
 ## Self Assessment Rubric
 
@@ -20,6 +21,8 @@ Application implements **all** functionality as defined, but some bugs or strang
 - Meets Expectations
 - Below Expectations
 
+Meets expectations. We have all the functionality that is in the rubric, and as far as I can tell just one bug that we didn't quite get sorted out.
+
 ### Documentation
 
 Developer provides easy to navigate documentation showing how to setup and contribute to the application.
@@ -27,6 +30,8 @@ Developer provides easy to navigate documentation showing how to setup and contr
 - Above Expectations
 - Meets Expectations
 - Below Expectations
+
+Above expectations on documentation. There are good readmes on both repos that give explicit instructions on setting up the repo and what it is.
 
 ### HTML/UI
 
@@ -36,6 +41,8 @@ The team put some effort into styling, and the application is not confusing to u
 - Meets Expectations
 - Below Expectations
 
+Above expectations on HTML/UI. Our app looks almost exactly like the comp in the project rubric, and our HTML is all kebab case.
+
 ### Accessibility
 
 Developer implements code to increase accessibility.
@@ -43,6 +50,8 @@ Developer implements code to increase accessibility.
 - Above Expectations
 - Meets Expectations
 - Below Expectations
+
+Below expectations. We did not implement the code in an accessible way.
 
 ### JS syntax and Style
 
@@ -52,6 +61,8 @@ JavaScript code is logically divided into files. Developers can show examples of
 - Meets Expectations
 - Below Expectations
 
+Meets expectations. We made an effort to write well crafted JS code, but we are both also new to JS and there is a lot of room for improvement.
+
 ### Git Workflow
 
 The team uses master for production, uses feature branches for small groups of cards, and has a pull request for each feature with good context and conversation. Developers that aren't on the team have commented on PRs.
@@ -59,6 +70,8 @@ The team uses master for production, uses feature branches for small groups of c
 - Above Expectations
 - Meets Expectations
 - Below Expectations
+
+Meets expectations. We had communication within the team, but not outside. We used branches for features, and master for prod.
 
 ### Project Management
 
@@ -68,6 +81,8 @@ The team is using a project management tool to keep their project organized and 
 - Meets Expectations
 - Below Expectations
 
+Meets expectations. We used Pivotal Tracker and kept up with the cards as we worked on them for the frontend. We were less stringent with our process on the backend, because we just divided the project in half and we both new what we individually needed to do.
+
 ### Communication
 
 The team consistently reaches out to their Technical Lead for feedback on code quality and technical issues. The team responds to their Technical Lead in a timely manner.
@@ -76,13 +91,15 @@ The team consistently reaches out to their Technical Lead for feedback on code q
 - Meets Expectations
 - Below Expectations
 
+Below expectations. We did not reach out to the team lead, and didn't look for feedback. We would do this differently in the future.
+
 -----------
 
 ## Instructor Rubric
 
-### Evaluated By: 
+### Evaluated By:
 
-### Notes: 
+### Notes:
 
 ### Specification Adherence
 
