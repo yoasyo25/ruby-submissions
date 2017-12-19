@@ -1,27 +1,27 @@
 ### Project Template
 
-### [Project Title]
+### Track What you like
 
 ### Pitch
 
-1 sentence that explains the value proposition of the application. How would you explain it to a potential business partner, team member, or investor?
+Linking your interests to webpages that relate to them.
 
 ### Problem
 
-1-3 sentences describing the problem that you are trying to solve.
+People who have trouble getting information and finding groups based on their interests.
 
 ### Solution
 
-1-3 sentences describing how your application will solve that problem.
+My application will present the data that users are looking for in a friendly, organized manner, and save their searches and comments to aid other users.
 
 ### Target Audience
 
-1-3 sentences describing what type of user your app would be applicable to.
+Anyone who has interests that they would like to expand using the internet
 
 ### New Techniques
 
-Which new techniques are you hoping to implement?
+Integration with google location services, and new technologies- android application IDE
 
 ### Workflow
 
-What project management tool will you be using to manage your progress?
+Waffle
