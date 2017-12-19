@@ -40,7 +40,7 @@ Developer implements code to increase accessibility.
 
 JavaScript code is logically divided into files. Developers can show examples of good coding practices and demonstrate OOP concepts, like DRY and separation of concerns. Developers pay attention to indentation and naming conventions. They also consistently utilize ES5 or ES6 syntax and jQuery when working with events.
 
-- Meets Expectations: The formatting and syntax of the JS is consistent and ES6 was very consistenly used. Naming conventions were properly implemented. 
+- Meets Expectations: The formatting and syntax of the JS is consistent and ES6 was very consistenly used. Naming conventions were properly implemented.
 
 ### Git Workflow
 
@@ -64,70 +64,69 @@ The team consistently reaches out to their Technical Lead for feedback on code q
 
 ## Instructor Rubric
 
-### Evaluated By: 
+### Evaluated By: Katelyn
 
-### Notes: 
+### Notes:
+
+- Would have to see more on the documentation, it meets the minimum but think about when you go to an open source project online the more documenting the easier it is to use and understand
+- I would use classes for styling rather than inline
+- Shouldn't have had to input jQuery into `foods.html` or `index.html`
+- I am not able to edit the food or calories
+- Would have liked the search to search by any order rather than from the first letter
+- I'm getting a bunch of console errors when deleting a food. It seems to be working so there is some error on the server
+- No way to get to the diary page from foods page
+- We want to avoid using `$(document).on` when listening to events like click and blur even if we specify the selector as we are then watching every event happening on the DOM and have to check that the event happened on the specified element
+- `filterByName` doesn't make any request to the server so doesn't make much sense to have in the request file
+- There are a lot of functions in `requests/meals` than don't seem to belong. That file should just be responsible for ajax requests. DOM manipulation should be happening in `response-handlers` Event Listeners should be handled in `event-listeners`
+- Not a ton of PRs and lacking in any comments or description
+- I was never sent the Waffle board so not sure how the team did in terms of Project Management
+- I (Katelyn) was the TL for the project and we had very little communication throughout the project. Tags in PR could have really helped you throughout the project.
 
 ### Specification Adherence
 
 Application implements **all** functionality as defined, but some bugs or strange behavior where features intersect.
 
-- Above Expectations
 - Meets Expectations
-- Below Expectations
 
 ### Documentation
 
 Developer provides easy to navigate documentation showing how to setup and contribute to the application.
 
-- Above Expectations
 - Meets Expectations
-- Below Expectations
 
 ### HTML/UI
 
 The team put some effort into styling, and the application is not confusing to use. HTML classes and IDs are kebab case.
 
-- Above Expectations
 - Meets Expectations
-- Below Expectations
 
 ### Accessibility
 
 Developer implements code to increase accessibility.
 
-- Above Expectations
 - Meets Expectations
-- Below Expectations
 
 ### JS syntax and Style
 
 JavaScript code is logically divided into files. Developers can show examples of good coding practices and demonstrate OOP concepts, like DRY and separation of concerns. Developers pay attention to indentation and naming conventions. They also consistently utilize ES5 or ES6 syntax and jQuery when working with events.
 
-- Above Expectations
-- Meets Expectations
 - Below Expectations
 
 ### Git Workflow
 
 The team uses master for production, uses feature branches for small groups of cards, and has a pull request for each feature with good context and conversation. Developers that aren't on the team have commented on PRs.
 
-- Above Expectations
 - Meets Expectations
-- Below Expectations
 
 ### Project Management
 
 The team is using a project management tool to keep their project organized and to track progress. Team is documenting conclusions and timelines on relevant cards.
 
-- Above Expectations
-- Meets Expectations
+???
 - Below Expectations
 
 ### Communication
 
 The team consistently reaches out to their Technical Lead for feedback on code quality and technical issues. The team responds to their Technical Lead in a timely manner.
 
-- Above Expectations
-- Meets Expectations
 - Below Expectations

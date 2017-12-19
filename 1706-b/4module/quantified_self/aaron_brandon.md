@@ -18,7 +18,7 @@ Application implements **all** functionality as defined, but some bugs or strang
 
 - Above Expectations
 
-Our application delivers all of the functionality with minimal bugs or strange behaviors. 
+Our application delivers all of the functionality with minimal bugs or strange behaviors.
 
 ### Documentation
 
@@ -80,40 +80,44 @@ We were in frequent communication with our tech lead regarding some of our code 
 
 ## Instructor Rubric
 
-### Evaluated By: 
+### Evaluated By: Katelyn
 
-### Notes: 
+### Notes:
+
+- Food table is not sorting. Getting error in console `sortFoodTable` is not a function
+- Cannot tab through the foods table for accessibility
+- Would have preferred to not have an alert when a food was deleted
+- Rerendering all the tables when an item is added to a meal
+- Docs look good! I would just remove the reference of a single-page application(SAP) as it has 2 pages foods and index
+- Love the UI, looks great!
+- Some kebab case some underscore and some camel for ids i.e `searchContainer`, `calorie-header`, `food_form`. Should be using kebab in all cases
+- Good use of PRs and branches, could have used more on the backend. Comments started off strong then lacked a bit toward the end
+- Good communication with TL asked questions both in PR, in person, and slack!
+- In `all_food_objects` calling `renderFoods` and `renderMealFoods` these should be wrapped in a `$(document).ready` function
+- Good job with code organization and I like the comments
 
 ### Specification Adherence
 
 Application implements **all** functionality as defined, but some bugs or strange behavior where features intersect.
 
-- Above Expectations
 - Meets Expectations
-- Below Expectations
 
 ### Documentation
 
 Developer provides easy to navigate documentation showing how to setup and contribute to the application.
 
-- Above Expectations
 - Meets Expectations
-- Below Expectations
 
 ### HTML/UI
 
 The team put some effort into styling, and the application is not confusing to use. HTML classes and IDs are kebab case.
 
-- Above Expectations
 - Meets Expectations
-- Below Expectations
 
 ### Accessibility
 
 Developer implements code to increase accessibility.
 
-- Above Expectations
-- Meets Expectations
 - Below Expectations
 
 ### JS syntax and Style
@@ -121,29 +125,21 @@ Developer implements code to increase accessibility.
 JavaScript code is logically divided into files. Developers can show examples of good coding practices and demonstrate OOP concepts, like DRY and separation of concerns. Developers pay attention to indentation and naming conventions. They also consistently utilize ES5 or ES6 syntax and jQuery when working with events.
 
 - Above Expectations
-- Meets Expectations
-- Below Expectations
 
 ### Git Workflow
 
 The team uses master for production, uses feature branches for small groups of cards, and has a pull request for each feature with good context and conversation. Developers that aren't on the team have commented on PRs.
 
 - Above Expectations
-- Meets Expectations
-- Below Expectations
 
 ### Project Management
 
 The team is using a project management tool to keep their project organized and to track progress. Team is documenting conclusions and timelines on relevant cards.
 
-- Above Expectations
 - Meets Expectations
-- Below Expectations
 
 ### Communication
 
 The team consistently reaches out to their Technical Lead for feedback on code quality and technical issues. The team responds to their Technical Lead in a timely manner.
 
 - Above Expectations
-- Meets Expectations
-- Below Expectations
