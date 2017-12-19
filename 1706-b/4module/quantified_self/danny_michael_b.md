@@ -122,8 +122,7 @@ The team uses master for production, uses feature branches for small groups of c
 
 The team is using a project management tool to keep their project organized and to track progress. Team is documenting conclusions and timelines on relevant cards.
 
-???
-- Below Expectations
+- Meets Expectations
 
 ### Communication
 
