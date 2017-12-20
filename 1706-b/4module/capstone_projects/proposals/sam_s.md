@@ -4,23 +4,23 @@
 
 ### Pitch
 
-Linking your interests to webpages that relate to them.
+Creating walkthroughs from users, and maybe API/web parsing.
 
 ### Problem
 
-People who have trouble getting information and finding groups based on their interests.
+Recipes, guides to games, and other activities are all available online, but maybe not in a format that is transferable among all of them.
 
 ### Solution
 
-My application will present the data that users are looking for in a friendly, organized manner, and save their searches and comments to aid other users.
+My application will allow other users to post 'WalkThru's, and use others'.
 
 ### Target Audience
 
-Anyone who has interests that they would like to expand using the internet
+Anyone who likes to use guides.
 
 ### New Techniques
 
-Integration with google location services, and new technologies- android application IDE
+Integration with android development tools and java.
 
 ### Workflow
 
