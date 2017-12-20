@@ -1,27 +1,27 @@
 ### Project Template
 
-### [Project Title]
+### The Ruby Goldberg Machine(s)
 
 ### Pitch
 
-1 sentence that explains the value proposition of the application. How would you explain it to a potential business partner, team member, or investor?
+A high availability cluster of several embedded linux devices as a tech demo to display micro-services and/or serverless architecture.
 
 ### Problem
 
-1-3 sentences describing the problem that you are trying to solve.
+How to effectively distribute tasks between multiple devices utilizing docker swarm in order to deploy micro-services.
 
 ### Solution
 
-1-3 sentences describing how your application will solve that problem.
+Deploy a 6-8 node cluster of devices then run a combination of Node, Python, and Ruby micro-services.
 
 ### Target Audience
 
-1-3 sentences describing what type of user your app would be applicable to.
+Hiring Managers for DevOps roles.
 
 ### New Techniques
 
-Which new techniques are you hoping to implement?
+Docker, Node.js/Python/Ruby in a distributed environment.
 
 ### Workflow
 
-What project management tool will you be using to manage your progress?
+Waffle.io
