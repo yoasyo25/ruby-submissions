@@ -1,5 +1,7 @@
 ### Project Option 1: IdeaBox
 
+**MEETS EXPECTATIONS**
+
 Let's create an app to record your ideas. Host your app live on Heroku.
 
 #### Ideas

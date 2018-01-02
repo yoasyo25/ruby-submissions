@@ -1,5 +1,13 @@
 ### Option 4: Original Idea
 
+**BELOW EXPECTATION**
+
+Notes:
+
+CRUD functionality was buggy. I could not create a player and was unable to delete as well.
+When I was unable to create and delete there were no flash messages telling me that something had gone wrong or what had gone wrong. In another instance I had a flash message linger for far too long.
+
+
 That's right. You are creative and I believe in you. Feel free to pitch an original idea for the mini-project.
 
 #### Must-Haves:
