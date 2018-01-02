@@ -6,7 +6,6 @@ Let’s create an app to record your ideas. Host your app live on Heroku.
 I am able to see another users' Cryptocurrencies
 When I try to destroy a record I get an error message and the record is not destroyed
 
-
 #### Cryptocurrency
 
 • [x] A Cryptocurrency can be created by a user. (with attributes name, amount, symbol, image)
