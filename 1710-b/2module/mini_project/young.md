@@ -1,38 +1,38 @@
-### Project Option 1: IdeaBox
+### Option 4: Original Idea
 
-Let's create an app to record your ideas. Host your app live on Heroku.
+**BELOW EXPECTATIONS**
 
-#### Ideas
+Notes: Cannot add multiple images to concerts, only 1 image. Not quite using the many-to-many relationship. Otherwise, nice job!
 
-* [ ] An idea can be created by a user.
-* [ ] An idea can be edited/updated only by the user that created it.
-* [ ] An idea can be destroyed only by the user that created it.
-* [ ] When a user types a new idea into the form, there is a [selection dropdown](http://guides.rubyonrails.org/form_helpers.html#option-tags-from-a-collection-of-arbitrary-objects) for choosing the correct category. See Categories below for more information.
+That's right. You are creative and I believe in you. Feel free to pitch an original idea for the mini-project.
 
-#### Categories
+#### Must-Haves:
 
-* [ ] Ideas belong to a category.
-* [ ] Categories can be created and destroyed by a logged-in admin user (regular logged in users cannot create categories).
-* [ ] Categories can be destroyed by a logged-in admin user (regular logged in users cannot destroy categories).
+[X] Deploy to Heroku
+[X] Authentication/Authorization
+[X] One-to-many and Many-to-many relationships
+[X] Styling
 
-#### Images
+#### Approval
 
-* [ ] Users can add an image to their own idea.
-* [ ] An image can have many ideas and an idea can have many images.
-* [ ] Images can only be created by an admin user.
-  * The most simplistic way to implement images is to store a url to an online image. If you're feeling fancy and want to upload your own images, check out [Carrierwave](https://github.com/carrierwaveuploader/carrierwave) or [Paperclip](https://github.com/thoughtbot/paperclip).
+In order to have your project approved, send a slack message to your instructors with answers to the following questions:
 
-#### Authentication and Authorization
+[ ] What will a visitor be able to do?
+[ ] What will a logged in user be able to do?
+[ ] What will an admin be able to do?
+[ ] What is a one-to-many relationship you will be using?
+[ ] What is a many-to-many relationship you will be using?
 
-* [ ] Users need to log in to see their ideas.
-* [ ] Users can only see their own ideas -- they should not be able to visit another user's page.
-* [ ] Users cannot create ideas for other users.
-* [ ] Users cannot create new categories -- only the admin can do that.
-* [ ] Users cannot create images -- only the admin can do that; however, a user can assign an image to their idea.
-* [ ] Visitors can create user accounts.
+#### Things to Consider
 
-#### Optional Extensions
+If you choose to do this option make sure you try to implement all the concepts we've touched over the last week. For example:
 
-* Implement Twitter, Github, or Facebook OAuth login
-* Use HAML for your views
-* TDD using RSpec instead of Test::Unit
+[X] TDD - model and feature tests
+[X] CRUD
+[X] 1-1 and 1-many relationships
+[X] ReST-ful routes
+[X] Well structured relational database design
+[X] Rails helpers
+[ ] Sessions, flashes and maybe cookies if you have a good use case for them.
+[X] Authentication
+[X] Authorization
