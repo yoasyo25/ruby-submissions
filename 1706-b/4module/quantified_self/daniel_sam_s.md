@@ -79,9 +79,24 @@ We communicated thoroughly with teammates, and when we needed clarification we r
 
 ## Instructor Rubric
 
-### Evaluated By:
+### Evaluated By: Lauren
 
 ### Notes:
+
+- delete from meal is a little buggy - sending 2 requests
+- delete from diary sends 4 requests
+- delete from meal doesn't remove from DOM - need page refresh to clear
+- edit from both diary and foods page is not working
+- button to link to /foods doesn't reroute correctly in production
+- sort by calories is not working
+- total calories on diary not changing with food updates
+- add food to meal doesn't append to DOM - need page refresh to show
+  - also isn't updating remaining calories for meal
+- validation alerts for adding new food is buggy
+  - also, should be text under the input, not a browser alert
+- client code could use a lot of refactoring...lots of heavy functions there
+- server code looks good, well-organized
+
 
 ### Specification Adherence
 
@@ -89,60 +104,46 @@ Application implements **all** functionality as defined, but some bugs or strang
 
 - Above Expectations
 - Meets Expectations
-- Below Expectations
+- **Below Expectations**
 
 ### Documentation
 
 Developer provides easy to navigate documentation showing how to setup and contribute to the application.
 
-- Above Expectations
-- Meets Expectations
-- Below Expectations
+- **Meets Expectations**
 
 ### HTML/UI
 
 The team put some effort into styling, and the application is not confusing to use. HTML classes and IDs are kebab case.
 
-- Above Expectations
-- Meets Expectations
-- Below Expectations
+- **Below Expectations**
 
 ### Accessibility
 
 Developer implements code to increase accessibility.
 
-- Above Expectations
-- Meets Expectations
-- Below Expectations
+- **Meets Expectations**
 
 ### JS syntax and Style
 
 JavaScript code is logically divided into files. Developers can show examples of good coding practices and demonstrate OOP concepts, like DRY and separation of concerns. Developers pay attention to indentation and naming conventions. They also consistently utilize ES5 or ES6 syntax and jQuery when working with events.
 
-- Above Expectations
-- Meets Expectations
-- Below Expectations
+- **Meets Expectations**
 
 ### Git Workflow
 
 The team uses master for production, uses feature branches for small groups of cards, and has a pull request for each feature with good context and conversation. Developers that aren't on the team have commented on PRs.
 
-- Above Expectations
-- Meets Expectations
-- Below Expectations
+- **Meets Expectations**
 
 ### Project Management
 
 The team is using a project management tool to keep their project organized and to track progress. Team is documenting conclusions and timelines on relevant cards.
 
-- Above Expectations
-- Meets Expectations
-- Below Expectations
+- **Meets Expectations**
 
 ### Communication
 
 The team consistently reaches out to their Technical Lead for feedback on code quality and technical issues. The team responds to their Technical Lead in a timely manner.
 
-- Above Expectations
-- Meets Expectations
-- Below Expectations
+- **Meets Expectations**

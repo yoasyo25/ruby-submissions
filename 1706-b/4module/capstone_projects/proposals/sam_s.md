@@ -1,27 +1,27 @@
 ### Project Template
 
-### [Project Title]
+### Track What you like
 
 ### Pitch
 
-1 sentence that explains the value proposition of the application. How would you explain it to a potential business partner, team member, or investor?
+Creating walkthroughs from users, and maybe API/web parsing.
 
 ### Problem
 
-1-3 sentences describing the problem that you are trying to solve.
+Recipes, guides to games, and other activities are all available online, but maybe not in a format that is transferable among all of them.
 
 ### Solution
 
-1-3 sentences describing how your application will solve that problem.
+My application will allow other users to post 'WalkThru's, and use others'.
 
 ### Target Audience
 
-1-3 sentences describing what type of user your app would be applicable to.
+Anyone who likes to use guides.
 
 ### New Techniques
 
-Which new techniques are you hoping to implement?
+Integration with android development tools and java.
 
 ### Workflow
 
-What project management tool will you be using to manage your progress?
+Waffle
