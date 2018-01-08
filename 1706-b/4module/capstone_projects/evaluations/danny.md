@@ -1,7 +1,9 @@
 # Danny Trujillo
 
 **Add links to relevant code bases or production sites here:**
-
+    * https://github.com/djtrujillo/blackjack/
+    * https://blackjack-1706.herokuapp.com/
+    
 ---------------
 
 Self Assessment Rubric
