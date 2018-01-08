@@ -1,7 +1,8 @@
 # Sam Snider
 
 **Add links to relevant code bases or production sites here:**
-
+https://github.com/samuelssnider/walk-thru
+https://github.com/samuelssnider/walk-thru-api-node
 ---------------
 
 Self Assessment Rubric
