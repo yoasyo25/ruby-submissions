@@ -2,6 +2,10 @@
 
 **Add links to relevant code bases or production sites here:**
 
+Frontend Repo: <a href="https://github.com/mimilettd/roommate">https://github.com/mimilettd/roommate</a>
+Backend Repo: <a href="https://github.com/mimilettd/roommate_api">https://github.com/mimilettd/roommate_api</a>
+Backend Production Site: <a href="https://salty-sea-38186.herokuapp.com">https://salty-sea-38186.herokuapp.com</a>
+
 ---------------
 
 Self Assessment Rubric
