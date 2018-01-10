@@ -68,3 +68,7 @@ Link to blog post:
 ## Samuel Snider
 
 Link to blog post:
+
+## Yohanan Assefa
+
+Link to blog post: https://gist.github.com/yoasyo25/8d5a42968317c74d89fc83b5d8f9b764
